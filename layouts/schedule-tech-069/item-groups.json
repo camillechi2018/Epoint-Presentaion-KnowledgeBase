@@ -1,5 +1,5 @@
 {
-  "status": "provisional_requires_manual_object_review",
+  "status": "field_membership_reviewed_geometry_pending",
   "source_count": 6,
   "target_counts": [
     2,
@@ -18,7 +18,13 @@
         32,
         106,
         124
-      ]
+      ],
+      "fields": {
+        "time": "text_22",
+        "activity": "text_15",
+        "owner": "text_32"
+      },
+      "semantic_index": 1
     },
     {
       "root_shape_id": 11,
@@ -29,7 +35,13 @@
         36,
         105,
         121
-      ]
+      ],
+      "fields": {
+        "time": "text_29",
+        "activity": "text_19",
+        "owner": "text_36"
+      },
+      "semantic_index": 2
     },
     {
       "root_shape_id": 6,
@@ -40,7 +52,13 @@
         95,
         100,
         118
-      ]
+      ],
+      "fields": {
+        "time": "text_31",
+        "activity": "text_95",
+        "owner": "text_38"
+      },
+      "semantic_index": 3
     },
     {
       "root_shape_id": 8,
@@ -51,7 +69,13 @@
         33,
         111,
         99
-      ]
+      ],
+      "fields": {
+        "time": "text_23",
+        "activity": "text_16",
+        "owner": "text_33"
+      },
+      "semantic_index": 4
     },
     {
       "root_shape_id": 9,
@@ -62,7 +86,13 @@
         34,
         98,
         115
-      ]
+      ],
+      "fields": {
+        "time": "text_24",
+        "activity": "text_17",
+        "owner": "text_34"
+      },
+      "semantic_index": 5
     },
     {
       "root_shape_id": 10,
@@ -73,10 +103,17 @@
         35,
         97,
         112
-      ]
+      ],
+      "fields": {
+        "time": "text_25",
+        "activity": "text_18",
+        "owner": "text_35"
+      },
+      "semantic_index": 6
     }
   ],
   "shared_shape_ids": [],
   "geometry_family": "schedule-rows",
-  "auto_grouped_count": 6
+  "auto_grouped_count": 6,
+  "review_note": "字段归属按原生对象组与预览复核；减少项数仍需重排和渲染验证。"
 }

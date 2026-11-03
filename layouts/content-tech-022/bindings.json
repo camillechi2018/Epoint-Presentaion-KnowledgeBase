@@ -31,13 +31,14 @@
       "source_sample_chars": 2,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "layer_field_reviewed",
       "bounds_emu_local": [
         2088995,
         4181024,
         1402708,
         1363715
-      ]
+      ],
+      "semantic_key": "layer_3.pyramid"
     },
     {
       "field": "text_15",
@@ -49,13 +50,14 @@
       "source_sample_chars": 2,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "layer_field_reviewed",
       "bounds_emu_local": [
         2088995,
         2862524,
         1402708,
         1318765
-      ]
+      ],
+      "semantic_key": "layer_2.pyramid"
     },
     {
       "field": "text_16",
@@ -67,13 +69,14 @@
       "source_sample_chars": 2,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "layer_field_reviewed",
       "bounds_emu_local": [
         2088995,
         1795988,
         1402708,
         1329622
-      ]
+      ],
+      "semantic_key": "layer_1.pyramid"
     },
     {
       "field": "text_37",
@@ -87,13 +90,14 @@
       "source_sample_chars": 80,
       "max_chars": 120,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "decoration_locked",
       "bounds_emu_local": [
         6175142,
         8186490,
         677113,
         677112
-      ]
+      ],
+      "semantic_key": "native_hatch"
     },
     {
       "field": "text_54",
@@ -107,13 +111,14 @@
       "source_sample_chars": 2,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "layer_field_reviewed",
       "bounds_emu_local": [
         6211308,
         8222781,
         604782,
         604778
-      ]
+      ],
+      "semantic_key": "layer_3.badge"
     },
     {
       "field": "text_24",
@@ -125,13 +130,14 @@
       "source_sample_chars": 43,
       "max_chars": 64,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "layer_field_reviewed",
       "bounds_emu_local": [
         6730261,
         1904343,
         4014840,
         504497
-      ]
+      ],
+      "semantic_key": "layer_1.description"
     },
     {
       "field": "text_25",
@@ -143,13 +149,14 @@
       "source_sample_chars": 37,
       "max_chars": 55,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "layer_field_reviewed",
       "bounds_emu_local": [
         6730260,
         3254141,
         4014840,
         504497
-      ]
+      ],
+      "semantic_key": "layer_2.description"
     },
     {
       "field": "text_26",
@@ -161,13 +168,14 @@
       "source_sample_chars": 37,
       "max_chars": 55,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "layer_field_reviewed",
       "bounds_emu_local": [
         6746291,
         4612247,
         4014840,
         504497
-      ]
+      ],
+      "semantic_key": "layer_3.description"
     },
     {
       "field": "text_57",
@@ -181,13 +189,14 @@
       "source_sample_chars": 80,
       "max_chars": 120,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "decoration_locked",
       "bounds_emu_local": [
         6175142,
         8186490,
         677113,
         677112
-      ]
+      ],
+      "semantic_key": "native_hatch"
     },
     {
       "field": "text_59",
@@ -201,13 +210,14 @@
       "source_sample_chars": 2,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "layer_field_reviewed",
       "bounds_emu_local": [
         6211308,
         8222779,
         604782,
         604778
-      ]
+      ],
+      "semantic_key": "layer_2.badge"
     },
     {
       "field": "text_67",
@@ -221,13 +231,14 @@
       "source_sample_chars": 80,
       "max_chars": 120,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "decoration_locked",
       "bounds_emu_local": [
         6175143,
         8186488,
         677113,
         677112
-      ]
+      ],
+      "semantic_key": "native_hatch"
     },
     {
       "field": "text_66",
@@ -241,13 +252,14 @@
       "source_sample_chars": 2,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "layer_field_reviewed",
       "bounds_emu_local": [
         6211310,
         8222779,
         604782,
         604778
-      ]
+      ],
+      "semantic_key": "layer_1.badge"
     },
     {
       "field": "text_8",

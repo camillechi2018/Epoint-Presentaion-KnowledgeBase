@@ -1,5 +1,5 @@
 {
-  "status": "provisional_requires_manual_object_review",
+  "status": "field_membership_reviewed_geometry_pending",
   "source_count": 6,
   "target_counts": [
     2,
@@ -16,7 +16,12 @@
         281,
         282,
         294
-      ]
+      ],
+      "fields": {
+        "description": "text_281",
+        "title": "text_282"
+      },
+      "semantic_index": 1
     },
     {
       "root_shape_id": 271,
@@ -25,7 +30,12 @@
         283,
         295,
         305
-      ]
+      ],
+      "fields": {
+        "description": "text_283",
+        "title": "text_305"
+      },
+      "semantic_index": 2
     },
     {
       "root_shape_id": 273,
@@ -34,7 +44,12 @@
         285,
         296,
         304
-      ]
+      ],
+      "fields": {
+        "description": "text_285",
+        "title": "text_304"
+      },
+      "semantic_index": 3
     },
     {
       "root_shape_id": 274,
@@ -43,7 +58,12 @@
         287,
         297,
         303
-      ]
+      ],
+      "fields": {
+        "description": "text_287",
+        "title": "text_303"
+      },
+      "semantic_index": 4
     },
     {
       "root_shape_id": 272,
@@ -52,7 +72,12 @@
         289,
         298,
         302
-      ]
+      ],
+      "fields": {
+        "description": "text_289",
+        "title": "text_302"
+      },
+      "semantic_index": 5
     },
     {
       "root_shape_id": 270,
@@ -61,7 +86,12 @@
         291,
         299,
         301
-      ]
+      ],
+      "fields": {
+        "description": "text_291",
+        "title": "text_301"
+      },
+      "semantic_index": 6
     }
   ],
   "shared_shape_ids": [
@@ -74,5 +104,6 @@
     329
   ],
   "geometry_family": "six-pillars",
-  "auto_grouped_count": 6
+  "auto_grouped_count": 6,
+  "review_note": "字段归属按原生对象组与预览复核；减少项数仍需重排和渲染验证。"
 }

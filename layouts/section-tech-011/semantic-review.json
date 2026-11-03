@@ -1,0 +1,12 @@
+{
+  "source_page": 11,
+  "component_id": "section-tech-011",
+  "information_relation": "section",
+  "source_item_count": 1,
+  "component_parts": "章节序号、中文标题、英文副题三层",
+  "content_fit_limit": "只适合章节过渡，不能承载正文",
+  "review_status": "first_pass_visual_and_structure",
+  "field_binding_status": "provisional_except_explicitly_reviewed_groups",
+  "normal_use_status": "not_verified",
+  "source_text_policy": "源稿中的业务、数字、人名均为示例，不得作为输出事实"
+}

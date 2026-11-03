@@ -13987,7 +13987,9 @@
       "motion_suitability": "A",
       "cardinality_status": "not_implemented",
       "brand_policy": "default_logo; source asset locked",
-      "source_logo_present": false
+      "source_logo_present": false,
+      "semantic_review": "layouts/directory-tech-006/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "directory-tech-007",
@@ -14110,7 +14112,9 @@
       "motion_suitability": "A",
       "cardinality_status": "not_implemented",
       "brand_policy": "default_logo; source asset locked",
-      "source_logo_present": false
+      "source_logo_present": false,
+      "item_group_status": "field_membership_reviewed_geometry_pending",
+      "item_group_field_count": 18
     },
     {
       "id": "directory-tech-010",
@@ -14192,7 +14196,9 @@
       "motion_suitability": "B",
       "cardinality_status": "not_implemented",
       "brand_policy": "default_logo; source asset locked",
-      "source_logo_present": false
+      "source_logo_present": false,
+      "semantic_review": "layouts/section-tech-011/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "section-tech-012",
@@ -14399,7 +14405,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/content-tech-016/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "content-tech-017",
@@ -14657,7 +14665,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 18,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/content-tech-022/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "content-tech-023",
@@ -14829,7 +14839,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/content-tech-026/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "content-tech-027",
@@ -15087,7 +15099,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/content-tech-032/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "content-tech-033",
@@ -15345,7 +15359,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 4,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/content-tech-038/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "content-tech-039",
@@ -15517,7 +15533,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/content-tech-042/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "content-tech-043",
@@ -15646,7 +15664,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 17,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/content-tech-045/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "content-tech-046",
@@ -15818,7 +15838,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "item_group_status": "field_membership_reviewed_geometry_pending",
+      "item_group_field_count": 12
     },
     {
       "id": "content-tech-050",
@@ -15904,7 +15926,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "item_group_status": "field_membership_reviewed_geometry_pending",
+      "item_group_field_count": 12
     },
     {
       "id": "content-tech-052",
@@ -15990,7 +16014,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 14,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/content-tech-053/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "content-tech-054",
@@ -16463,7 +16489,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/content-tech-064/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "content-tech-065",
@@ -16674,11 +16702,15 @@
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "motion_suitability": "A",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "internal_prototype_requires_visual_review",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 46,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "item_group_status": "field_membership_reviewed_geometry_pending",
+      "item_group_field_count": 18,
+      "semantic_review": "layouts/schedule-tech-069/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "data-chart-tech-070",
@@ -16764,7 +16796,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 19,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/data-chart-tech-071/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "data-chart-tech-072",
@@ -16936,7 +16970,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/data-chart-tech-075/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "data-chart-tech-076",
@@ -17022,7 +17058,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/content-tech-077/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "content-tech-078",
@@ -17194,7 +17232,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 11,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_review": "layouts/content-tech-081/semantic-review.json",
+      "semantic_review_status": "first_pass_visual_and_structure"
     },
     {
       "id": "closing-tech-082",

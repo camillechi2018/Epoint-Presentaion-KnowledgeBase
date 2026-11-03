@@ -1,0 +1,32 @@
+{
+  "source_page": 22,
+  "component_id": "content-tech-022",
+  "information_relation": "hierarchy",
+  "source_item_count": 3,
+  "component_parts": "三层三角、三条解释与图标对应",
+  "content_fit_limit": "竖线装饰文字不可作为内容字段",
+  "review_status": "first_pass_visual_and_structure",
+  "field_binding_status": "provisional_except_explicitly_reviewed_groups",
+  "normal_use_status": "not_verified",
+  "source_text_policy": "源稿中的业务、数字、人名均为示例，不得作为输出事实",
+  "layer_field_mapping": [
+    {
+      "level": 1,
+      "pyramid": "text_16",
+      "badge": "text_66",
+      "description": "text_24"
+    },
+    {
+      "level": 2,
+      "pyramid": "text_15",
+      "badge": "text_59",
+      "description": "text_25"
+    },
+    {
+      "level": 3,
+      "pyramid": "text_14",
+      "badge": "text_54",
+      "description": "text_26"
+    }
+  ]
+}

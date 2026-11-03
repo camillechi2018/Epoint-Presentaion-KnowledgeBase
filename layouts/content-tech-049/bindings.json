@@ -56,13 +56,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         705303,
         2276364,
         1669392,
         374205
-      ]
+      ],
+      "semantic_key": "item_1.title"
     },
     {
       "field": "text_42",
@@ -77,13 +78,14 @@
       "source_sample_chars": 26,
       "max_chars": 39,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         617646,
         2826426,
         2581275,
         557140
-      ]
+      ],
+      "semantic_key": "item_1.description"
     },
     {
       "field": "text_48",
@@ -98,13 +100,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         705303,
         2276364,
         1669392,
         374205
-      ]
+      ],
+      "semantic_key": "item_2.title"
     },
     {
       "field": "text_49",
@@ -119,13 +122,14 @@
       "source_sample_chars": 28,
       "max_chars": 42,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         617646,
         2826426,
         2581275,
         557140
-      ]
+      ],
+      "semantic_key": "item_2.description"
     },
     {
       "field": "text_54",
@@ -140,13 +144,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         705303,
         2276364,
         1669392,
         374205
-      ]
+      ],
+      "semantic_key": "item_3.title"
     },
     {
       "field": "text_55",
@@ -161,13 +166,14 @@
       "source_sample_chars": 29,
       "max_chars": 43,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         617646,
         2826426,
         2581275,
         557140
-      ]
+      ],
+      "semantic_key": "item_3.description"
     },
     {
       "field": "text_74",
@@ -182,13 +188,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         705303,
         2276364,
         1669392,
         374205
-      ]
+      ],
+      "semantic_key": "item_4.title"
     },
     {
       "field": "text_75",
@@ -203,13 +210,14 @@
       "source_sample_chars": 22,
       "max_chars": 33,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         617646,
         2826426,
         2179683,
         557140
-      ]
+      ],
+      "semantic_key": "item_4.description"
     },
     {
       "field": "text_69",
@@ -224,13 +232,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         705303,
         2276364,
         1669392,
         374205
-      ]
+      ],
+      "semantic_key": "item_5.title"
     },
     {
       "field": "text_70",
@@ -245,13 +254,14 @@
       "source_sample_chars": 27,
       "max_chars": 40,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         617646,
         2826426,
         2283915,
         557140
-      ]
+      ],
+      "semantic_key": "item_5.description"
     },
     {
       "field": "text_64",
@@ -266,13 +276,14 @@
       "source_sample_chars": 3,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         705303,
         2276364,
         1669392,
         374205
-      ]
+      ],
+      "semantic_key": "item_6.title"
     },
     {
       "field": "text_65",
@@ -287,13 +298,14 @@
       "source_sample_chars": 30,
       "max_chars": 45,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "item_field_reviewed",
       "bounds_emu_local": [
         617646,
         2826426,
         2581275,
         557140
-      ]
+      ],
+      "semantic_key": "item_6.description"
     }
   ],
   "objects": {
