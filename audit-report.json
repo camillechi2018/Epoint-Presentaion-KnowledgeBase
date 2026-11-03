@@ -5,7 +5,7 @@
   "exact_pair_candidates": 287,
   "source_logo_entries": 359,
   "visual_reviewed_entries": 14,
-  "motion_prototype_entries": 1,
+  "motion_prototype_entries": 2,
   "source_counts": {
     "blue": 295,
     "red": 296,
@@ -18,8 +18,8 @@
   "limits": [
     "顶层配对未完成人工语义复核",
     "仅旧三源 P01 封面及 P060 流程有 HTML 内部原型",
-    "仅旧三源 P060 流程有项数和动效内部原型，放映未签收",
-    "科技风 85 页为来源与结构初拆；P69 的 2–6 行为内部静态原型，HTML、动效和换色未开放",
+    "旧三源 P060 项数和动效原型放映未签收",
+    "科技风 85 页为来源与结构初拆；P69 的 2–6 行及逐行淡入是内部原型，放映未签收，HTML 和换色未开放",
     "预览未逐页视觉验收",
     "显式色对象映射待审核"
   ]

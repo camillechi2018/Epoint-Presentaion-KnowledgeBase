@@ -1,9 +1,91 @@
 {
+  "layout_id": "schedule-tech-069",
   "source_animation": false,
   "source_transition": false,
   "motion_suitability": "A",
-  "status": "static",
-  "eligible_groups": [],
+  "status": "prototype",
+  "preset": "step-reveal",
+  "effect": "fade",
+  "duration_seconds": 0.35,
+  "groups": [
+    {
+      "step": 1,
+      "shape_ids": [
+        7,
+        15,
+        22,
+        32,
+        106,
+        124
+      ],
+      "semantic_unit": "row_1"
+    },
+    {
+      "step": 2,
+      "shape_ids": [
+        11,
+        19,
+        29,
+        36,
+        105,
+        121
+      ],
+      "semantic_unit": "row_2"
+    },
+    {
+      "step": 3,
+      "shape_ids": [
+        6,
+        31,
+        38,
+        95,
+        100,
+        118
+      ],
+      "semantic_unit": "row_3"
+    },
+    {
+      "step": 4,
+      "shape_ids": [
+        8,
+        16,
+        23,
+        33,
+        111,
+        99
+      ],
+      "semantic_unit": "row_4"
+    },
+    {
+      "step": 5,
+      "shape_ids": [
+        9,
+        17,
+        24,
+        34,
+        98,
+        115
+      ],
+      "semantic_unit": "row_5"
+    },
+    {
+      "step": 6,
+      "shape_ids": [
+        10,
+        18,
+        25,
+        35,
+        97,
+        112
+      ],
+      "semantic_unit": "row_6"
+    }
+  ],
+  "static_shape_ids": [
+    96,
+    46
+  ],
   "brand_static": true,
-  "final_state_complete": true
+  "final_state_complete": true,
+  "playback_review": "not_signed_off"
 }

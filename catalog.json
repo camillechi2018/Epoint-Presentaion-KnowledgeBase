@@ -16700,7 +16700,7 @@
       "shape_count": 71,
       "media_status": "unreviewed",
       "html_support": "not_implemented",
-      "motion_support": "source_static",
+      "motion_support": "prototype_requires_playback_review",
       "motion_suitability": "A",
       "cardinality_status": "internal_prototype_requires_visual_review",
       "brand_policy": "default_logo; source asset locked",
