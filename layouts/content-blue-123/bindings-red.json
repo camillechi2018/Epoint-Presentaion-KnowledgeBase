@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "风险\n管理",
+      "bounds_pt": [
+        361.9,
+        259.9,
+        74.8,
+        75.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "应对\n策略",
+      "bounds_pt": [
+        517.6,
+        259.9,
+        74.8,
+        75.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.项目延期风险",
+      "bounds_pt": [
+        102.4,
+        86.6,
+        171.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.协作不畅风险",
+      "bounds_pt": [
+        62.4,
+        244.0,
+        171.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.资源短缺风险",
+      "bounds_pt": [
+        102.4,
+        401.1,
+        172.3,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.规划设定时间",
+      "bounds_pt": [
+        686.9,
+        87.1,
+        171.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.团队沟通协作",
+      "bounds_pt": [
+        726.9,
+        244.0,
+        170.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "文本框 81",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.合理资源规划",
+      "bounds_pt": [
+        686.6,
+        401.1,
+        171.0,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "由于任务分配不合理、资源分配不足、或沟通不畅等原因，项目可能无法按时完成。",
+      "bounds_pt": [
+        102.9,
+        122.2,
+        171.7,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "文本框 89",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "团队间的沟通不充分未得到有效解决，可能导致工作效率下降、项目质量问题，甚至人员流动。",
+      "bounds_pt": [
+        61.7,
+        279.3,
+        171.7,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_91",
+      "shape_id": 91,
+      "shape_name": "文本框 90",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "预算不足、资金调配不当或资源短缺可能导致项目无法顺利进行，甚至影响公司的运营。",
+      "bounds_pt": [
+        102.9,
+        436.4,
+        171.7,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "文本框 91",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "确保项目时间充分考虑到各方面因素，避免过于紧张的时间安排，合理安排各项目时间规划。",
+      "bounds_pt": [
+        687.4,
+        121.3,
+        171.7,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "文本框 92",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "在项目开始前，做好详细的预算和资源配置，确保资源分配的合理性和充分性。",
+      "bounds_pt": [
+        687.4,
+        435.5,
+        171.7,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "定期召开团队建设会议，保持信息共享，确保每个成员都了解项目的最新进展和目标。",
+      "bounds_pt": [
+        726.9,
+        276.5,
+        171.7,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "VS",
+      "bounds_pt": [
+        457.0,
+        276.5,
+        45.4,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 18,
+      "source_text": "述职汇报｜工作中的风险管理与应对策略",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 24,
+        "shape_name": "图片 23",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

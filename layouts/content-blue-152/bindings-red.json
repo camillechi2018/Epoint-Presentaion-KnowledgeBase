@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜个人成长目标",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 150,
+      "source_sample_chars": 75,
+      "source_text": "定期团队会议：定期与团队成员举行小组会议，主动寻求反馈，并通过反馈改进自己的沟通方式。同时，利用这些会议机会锻炼自己表达观点的能力，提高团队协作效率。",
+      "bounds_pt": [
+        60.7,
+        142.6,
+        442.0,
+        45.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 142,
+      "source_sample_chars": 71,
+      "source_text": "参与行业培训：课程下半年可以报名参加一些行业内权威的培训课程，获得相关认证证书，这不仅可以帮助你快速提升专业能力，还能增强你在职场中的竞争力。",
+      "bounds_pt": [
+        60.1,
+        289.3,
+        442.0,
+        45.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 140,
+      "source_sample_chars": 70,
+      "source_text": "设立明确目标：每周或每月初，设定清晰的工作目标，并对任务进行优先级排序。这样有助于聚焦最重要的任务，避免陷入琐碎的日常工作中，提高工作效率。",
+      "bounds_pt": [
+        59.5,
+        435.9,
+        442.0,
+        45.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "矩形: 圆角 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "01.提升沟通表达能力",
+      "bounds_pt": [
+        62.5,
+        98.4,
+        246.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "矩形: 圆角 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "02.提高专业技能水平",
+      "bounds_pt": [
+        62.5,
+        245.2,
+        246.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "矩形: 圆角 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "03.提高专业技能水平",
+      "bounds_pt": [
+        62.5,
+        391.9,
+        246.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "目标",
+      "bounds_pt": [
+        702.1,
+        273.3,
+        102.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

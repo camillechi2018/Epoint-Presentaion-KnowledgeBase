@@ -1,0 +1,407 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜风险管理与应对策略",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "风险\n管理",
+      "bounds_pt": [
+        430.1,
+        98.5,
+        99.8,
+        94.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "应对\n策略",
+      "bounds_pt": [
+        430.1,
+        382.6,
+        99.8,
+        94.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "项目从立项到执行往往经历漫长的审批周期，影响了项目的执行效率和及时性。",
+      "bounds_pt": [
+        63.8,
+        116.5,
+        267.6,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "项目资源配置存在过度集中或过度分散的现象，导致资源未能得到有效利用。",
+      "bounds_pt": [
+        63.8,
+        191.9,
+        267.6,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "精简决策流程：简化内部审批程序，推行电子审批，提高审批速度，减少层级审批。",
+      "bounds_pt": [
+        63.8,
+        335.9,
+        297.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "精确预算与规划：进行详细的各项预算和资源配置规划，及时调整和优化资源配置。",
+      "bounds_pt": [
+        63.8,
+        407.6,
+        240.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "缺乏对市场变化的敏感度和创新动力，面对市场竞争时无法灵活调整战略，导致市场适应性较差。",
+      "bounds_pt": [
+        629.5,
+        118.8,
+        268.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "部分员工缺乏足够的创新意识和能力，执行力低下，导致项目进展缓慢，效果不佳。",
+      "bounds_pt": [
+        629.5,
+        193.1,
+        268.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "推动内部创新文化：鼓励员工提出创新建议，建立奖励机制，激励员工参与项目创新。",
+      "bounds_pt": [
+        591.7,
+        336.2,
+        306.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "明确岗位责任：建立清晰的岗位职责体系，明确每个员工的责任和任务，确保责任到人。",
+      "bounds_pt": [
+        648.8,
+        407.6,
+        248.9,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "推动跨部门协作：整合多部门资源，避免资源重复投入和资源闲置现象。",
+      "bounds_pt": [
+        63.8,
+        449.9,
+        240.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "强化培训与支持：定期为员工提供培训，提升员工专业技能和能力，确保项目顺利推进。",
+      "bounds_pt": [
+        649.3,
+        449.6,
+        248.4,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "有效的规划与控制是成功的关键",
+      "bounds_pt": [
+        96.3,
+        262.3,
+        187.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "沟通协作至关重要",
+      "bounds_pt": [
+        422.4,
+        262.2,
+        115.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "创新与技术支持推动突破",
+      "bounds_pt": [
+        705.5,
+        262.6,
+        149.5,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "矩形 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "01.决策效率低",
+      "bounds_pt": [
+        63.8,
+        91.5,
+        131.5,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "矩形 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "02.资源配置差",
+      "bounds_pt": [
+        63.8,
+        165.8,
+        131.5,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "矩形 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "03.创新能力弱",
+      "bounds_pt": [
+        767.6,
+        93.1,
+        130.1,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "矩形 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "04.执行力不足",
+      "bounds_pt": [
+        767.6,
+        167.4,
+        130.1,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "矩形 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.提升决策效率",
+      "bounds_pt": [
+        63.8,
+        310.4,
+        131.5,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "矩形 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.优化资源配置",
+      "bounds_pt": [
+        63.8,
+        381.7,
+        131.5,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "矩形 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.增强创新能力",
+      "bounds_pt": [
+        767.6,
+        310.8,
+        130.1,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "矩形 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.提升执行能力",
+      "bounds_pt": [
+        767.6,
+        382.1,
+        130.1,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "图片 6",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

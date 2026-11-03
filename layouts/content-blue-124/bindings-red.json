@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "风险\n管理",
+      "bounds_pt": [
+        395.1,
+        255.6,
+        74.8,
+        75.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "应对\n策略",
+      "bounds_pt": [
+        490.1,
+        255.6,
+        74.8,
+        75.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "团队成员之间或与客户的沟通不清晰可能导致误解及项目延误。",
+      "bounds_pt": [
+        157.3,
+        124.2,
+        184.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "任务安排不合理可能导致项目进度延误影响最终交付。",
+      "bounds_pt": [
+        157.3,
+        232.6,
+        184.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "团队成员的技能不足或不匹配可能影响工作效率和质量。",
+      "bounds_pt": [
+        157.3,
+        341.1,
+        184.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "市场变化调整或不可控的外部因素可能导致项目进展受阻。",
+      "bounds_pt": [
+        157.3,
+        449.5,
+        184.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "定期召开项目会议，在重要决策时，书面确认关键信息和责任分配。",
+      "bounds_pt": [
+        618.1,
+        124.2,
+        184.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "制定详细的工作计划，并设置合理的优先级，定期检查工作进度。",
+      "bounds_pt": [
+        618.1,
+        232.6,
+        184.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "为团队成员提供培训机会，鼓励团队成员之间互相学习，增强技能水平。",
+      "bounds_pt": [
+        618.1,
+        341.1,
+        184.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "密切关注行业动态和变化，及时调整战略，以应对突发事件。",
+      "bounds_pt": [
+        618.1,
+        449.5,
+        184.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.沟通交流不畅",
+      "bounds_pt": [
+        157.3,
+        97.8,
+        184.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.时间管理不当",
+      "bounds_pt": [
+        157.3,
+        205.7,
+        184.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.工作技能不强",
+      "bounds_pt": [
+        157.3,
+        313.7,
+        184.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.外部因素变化",
+      "bounds_pt": [
+        157.3,
+        422.9,
+        184.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.加强沟通交流",
+      "bounds_pt": [
+        618.1,
+        97.6,
+        184.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.合理时间规划",
+      "bounds_pt": [
+        618.1,
+        205.5,
+        184.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.技能训练评估",
+      "bounds_pt": [
+        618.1,
+        313.5,
+        184.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.准备应急预案",
+      "bounds_pt": [
+        618.1,
+        422.6,
+        184.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "重点",
+      "bounds_pt": [
+        454.1,
+        118.3,
+        52.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "重点",
+      "bounds_pt": [
+        453.6,
+        442.6,
+        52.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 18,
+      "source_text": "述职汇报｜工作中的风险管理与应对策略",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 5,
+        "shape_name": "图片 4",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

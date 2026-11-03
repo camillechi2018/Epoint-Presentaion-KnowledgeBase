@@ -1,0 +1,551 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "矩形 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "完\n成\n指\n标",
+      "bounds_pt": [
+        43.2,
+        82.1,
+        54.8,
+        98.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "矩形 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "完\n成\n指\n标",
+      "bounds_pt": [
+        862.0,
+        82.1,
+        54.8,
+        98.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "矩形 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "完\n成\n指\n标",
+      "bounds_pt": [
+        43.2,
+        189.4,
+        54.8,
+        98.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "矩形 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "完\n成\n指\n标",
+      "bounds_pt": [
+        862.0,
+        189.4,
+        54.8,
+        98.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "矩形 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "完\n成\n指\n标",
+      "bounds_pt": [
+        43.2,
+        297.1,
+        54.8,
+        98.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "矩形 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "完\n成\n指\n标",
+      "bounds_pt": [
+        862.0,
+        297.2,
+        54.8,
+        98.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "矩形 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "完\n成\n指\n标",
+      "bounds_pt": [
+        43.2,
+        405.1,
+        54.8,
+        98.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "矩形 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "完\n成\n指\n标",
+      "bounds_pt": [
+        862.0,
+        405.1,
+        54.8,
+        98.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "任务进度",
+      "bounds_pt": [
+        374.7,
+        129.7,
+        100.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "质量控制",
+      "bounds_pt": [
+        484.3,
+        129.7,
+        100.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "资源利用",
+      "bounds_pt": [
+        347.6,
+        235.3,
+        128.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "团队协作",
+      "bounds_pt": [
+        484.4,
+        235.3,
+        128.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "风险管理",
+      "bounds_pt": [
+        327.0,
+        342.6,
+        148.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "满意程度",
+      "bounds_pt": [
+        484.4,
+        342.6,
+        149.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "创新改进",
+      "bounds_pt": [
+        307.2,
+        452.9,
+        167.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "培训发展",
+      "bounds_pt": [
+        484.4,
+        452.9,
+        168.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 112,
+      "source_sample_chars": 56,
+      "source_text": "确保项目按计划进展，按时完成每个阶段的任务，并通过定期汇报更新项目进度。目标是保持任务按时完成率达到90%以上。",
+      "bounds_pt": [
+        107.7,
+        104.4,
+        248.8,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 102,
+      "source_sample_chars": 51,
+      "source_text": "严格检查每项任务的执行质量，确保交付成果符合预定标准。目标是通过质量检查，以确保合格率达到95%以上。",
+      "bounds_pt": [
+        603.5,
+        104.4,
+        248.8,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "高效调配资源，包括人力、物力和财力，确保资源分配任务在预算内完成，资源浪费控制在5%以内。",
+      "bounds_pt": [
+        114.4,
+        210.1,
+        220.4,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 116,
+      "source_sample_chars": 58,
+      "source_text": "加强团队沟通与协作，确保信息流通畅，问题及时解决。目标是提升团队成员的满意度和协作效率，达到80%以上的团队满意度。",
+      "bounds_pt": [
+        621.2,
+        210.1,
+        220.4,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "定期识别评估任务执行过程中可能出现的风险并制定应对方案。目标是重大风险发生的概率控制在5%以下。",
+      "bounds_pt": [
+        113.1,
+        317.2,
+        198.8,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 100,
+      "source_sample_chars": 50,
+      "source_text": "确保客户对任务成果的满意度，定期进行客户反馈调查，及时调整工作方向。目标是客户满意度达到90%以上。",
+      "bounds_pt": [
+        651.3,
+        317.2,
+        198.8,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "鼓励团队成员提出创新方案和改进建议，优化执行流程。目标是每季度提出至少3项有效的建议。",
+      "bounds_pt": [
+        112.9,
+        427.7,
+        171.0,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "组织定期培训，确保团队成员的专业能力和知识提升。目标是每个成员每年至少参加2次相关培训。",
+      "bounds_pt": [
+        670.6,
+        427.7,
+        171.0,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        374.7,
+        100.2,
+        100.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        484.4,
+        100.2,
+        100.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        347.6,
+        206.2,
+        127.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        483.9,
+        206.2,
+        128.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        326.5,
+        313.1,
+        148.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "06",
+      "bounds_pt": [
+        483.9,
+        313.1,
+        149.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "07",
+      "bounds_pt": [
+        307.2,
+        425.2,
+        163.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "08",
+      "bounds_pt": [
+        485.4,
+        425.2,
+        168.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜重点任务完成指标",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

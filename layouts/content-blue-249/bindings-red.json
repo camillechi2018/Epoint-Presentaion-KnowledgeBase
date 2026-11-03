@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "椭圆 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        414.0,
+        149.9,
+        41.7,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "品牌价值\nBRAND DECISION",
+      "bounds_pt": [
+        456.7,
+        148.4,
+        89.7,
+        45.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "椭圆 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        414.0,
+        250.3,
+        41.7,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "品牌实施\nBRAND DECISION",
+      "bounds_pt": [
+        456.7,
+        248.7,
+        89.7,
+        45.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "椭圆 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        414.0,
+        341.6,
+        41.7,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "品牌策略\nBRAND DECISION",
+      "bounds_pt": [
+        456.7,
+        340.0,
+        89.7,
+        45.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "椭圆 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        414.0,
+        432.1,
+        41.7,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "品牌定位\nBRAND DECISION",
+      "bounds_pt": [
+        456.7,
+        430.5,
+        89.7,
+        45.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "了解目标市场需求，确定品牌的目标受众。评估竞争对手的品牌定位和市场表现，找出品牌的差异化机会确定品牌在目标市场中的独特价值主张。",
+      "bounds_pt": [
+        51.5,
+        283.6,
+        246.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "品牌定位  BRAND DECISION",
+      "bounds_pt": [
+        51.5,
+        236.1,
+        222.6,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "确保品牌在视觉上的一致性和专业性。选择适当的推广渠道和传播方式，确保组织内部的所有成员都理解和支持品牌策略，并具备传达品牌价值的能力。",
+      "bounds_pt": [
+        51.5,
+        425.2,
+        246.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "品牌实施 BRAND DECISION",
+      "bounds_pt": [
+        51.5,
+        377.8,
+        222.6,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 116,
+      "source_sample_chars": 58,
+      "source_text": "明确品牌的长期愿景，定义品牌的核心价值观和文化特征，以确保所有品牌活动和决策与之保持一致制定品牌在市场中的定位战略。",
+      "bounds_pt": [
+        662.3,
+        283.6,
+        246.6,
+        59.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "品牌策略  BRAND DECISION",
+      "bounds_pt": [
+        662.3,
+        236.1,
+        222.6,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "使用关键绩效指标来评估品牌活动的效果和市场表现定期收集消费者反馈和市场数据，根据评估结果调整品牌策略，以保持品牌竞争优势和市场地位。",
+      "bounds_pt": [
+        662.3,
+        425.2,
+        246.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "品牌价值  BRAND DECISION",
+      "bounds_pt": [
+        662.3,
+        377.8,
+        222.6,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "流程图｜品牌价值提升流程",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "88%",
+      "bounds_pt": [
+        51.5,
+        84.5,
+        133.5,
+        72.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "78%",
+      "bounds_pt": [
+        662.3,
+        84.5,
+        133.5,
+        72.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "品牌忠诚度（Brand Loyalty）：消费者对特定品牌的忠诚程度和偏好度，通常受到品牌体验、品质、服务和情感联系的影响。",
+      "bounds_pt": [
+        51.5,
+        149.8,
+        246.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 160,
+      "source_sample_chars": 80,
+      "source_text": "品牌营销策略（Brand Marketing Strategy）：设计和执行用于提升知名度和市场份额的策略和计划包括广告、促销、公关、数字营销等多种手段的组合。",
+      "bounds_pt": [
+        662.3,
+        149.8,
+        246.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 11,
+        "shape_name": "图片 10",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

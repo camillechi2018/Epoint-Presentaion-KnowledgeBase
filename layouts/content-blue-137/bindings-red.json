@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "述职汇报｜个人在工作中的优缺点复盘",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "矩形: 圆角 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "优点复盘：高效的时间管理",
+      "bounds_pt": [
+        62.3,
+        392.2,
+        390.1,
+        23.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "矩形: 圆角 51",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "缺点复盘：对压力的应对不够灵活",
+      "bounds_pt": [
+        505.8,
+        392.2,
+        391.9,
+        23.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "高效的问题解决能力",
+      "bounds_pt": [
+        81.0,
+        214.5,
+        371.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "我能够快速识别问题的关键所在，并采取有效的措施进行解决。使得团队能够在面对困难时保持良好的工作进度，减少了问题对工作的影响。",
+      "bounds_pt": [
+        81.0,
+        234.4,
+        371.4,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "积极的团队合作精神",
+      "bounds_pt": [
+        81.0,
+        298.2,
+        371.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 138,
+      "source_sample_chars": 69,
+      "source_text": "我善于与团队成员保持良好的沟通，并积极分享自己的想法和意见，促进了团队协作与效率的提高。我注重倾听他人意见，这增强了团队凝聚力和协作能力。",
+      "bounds_pt": [
+        81.0,
+        318.1,
+        371.4,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "对细节的关注不足",
+      "bounds_pt": [
+        524.1,
+        214.5,
+        371.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 120,
+      "source_sample_chars": 60,
+      "source_text": "在部分项目中，我有时过于关注整体进度，而忽略了对细节的仔细把控。这导致了某些细节上的疏漏，影响了最终结果的精细度和质量。",
+      "bounds_pt": [
+        524.1,
+        234.4,
+        371.4,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "依赖传统方式处理问题",
+      "bounds_pt": [
+        524.1,
+        298.2,
+        371.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "max_chars": 112,
+      "source_sample_chars": 56,
+      "source_text": "在面对一些新型的任务时，我有时习惯于使用自己熟悉的工作方式，而缺乏尝试新的方法和工具。这使得部分工作效率不够高。",
+      "bounds_pt": [
+        524.1,
+        318.1,
+        371.4,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "个人在工作中的优点",
+      "bounds_pt": [
+        62.3,
+        94.5,
+        293.6,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "个人在工作中的缺点",
+      "bounds_pt": [
+        604.1,
+        93.7,
+        293.6,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "明确自己的优点，能够增强自信心。在不断认识到自己在某些方面的优势时，我们会变得更加坚定。",
+      "bounds_pt": [
+        62.3,
+        130.0,
+        293.6,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 100,
+      "source_sample_chars": 50,
+      "source_text": "直面自己的缺点，能有效避免重复工作或因能力不足导致的失败可以通过成员间的互补优势，提升整体工作效率。",
+      "bounds_pt": [
+        604.1,
+        128.3,
+        293.6,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 160,
+      "source_sample_chars": 80,
+      "source_text": "在项目中，我展现了高效的时间管理能力。通过提前规划并设定明确的优先级，我能有效地分配时间并按时完成任务。即使遇到意外情况，我也能迅速调整计划，确保任务按期完成。",
+      "bounds_pt": [
+        67.9,
+        420.4,
+        384.5,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 168,
+      "source_sample_chars": 84,
+      "source_text": "在过去一段时间里，我发现自己在面对高压工作时，会陷入紧张和焦虑的情绪，影响到工作效率和思维的清晰度。尽管最终任务完成，但过程中的不适应让我意识到自己在压力管理上的不足。",
+      "bounds_pt": [
+        511.1,
+        420.4,
+        384.5,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

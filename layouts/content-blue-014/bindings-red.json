@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "2026年1月",
+      "bounds_pt": [
+        43.2,
+        490.9,
+        79.1,
+        27.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2026年12月",
+      "bounds_pt": [
+        803.1,
+        490.9,
+        105.9,
+        27.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "85%",
+      "bounds_pt": [
+        116.1,
+        174.3,
+        128.7,
+        96.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目完成进度",
+      "bounds_pt": [
+        116.1,
+        256.8,
+        128.7,
+        27.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "项目1:新产品研发与推出",
+      "bounds_pt": [
+        65.9,
+        303.9,
+        228.9,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 158,
+      "source_sample_chars": 79,
+      "source_text": "项目概述：今年，我们成功研发并推出了一款新产品，这包括市场调研、产品设计、原型测试以及最终上市。\n主要成果：产品上市，新产品如期上市，并获得了市场的积极反馈。",
+      "bounds_pt": [
+        65.9,
+        342.1,
+        228.9,
+        101.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "85%",
+      "bounds_pt": [
+        721.8,
+        174.3,
+        128.7,
+        96.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目完成进度",
+      "bounds_pt": [
+        721.8,
+        256.8,
+        128.7,
+        27.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "项目3:公司文化建设",
+      "bounds_pt": [
+        692.4,
+        303.9,
+        187.3,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 180,
+      "source_sample_chars": 90,
+      "source_text": "项目概述：推出了一系列公司文化建设活动，旨在提升员工参与感和团队凝聚力，包括组织团队建设活动和制定公司核心价值观。\n主要成果：员工参与率提高了40%，参与公司活动的积极性显著增强。",
+      "bounds_pt": [
+        671.7,
+        342.1,
+        228.9,
+        101.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "95%",
+      "bounds_pt": [
+        419.0,
+        164.8,
+        128.7,
+        96.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目完成进度",
+      "bounds_pt": [
+        419.0,
+        247.3,
+        128.7,
+        27.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "项目2:客户服务中心改造",
+      "bounds_pt": [
+        368.9,
+        303.9,
+        228.9,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 174,
+      "source_sample_chars": 87,
+      "source_text": "项目概述：对公司的客户服务中心进行了全面改造，包括引入新技术、优化服务流程和提升客户服务质量。\n主要成果：服务提升，客户服务响应时间减少了35%，客户问题解决率提高了20%。",
+      "bounds_pt": [
+        368.9,
+        342.1,
+        228.9,
+        101.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "TextBox 161",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目完成情况",
+      "bounds_pt": [
+        38.2,
+        83.8,
+        214.9,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "Rectangle 4",
+      "type": "text",
+      "max_chars": 208,
+      "source_sample_chars": 104,
+      "source_text": "在过去的一年中，我们公司取得了显著的进展和成就。通过不断优化内部流程和引入创新技术，我们不仅提升了运营效率，还显著降低了成本。我们的客户满意度得到了显著提升，客户反馈的积极评价进一步验证了我们服务质量的改善。",
+      "bounds_pt": [
+        276.1,
+        86.3,
+        642.1,
+        52.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜项目完成情况",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

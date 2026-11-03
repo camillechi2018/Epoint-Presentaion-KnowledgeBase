@@ -1,0 +1,350 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "数据图｜月度数据分析",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "本月销量",
+      "bounds_pt": [
+        58.7,
+        110.0,
+        129.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "4660单",
+      "bounds_pt": [
+        59.3,
+        140.4,
+        137.4,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "本月销售额",
+      "bounds_pt": [
+        501.6,
+        110.0,
+        129.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "75079元",
+      "bounds_pt": [
+        502.2,
+        140.4,
+        137.4,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "3200",
+      "bounds_pt": [
+        344.8,
+        97.9,
+        118.2,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "45.6%",
+      "bounds_pt": [
+        344.8,
+        134.7,
+        118.2,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "上月销量",
+      "bounds_pt": [
+        276.1,
+        100.0,
+        107.0,
+        23.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "同比增长",
+      "bounds_pt": [
+        276.1,
+        135.9,
+        75.8,
+        23.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "同比增速",
+      "bounds_pt": [
+        276.1,
+        167.8,
+        107.0,
+        23.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "12.1%",
+      "bounds_pt": [
+        367.9,
+        166.5,
+        95.8,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "60000元",
+      "bounds_pt": [
+        785.7,
+        97.9,
+        118.2,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "25.1%",
+      "bounds_pt": [
+        785.7,
+        134.7,
+        118.2,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "上月销售额",
+      "bounds_pt": [
+        716.9,
+        100.0,
+        107.0,
+        23.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "同比增长",
+      "bounds_pt": [
+        716.9,
+        135.9,
+        75.8,
+        23.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "同比增速",
+      "bounds_pt": [
+        716.9,
+        167.8,
+        107.0,
+        23.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "3.05%",
+      "bounds_pt": [
+        808.7,
+        166.5,
+        95.8,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "两款产品数据分析",
+      "bounds_pt": [
+        54.7,
+        235.9,
+        237.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "产品A",
+      "bounds_pt": [
+        760.4,
+        238.9,
+        63.8,
+        18.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "产品B",
+      "bounds_pt": [
+        824.2,
+        238.9,
+        63.8,
+        18.2
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 52,
+        "shape_name": "图表 3",
+        "categories_max": 8,
+        "series_max": 4
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 11,
+        "shape_name": "图片 10",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

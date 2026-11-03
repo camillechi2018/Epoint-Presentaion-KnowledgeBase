@@ -1,0 +1,599 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_139",
+      "shape_id": 139,
+      "shape_name": "箭头: 五边形 138",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "01\n市场分析与调研",
+      "bounds_pt": [
+        43.2,
+        82.2,
+        178.4,
+        71.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_143",
+      "shape_id": 143,
+      "shape_name": "箭头: V 形 142",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "02\n概念设计与开发",
+      "bounds_pt": [
+        221.7,
+        82.2,
+        178.4,
+        71.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_144",
+      "shape_id": 144,
+      "shape_name": "箭头: V 形 143",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "03\n产品开发与实现",
+      "bounds_pt": [
+        400.3,
+        82.2,
+        178.4,
+        71.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_145",
+      "shape_id": 145,
+      "shape_name": "箭头: V 形 144",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "04\n产品测试与验证",
+      "bounds_pt": [
+        578.8,
+        82.2,
+        178.4,
+        71.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_146",
+      "shape_id": 146,
+      "shape_name": "箭头: V 形 145",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "05\n量产与市场推广",
+      "bounds_pt": [
+        757.3,
+        82.2,
+        178.4,
+        71.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "目标",
+      "bounds_pt": [
+        43.3,
+        251.1,
+        143.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "了解市场需求和目标用户",
+      "bounds_pt": [
+        43.2,
+        280.9,
+        143.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "目标",
+      "bounds_pt": [
+        221.8,
+        251.3,
+        143.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "制定产品的初步设计方案",
+      "bounds_pt": [
+        221.7,
+        281.1,
+        143.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "目标",
+      "bounds_pt": [
+        400.2,
+        251.6,
+        143.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "进行详细产品设计并生产",
+      "bounds_pt": [
+        400.2,
+        281.4,
+        143.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "目标",
+      "bounds_pt": [
+        578.7,
+        251.8,
+        143.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "验证产品是否符合需求",
+      "bounds_pt": [
+        578.6,
+        281.6,
+        143.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "目标",
+      "bounds_pt": [
+        757.2,
+        251.8,
+        143.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "实现产品的规模化生产",
+      "bounds_pt": [
+        757.1,
+        281.6,
+        143.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "矩形: 圆角 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "活动",
+      "bounds_pt": [
+        50.8,
+        340.0,
+        130.2,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "矩形: 圆角 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "输出",
+      "bounds_pt": [
+        50.8,
+        450.3,
+        130.2,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "矩形: 圆角 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "活动",
+      "bounds_pt": [
+        229.5,
+        340.0,
+        130.2,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "矩形: 圆角 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "输出",
+      "bounds_pt": [
+        229.5,
+        450.3,
+        130.2,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "矩形: 圆角 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "活动",
+      "bounds_pt": [
+        408.2,
+        340.0,
+        130.2,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "矩形: 圆角 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "输出",
+      "bounds_pt": [
+        408.2,
+        450.3,
+        130.2,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "矩形: 圆角 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "活动",
+      "bounds_pt": [
+        586.8,
+        340.0,
+        130.2,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "矩形: 圆角 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "输出",
+      "bounds_pt": [
+        586.8,
+        450.3,
+        130.2,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "通过市场调研、竞争分析和用户访谈等方式收集信息，明确功能需求、目标市场和定位。",
+      "bounds_pt": [
+        50.8,
+        361.1,
+        130.2,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "需求文档和产品定位方案。",
+      "bounds_pt": [
+        50.8,
+        473.9,
+        130.2,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "进行产品的概念设计，包括功能规划、外观设计等。开发初步原型并进行可行性分析。",
+      "bounds_pt": [
+        229.5,
+        361.1,
+        130.2,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "概念设计图、原型模型。",
+      "bounds_pt": [
+        229.5,
+        473.9,
+        130.2,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "研发团队进行产品的详细设计，编写代码、进行各种技术实现，确保各项功能能够稳定运行。",
+      "bounds_pt": [
+        408.2,
+        361.1,
+        130.2,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "产品开发文档和样机。",
+      "bounds_pt": [
+        408.2,
+        473.9,
+        130.2,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "进行功能测试、用户体验测试等，发现并修复潜在问题。确保产品在各个方面的质量符合标准。",
+      "bounds_pt": [
+        586.8,
+        361.1,
+        130.2,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "测试报告、修复方案。",
+      "bounds_pt": [
+        586.8,
+        473.9,
+        130.2,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "根据测试结果进行量产准备，优化生产流程，并进行市场营销、推广和销售活动。",
+      "bounds_pt": [
+        765.5,
+        328.1,
+        130.2,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "市场推广方案、上市产品。",
+      "bounds_pt": [
+        765.5,
+        439.1,
+        130.2,
+        23.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "矩形: 圆角 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "活动",
+      "bounds_pt": [
+        765.5,
+        308.3,
+        130.2,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "矩形: 圆角 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "输出",
+      "bounds_pt": [
+        765.5,
+        418.5,
+        130.2,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜生产研发流程",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 5,
+        "shape_name": "图片 4",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

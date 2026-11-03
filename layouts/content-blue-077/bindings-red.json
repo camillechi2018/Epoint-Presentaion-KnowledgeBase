@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "TextBox 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2026述职汇报",
+      "bounds_pt": [
+        311.4,
+        79.7,
+        337.2,
+        61.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "TextBox 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "THANK YOU",
+      "bounds_pt": [
+        136.0,
+        226.8,
+        688.0,
+        53.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "TextBox 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "感谢大家的观看",
+      "bounds_pt": [
+        158.3,
+        144.6,
+        643.5,
+        87.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "小李PPT15",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "8888-8888@xxx.com",
+      "bounds_pt": [
+        113.9,
+        484.6,
+        152.5,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "小李PPT15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "888-888-888",
+      "bounds_pt": [
+        325.4,
+        484.6,
+        99.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "小李PPT15",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 16,
+      "source_text": "汇报时间：8888年88月88日",
+      "bounds_pt": [
+        467.7,
+        484.6,
+        190.2,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "小李PPT15",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "汇报地点：山屿大厦A栋88号",
+      "bounds_pt": [
+        692.6,
+        484.6,
+        192.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "TextBox 42",
+      "type": "text",
+      "max_chars": 206,
+      "source_sample_chars": 103,
+      "source_text": "2026年已过半，我既收获了成长与突破，也看到了不足与挑战。感谢团队的支持与信任，让我能不断发展。展望未来，我将以更饱满的热情、更扎实的行动投入工作，补足短板、强化优势，与团队携手奋进，为公司创造更多价值！",
+      "bounds_pt": [
+        147.7,
+        316.6,
+        664.7,
+        48.8
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

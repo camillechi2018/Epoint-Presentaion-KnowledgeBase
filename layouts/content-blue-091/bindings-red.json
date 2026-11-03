@@ -1,0 +1,439 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "任意多边形: 形状 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q1",
+      "bounds_pt": [
+        185.5,
+        97.3,
+        67.2,
+        67.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "任意多边形: 形状 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q4",
+      "bounds_pt": [
+        185.5,
+        412.1,
+        67.2,
+        67.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "任意多边形: 形状 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q2",
+      "bounds_pt": [
+        234.5,
+        202.2,
+        67.2,
+        67.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "核心工作\n目标",
+      "bounds_pt": [
+        14.2,
+        233.4,
+        93.2,
+        123.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "任意多边形: 形状 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "深化流程标准化",
+      "bounds_pt": [
+        340.0,
+        82.5,
+        408.9,
+        28.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "任意多边形: 形状 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "关键点",
+      "bounds_pt": [
+        756.9,
+        82.5,
+        159.9,
+        28.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "矩形: 圆角 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提高工作效率",
+      "bounds_pt": [
+        770.2,
+        118.9,
+        133.2,
+        21.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "矩形: 圆角 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "促进信息共享",
+      "bounds_pt": [
+        770.2,
+        150.5,
+        133.2,
+        21.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "优化工作流程：通过分析当前流程中低效环节，进行流程优化，提高工作效率。\n加强团队协作：定期召开团队会议，促进信息共享，确保成员都了解项目进展，减少沟通误差，提高协作效果。",
+      "bounds_pt": [
+        352.3,
+        112.8,
+        385.0,
+        65.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "述职汇报｜ 2026年核心工作目标",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "任意多边形: 形状 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "强化部门协作机制",
+      "bounds_pt": [
+        340.0,
+        190.0,
+        408.9,
+        28.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "任意多边形: 形状 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "关键点",
+      "bounds_pt": [
+        756.9,
+        190.0,
+        159.9,
+        28.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "矩形: 圆角 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "优化服务质量",
+      "bounds_pt": [
+        770.2,
+        226.4,
+        133.2,
+        21.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "矩形: 圆角 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "推动业务增长",
+      "bounds_pt": [
+        770.2,
+        258.0,
+        133.2,
+        21.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "定期回访客户：通过定期客户回访，及时了解客户需求和问题，优化服务质量。\n开拓新的市场：积极寻找并拓展潜在的市场机会，建立新的合作伙伴关系，推动业务增长，增加公司市场份额。",
+      "bounds_pt": [
+        352.3,
+        220.3,
+        385.0,
+        65.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "任意多边形: 形状 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "提升团队专业能效",
+      "bounds_pt": [
+        340.0,
+        297.5,
+        408.9,
+        28.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "任意多边形: 形状 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "关键点",
+      "bounds_pt": [
+        756.9,
+        297.5,
+        159.9,
+        28.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "矩形: 圆角 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升专业素养",
+      "bounds_pt": [
+        770.2,
+        333.9,
+        133.2,
+        21.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "矩形: 圆角 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升专业素养",
+      "bounds_pt": [
+        770.2,
+        365.4,
+        133.2,
+        21.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 178,
+      "source_sample_chars": 89,
+      "source_text": "参与行业培训：参加专业的培训和认证课程，提升个人的专业素养，增强竞争力。\n组织知识交流：通过组织内部分享会或邀请行业专家讲座，促进团队成员之间的知识交流，不断积累和更新专业技能。",
+      "bounds_pt": [
+        352.3,
+        327.8,
+        385.0,
+        65.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "任意多边形: 形状 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "驱动数据化决策",
+      "bounds_pt": [
+        340.0,
+        404.9,
+        408.9,
+        28.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "任意多边形: 形状 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "关键点",
+      "bounds_pt": [
+        756.9,
+        404.9,
+        159.9,
+        28.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "矩形: 圆角 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "数据驱动决策",
+      "bounds_pt": [
+        770.2,
+        441.4,
+        133.2,
+        21.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "矩形: 圆角 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "可视化协同",
+      "bounds_pt": [
+        770.2,
+        472.9,
+        133.2,
+        21.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 182,
+      "source_sample_chars": 91,
+      "source_text": "建立追踪体系：针对核心项目设定量化考核维度，用数据驱动工作流优化。\n推行透明化管理：引入或优化协作看板，实现任务流转的实时可视化，确保团队成员能随时对齐进度，减少因信息差导致的返工。",
+      "bounds_pt": [
+        352.3,
+        435.3,
+        385.0,
+        65.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "任意多边形: 形状 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q3",
+      "bounds_pt": [
+        234.5,
+        307.1,
+        67.2,
+        67.2
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 11,
+        "shape_name": "图片 10",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

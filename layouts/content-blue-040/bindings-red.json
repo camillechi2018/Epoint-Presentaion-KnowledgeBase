@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "Text Placeholder 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "2025年",
+      "bounds_pt": [
+        264.9,
+        90.7,
+        147.1,
+        50.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "Text Placeholder 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "2026年",
+      "bounds_pt": [
+        517.1,
+        90.7,
+        147.1,
+        50.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "TextBox 33",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "本报告旨在分析公司在2023年和2024年的产品销售情况，并探讨销售趋势和关键因素的变化。",
+      "bounds_pt": [
+        50.7,
+        90.7,
+        173.1,
+        48.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "TextBox 33",
+      "type": "text",
+      "max_chars": 202,
+      "source_sample_chars": 101,
+      "source_text": "2026年相比于2024年，公司产品整体销售量显著增长。这主要归因于市场对我们产品的接受度提高，以及销售团队的努力和市场推广策略的有效执行。我们在目标市场中获得了更多的市场份额，这直接推动了销量的增长。",
+      "bounds_pt": [
+        50.7,
+        196.0,
+        176.9,
+        103.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "TextBox 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "销售量增长",
+      "bounds_pt": [
+        55.9,
+        170.6,
+        77.9,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "TextBox 33",
+      "type": "text",
+      "max_chars": 194,
+      "source_sample_chars": 97,
+      "source_text": "2026年我们成功进入了几个新市场，这对整体销售表现产生了积极影响。新市场的开拓为公司带来了新的增长机会，并且增强了我们的市场影响力。这些市场的开拓表明了公司在市场扩展方面的成功策略和执行能力。",
+      "bounds_pt": [
+        50.7,
+        336.6,
+        176.9,
+        103.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "TextBox 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "市场拓展",
+      "bounds_pt": [
+        55.9,
+        311.3,
+        77.9,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一季度",
+      "bounds_pt": [
+        756.4,
+        90.8,
+        98.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "同比增长",
+      "bounds_pt": [
+        756.4,
+        129.4,
+        72.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "30%",
+      "bounds_pt": [
+        838.2,
+        125.9,
+        72.4,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二季度",
+      "bounds_pt": [
+        756.4,
+        190.1,
+        98.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "同比增长",
+      "bounds_pt": [
+        756.4,
+        228.8,
+        72.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "20%",
+      "bounds_pt": [
+        838.2,
+        225.2,
+        72.4,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第三季度",
+      "bounds_pt": [
+        756.4,
+        290.8,
+        98.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "同比增长",
+      "bounds_pt": [
+        756.4,
+        329.4,
+        72.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "15%",
+      "bounds_pt": [
+        838.2,
+        325.9,
+        72.4,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第四季度",
+      "bounds_pt": [
+        756.4,
+        388.1,
+        98.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "同比增长",
+      "bounds_pt": [
+        756.4,
+        426.8,
+        72.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "20%",
+      "bounds_pt": [
+        838.2,
+        423.2,
+        72.4,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "TextBox 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "第二季度业绩销售遇到峰值",
+      "bounds_pt": [
+        349.8,
+        188.6,
+        96.3,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "TextBox 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "第一季度业绩销售遇到难点",
+      "bounds_pt": [
+        524.9,
+        233.0,
+        96.3,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜销售数据分析",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "任意形状 7",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "让我们携手并进，以创新驱动增长，用专业创造价值，共同谱写明年更加辉煌的业绩新篇章！",
+      "bounds_pt": [
+        43.2,
+        470.5,
+        875.0,
+        33.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "各季度销售额对比",
+      "bounds_pt": [
+        264.9,
+        141.3,
+        112.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "各季度销售额对比",
+      "bounds_pt": [
+        517.1,
+        141.2,
+        112.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 29,
+        "shape_name": "Chart 26",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 30,
+        "shape_name": "Chart 27",
+        "categories_max": 8,
+        "series_max": 4
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

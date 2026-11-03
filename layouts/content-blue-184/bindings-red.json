@@ -1,0 +1,775 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜年度工作计划/总结",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "战略落地与团队赋能",
+      "bounds_pt": [
+        193.9,
+        110.7,
+        189.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "矩形: 圆角 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "业绩目标全面达成",
+      "bounds_pt": [
+        49.2,
+        239.2,
+        105.6,
+        22.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "矩形: 圆角 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "战略执行精准到位",
+      "bounds_pt": [
+        173.5,
+        239.2,
+        105.6,
+        22.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "矩形: 圆角 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "人才梯队持续优化",
+      "bounds_pt": [
+        297.8,
+        239.2,
+        105.6,
+        22.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "矩形: 圆角 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "协同效能显著提升",
+      "bounds_pt": [
+        422.2,
+        239.2,
+        105.6,
+        22.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 108,
+      "source_sample_chars": 54,
+      "source_text": "今年全年KPI完成率达115%，已超额完成营收目标。\n主导的战略性项目均100%按计划交付，并实现预期收益。",
+      "bounds_pt": [
+        43.0,
+        268.7,
+        111.7,
+        108.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 116,
+      "source_sample_chars": 58,
+      "source_text": "成功将公司战略解码为部门可执行的OKR并实现全员对齐。\n建立月度复盘机制，确保战略执行不偏移，并能快速应对市场变化。",
+      "bounds_pt": [
+        167.3,
+        268.7,
+        111.7,
+        108.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 114,
+      "source_sample_chars": 57,
+      "source_text": "成功培养2名基层骨干晋升至关键岗位，人才梯队更加稳固。\n团队技能通过系列培训得到提升，年度技能认证通过率达90%。",
+      "bounds_pt": [
+        291.6,
+        268.7,
+        111.7,
+        108.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 114,
+      "source_sample_chars": 57,
+      "source_text": "主导推动的跨部门重点项目，解决了长期存在的3大协作堵点。\n成功争取到额外预算与人力资源，有力支撑了业务超预期发展。",
+      "bounds_pt": [
+        416.0,
+        268.7,
+        111.7,
+        108.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "矩形 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "业绩超额达成",
+      "bounds_pt": [
+        49.2,
+        412.1,
+        105.3,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "矩形 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目全数交付",
+      "bounds_pt": [
+        49.2,
+        441.8,
+        105.3,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "矩形 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "成本控制有效",
+      "bounds_pt": [
+        49.2,
+        471.5,
+        105.3,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "矩形 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "战略清晰解码",
+      "bounds_pt": [
+        173.5,
+        412.1,
+        105.3,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "矩形 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "执行过程可控",
+      "bounds_pt": [
+        173.5,
+        441.8,
+        105.3,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "矩形 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "任务完成高效",
+      "bounds_pt": [
+        173.5,
+        471.5,
+        105.3,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "矩形 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "骨干成功晋升",
+      "bounds_pt": [
+        297.7,
+        412.1,
+        105.3,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "矩形 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "技能全面提升",
+      "bounds_pt": [
+        297.7,
+        441.8,
+        105.3,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "矩形 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "团队士气高涨",
+      "bounds_pt": [
+        297.7,
+        471.5,
+        105.3,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "矩形 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "破解协作堵点",
+      "bounds_pt": [
+        422.0,
+        412.1,
+        105.3,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "矩形 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "资源整合有力",
+      "bounds_pt": [
+        422.0,
+        441.8,
+        105.3,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "矩形 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "决策效率提升",
+      "bounds_pt": [
+        422.0,
+        471.5,
+        105.3,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "矩形: 圆角 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "战略目标",
+      "bounds_pt": [
+        559.5,
+        102.2,
+        85.5,
+        29.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "矩形: 圆角 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "体系构建",
+      "bounds_pt": [
+        559.7,
+        241.3,
+        85.5,
+        29.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "椭圆 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "目标",
+      "bounds_pt": [
+        741.0,
+        138.3,
+        34.1,
+        34.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "矩形: 圆角 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "战略解码",
+      "bounds_pt": [
+        782.4,
+        114.2,
+        97.4,
+        25.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "矩形: 圆角 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "闭环管理",
+      "bounds_pt": [
+        784.1,
+        168.3,
+        97.4,
+        25.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "文本框 86",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "战略",
+      "bounds_pt": [
+        796.2,
+        268.4,
+        39.1,
+        20.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "执行",
+      "bounds_pt": [
+        775.9,
+        306.0,
+        39.1,
+        20.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "赋能",
+      "bounds_pt": [
+        816.6,
+        306.0,
+        39.1,
+        20.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_106",
+      "shape_id": 106,
+      "shape_name": "文本框 105",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "组\n织\n能\n力",
+      "bounds_pt": [
+        722.2,
+        295.3,
+        63.0,
+        17.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_107",
+      "shape_id": 107,
+      "shape_name": "文本框 106",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "运营效率",
+      "bounds_pt": [
+        845.8,
+        295.3,
+        63.0,
+        17.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_116",
+      "shape_id": 116,
+      "shape_name": "椭圆 115",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "战略为纲",
+      "bounds_pt": [
+        742.7,
+        406.3,
+        45.6,
+        45.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_117",
+      "shape_id": 117,
+      "shape_name": "椭圆 116",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "人才为本",
+      "bounds_pt": [
+        792.9,
+        406.3,
+        45.6,
+        45.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_118",
+      "shape_id": 118,
+      "shape_name": "椭圆 117",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "流程为器",
+      "bounds_pt": [
+        843.2,
+        406.3,
+        45.6,
+        45.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_128",
+      "shape_id": 128,
+      "shape_name": "矩形: 圆角 127",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "高效能",
+      "bounds_pt": [
+        742.7,
+        464.8,
+        69.0,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_129",
+      "shape_id": 129,
+      "shape_name": "矩形: 圆角 128",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "高价值",
+      "bounds_pt": [
+        822.3,
+        464.8,
+        69.0,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "通过战略解码与闭环管理，系统性提升团队组织效能，驱动业务目标高质量达成。",
+      "bounds_pt": [
+        563.2,
+        142.6,
+        148.2,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "构建战略-执行-赋能一体化管理体系，实现组织能力与运营效率的双重跃升。",
+      "bounds_pt": [
+        563.2,
+        284.6,
+        148.2,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "矩形: 圆角 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "价值创造",
+      "bounds_pt": [
+        559.8,
+        380.5,
+        85.5,
+        29.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "以战略为纲、人才为本、流程为器，打造高效能组织，持续创造超额价值。",
+      "bounds_pt": [
+        563.2,
+        426.2,
+        145.8,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_137",
+      "shape_id": 137,
+      "shape_name": "文本框 136",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "基础执行",
+      "bounds_pt": [
+        82.0,
+        173.5,
+        91.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_139",
+      "shape_id": 139,
+      "shape_name": "文本框 138",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "过程优化",
+      "bounds_pt": [
+        235.7,
+        173.5,
+        92.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_141",
+      "shape_id": 141,
+      "shape_name": "文本框 140",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "战略贡献",
+      "bounds_pt": [
+        389.9,
+        173.5,
+        92.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "椭圆 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "1",
+      "bounds_pt": [
+        684.8,
+        102.1,
+        29.9,
+        29.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "椭圆 91",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "2",
+      "bounds_pt": [
+        683.8,
+        241.3,
+        29.9,
+        29.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "椭圆 92",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "3",
+      "bounds_pt": [
+        682.8,
+        380.5,
+        29.9,
+        29.9
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 8,
+        "shape_name": "图片 7",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "矩形: 圆角 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        274.3,
+        98.7,
+        65.7,
+        65.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "矩形: 圆角 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        274.3,
+        206.4,
+        65.7,
+        65.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "矩形: 圆角 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        274.3,
+        314.1,
+        65.7,
+        65.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "矩形: 圆角 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        274.3,
+        421.7,
+        65.7,
+        65.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "下半年工作任务计划",
+      "bounds_pt": [
+        56.6,
+        162.2,
+        48.5,
+        261.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升工作效率",
+      "bounds_pt": [
+        140.3,
+        117.7,
+        134.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "增强团队协作",
+      "bounds_pt": [
+        140.3,
+        225.1,
+        134.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "个人技能提升",
+      "bounds_pt": [
+        140.3,
+        332.6,
+        134.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "拓展业务网络",
+      "bounds_pt": [
+        140.3,
+        440.1,
+        134.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 202,
+      "source_sample_chars": 101,
+      "source_text": "分析并简化现有流程：对当前工作流程进行详细分析，识别低效环节和冗余步骤，提出改进建议并进行试点。\n引入自动化工具：调查市场上适合的自动化工具，选择并部署合适的软件，并培训团队成员熟悉操作，提高整体效率。",
+      "bounds_pt": [
+        375.3,
+        88.9,
+        421.4,
+        84.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 210,
+      "source_sample_chars": 105,
+      "source_text": "举行跨部门协作会议：组织每月一次的跨部门协作会议，确保各部门之间信息互通，并及时解决项目中的协调问题。\n建立高效的沟通平台：利用即时通讯工具或项目管理平台建立统一的沟通渠道，确保团队成员可以实时共享进展和反馈。",
+      "bounds_pt": [
+        375.3,
+        196.6,
+        421.4,
+        84.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 236,
+      "source_sample_chars": 118,
+      "source_text": "参加行业培训与研讨会：定期参加与自己工作相关的行业培训、线上课程或研讨会，跟进行业最新的技术和趋势，提升自己的专业知识。\n定期进行自我评估与反思：通过自我评估，识别技能差距，并设定明确的学习目标，结合实际工作中的需求，持续进行技能提升。",
+      "bounds_pt": [
+        375.3,
+        304.2,
+        421.4,
+        84.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 240,
+      "source_sample_chars": 120,
+      "source_text": "参加行业活动与社交场合：定期参加行业相关的展会、座谈会、线上会议等社交活动，增加与潜在客户和合作伙伴的接触机会。\n建立并维护客户关系管理系统：利用CRM客户关系管理系统，定期跟进现有客户，了解他们的需求变化，提供针对性的服务，增强客户粘性。",
+      "bounds_pt": [
+        375.3,
+        411.9,
+        421.4,
+        84.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜年度工作计划/总结",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

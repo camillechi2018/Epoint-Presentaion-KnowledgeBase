@@ -1,0 +1,423 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "任意多边形: 形状 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "01.个人成长与自我提升",
+      "bounds_pt": [
+        265.3,
+        166.2,
+        207.7,
+        45.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "任意多边形: 形状 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "02.工作与实践经验积累",
+      "bounds_pt": [
+        487.0,
+        166.2,
+        207.7,
+        45.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "任意多边形: 形状 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "03.人际关系与团队协作",
+      "bounds_pt": [
+        708.8,
+        166.2,
+        207.7,
+        45.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "矩形: 圆角 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "10项",
+      "bounds_pt": [
+        53.8,
+        130.7,
+        187.2,
+        70.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "矩形: 圆角 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "100位",
+      "bounds_pt": [
+        53.8,
+        276.6,
+        187.2,
+        70.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "矩形: 圆角 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "10000元",
+      "bounds_pt": [
+        53.8,
+        422.4,
+        187.2,
+        70.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "矩形: 圆角 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "学习到新技能",
+      "bounds_pt": [
+        281.6,
+        310.4,
+        176.0,
+        27.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "矩形: 圆角 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "时间管理的进步",
+      "bounds_pt": [
+        281.6,
+        407.0,
+        176.0,
+        27.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "矩形: 圆角 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "管理经验提升",
+      "bounds_pt": [
+        502.9,
+        310.4,
+        176.0,
+        27.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "矩形: 圆角 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "创作能力提升",
+      "bounds_pt": [
+        502.9,
+        407.0,
+        176.0,
+        27.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "矩形: 圆角 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "建立积极的工作关系",
+      "bounds_pt": [
+        724.1,
+        310.4,
+        176.0,
+        27.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "矩形: 圆角 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "团队协作中的管理力",
+      "bounds_pt": [
+        724.1,
+        407.0,
+        176.0,
+        27.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "上半年完成项目",
+      "bounds_pt": [
+        53.8,
+        93.0,
+        187.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "上半年拓展客户",
+      "bounds_pt": [
+        53.8,
+        238.4,
+        187.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "上半年完成业绩",
+      "bounds_pt": [
+        53.8,
+        383.6,
+        187.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "在过去的半年里，我深刻意识到个人成长是持续的过程，每一步都需要不断的学习和反思。",
+      "bounds_pt": [
+        281.5,
+        233.7,
+        176.0,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "我在工作中积累了宝贵的经验，这不仅帮助我提升了工作技能，也使我对行业发展有了更深入的理解。",
+      "bounds_pt": [
+        502.8,
+        233.7,
+        176.0,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "与人合作是每个职场人都必须面对的挑战，而我通过与同事的互动，提升了自己的团队合作能力。",
+      "bounds_pt": [
+        724.1,
+        233.7,
+        176.0,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "我积极投入到新技术的学习中，特别是在动画和设计领域，通过课程和项目不断提升自己的专业能力。",
+      "bounds_pt": [
+        281.5,
+        340.2,
+        176.0,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "通过合理的时间规划，我能更加高效地完成学业和工作任务，还能够按时高质量地完成目标。",
+      "bounds_pt": [
+        281.5,
+        435.9,
+        176.0,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "通过参与多个项目的执行，我逐渐掌握了项目策划实施的流程，提升了自己的团队协作能力。",
+      "bounds_pt": [
+        502.8,
+        340.2,
+        176.0,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "通过与团队成员的讨论和反馈，我改进了创作思路，提升了作品的质量和创新性。",
+      "bounds_pt": [
+        502.8,
+        435.9,
+        176.0,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "与同事之间建立了更加和谐的合作关系，及时沟通并共同解决工作中遇到的问题，在工作中更加顺利。",
+      "bounds_pt": [
+        724.1,
+        340.2,
+        176.0,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "我在小组项目中逐步锻炼了自己在团队中的决策能力，能够为团队成员提供支持，推动项目顺利进行。",
+      "bounds_pt": [
+        724.1,
+        435.9,
+        176.0,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "述职汇报｜工作总结",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 5,
+        "shape_name": "图片 4",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

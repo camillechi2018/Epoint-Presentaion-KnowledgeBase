@@ -1,0 +1,599 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "圆角矩形 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一阶段",
+      "bounds_pt": [
+        55.9,
+        166.0,
+        139.6,
+        28.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "圆角矩形 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二阶段",
+      "bounds_pt": [
+        233.0,
+        166.0,
+        139.6,
+        28.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "圆角矩形 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第三阶段",
+      "bounds_pt": [
+        410.2,
+        166.0,
+        139.6,
+        28.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "圆角矩形 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第四阶段",
+      "bounds_pt": [
+        587.3,
+        166.0,
+        139.6,
+        28.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "圆角矩形 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第五阶段",
+      "bounds_pt": [
+        764.5,
+        166.0,
+        139.6,
+        28.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "任意形状 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "资源需求",
+      "bounds_pt": [
+        43.2,
+        457.7,
+        77.6,
+        18.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "任意形状 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "制定计划",
+      "bounds_pt": [
+        130.6,
+        457.7,
+        77.6,
+        18.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "任意形状 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "执行方案",
+      "bounds_pt": [
+        220.4,
+        457.7,
+        77.6,
+        18.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "任意形状 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "任务分配",
+      "bounds_pt": [
+        307.7,
+        457.7,
+        77.6,
+        18.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "任意形状 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目质量标准",
+      "bounds_pt": [
+        397.5,
+        457.7,
+        77.6,
+        18.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "任意形状 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "工作流程",
+      "bounds_pt": [
+        484.9,
+        457.7,
+        77.6,
+        18.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "任意形状 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "预警机制",
+      "bounds_pt": [
+        574.7,
+        457.7,
+        77.6,
+        18.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "任意形状 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "项目进展",
+      "bounds_pt": [
+        662.0,
+        457.7,
+        77.6,
+        18.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "任意形状 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "交付质量",
+      "bounds_pt": [
+        751.8,
+        457.7,
+        77.6,
+        18.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "任意形状 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "总结会议",
+      "bounds_pt": [
+        839.2,
+        457.7,
+        77.6,
+        18.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "明确企业的战略目标、工作内容和资源需求。制定具体的计划和方案，确保项目目标与整体战略一致。",
+      "bounds_pt": [
+        55.9,
+        225.9,
+        139.6,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "文本框 89",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "计划目标：",
+      "bounds_pt": [
+        80.3,
+        204.3,
+        107.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_91",
+      "shape_id": 91,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "与相关部门进行沟通，收集并分析需求。\n评估项目所需的资源并确保资源可用。",
+      "bounds_pt": [
+        55.9,
+        346.7,
+        139.6,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "文本框 91",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "实施方案：",
+      "bounds_pt": [
+        80.3,
+        325.1,
+        107.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "将规划阶段的目标转化为具体的执行方案。设计工作流程、任务分配、时间表等具体内容。",
+      "bounds_pt": [
+        233.2,
+        225.9,
+        139.6,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "计划目标：",
+      "bounds_pt": [
+        257.7,
+        204.3,
+        107.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "据项目目标设计具体的操作流程和任务分配。\n制定时间表，明确每个阶段的完成时间和关键节点。",
+      "bounds_pt": [
+        233.2,
+        346.7,
+        139.6,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "实施方案：",
+      "bounds_pt": [
+        257.7,
+        325.1,
+        115.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "推动项目方案的实施，确保各项任务按时、高质量完成。解决执行过程中出现的实际问题，确保流程顺畅。",
+      "bounds_pt": [
+        410.6,
+        225.9,
+        139.6,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "文本框 97",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "计划目标：",
+      "bounds_pt": [
+        435.0,
+        204.3,
+        107.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "设定质量标准并监督，确保项目的质量符合要求。\n根据实际情况对工作流程进行优化。",
+      "bounds_pt": [
+        410.6,
+        346.7,
+        139.6,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "实施方案：",
+      "bounds_pt": [
+        435.0,
+        325.1,
+        107.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "监督执行过程，确保工作按计划进行，及时发现问题并进行调整。对项目进度、质量进行实时监控和反馈。",
+      "bounds_pt": [
+        586.7,
+        225.9,
+        139.6,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "计划目标：",
+      "bounds_pt": [
+        611.1,
+        204.3,
+        107.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "设立预警机制，及时发现问题，并采取相应措施。\n定期向上级汇报项目进展，提供数据分析报告。",
+      "bounds_pt": [
+        586.7,
+        346.7,
+        139.6,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_104",
+      "shape_id": 104,
+      "shape_name": "文本框 103",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "实施方案：",
+      "bounds_pt": [
+        611.1,
+        325.1,
+        107.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_105",
+      "shape_id": 105,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "对项目进行总结和评估，提炼经验教训，为未来的工作提供借鉴。确保项目成果的交付。",
+      "bounds_pt": [
+        765.2,
+        225.9,
+        139.6,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_106",
+      "shape_id": 106,
+      "shape_name": "文本框 105",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "计划目标：",
+      "bounds_pt": [
+        789.6,
+        204.3,
+        107.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_107",
+      "shape_id": 107,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "检查项目成果是否符合预期目标，确保交付质量。\n组织总结会议，分析项目的成功和不足之处。",
+      "bounds_pt": [
+        765.2,
+        346.7,
+        139.6,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_108",
+      "shape_id": 108,
+      "shape_name": "文本框 107",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "实施方案：",
+      "bounds_pt": [
+        789.6,
+        325.1,
+        107.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜阶段工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 11,
+        "shape_name": "图片 10",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

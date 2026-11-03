@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "箭头: 五边形 92",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目监控评估",
+      "bounds_pt": [
+        648.7,
+        448.2,
+        268.1,
+        56.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "箭头: 五边形 93",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "资源分配调度",
+      "bounds_pt": [
+        648.7,
+        82.0,
+        268.1,
+        55.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "箭头: 五边形 91",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "部门沟通协调",
+      "bounds_pt": [
+        43.2,
+        448.2,
+        268.1,
+        56.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "箭头: 五边形 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "任务目标明确",
+      "bounds_pt": [
+        43.2,
+        82.0,
+        268.1,
+        55.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "设定具体目标：将任务细分成具体的小目标，确保每个目标具有可衡量的标准，方便跟踪进展。",
+      "bounds_pt": [
+        52.5,
+        170.4,
+        234.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "分阶段实施：根据任务分阶段进行实施，各阶段都设置相应完成标准，确保整体任务顺利推进。",
+      "bounds_pt": [
+        52.5,
+        220.0,
+        234.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "评估任务需求：进行详细的资源需求评估，根据任务的工作量和紧急程度合理配置人员和物资。",
+      "bounds_pt": [
+        673.5,
+        170.5,
+        235.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "实时调整资源：密切关注使用情况，及时调整资源分配，确保每个环节都有足够的支持。",
+      "bounds_pt": [
+        673.5,
+        220.1,
+        235.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "制定审查标准：制定标准流程和质量检查清单，确保每个环节都经过严格的质量审查。",
+      "bounds_pt": [
+        673.5,
+        323.4,
+        235.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "定期质量检查：定期进行质量检查，识别潜在风险并采取预防措施，降低可能的风险影响。",
+      "bounds_pt": [
+        673.5,
+        373.0,
+        235.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "部门沟通协作：建立清晰的沟通渠道和沟通交流方式，确保信息及时传递给相关人员。",
+      "bounds_pt": [
+        52.5,
+        324.1,
+        234.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "使用协作工具：使用在线协作工具来进行沟通，确保信息的透明度和工作流程的高效性。",
+      "bounds_pt": [
+        52.5,
+        373.7,
+        234.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "重点工作\n执行方式",
+      "bounds_pt": [
+        433.1,
+        283.5,
+        111.6,
+        55.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        389.3,
+        200.2,
+        58.1,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        527.2,
+        200.2,
+        58.1,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        389.3,
+        347.7,
+        58.1,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        527.2,
+        347.7,
+        58.1,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 16,
+      "source_text": "述职汇报｜重点工作任务的执行方式",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

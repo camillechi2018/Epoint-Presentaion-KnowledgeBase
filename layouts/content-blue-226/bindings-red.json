@@ -1,0 +1,439 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "时间轴｜2026年工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "任意形状 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "05.管理效能提升",
+      "bounds_pt": [
+        759.8,
+        248.9,
+        202.5,
+        89.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "任意形状 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.团队能力建设",
+      "bounds_pt": [
+        585.1,
+        248.9,
+        202.5,
+        89.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "任意形状 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.客户服务升级",
+      "bounds_pt": [
+        410.4,
+        248.9,
+        202.6,
+        89.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "任意形状 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.产品创新研发",
+      "bounds_pt": [
+        235.8,
+        248.9,
+        202.5,
+        89.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "任意形状 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.业绩目标提升",
+      "bounds_pt": [
+        44.6,
+        248.9,
+        219.0,
+        89.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "营收目标突破",
+      "bounds_pt": [
+        60.1,
+        84.6,
+        142.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "新产品开发",
+      "bounds_pt": [
+        234.7,
+        84.6,
+        142.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "服务流程优化",
+      "bounds_pt": [
+        409.3,
+        84.6,
+        142.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "人才梯队培养",
+      "bounds_pt": [
+        583.8,
+        84.6,
+        142.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "数字化转型推进",
+      "bounds_pt": [
+        758.4,
+        84.6,
+        142.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "市场份额扩大",
+      "bounds_pt": [
+        60.1,
+        477.5,
+        142.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "现有产品优化",
+      "bounds_pt": [
+        234.7,
+        477.5,
+        142.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "客户关系深化",
+      "bounds_pt": [
+        409.3,
+        477.5,
+        142.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "专业能力提升",
+      "bounds_pt": [
+        583.8,
+        477.5,
+        142.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "成本管控深化",
+      "bounds_pt": [
+        758.4,
+        477.5,
+        142.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "制定详细销售策略：针对不同客户群体制定差异化销售方案提升转化率。\n拓展新客户资源：通过行业展会、线上渠道等多途径开发新客户。",
+      "bounds_pt": [
+        60.2,
+        121.9,
+        142.7,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "组建专项研发团队：抽调核心骨干成立新产品研发小组明确职责分工。\n制定详细开发节点：分阶段设定产品设计、测试、上市时间表，确保按期交付。",
+      "bounds_pt": [
+        234.6,
+        121.9,
+        142.7,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "梳理现有服务流程：全面诊断客户服务各环节，识别效率瓶颈和痛点问题。\n建立标准化体系：制定统一的服务标准和操作规范，确保服务质量一致性。",
+      "bounds_pt": [
+        409.0,
+        121.9,
+        142.7,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 120,
+      "source_sample_chars": 60,
+      "source_text": "实施导师制培养：为关键岗位配备导师，制定个性化培养计划。\n开展轮岗锻炼：安排核心员工跨部门轮岗，拓展业务视野和综合能力。",
+      "bounds_pt": [
+        583.4,
+        121.9,
+        142.7,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 122,
+      "source_sample_chars": 61,
+      "source_text": "引入智能化管理系统：完成CRM、ERP等核心系统升级改造。\n推进数据化决策：建立关键指标数据看板，实现实时监控和分析预警。",
+      "bounds_pt": [
+        757.8,
+        121.9,
+        142.7,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 142,
+      "source_sample_chars": 71,
+      "source_text": "深耕现有区域市场：加大重点区域资源投入，提升产品渗透率和市场占有率。\n开拓新兴区域市场：选择2-3个潜力区域进行试点，完成市场布局和渠道建设。",
+      "bounds_pt": [
+        60.2,
+        341.2,
+        142.7,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "收集客户反馈：建立常态化客户意见收集机制，每月汇总分析产品改进需求。\n实施迭代升级：每季度完成1-2项产品功能优化，持续提升用户体验。",
+      "bounds_pt": [
+        234.6,
+        341.2,
+        142.7,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "建立分级管理机制：根据客户价值划分等级，制定差异化服务策略。\n定期开展客户回访：每季度组织重点客户拜访，及时了解需求和解决问题。",
+      "bounds_pt": [
+        409.0,
+        341.2,
+        142.7,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 130,
+      "source_sample_chars": 65,
+      "source_text": "组织系统化培训：每月开展1-2场专业技能培训，覆盖全员100%。\n鼓励资质认证：支持员工考取专业证书，对通过者给予奖励和晋升倾斜。",
+      "bounds_pt": [
+        583.4,
+        341.2,
+        142.7,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "实施全面预算管理：细化各部门预算编制，强化过程控制和执行监督。\n优化资源配置效率：定期评估资源使用情况，及时调整和优化分配方案。",
+      "bounds_pt": [
+        757.8,
+        341.2,
+        142.7,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 11,
+        "shape_name": "图片 10",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

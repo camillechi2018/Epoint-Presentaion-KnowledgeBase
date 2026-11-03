@@ -1,0 +1,471 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜上半年工作成果展示",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        58.0,
+        100.1,
+        41.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        58.0,
+        307.5,
+        41.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        354.5,
+        100.1,
+        41.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        354.5,
+        307.5,
+        41.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        651.1,
+        100.1,
+        41.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "06",
+      "bounds_pt": [
+        651.1,
+        307.5,
+        41.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "核心指标超额完成​",
+      "bounds_pt": [
+        111.4,
+        98.9,
+        212.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "重点项目高效落地​",
+      "bounds_pt": [
+        111.4,
+        306.0,
+        212.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "流程优化降本增效​",
+      "bounds_pt": [
+        407.8,
+        98.9,
+        212.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "团队建设成果显著​",
+      "bounds_pt": [
+        407.8,
+        306.0,
+        212.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "创新成果获多方认可​",
+      "bounds_pt": [
+        705.5,
+        98.9,
+        212.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "客户拓展与维护升级​",
+      "bounds_pt": [
+        705.5,
+        306.0,
+        212.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 140,
+      "source_sample_chars": 70,
+      "source_text": "营收增长：新增3个线上渠道、20家线下网点，开展5场促销活动（含春节、五一等节日促销），营收同比增长35%，达850万元，超季度目标12%。",
+      "bounds_pt": [
+        56.5,
+        140.6,
+        254.2,
+        62.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 106,
+      "source_sample_chars": 53,
+      "source_text": "口碑转化：举办2场项目成果展示会，凭借优质交付成果与客户续签3年战略合作协议，新增订单金额达420万元。​",
+      "bounds_pt": [
+        56.5,
+        348.5,
+        254.2,
+        62.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 114,
+      "source_sample_chars": 57,
+      "source_text": "流程再造：联合市场、财务、运营等部门，诊断优化5个冗余环节，合同审批周期从10天缩短至6天，提升了整体工作效率。​",
+      "bounds_pt": [
+        352.9,
+        140.6,
+        254.2,
+        62.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 140,
+      "source_sample_chars": 70,
+      "source_text": "分层培训：开展8场培训（含3场新员工培训、3场技能提升培训、2场管理培训），邀请5次行业专家授课，员工技能测评优秀率从40%提升至65%。​",
+      "bounds_pt": [
+        352.9,
+        348.5,
+        254.2,
+        62.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 116,
+      "source_sample_chars": 58,
+      "source_text": "成果推广：智能创新方案获集团一等奖，在3个分支机构推广应用，预计每年降低人工成本180万元，提升了公司整体影响力。​",
+      "bounds_pt": [
+        649.3,
+        140.6,
+        254.2,
+        62.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "客户维护与开拓：通过行业展会、新开发56家客户，带动新增业务收入300万元。实施客户分级管理，老客户复购率从40%提升至52%。",
+      "bounds_pt": [
+        649.3,
+        348.5,
+        254.2,
+        62.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "《最佳个人奖》",
+      "bounds_pt": [
+        136.3,
+        455.9,
+        156.1,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "《最佳进步奖》",
+      "bounds_pt": [
+        422.9,
+        455.1,
+        156.1,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "《销售金牌奖》",
+      "bounds_pt": [
+        724.1,
+        453.6,
+        156.1,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "箭头: 五边形 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "1月",
+      "bounds_pt": [
+        43.2,
+        231.9,
+        145.6,
+        40.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "箭头: 五边形 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "2月",
+      "bounds_pt": [
+        188.8,
+        231.9,
+        145.6,
+        40.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "箭头: 五边形 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3月",
+      "bounds_pt": [
+        334.4,
+        231.9,
+        145.6,
+        40.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "箭头: 五边形 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "4月",
+      "bounds_pt": [
+        480.0,
+        231.9,
+        145.6,
+        40.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "箭头: 五边形 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "5月",
+      "bounds_pt": [
+        625.6,
+        231.9,
+        145.6,
+        40.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "箭头: 五边形 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "6月",
+      "bounds_pt": [
+        771.2,
+        231.9,
+        145.6,
+        40.8
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 24,
+        "shape_name": "图片 23",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

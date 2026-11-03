@@ -1,0 +1,423 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜不足之处与改进方法",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "不足之处",
+      "bounds_pt": [
+        383.9,
+        202.7,
+        96.8,
+        94.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "改进方法",
+      "bounds_pt": [
+        475.0,
+        297.2,
+        96.8,
+        94.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "圆角矩形 88",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "潜在风险",
+      "bounds_pt": [
+        59.2,
+        459.4,
+        129.1,
+        30.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "圆角矩形 89",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "流程冗长",
+      "bounds_pt": [
+        202.5,
+        459.4,
+        129.1,
+        30.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "圆角矩形 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        72.8,
+        105.2,
+        70.2,
+        32.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "行业趋势洞察不足",
+      "bounds_pt": [
+        143.0,
+        109.2,
+        176.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "对新兴技术发展和市场格局变化的敏感度有待提升。\n在制定长期规划时，对潜在风险的预见性需要加强。",
+      "bounds_pt": [
+        72.8,
+        148.5,
+        249.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "圆角矩形 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        72.8,
+        226.4,
+        70.2,
+        32.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "团队建设有待加强",
+      "bounds_pt": [
+        143.0,
+        230.4,
+        176.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "对部分团队成员的个人发展规划关注不够深入。\n跨部门人才流动机制尚未完善，人员结构不够完善。",
+      "bounds_pt": [
+        72.8,
+        269.7,
+        249.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "圆角矩形 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        72.8,
+        347.6,
+        70.2,
+        32.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "流程标准程度不足",
+      "bounds_pt": [
+        143.0,
+        351.6,
+        176.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "部分业务流程仍存在重复劳动和资源浪费等问题。\n跨部门协作流程的标准化规范需要进一步完善。",
+      "bounds_pt": [
+        72.8,
+        390.9,
+        249.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "圆角矩形 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "数据分析",
+      "bounds_pt": [
+        628.4,
+        459.4,
+        129.1,
+        30.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "圆角矩形 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "制定流程",
+      "bounds_pt": [
+        771.7,
+        459.4,
+        129.1,
+        30.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "圆角矩形 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        642.0,
+        105.2,
+        70.2,
+        32.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "建立系统化洞察体系",
+      "bounds_pt": [
+        712.2,
+        109.2,
+        176.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "建立行业动态监测机制，定期输出趋势分析报告。\n引入SWOT分析框架，每季度更新战略风险评估。",
+      "bounds_pt": [
+        642.0,
+        148.5,
+        249.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "圆角矩形 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        642.0,
+        226.4,
+        70.2,
+        32.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "完善人才培养机制",
+      "bounds_pt": [
+        712.2,
+        230.4,
+        176.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "实施“一对一”导师制，制定个性化职业成长路径。\n建立轮岗制和专业技能培训，促进复合型人才培养。",
+      "bounds_pt": [
+        642.0,
+        269.7,
+        249.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "圆角矩形 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        642.0,
+        347.6,
+        70.2,
+        32.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "推进流程标准化建设",
+      "bounds_pt": [
+        712.2,
+        351.6,
+        176.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "推行工作流程再造项目，建立标准化工作操作手册。\n引入技术手段，全面提升业务流程自动化水平。",
+      "bounds_pt": [
+        642.0,
+        390.9,
+        249.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "图片 6",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

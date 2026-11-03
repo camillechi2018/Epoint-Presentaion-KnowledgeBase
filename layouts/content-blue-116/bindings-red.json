@@ -1,0 +1,487 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "述职汇报｜工作中遇到的主要问题",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "矩形: 圆角 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "任务依赖性强",
+      "bounds_pt": [
+        58.0,
+        157.5,
+        181.6,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "矩形: 圆角 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "交流沟通不畅",
+      "bounds_pt": [
+        58.0,
+        277.9,
+        181.6,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "任意多边形: 形状 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "解决办法",
+      "bounds_pt": [
+        58.0,
+        404.2,
+        84.0,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "任意多边形: 形状 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "解决办法",
+      "bounds_pt": [
+        278.8,
+        404.2,
+        84.0,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "任意多边形: 形状 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "解决办法",
+      "bounds_pt": [
+        499.6,
+        404.2,
+        84.0,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "任意多边形: 形状 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "解决办法",
+      "bounds_pt": [
+        720.4,
+        404.2,
+        84.0,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "矩形: 圆角 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "需求评估不准",
+      "bounds_pt": [
+        278.8,
+        157.5,
+        181.6,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "矩形: 圆角 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "资源浪费短缺",
+      "bounds_pt": [
+        278.8,
+        277.9,
+        181.6,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "矩形: 圆角 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "沟通流程不规范",
+      "bounds_pt": [
+        499.6,
+        157.5,
+        181.6,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "矩形: 圆角 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "沟通渠道繁杂",
+      "bounds_pt": [
+        499.6,
+        277.9,
+        181.6,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "矩形: 圆角 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "缺乏检查环节",
+      "bounds_pt": [
+        720.4,
+        157.5,
+        181.6,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "矩形: 圆角 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "质量评估不足",
+      "bounds_pt": [
+        720.4,
+        277.9,
+        181.6,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "1.工作进度滞后",
+      "bounds_pt": [
+        58.0,
+        93.3,
+        160.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2.资源调配不当",
+      "bounds_pt": [
+        287.6,
+        93.1,
+        145.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "3.沟通效率低下",
+      "bounds_pt": [
+        508.4,
+        93.1,
+        147.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "4.质量控制不足",
+      "bounds_pt": [
+        729.2,
+        93.1,
+        149.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "项目中的任务存在较强依赖性，某些关键环节未能按时完成，导致整体进度受到影响。",
+      "bounds_pt": [
+        58.0,
+        193.7,
+        181.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "项目中的任务存在较强依赖性，某些关键环节未能按时完成，导致整体进度受到影响。",
+      "bounds_pt": [
+        58.0,
+        314.9,
+        181.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "项目初期未能对资源需求进行精确评估，导致某些任务资源不足，影响了项目进展的顺利进行。",
+      "bounds_pt": [
+        278.8,
+        193.7,
+        181.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "资源调配不均，某些环节出现资源浪费，而其他环节却因资源短缺而进展缓慢，造成工作效率低下。",
+      "bounds_pt": [
+        278.8,
+        314.9,
+        181.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "团队内部缺乏统一的沟通流程，信息传递不及时，导致协作困难，容易导致误解和执行偏差。",
+      "bounds_pt": [
+        499.6,
+        193.7,
+        181.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "过多的沟通渠道导致信息分散且易丢失，工作人员在不同平台之间反复核对，增加了工作负担和错误风险。",
+      "bounds_pt": [
+        499.6,
+        314.9,
+        181.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "项目中缺少有效的质量控制点，导致项目结束后需要进行大规模返工，增加了成本和时间。",
+      "bounds_pt": [
+        720.4,
+        193.7,
+        181.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "缺少完善的质量评估工具和方法，无法及时发现问题并进行调整，影响了最终交付的质量。",
+      "bounds_pt": [
+        720.4,
+        314.9,
+        181.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "制定详细时间节点和进度追踪表，加强团队之间的沟通与配合，确保任务按时推进。",
+      "bounds_pt": [
+        58.2,
+        434.2,
+        181.4,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "对资源进行合理评估和优化配置，结合项目优先级进行灵活调整，确保资源的高效利用。",
+      "bounds_pt": [
+        278.8,
+        434.2,
+        181.4,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "建立规范的沟通流程和反馈机制，使用统一的沟通工具，确保信息的及时传递。",
+      "bounds_pt": [
+        499.4,
+        434.2,
+        181.4,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "在项目开始阶段就设定质量标准，并在每个阶段进行质量检查，确保问题及时发现并解决。",
+      "bounds_pt": [
+        720.1,
+        434.2,
+        181.4,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

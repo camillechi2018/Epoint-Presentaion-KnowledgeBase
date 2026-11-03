@@ -1,0 +1,615 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_109",
+      "shape_id": 109,
+      "shape_name": "TextBox 114",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "客户满意度提升：通过实施新的客户服务策略，客户满意度评分提升了15%，客户反馈普遍积极。",
+      "bounds_pt": [
+        68.8,
+        132.4,
+        246.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "任意形状 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "1",
+      "bounds_pt": [
+        73.7,
+        104.6,
+        24.7,
+        24.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_110",
+      "shape_id": 110,
+      "shape_name": "TextBox 115",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "提高客户满意度",
+      "bounds_pt": [
+        109.1,
+        102.1,
+        205.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "任意形状 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "2",
+      "bounds_pt": [
+        73.7,
+        243.8,
+        24.7,
+        24.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_111",
+      "shape_id": 111,
+      "shape_name": "TextBox 118",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "成本降低：通过实施成本控制措施和优化资源配置成本降低了12%，提高了利润率。",
+      "bounds_pt": [
+        68.8,
+        272.0,
+        246.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "TextBox 119",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "实现成本节约",
+      "bounds_pt": [
+        109.1,
+        241.7,
+        205.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "任意形状 98",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "3",
+      "bounds_pt": [
+        73.7,
+        387.4,
+        24.7,
+        24.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_113",
+      "shape_id": 113,
+      "shape_name": "TextBox 122",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "生产力提升：引入了新的项目管理工具，使团队生产力提高了20%，工作任务完成更高效。",
+      "bounds_pt": [
+        68.8,
+        415.4,
+        246.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_114",
+      "shape_id": 114,
+      "shape_name": "TextBox 123",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "增强团队生产力",
+      "bounds_pt": [
+        109.1,
+        385.2,
+        205.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_115",
+      "shape_id": 115,
+      "shape_name": "TextBox 114",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "市场拓展：成功进入了三个新的市场区域，市场份额增长了18%，带来了新的收入来源。",
+      "bounds_pt": [
+        648.0,
+        132.4,
+        246.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "任意形状 100",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "4",
+      "bounds_pt": [
+        859.2,
+        104.0,
+        24.7,
+        24.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_116",
+      "shape_id": 116,
+      "shape_name": "TextBox 115",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "扩展市场份额",
+      "bounds_pt": [
+        648.0,
+        102.1,
+        196.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_117",
+      "shape_id": 117,
+      "shape_name": "TextBox 118",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "技术升级：完成了技术的升级，使系统性能提升了25%，提高了整体工作效率。",
+      "bounds_pt": [
+        648.0,
+        272.0,
+        246.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "任意形状 102",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "5",
+      "bounds_pt": [
+        859.2,
+        242.4,
+        24.7,
+        24.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_118",
+      "shape_id": 118,
+      "shape_name": "TextBox 119",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "实施技术创新",
+      "bounds_pt": [
+        648.0,
+        240.1,
+        196.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_119",
+      "shape_id": 119,
+      "shape_name": "TextBox 122",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "品牌推广：实施了品牌推广活动，使品牌认知度提高了20%，品牌在目标市场中的影响力增强。",
+      "bounds_pt": [
+        648.0,
+        415.6,
+        246.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_105",
+      "shape_id": 105,
+      "shape_name": "任意形状 104",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "6",
+      "bounds_pt": [
+        859.2,
+        387.4,
+        24.7,
+        24.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_120",
+      "shape_id": 120,
+      "shape_name": "TextBox 123",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "增强品牌认知度",
+      "bounds_pt": [
+        648.0,
+        385.2,
+        196.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜工作成果展示",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "矩形 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "服务策略",
+      "bounds_pt": [
+        73.7,
+        184.9,
+        76.4,
+        25.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "矩形 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "评分提升",
+      "bounds_pt": [
+        167.6,
+        184.9,
+        76.4,
+        25.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "矩形 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "成本控制",
+      "bounds_pt": [
+        73.7,
+        325.2,
+        76.4,
+        25.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "矩形 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "优化配置",
+      "bounds_pt": [
+        167.6,
+        325.2,
+        76.4,
+        25.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "矩形 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "管理工具",
+      "bounds_pt": [
+        73.7,
+        469.2,
+        76.4,
+        25.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "矩形 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "生产高效",
+      "bounds_pt": [
+        167.6,
+        469.2,
+        76.4,
+        25.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "矩形 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "新市场",
+      "bounds_pt": [
+        716.2,
+        184.9,
+        76.4,
+        25.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "矩形 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "市场份额",
+      "bounds_pt": [
+        810.1,
+        184.9,
+        76.4,
+        25.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "矩形 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "技术升级",
+      "bounds_pt": [
+        716.2,
+        325.2,
+        76.4,
+        25.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "矩形 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "工作效率",
+      "bounds_pt": [
+        810.1,
+        325.2,
+        76.4,
+        25.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "矩形 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "品牌推广",
+      "bounds_pt": [
+        716.2,
+        469.2,
+        76.4,
+        25.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "矩形 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "品牌影响",
+      "bounds_pt": [
+        810.1,
+        469.2,
+        76.4,
+        25.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "任意形状 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        362.1,
+        165.9,
+        120.7,
+        99.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "任意形状 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        482.8,
+        165.9,
+        120.7,
+        99.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "任意形状 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        551.7,
+        235.8,
+        70.5,
+        139.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "任意形状 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "06",
+      "bounds_pt": [
+        482.8,
+        345.0,
+        120.7,
+        99.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "任意形状 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        362.1,
+        345.4,
+        120.7,
+        99.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "任意形状 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        343.4,
+        235.8,
+        70.5,
+        139.2
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

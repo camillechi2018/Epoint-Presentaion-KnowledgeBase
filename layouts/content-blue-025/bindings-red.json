@@ -1,0 +1,743 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜工作任务完成情况",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.系统平台建设",
+      "bounds_pt": [
+        261.7,
+        83.9,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "实现销售流程全链路数字化。\n整合5大业务系统数据资源。",
+      "bounds_pt": [
+        261.4,
+        113.3,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.数据应用深化",
+      "bounds_pt": [
+        428.8,
+        84.2,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "文本框 97",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "建立客户画像标签体系。\n开发了高效销售预测模型。",
+      "bounds_pt": [
+        428.5,
+        113.6,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "文本框 98",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.组织能力提升",
+      "bounds_pt": [
+        595.9,
+        84.6,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.业务价值实现",
+      "bounds_pt": [
+        762.9,
+        84.9,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_127",
+      "shape_id": 127,
+      "shape_name": "文本框 126",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.产品迭代升级",
+      "bounds_pt": [
+        260.4,
+        189.0,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_129",
+      "shape_id": 129,
+      "shape_name": "文本框 128",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.新品研发突破",
+      "bounds_pt": [
+        427.4,
+        189.3,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_131",
+      "shape_id": 131,
+      "shape_name": "文本框 130",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.质量管理提升",
+      "bounds_pt": [
+        594.5,
+        189.6,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_133",
+      "shape_id": 133,
+      "shape_name": "文本框 132",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.生态体系建设",
+      "bounds_pt": [
+        761.6,
+        190.0,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_135",
+      "shape_id": 135,
+      "shape_name": "文本框 134",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.区域市场开拓",
+      "bounds_pt": [
+        260.9,
+        291.6,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_137",
+      "shape_id": 137,
+      "shape_name": "文本框 136",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.渠道体系完善",
+      "bounds_pt": [
+        427.9,
+        291.9,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_139",
+      "shape_id": 139,
+      "shape_name": "文本框 138",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "03.品牌影响力提升",
+      "bounds_pt": [
+        595.0,
+        292.2,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_141",
+      "shape_id": 141,
+      "shape_name": "文本框 140",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.营销创新实践",
+      "bounds_pt": [
+        762.1,
+        292.6,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_143",
+      "shape_id": 143,
+      "shape_name": "文本框 142",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.人才结构优化",
+      "bounds_pt": [
+        261.4,
+        398.6,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_145",
+      "shape_id": 145,
+      "shape_name": "文本框 144",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.能力培养提升",
+      "bounds_pt": [
+        428.5,
+        398.9,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_147",
+      "shape_id": 147,
+      "shape_name": "文本框 146",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.文化建设深化",
+      "bounds_pt": [
+        595.5,
+        399.2,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_149",
+      "shape_id": 149,
+      "shape_name": "文本框 148",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.组织效能提升",
+      "bounds_pt": [
+        762.6,
+        399.5,
+        155.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "完成3大产品线年度版本更新。\n新增智能核心功能20项。",
+      "bounds_pt": [
+        260.6,
+        217.4,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "成功研发AI智能助手产品。\n推出行业定制化解决方案。",
+      "bounds_pt": [
+        427.7,
+        217.7,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "文本框 81",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "建立全生命周期质量管理。\n实施自动化测试。",
+      "bounds_pt": [
+        594.7,
+        218.0,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "引入第三方开发者100+。\n生态业务收入占比达15%。",
+      "bounds_pt": [
+        761.8,
+        218.4,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "拓展5个新兴城市市场。\n区域市场营收增长60%。",
+      "bounds_pt": [
+        260.6,
+        321.1,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "文本框 84",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "发展核心代理商30家。\n渠道销售额占比提升至40%。",
+      "bounds_pt": [
+        427.7,
+        321.4,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "媒体专访报道50次。\n品牌搜索指数提升80%。",
+      "bounds_pt": [
+        594.8,
+        321.7,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "社群运营用户达10万。\n内容营销获客5000+。",
+      "bounds_pt": [
+        761.9,
+        322.0,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_104",
+      "shape_id": 104,
+      "shape_name": "文本框 103",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "核心人才保留率95%。\n完成人才盘点评估。",
+      "bounds_pt": [
+        260.7,
+        426.9,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_105",
+      "shape_id": 105,
+      "shape_name": "文本框 104",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "实施决策力发展项目。\n开展专业技能培训。",
+      "bounds_pt": [
+        427.7,
+        427.2,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_106",
+      "shape_id": 106,
+      "shape_name": "文本框 105",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "推行企业文化活动。\n建立内部沟通机制。",
+      "bounds_pt": [
+        594.8,
+        427.5,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_107",
+      "shape_id": 107,
+      "shape_name": "文本框 106",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "优化公司组织架构（未完成）\n提升公司人均效能。",
+      "bounds_pt": [
+        761.9,
+        427.9,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_109",
+      "shape_id": 109,
+      "shape_name": "文本框 108",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "开展数字化培训30场。\n建立数字化考核指标。",
+      "bounds_pt": [
+        594.8,
+        113.6,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_110",
+      "shape_id": 110,
+      "shape_name": "文本框 109",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "数字化营销转化率提升25%。\n客户服务响应时效提升50%。",
+      "bounds_pt": [
+        761.1,
+        113.6,
+        155.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Q1:工作重点",
+      "bounds_pt": [
+        57.9,
+        104.6,
+        152.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "数字化转型项目推进",
+      "bounds_pt": [
+        57.9,
+        124.0,
+        152.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "文本框 111",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "（2026.1-2026.3）",
+      "bounds_pt": [
+        52.6,
+        148.2,
+        135.4,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_115",
+      "shape_id": 115,
+      "shape_name": "文本框 114",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Q2:工作重点",
+      "bounds_pt": [
+        57.9,
+        209.2,
+        152.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_116",
+      "shape_id": 116,
+      "shape_name": "文本框 115",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "产品创新与技术优化",
+      "bounds_pt": [
+        57.9,
+        228.6,
+        152.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_117",
+      "shape_id": 117,
+      "shape_name": "文本框 116",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "（2026.4-2026.6）",
+      "bounds_pt": [
+        52.6,
+        252.8,
+        135.4,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_119",
+      "shape_id": 119,
+      "shape_name": "文本框 118",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Q3:工作重点",
+      "bounds_pt": [
+        57.9,
+        313.8,
+        152.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_120",
+      "shape_id": 120,
+      "shape_name": "文本框 119",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "市场拓展与品牌建设",
+      "bounds_pt": [
+        57.9,
+        333.2,
+        152.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_121",
+      "shape_id": 121,
+      "shape_name": "文本框 120",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "（2026.7-2026.9）",
+      "bounds_pt": [
+        52.6,
+        357.4,
+        135.4,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_123",
+      "shape_id": 123,
+      "shape_name": "文本框 122",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Q4:工作重点",
+      "bounds_pt": [
+        57.9,
+        418.4,
+        152.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_124",
+      "shape_id": 124,
+      "shape_name": "文本框 123",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "组织发展与团队建设",
+      "bounds_pt": [
+        57.9,
+        437.8,
+        152.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_125",
+      "shape_id": 125,
+      "shape_name": "文本框 124",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "（2026.10-2026.12）",
+      "bounds_pt": [
+        52.6,
+        462.0,
+        135.4,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

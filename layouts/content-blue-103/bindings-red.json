@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "小李PPT22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作成果展示",
+      "bounds_pt": [
+        81.8,
+        210.4,
+        553.0,
+        104.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "小李PPT23",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "Work Achievement Presentation",
+      "bounds_pt": [
+        81.8,
+        324.1,
+        527.0,
+        48.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "2026年中述职汇报",
+      "bounds_pt": [
+        30.0,
+        26.6,
+        351.7,
+        50.9
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

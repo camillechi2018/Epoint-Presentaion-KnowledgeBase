@@ -1,0 +1,302 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "数据图｜年度数据分析",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "圆角矩形标注 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "400w",
+      "bounds_pt": [
+        79.9,
+        273.0,
+        59.2,
+        26.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "圆角矩形标注 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "200w",
+      "bounds_pt": [
+        208.8,
+        354.2,
+        59.2,
+        26.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "圆角矩形标注 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "460w",
+      "bounds_pt": [
+        301.2,
+        245.8,
+        59.2,
+        26.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "圆角矩形标注 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "240w",
+      "bounds_pt": [
+        538.8,
+        319.9,
+        59.2,
+        26.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "年度营收总额",
+      "bounds_pt": [
+        64.7,
+        168.5,
+        122.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "3980W",
+      "bounds_pt": [
+        64.7,
+        100.2,
+        161.7,
+        60.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "Total annual revenue",
+      "bounds_pt": [
+        183.5,
+        176.0,
+        116.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "年度成本支出",
+      "bounds_pt": [
+        64.7,
+        168.5,
+        122.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "500W",
+      "bounds_pt": [
+        71.5,
+        100.2,
+        135.5,
+        60.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "Annual cost expenditure",
+      "bounds_pt": [
+        183.5,
+        176.0,
+        131.3,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "年度利润总额",
+      "bounds_pt": [
+        64.7,
+        168.5,
+        122.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "3480W",
+      "bounds_pt": [
+        64.7,
+        100.2,
+        161.7,
+        60.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "Total annual profit",
+      "bounds_pt": [
+        183.5,
+        176.0,
+        103.7,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "年度数据分析",
+      "bounds_pt": [
+        647.1,
+        238.4,
+        258.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 150,
+      "source_sample_chars": 75,
+      "source_text": "全年营收呈现“双峰”走势，1月（峰值）和6月（次高峰）表现最为突出，7-9月为阶段性低谷，四季度稳步回升。建议重点关注旺季营销投入和淡季客户维系策略。",
+      "bounds_pt": [
+        655.0,
+        285.8,
+        242.6,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 164,
+      "source_sample_chars": 82,
+      "source_text": "年度成本支出500万元，占总营收12.5%，成本控制效果显著。从月度趋势看，成本与营收基本呈正相关但1月和6月营收高峰期的成本占比明显低于其他月份，投入产出比较优。",
+      "bounds_pt": [
+        655.0,
+        400.4,
+        242.6,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 26,
+        "shape_name": "Chart 68",
+        "categories_max": 8,
+        "series_max": 4
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 5,
+        "shape_name": "图片 4",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

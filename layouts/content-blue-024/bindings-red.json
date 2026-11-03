@@ -1,0 +1,791 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜工作任务完成情况",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "任意形状 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "任务\\时间",
+      "bounds_pt": [
+        55.6,
+        212.7,
+        193.9,
+        43.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "矩形 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "01.数字营销体系建设",
+      "bounds_pt": [
+        55.6,
+        266.9,
+        193.9,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "矩形 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "02.客户管理体系建立",
+      "bounds_pt": [
+        55.6,
+        314.1,
+        193.9,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "矩形 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "03.产品的服务化转型",
+      "bounds_pt": [
+        55.6,
+        361.4,
+        193.9,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "矩形 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "04.数据决策机制构建",
+      "bounds_pt": [
+        55.6,
+        408.6,
+        193.9,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "矩形 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "05.组织敏捷化变革",
+      "bounds_pt": [
+        55.6,
+        454.8,
+        193.9,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "任意形状 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "1月",
+      "bounds_pt": [
+        264.6,
+        212.7,
+        47.7,
+        43.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "任意形状 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "2月",
+      "bounds_pt": [
+        318.4,
+        212.7,
+        47.7,
+        43.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "任意形状 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3月",
+      "bounds_pt": [
+        372.2,
+        212.7,
+        47.7,
+        43.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "任意形状 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "4月",
+      "bounds_pt": [
+        426.1,
+        212.7,
+        47.7,
+        43.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "任意形状 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "5月",
+      "bounds_pt": [
+        479.9,
+        212.7,
+        47.7,
+        43.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "任意形状 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "6月",
+      "bounds_pt": [
+        533.7,
+        212.7,
+        47.7,
+        43.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "任意形状 76",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "7月",
+      "bounds_pt": [
+        587.6,
+        212.7,
+        47.7,
+        43.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "任意形状 77",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "8月",
+      "bounds_pt": [
+        641.4,
+        212.7,
+        47.7,
+        43.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "任意形状 78",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "9月",
+      "bounds_pt": [
+        695.2,
+        212.7,
+        47.7,
+        43.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "任意形状 79",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "10月",
+      "bounds_pt": [
+        749.1,
+        212.7,
+        47.7,
+        43.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "任意形状 80",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "11月",
+      "bounds_pt": [
+        802.9,
+        212.7,
+        47.7,
+        43.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "任意形状 81",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "12月",
+      "bounds_pt": [
+        856.7,
+        212.7,
+        47.7,
+        43.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "五边形 97",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "项目启动",
+      "bounds_pt": [
+        264.6,
+        275.2,
+        101.6,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "五边形 98",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "启动调研",
+      "bounds_pt": [
+        318.4,
+        322.4,
+        155.4,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "五边形 101",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "诊断",
+      "bounds_pt": [
+        317.3,
+        463.1,
+        101.6,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "五边形 100",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "需求分析",
+      "bounds_pt": [
+        264.6,
+        416.9,
+        106.9,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "五边形 99",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "立项",
+      "bounds_pt": [
+        264.6,
+        369.6,
+        48.5,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "圆角矩形 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "项目\n总数",
+      "bounds_pt": [
+        281.0,
+        102.8,
+        63.4,
+        63.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "圆角矩形 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "任务\n数量",
+      "bounds_pt": [
+        442.1,
+        102.8,
+        63.4,
+        63.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "圆角矩形 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "已完成任务数",
+      "bounds_pt": [
+        603.6,
+        102.7,
+        63.4,
+        63.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "工作任务完成情况",
+      "bounds_pt": [
+        63.8,
+        112.1,
+        184.7,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "圆角矩形 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "任务\n完成率",
+      "bounds_pt": [
+        765.1,
+        102.6,
+        63.4,
+        63.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "5项",
+      "bounds_pt": [
+        344.4,
+        116.8,
+        75.6,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "19项",
+      "bounds_pt": [
+        505.5,
+        117.3,
+        76.8,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "17项",
+      "bounds_pt": [
+        667.0,
+        116.8,
+        76.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "89%",
+      "bounds_pt": [
+        828.5,
+        117.2,
+        75.7,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "五边形 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "完成优化",
+      "bounds_pt": [
+        395.7,
+        275.2,
+        131.9,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "五边形 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "持续运营",
+      "bounds_pt": [
+        588.4,
+        275.2,
+        315.8,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "五边形 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "完成方案",
+      "bounds_pt": [
+        505.5,
+        322.4,
+        76.8,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "五边形 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "试点运行",
+      "bounds_pt": [
+        607.8,
+        322.4,
+        111.1,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "五边形 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "完成架构设计",
+      "bounds_pt": [
+        338.7,
+        369.6,
+        189.8,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "五边形 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "上线基础功能",
+      "bounds_pt": [
+        588.4,
+        369.6,
+        100.8,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "五边形 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "实现商业化",
+      "bounds_pt": [
+        748.2,
+        369.6,
+        155.9,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "五边形 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "平台搭建",
+      "bounds_pt": [
+        426.0,
+        416.9,
+        155.5,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "五边形 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "数据治理",
+      "bounds_pt": [
+        588.4,
+        416.9,
+        155.1,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "五边形 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "效果评估",
+      "bounds_pt": [
+        803.0,
+        416.9,
+        101.3,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "五边形 94",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "制定方案",
+      "bounds_pt": [
+        425.0,
+        463.1,
+        210.0,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "五边形 95",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "推广",
+      "bounds_pt": [
+        669.4,
+        463.1,
+        72.9,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "五边形 96",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "固化成果",
+      "bounds_pt": [
+        771.5,
+        463.1,
+        131.6,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_106",
+      "shape_id": 106,
+      "shape_name": "五边形 105",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "全面推广",
+      "bounds_pt": [
+        748.6,
+        322.4,
+        102.0,
+        18.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "Task Completion Status",
+      "bounds_pt": [
+        63.8,
+        139.0,
+        184.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

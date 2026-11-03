@@ -1,0 +1,375 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "矩形 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "项目目标达成情况",
+      "bounds_pt": [
+        43.2,
+        293.9,
+        212.3,
+        43.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "矩形 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "资源管理与优化",
+      "bounds_pt": [
+        263.4,
+        82.1,
+        212.3,
+        44.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "矩形 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "创新成果与技术突破",
+      "bounds_pt": [
+        484.3,
+        82.3,
+        212.3,
+        44.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "矩形 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "团队协作与客户反馈",
+      "bounds_pt": [
+        708.0,
+        293.9,
+        212.3,
+        43.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "重点项目\n工作成果展示",
+      "bounds_pt": [
+        397.9,
+        432.0,
+        164.5,
+        65.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 108,
+      "source_sample_chars": 54,
+      "source_text": "明确项目核心目标与KPI，确保全员朝着共同方向努力。\n完成了关键目标，部分指标已经超额完成，提升了整体业绩。",
+      "bounds_pt": [
+        55.3,
+        352.4,
+        188.2,
+        81.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "总结：项目目标顺利实现，并超出了预期目标，带来更大成果。",
+      "bounds_pt": [
+        61.5,
+        445.7,
+        175.7,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "精确分配各项资源，优化流程，提升整体工作效率。\n通过有效管理，成功控制了预算，避免了资源浪费。",
+      "bounds_pt": [
+        275.5,
+        141.0,
+        188.2,
+        81.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "总结：资源管理合理优化，项目成本可控，效率大幅提升。",
+      "bounds_pt": [
+        281.8,
+        234.3,
+        175.7,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 98,
+      "source_sample_chars": 49,
+      "source_text": "采用先进技术解决关键技术问题，推动项目的顺利发展。\n技术创新大幅提升了产品的质量，增强市场竞争力。",
+      "bounds_pt": [
+        496.3,
+        140.9,
+        188.2,
+        81.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "总结：技术创新为项目注入了全新动力，产品质量显著提升。",
+      "bounds_pt": [
+        502.6,
+        234.2,
+        175.7,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "团队成员紧密配合，协作高效，确保了项目按时推进。\n收到客户积极反馈，超越其期望，达成良好合作。",
+      "bounds_pt": [
+        720.1,
+        352.4,
+        188.2,
+        81.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "总结：团队协作和客户反馈确保了项目的顺利完成与成功。",
+      "bounds_pt": [
+        726.3,
+        447.5,
+        175.7,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        339.0,
+        448.7,
+        37.6,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        410.9,
+        370.2,
+        37.6,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        506.8,
+        369.1,
+        37.6,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        583.0,
+        447.7,
+        37.6,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "具体工作成果",
+      "bounds_pt": [
+        43.2,
+        90.4,
+        212.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 196,
+      "source_sample_chars": 98,
+      "source_text": "销售增长：优化销售策略，带领团队实现25%的销售增长，提升市场份额。\n市场拓展：成功开拓新市场，增强品牌影响力，获得35%的市场份额。\n成本控制：通过优化供应链，节省15%成本，提升公司整体利润。",
+      "bounds_pt": [
+        55.3,
+        122.8,
+        188.2,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "具体工作成果",
+      "bounds_pt": [
+        708.6,
+        90.4,
+        212.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "人才培养：定期培训团队成员，帮助其技能提升和职业发展。\n决策力提升：通过学习管理理念，提升决策效率，优化团队执行力。\n跨部门协作：协调各部门合作，推动跨部门项目顺利完成。",
+      "bounds_pt": [
+        720.6,
+        122.8,
+        188.2,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜工作成果展示",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

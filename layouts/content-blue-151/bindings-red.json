@@ -1,0 +1,375 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜在工作中的个人进步",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "任意多边形: 形状 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "提升",
+      "bounds_pt": [
+        374.4,
+        82.4,
+        211.2,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "任意多边形: 形状 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "锻炼",
+      "bounds_pt": [
+        395.4,
+        228.2,
+        169.2,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "任意多边形: 形状 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "学习",
+      "bounds_pt": [
+        313.6,
+        374.1,
+        332.8,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "任意多边形: 形状 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        43.5,
+        82.4,
+        45.3,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "任意多边形: 形状 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        43.5,
+        228.2,
+        45.3,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "任意多边形: 形状 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        43.5,
+        374.1,
+        45.3,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "任意多边形: 形状 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        871.2,
+        82.4,
+        45.3,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "任意多边形: 形状 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        871.2,
+        228.2,
+        45.3,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "任意多边形: 形状 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "06",
+      "bounds_pt": [
+        871.2,
+        374.1,
+        45.3,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "矩形: 圆角 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "自我学识提升",
+      "bounds_pt": [
+        98.4,
+        91.2,
+        276.0,
+        33.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "矩形: 圆角 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "决策能力提升",
+      "bounds_pt": [
+        98.4,
+        237.0,
+        276.0,
+        33.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "矩形: 圆角 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "客户关系良好",
+      "bounds_pt": [
+        98.4,
+        382.9,
+        215.2,
+        33.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "矩形: 圆角 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "创新思维提升",
+      "bounds_pt": [
+        585.6,
+        91.2,
+        276.0,
+        33.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "矩形: 圆角 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "管理能力提升",
+      "bounds_pt": [
+        585.6,
+        237.0,
+        276.0,
+        33.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "矩形: 圆角 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "抗压能力增强",
+      "bounds_pt": [
+        646.4,
+        382.9,
+        215.2,
+        33.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 180,
+      "source_sample_chars": 90,
+      "source_text": "专业技能：我通过参加行业相关的培训，提升了自己的专业知识，能更好地应对日常工作中的复杂问题。\n知识积累：我加强了对新兴技术的学习，使自己在面对项目需求时，能快速掌握相关知识并应用。",
+      "bounds_pt": [
+        98.4,
+        121.9,
+        276.0,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 190,
+      "source_sample_chars": 95,
+      "source_text": "数据分析：我学会了通过数据分析来支持决策，注重从数据中提炼有价值的信息，做出更加精准的判断。\n果断决策：在项目管理中，我逐渐学会如何在面对压力时做出果断决策，不再拖延，避免因犹豫而错失机会。",
+      "bounds_pt": [
+        98.4,
+        267.8,
+        276.0,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 146,
+      "source_sample_chars": 73,
+      "source_text": "维护客户：我加强了与客户的沟通，定期回访客户，提升了客户的忠诚度。\n需求挖掘：通过主动与客户互动，为他们量身定制合适的解决方案，提升了客户满意度。",
+      "bounds_pt": [
+        98.4,
+        413.7,
+        215.2,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 190,
+      "source_sample_chars": 95,
+      "source_text": "流程优化：我提出并实施了一些流程优化方案，通过技术手段提升了工作效率，减少了重复劳动。\n新项目尝试：从参与的公司项目中汲取了许多创新思维，并尝试将这些思维应用于现有工作中，取得了一定的成效。",
+      "bounds_pt": [
+        585.6,
+        121.9,
+        276.0,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 192,
+      "source_sample_chars": 96,
+      "source_text": "任务分配：在团队中，我更加合理地分配任务，充分发挥每个成员的特长，使得整体工作效率得到了提升。\n激励机制：我学会了如何激励团队成员，通过设立目标和奖励机制，提高了大家的工作积极性和团队凝聚力。",
+      "bounds_pt": [
+        585.6,
+        267.8,
+        276.0,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 144,
+      "source_sample_chars": 72,
+      "source_text": "应急处理：应对突发事件时反应迅速，能冷静快速找到解决办法，保障工作不受影响。\n情绪管理：我更加注重情绪管理，避免了在工作中因压力过大而影响情绪。",
+      "bounds_pt": [
+        646.4,
+        413.7,
+        215.2,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

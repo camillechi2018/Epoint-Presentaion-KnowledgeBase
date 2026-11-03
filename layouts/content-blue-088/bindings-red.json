@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 16,
+      "source_text": "述职汇报｜上半年我完成了多少工作",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "矩形 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "上半年\n我完成的工作",
+      "bounds_pt": [
+        43.2,
+        82.2,
+        211.1,
+        105.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "工作任务",
+      "bounds_pt": [
+        305.7,
+        145.9,
+        133.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "已完成",
+      "bounds_pt": [
+        524.8,
+        146.2,
+        133.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "完成率",
+      "bounds_pt": [
+        743.1,
+        145.9,
+        133.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "4项",
+      "bounds_pt": [
+        305.4,
+        97.6,
+        133.7,
+        50.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "4项",
+      "bounds_pt": [
+        524.7,
+        97.9,
+        133.7,
+        50.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "100%",
+      "bounds_pt": [
+        743.3,
+        97.6,
+        133.7,
+        50.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "云计算优化",
+      "bounds_pt": [
+        43.2,
+        232.8,
+        211.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "AI应用发展",
+      "bounds_pt": [
+        264.0,
+        232.8,
+        211.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "数字化转型",
+      "bounds_pt": [
+        484.9,
+        232.8,
+        211.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "创新产品研发",
+      "bounds_pt": [
+        705.7,
+        232.8,
+        211.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 162,
+      "source_sample_chars": 81,
+      "source_text": "云平台部署：成功部署了私有云和公有云服务，确保了公司内部应用的高可用性和高扩展性。\n自动化管理：引入了云资源自动化管理工具，提升了资源的分配效率，降低了运维成本。",
+      "bounds_pt": [
+        57.6,
+        283.6,
+        182.2,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "性能优化：对云服务进行监控，并根据实际需求进行资源调整，确保了系统的高效运行。",
+      "bounds_pt": [
+        57.6,
+        425.9,
+        182.2,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 176,
+      "source_sample_chars": 88,
+      "source_text": "智能客服：基于机器学习算法开发了智能客服系统，大大提升了客户服务的响应速度与准确性。\n数据预测：通过深度学习技术，构建了多个预测模型，帮助公司在需求预测方面做出更加准确的决策。",
+      "bounds_pt": [
+        278.5,
+        283.6,
+        182.2,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "流程优化：将AI技术应用于业务中，实现了任务自动化，提升工作效率，降低了人工成本。",
+      "bounds_pt": [
+        278.5,
+        425.9,
+        182.2,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 178,
+      "source_sample_chars": 89,
+      "source_text": "ERP升级：升级了现有的企业资源计划系统，增强了财务、销售、采购等模块的智能化与自动化。\n流程重组：重新设计了业务流程，全面引入数字化工具，减少了纸质文件的使用，提升了办公效率。",
+      "bounds_pt": [
+        499.3,
+        283.6,
+        182.2,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "技能提升：通过定期培训，提升员工的数字化工具使用能力，确保他们能够高效使用公司新的数字化系统。",
+      "bounds_pt": [
+        499.3,
+        425.9,
+        182.2,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "原型设计：在产品研发初期，成功设计并测试了多个创新产品原型，为最终产品的上市奠定了基础。\n协作优化：加强了研发、市场和销售团队之间的协作，确保产品研发的各个环节高效推进。",
+      "bounds_pt": [
+        720.1,
+        283.6,
+        182.2,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "反馈整合：通过用户调研和反馈，不断优化产品功能和设计，提高了产品的市场竞争力。",
+      "bounds_pt": [
+        720.1,
+        425.9,
+        182.2,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

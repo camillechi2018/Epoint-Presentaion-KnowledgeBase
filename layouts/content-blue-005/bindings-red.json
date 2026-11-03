@@ -1,0 +1,631 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "矩形: 圆角 16",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "2026年上半年目标完成总结",
+      "bounds_pt": [
+        695.9,
+        102.5,
+        206.3,
+        37.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "矩形: 圆角 23",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "2026年下半年目标完成总结",
+      "bounds_pt": [
+        695.9,
+        453.1,
+        206.3,
+        37.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "2026年\n目标回顾",
+      "bounds_pt": [
+        43.2,
+        258.6,
+        127.5,
+        75.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "按计划完成了产品V2.0版本的核心功能开发与上线，用户日活提升25%。",
+      "bounds_pt": [
+        203.0,
+        142.9,
+        166.8,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "成功发布V2.1重大更新，引入了AI智能等功能，用户留存率提升10%。",
+      "bounds_pt": [
+        203.0,
+        196.5,
+        166.8,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "矩形: 圆角 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "Q1.核心产品与项目交付",
+      "bounds_pt": [
+        199.9,
+        97.7,
+        173.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "主导了对新技术的研究与落地试点，将其应用于内部系统，性能提升了40%。",
+      "bounds_pt": [
+        410.0,
+        142.9,
+        166.8,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "在团队内建立了技术分享机制，输出了5篇高质量的技术文档。",
+      "bounds_pt": [
+        410.0,
+        196.5,
+        166.8,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "矩形: 圆角 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "Q2.技术创新与研究探索",
+      "bounds_pt": [
+        406.9,
+        97.7,
+        173.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "建立了更完善的自动化测试体系，将版本测试时间从4小时缩短至1小时。",
+      "bounds_pt": [
+        203.0,
+        402.9,
+        166.8,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "通过代码重构和性能优化，将系统核心接口的响应时间降低了30%。",
+      "bounds_pt": [
+        203.0,
+        456.5,
+        166.8,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "矩形: 圆角 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "Q3.团队能力与知识沉淀",
+      "bounds_pt": [
+        199.9,
+        357.7,
+        173.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "成功培养了1名新晋工程师，使其在3个月内能够独立负责模块开发。",
+      "bounds_pt": [
+        410.0,
+        402.9,
+        166.8,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "组织并主讲6场内部技术培训，团队技术评审通过率提升至98%。",
+      "bounds_pt": [
+        410.0,
+        456.5,
+        166.8,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "矩形: 圆角 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "Q4.研发效能与质量保障",
+      "bounds_pt": [
+        406.9,
+        357.7,
+        173.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "矩形 66",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "2026年\n上半年目标回顾",
+      "bounds_pt": [
+        41.6,
+        88.3,
+        130.9,
+        44.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "矩形 67",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "2026年\n下半年目标回顾",
+      "bounds_pt": [
+        41.6,
+        459.5,
+        130.9,
+        44.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "文本框 84",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "用户日活",
+      "bounds_pt": [
+        708.9,
+        168.5,
+        84.9,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "文本框 86",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "25%",
+      "bounds_pt": [
+        731.2,
+        188.9,
+        50.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "文本框 97",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "用户留存",
+      "bounds_pt": [
+        803.9,
+        168.5,
+        84.9,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "文本框 98",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "10%",
+      "bounds_pt": [
+        826.2,
+        188.9,
+        50.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "技术性能",
+      "bounds_pt": [
+        708.9,
+        228.4,
+        84.9,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "40%",
+      "bounds_pt": [
+        731.2,
+        248.9,
+        50.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_106",
+      "shape_id": 106,
+      "shape_name": "文本框 105",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "技术文档",
+      "bounds_pt": [
+        803.9,
+        228.4,
+        84.9,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_107",
+      "shape_id": 107,
+      "shape_name": "文本框 106",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "5篇",
+      "bounds_pt": [
+        827.0,
+        248.9,
+        50.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_114",
+      "shape_id": 114,
+      "shape_name": "文本框 113",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "测试时间",
+      "bounds_pt": [
+        709.0,
+        319.8,
+        84.9,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_115",
+      "shape_id": 115,
+      "shape_name": "文本框 114",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3h",
+      "bounds_pt": [
+        731.3,
+        340.2,
+        50.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_118",
+      "shape_id": 118,
+      "shape_name": "文本框 117",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "响应时间",
+      "bounds_pt": [
+        804.0,
+        319.8,
+        84.9,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_119",
+      "shape_id": 119,
+      "shape_name": "文本框 118",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "30%",
+      "bounds_pt": [
+        826.3,
+        340.2,
+        50.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_122",
+      "shape_id": 122,
+      "shape_name": "文本框 121",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "技术性能",
+      "bounds_pt": [
+        709.0,
+        379.8,
+        84.9,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_123",
+      "shape_id": 123,
+      "shape_name": "文本框 122",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "40%",
+      "bounds_pt": [
+        731.3,
+        400.2,
+        50.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_129",
+      "shape_id": 129,
+      "shape_name": "文本框 128",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "评审通过率",
+      "bounds_pt": [
+        804.4,
+        379.8,
+        84.9,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_130",
+      "shape_id": 130,
+      "shape_name": "文本框 129",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "98%",
+      "bounds_pt": [
+        826.8,
+        400.2,
+        50.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜2026年目标回顾",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "矩形: 圆角 92",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一季度",
+      "bounds_pt": [
+        240.2,
+        261.4,
+        92.3,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "矩形: 圆角 93",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二季度",
+      "bounds_pt": [
+        447.3,
+        261.4,
+        92.3,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "矩形: 圆角 94",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第三季度",
+      "bounds_pt": [
+        240.2,
+        311.1,
+        92.3,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_105",
+      "shape_id": 105,
+      "shape_name": "矩形: 圆角 104",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第四季度",
+      "bounds_pt": [
+        447.3,
+        311.1,
+        92.3,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "图片 6",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

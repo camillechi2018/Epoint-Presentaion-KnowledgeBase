@@ -1,0 +1,471 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "述职汇报｜个人在工作中的优缺点复盘",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "任意多边形: 形状 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "个人在工作中的优缺点复盘",
+      "bounds_pt": [
+        442.0,
+        153.2,
+        76.0,
+        279.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "矩形: 圆角 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.高效协作沟通",
+      "bounds_pt": [
+        69.8,
+        89.0,
+        175.3,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "矩形: 圆角 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.管理能力较强",
+      "bounds_pt": [
+        69.8,
+        198.0,
+        175.3,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "矩形: 圆角 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.团队协作较好",
+      "bounds_pt": [
+        69.8,
+        307.1,
+        175.3,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "矩形: 圆角 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.适应能力较强",
+      "bounds_pt": [
+        69.8,
+        416.1,
+        175.3,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "矩形: 圆角 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.过于追求完美",
+      "bounds_pt": [
+        715.0,
+        89.0,
+        175.3,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "矩形: 圆角 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "02.缺乏适时的授权",
+      "bounds_pt": [
+        715.0,
+        198.0,
+        175.3,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "矩形: 圆角 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.情绪管理不足",
+      "bounds_pt": [
+        715.0,
+        307.1,
+        175.3,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "矩形: 圆角 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.决策过于谨慎",
+      "bounds_pt": [
+        715.0,
+        416.1,
+        175.3,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "个人工作\n中的优点",
+      "bounds_pt": [
+        286.6,
+        165.3,
+        156.9,
+        75.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "个人工作\n中的缺点",
+      "bounds_pt": [
+        516.6,
+        165.3,
+        156.9,
+        75.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "优点复盘",
+      "bounds_pt": [
+        286.0,
+        396.3,
+        157.5,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "缺点复盘",
+      "bounds_pt": [
+        516.6,
+        396.3,
+        157.5,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "我能清晰表达并倾听他人意见，提出建设性建议，帮助团队达成共识，提升效率。",
+      "bounds_pt": [
+        53.1,
+        120.8,
+        208.5,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "擅长根据任务优先级安排，合理安排规划时间，确保关键任务按时完成。",
+      "bounds_pt": [
+        53.1,
+        230.2,
+        208.5,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "乐于帮助同事，促进沟通合作，确保项目进展顺利，提高团队效率。",
+      "bounds_pt": [
+        53.1,
+        339.6,
+        208.5,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "能迅速适应工作任务和需求变化，调整工作方式，确保进度不受影响。",
+      "bounds_pt": [
+        53.1,
+        449.0,
+        208.5,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "有时在细节上投入过多时间，可能影响效率尤其在紧急任务中。",
+      "bounds_pt": [
+        698.4,
+        120.8,
+        208.5,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "常依赖自己完成任务，未充分分配任务，影响了整体工作进度和团队成长。",
+      "bounds_pt": [
+        698.4,
+        230.2,
+        208.5,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "在压力下情绪波动较大，影响沟通和决策可能影响团队士气。",
+      "bounds_pt": [
+        698.4,
+        339.6,
+        208.5,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "考虑过多细节和风险，决策过程缓慢，影响项目推进。",
+      "bounds_pt": [
+        698.4,
+        449.0,
+        208.5,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "协作好",
+      "bounds_pt": [
+        119.1,
+        299.4,
+        62.1,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "适应强",
+      "bounds_pt": [
+        86.8,
+        359.3,
+        62.1,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "能力强",
+      "bounds_pt": [
+        151.4,
+        359.3,
+        62.1,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "细节狂",
+      "bounds_pt": [
+        119.1,
+        299.4,
+        62.1,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "考虑多",
+      "bounds_pt": [
+        86.8,
+        359.3,
+        62.1,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "情绪差",
+      "bounds_pt": [
+        151.4,
+        359.3,
+        62.1,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

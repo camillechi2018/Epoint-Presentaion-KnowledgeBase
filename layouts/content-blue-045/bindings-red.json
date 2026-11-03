@@ -1,0 +1,407 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜不足之处与改进方法",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "不足之处\nVS\n改进方法",
+      "bounds_pt": [
+        420.2,
+        245.9,
+        119.6,
+        94.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "部门协同待提升",
+      "bounds_pt": [
+        109.2,
+        92.8,
+        291.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "创新能力需加强",
+      "bounds_pt": [
+        109.2,
+        464.5,
+        291.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "完善协同工作机制",
+      "bounds_pt": [
+        559.1,
+        92.8,
+        300.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "构建创新培育体系",
+      "bounds_pt": [
+        559.1,
+        464.5,
+        300.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "01.信息同步机制不畅",
+      "bounds_pt": [
+        60.0,
+        140.5,
+        258.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "项目关键信息传递存在明显延迟现象，导致资源配置出现重复投入问。",
+      "bounds_pt": [
+        60.0,
+        160.5,
+        258.3,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "02.流程衔接存在断点",
+      "bounds_pt": [
+        60.0,
+        207.0,
+        258.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "跨部门工作流程接口存在多处断点，直接影响项目整体推进的工作效率。",
+      "bounds_pt": [
+        60.0,
+        227.0,
+        258.3,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.创新思维局限",
+      "bounds_pt": [
+        60.0,
+        317.6,
+        258.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "在业务模式创新方面思路较为局限，缺乏突破性创新成果，导致业务推进不是很理想。",
+      "bounds_pt": [
+        60.0,
+        337.6,
+        258.3,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "02.技术应用深度不足",
+      "bounds_pt": [
+        60.0,
+        384.2,
+        258.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "对新技术的应用研究不够深入系统，实际落地转化效果有限，导致工作进度落后。",
+      "bounds_pt": [
+        60.0,
+        404.2,
+        258.3,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "01.建立定期沟通机制",
+      "bounds_pt": [
+        650.4,
+        140.2,
+        258.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "建立跨部门双周例会制度，确保项目信息实时同步共享提升工作效率。",
+      "bounds_pt": [
+        650.4,
+        160.2,
+        258.3,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "02.优化流程衔接标准",
+      "bounds_pt": [
+        650.4,
+        206.7,
+        258.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "全面梳理优化项目管理流程，明确各环节责任人职责与时间节点，提升我好难过工作效率。",
+      "bounds_pt": [
+        650.4,
+        226.7,
+        258.3,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "01.开展创新思维训练",
+      "bounds_pt": [
+        650.4,
+        317.3,
+        258.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "定期组织团队创新思维会议，系统激发团队创新意识和工作技术能力。",
+      "bounds_pt": [
+        650.4,
+        337.3,
+        258.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "02.设立创新实践平台",
+      "bounds_pt": [
+        650.4,
+        383.8,
+        258.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "设立专项创新项目孵化基金，重点支持新技术应用实践探索，提升工作进度。",
+      "bounds_pt": [
+        650.4,
+        403.8,
+        258.3,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "矩形 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "组织协同",
+      "bounds_pt": [
+        409.6,
+        82.8,
+        140.9,
+        48.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "矩形 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "创新体系",
+      "bounds_pt": [
+        409.6,
+        454.8,
+        140.9,
+        48.0
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

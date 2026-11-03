@@ -1,0 +1,647 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "重点工作任务执行方式",
+      "bounds_pt": [
+        234.5,
+        146.8,
+        480.0,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "箭头: 五边形 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "有效推进",
+      "bounds_pt": [
+        43.2,
+        82.1,
+        164.7,
+        40.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "矩形: 圆角 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "任务分解与目标设定",
+      "bounds_pt": [
+        50.8,
+        233.3,
+        151.5,
+        30.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "矩形: 圆角 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "优先排序与资源分配",
+      "bounds_pt": [
+        227.5,
+        233.3,
+        152.1,
+        30.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "矩形: 圆角 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "定期检查与任务反馈",
+      "bounds_pt": [
+        404.4,
+        233.3,
+        152.1,
+        30.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "矩形: 圆角 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "部门协作与团队沟通",
+      "bounds_pt": [
+        581.4,
+        233.3,
+        151.1,
+        30.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "矩形: 圆角 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "风险管理与应急预案",
+      "bounds_pt": [
+        758.2,
+        233.3,
+        150.9,
+        30.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "将工作任务进行拆解，明确每一项任务的具体目标，并为每个任务设定可量化的指标。",
+      "bounds_pt": [
+        50.8,
+        293.0,
+        151.5,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "执行方式",
+      "bounds_pt": [
+        78.6,
+        272.0,
+        96.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "根据任务的紧急性和重要性进行优先级排序，确保高优先级的任务能够及时完成。",
+      "bounds_pt": [
+        228.0,
+        293.0,
+        151.5,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "执行方式",
+      "bounds_pt": [
+        255.8,
+        272.0,
+        96.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "定期对任务进度进行检查，及时发现并解决问题，确保工作顺利推进。",
+      "bounds_pt": [
+        405.2,
+        293.0,
+        151.5,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "执行方式",
+      "bounds_pt": [
+        433.0,
+        272.0,
+        96.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "确保不同部门之间的沟通畅通无阻，定期安排跨部门的协调会议，保持目标一致性。",
+      "bounds_pt": [
+        582.4,
+        293.0,
+        151.5,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "执行方式",
+      "bounds_pt": [
+        610.2,
+        272.0,
+        96.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "提前识别任务中可能出现的风险，并制定应急预案迅速调整资源和执行策略。",
+      "bounds_pt": [
+        759.7,
+        293.0,
+        151.5,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "执行方式",
+      "bounds_pt": [
+        787.4,
+        272.0,
+        96.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "使用工具",
+      "bounds_pt": [
+        78.6,
+        389.0,
+        96.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "使用工具",
+      "bounds_pt": [
+        255.8,
+        389.0,
+        96.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "使用工具",
+      "bounds_pt": [
+        433.0,
+        389.0,
+        96.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "文本框 91",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "使用工具",
+      "bounds_pt": [
+        610.2,
+        389.0,
+        96.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "使用工具",
+      "bounds_pt": [
+        787.4,
+        389.0,
+        96.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "使用项目管理工具记录任务分解，设定各阶段的里程碑。",
+      "bounds_pt": [
+        50.8,
+        406.3,
+        151.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "使用艾森豪威尔矩阵来帮助排序任务，合理分配资源。",
+      "bounds_pt": [
+        228.0,
+        406.3,
+        151.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "使用团队协作工具进行实时沟通，进行回顾总结。",
+      "bounds_pt": [
+        405.2,
+        406.3,
+        151.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "建立共享文档，确保所有相关人员可以查看任务进展。",
+      "bounds_pt": [
+        582.4,
+        406.3,
+        151.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_104",
+      "shape_id": 104,
+      "shape_name": "文本框 103",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "使用风险评估工具，确保能够迅速响应突发情况。",
+      "bounds_pt": [
+        759.7,
+        406.3,
+        151.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_105",
+      "shape_id": 105,
+      "shape_name": "圆角矩形 104",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "明确目标",
+      "bounds_pt": [
+        54.5,
+        474.3,
+        68.0,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_106",
+      "shape_id": 106,
+      "shape_name": "圆角矩形 105",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "量化指标",
+      "bounds_pt": [
+        131.1,
+        474.3,
+        68.0,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_109",
+      "shape_id": 109,
+      "shape_name": "圆角矩形 108",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "优先排序",
+      "bounds_pt": [
+        231.4,
+        474.3,
+        68.0,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_110",
+      "shape_id": 110,
+      "shape_name": "圆角矩形 109",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "及时完成",
+      "bounds_pt": [
+        308.0,
+        474.3,
+        68.0,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "圆角矩形 111",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "进度检查",
+      "bounds_pt": [
+        408.3,
+        474.3,
+        68.0,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_113",
+      "shape_id": 113,
+      "shape_name": "圆角矩形 112",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "解决问题",
+      "bounds_pt": [
+        484.9,
+        474.3,
+        68.0,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_115",
+      "shape_id": 115,
+      "shape_name": "圆角矩形 114",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "沟通顺畅",
+      "bounds_pt": [
+        585.3,
+        474.3,
+        68.0,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_116",
+      "shape_id": 116,
+      "shape_name": "圆角矩形 115",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "目标一致",
+      "bounds_pt": [
+        661.9,
+        474.3,
+        68.0,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_118",
+      "shape_id": 118,
+      "shape_name": "圆角矩形 117",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "识别风险",
+      "bounds_pt": [
+        762.2,
+        474.3,
+        68.0,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_119",
+      "shape_id": 119,
+      "shape_name": "圆角矩形 118",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "应急预案",
+      "bounds_pt": [
+        838.8,
+        474.3,
+        68.0,
+        19.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_122",
+      "shape_id": 122,
+      "shape_name": "箭头: 五边形 121",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "高效完成",
+      "bounds_pt": [
+        751.4,
+        82.1,
+        164.7,
+        40.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_111",
+      "shape_id": 111,
+      "shape_name": "文本框 110",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 16,
+      "source_text": "述职汇报｜重点工作任务的执行方式",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 24,
+        "shape_name": "图片 23",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

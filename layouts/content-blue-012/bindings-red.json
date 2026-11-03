@@ -1,0 +1,487 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜年度工作总结",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "矩形 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "项目一成功原因",
+      "bounds_pt": [
+        871.9,
+        89.0,
+        46.3,
+        203.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "矩形 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "项目二成功原因",
+      "bounds_pt": [
+        871.9,
+        301.2,
+        46.3,
+        201.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 260,
+      "source_sample_chars": 130,
+      "source_text": "架构设计与技术选型：主导完成从单体架构到微服务的改造方案，制定了清晰的技术实施路径。\n核心功能开发上线：成功发布平台V2.0版本，实现了核心交易模块的平稳迁移与功能升级。\n性能与稳定性提升：通过代码优化与缓存策略，系统平均响应时间缩短40%，故障率降低50%。",
+      "bounds_pt": [
+        277.7,
+        144.2,
+        255.2,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "矩形 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "架构设计前瞻",
+      "bounds_pt": [
+        614.7,
+        111.1,
+        232.6,
+        48.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "矩形 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "实施过程严谨",
+      "bounds_pt": [
+        614.7,
+        167.0,
+        232.6,
+        48.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "矩形 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "流程建设规范",
+      "bounds_pt": [
+        614.7,
+        222.8,
+        232.6,
+        48.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "矩形 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "服务体系精准",
+      "bounds_pt": [
+        614.7,
+        321.7,
+        232.6,
+        48.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "矩形 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "推广策略科学",
+      "bounds_pt": [
+        614.7,
+        377.6,
+        232.6,
+        48.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "矩形 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "人才工具协同",
+      "bounds_pt": [
+        614.7,
+        433.4,
+        232.6,
+        48.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "矩形: 圆角 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "平台重构升级",
+      "bounds_pt": [
+        337.5,
+        111.0,
+        191.9,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "矩形: 圆角 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "项目一",
+      "bounds_pt": [
+        280.8,
+        111.1,
+        92.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "矩形: 圆角 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "客户体系搭建",
+      "bounds_pt": [
+        337.5,
+        321.1,
+        191.9,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "矩形: 圆角 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "项目二",
+      "bounds_pt": [
+        280.8,
+        321.1,
+        92.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 244,
+      "source_sample_chars": 122,
+      "source_text": "体系标准搭建：牵头制定了客户分级标准、服务流程SOP以及健康度评估模型。\n工具平台与团队组建：成功上线CRM系统，并完成了首支15人客户成功团队的招募与培训。\n试点区域验证：在华东大区进行试点，试点期内客户续约率提升12%，验证了模式的有效性。",
+      "bounds_pt": [
+        277.7,
+        355.8,
+        255.2,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "关\n键\n数\n据",
+      "bounds_pt": [
+        55.0,
+        104.4,
+        26.4,
+        65.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "关\n键\n数\n据",
+      "bounds_pt": [
+        55.0,
+        210.2,
+        26.4,
+        65.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "关\n键\n数\n据",
+      "bounds_pt": [
+        55.0,
+        316.0,
+        26.4,
+        65.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "关\n键\n数\n据",
+      "bounds_pt": [
+        55.0,
+        422.0,
+        26.4,
+        65.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "矩形: 圆角 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "技术指标突破",
+      "bounds_pt": [
+        214.0,
+        97.9,
+        32.3,
+        184.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "矩形: 圆角 76",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "业务成果提升",
+      "bounds_pt": [
+        214.0,
+        309.6,
+        32.3,
+        184.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "性能提升",
+      "bounds_pt": [
+        97.6,
+        143.2,
+        91.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "40%",
+      "bounds_pt": [
+        97.3,
+        106.8,
+        91.9,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_91",
+      "shape_id": 91,
+      "shape_name": "文本框 90",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "故障率降低",
+      "bounds_pt": [
+        97.6,
+        249.1,
+        91.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "文本框 91",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "50%",
+      "bounds_pt": [
+        97.3,
+        212.7,
+        91.9,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "培训周期缩短",
+      "bounds_pt": [
+        93.2,
+        354.9,
+        101.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "文本框 94",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "50%",
+      "bounds_pt": [
+        97.3,
+        318.6,
+        91.9,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "续约率提升",
+      "bounds_pt": [
+        97.6,
+        460.8,
+        91.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "文本框 97",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "12%",
+      "bounds_pt": [
+        97.3,
+        424.5,
+        91.9,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 8,
+        "shape_name": "图片 7",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

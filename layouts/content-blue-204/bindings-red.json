@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "任意多边形: 形状 7",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "01.提升品牌曝光度与认知度",
+      "bounds_pt": [
+        43.2,
+        82.5,
+        235.3,
+        36.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "任意多边形: 形状 10",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "05.开展线上线下活动的结合",
+      "bounds_pt": [
+        612.2,
+        82.2,
+        235.3,
+        36.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "任意多边形: 形状 16",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "03.加大品牌数字化营销投入",
+      "bounds_pt": [
+        327.7,
+        82.2,
+        235.3,
+        36.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "任意多边形: 形状 18",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "02.优化客户精准定位与拓展",
+      "bounds_pt": [
+        43.2,
+        364.0,
+        235.3,
+        36.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "任意多边形: 形状 20",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "06.提升团队协作与执行效率",
+      "bounds_pt": [
+        612.3,
+        363.6,
+        235.3,
+        36.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "任意多边形: 形状 22",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "04.提升内容营销的质量效果",
+      "bounds_pt": [
+        327.8,
+        364.3,
+        235.3,
+        36.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "椭圆 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "1月",
+      "bounds_pt": [
+        100.3,
+        265.0,
+        53.0,
+        53.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "椭圆 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "2月",
+      "bounds_pt": [
+        242.0,
+        265.0,
+        53.0,
+        53.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "椭圆 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3月",
+      "bounds_pt": [
+        383.7,
+        265.0,
+        53.0,
+        53.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "椭圆 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "4月",
+      "bounds_pt": [
+        525.4,
+        265.0,
+        53.0,
+        53.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "椭圆 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "5月",
+      "bounds_pt": [
+        667.1,
+        265.0,
+        53.0,
+        53.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "椭圆 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "6月",
+      "bounds_pt": [
+        808.7,
+        265.0,
+        53.0,
+        53.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 126,
+      "source_sample_chars": 63,
+      "source_text": "通过多渠道的线上和线下推广活动，提升品牌的曝光度和知名度。\n制定并执行营销计划，联系行业相关的KOL与网红，增加品牌的关注度。",
+      "bounds_pt": [
+        52.8,
+        133.1,
+        216.1,
+        82.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "加强数字广告和社交媒体广告的投放，提升线上平台的转化率。\n开展电子邮件营销与短信营销，精准推送定制化信息，提高客户的复购率。",
+      "bounds_pt": [
+        337.3,
+        132.8,
+        216.1,
+        82.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "在节日或品牌周年庆等时机，组织线上线下促销活动，提升客户的粘性。\n举办行业研讨会，邀请客户和行业人士参与，建立长期客户关系。",
+      "bounds_pt": [
+        621.7,
+        132.8,
+        216.1,
+        82.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "分析并细化客户群体，利用大数据和CRM系统，对目标客户进行精准定位。\n扩展市场通过线上广告投放与线下活动相结合的方式，提高市场份额。",
+      "bounds_pt": [
+        52.8,
+        414.6,
+        216.1,
+        82.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "创作并发布与品牌相关的高质量内容，提升客户的互动性与参与感。\n强化搜索引擎优化策略，确保品牌内容排名靠前，吸引更多自然流量。",
+      "bounds_pt": [
+        337.3,
+        414.3,
+        216.1,
+        82.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "组织营销团队培训，提升团队的专业素质与执行力，尤其是数字营销技能。\n加强部门之间的协作，确保营销活动的高效执行与反馈，快速调整策略。",
+      "bounds_pt": [
+        621.9,
+        414.3,
+        216.1,
+        82.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "时间轴｜上半年工作总结",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 10,
+        "shape_name": "图片 9",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

@@ -1,0 +1,199 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "Arrow: Pentagon 113",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "01.决策能力",
+      "bounds_pt": [
+        41.6,
+        193.4,
+        183.1,
+        32.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "Arrow: Pentagon 113",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "02.客户关系",
+      "bounds_pt": [
+        271.8,
+        262.3,
+        183.1,
+        32.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "Arrow: Pentagon 113",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "03.效率优化",
+      "bounds_pt": [
+        501.0,
+        193.4,
+        183.1,
+        32.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "Arrow: Pentagon 113",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "04.创新思维",
+      "bounds_pt": [
+        731.0,
+        262.3,
+        183.1,
+        32.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 172,
+      "source_sample_chars": 86,
+      "source_text": "今年在工作中承担了更多的管理职责通过有效的团队管理和激励策略，提升了团队的整体表现和士气。\n我积极组织和协调团队活动，帮助成员发挥最佳潜力，从而成功达成了多个关键项目目标。",
+      "bounds_pt": [
+        55.3,
+        236.9,
+        173.3,
+        147.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 160,
+      "source_sample_chars": 80,
+      "source_text": "对现有工作流程进行了深入分析，并识别了多个改进点。\n我实施了新的流程优化措施，包括自动化和精简操作，从而显著提升了工作效率，减少了重复劳动，并节省了宝贵的时间。",
+      "bounds_pt": [
+        514.6,
+        236.9,
+        173.3,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 156,
+      "source_sample_chars": 78,
+      "source_text": "通过改进与客户的沟通方式和服务策略，我建立了更加牢固和信任的客户关系。\n通过定期反馈和主动解决客户问题显著提高了客户满意度，并成功促进了长期合作关系的建立。",
+      "bounds_pt": [
+        284.5,
+        305.6,
+        173.3,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 174,
+      "source_sample_chars": 87,
+      "source_text": "在面对工作中的挑战时，我积极提出并实施创新的解决方案。这些创新思维不仅改善了工作流程还推动了新项目的成功实施。\n鼓励团队尝试新方法和技术，从而提高了整体工作效果和公司竞争力。",
+      "bounds_pt": [
+        743.7,
+        305.6,
+        173.3,
+        147.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜工作中的个人成长",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "TextBox 161",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "工作中的成长进步",
+      "bounds_pt": [
+        38.2,
+        83.8,
+        276.3,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "Rectangle 4",
+      "type": "text",
+      "max_chars": 136,
+      "source_sample_chars": 68,
+      "source_text": "工作中的成长与进步是成功的关键。它推动我们不断提升技能，适应变化，并实现职业目标。每一步进步都为未来铺平道路，成就个人和团队的最终成功。",
+      "bounds_pt": [
+        328.2,
+        86.3,
+        590.0,
+        34.7
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

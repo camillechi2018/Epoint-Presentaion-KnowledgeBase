@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升专业技能",
+      "bounds_pt": [
+        53.2,
+        251.3,
+        121.7,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "增强表达能力",
+      "bounds_pt": [
+        236.1,
+        251.3,
+        121.7,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升时间管理",
+      "bounds_pt": [
+        423.0,
+        251.3,
+        121.7,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "培养领导能力",
+      "bounds_pt": [
+        603.9,
+        251.3,
+        121.7,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提高解决能力",
+      "bounds_pt": [
+        785.1,
+        251.3,
+        121.7,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        149.8,
+        192.3,
+        50.4,
+        21.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        333.4,
+        176.7,
+        50.4,
+        21.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        515.7,
+        164.2,
+        50.4,
+        21.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        698.6,
+        148.6,
+        50.4,
+        21.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        882.2,
+        134.2,
+        50.4,
+        21.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "TextBox 47",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "目标：根据职业方向学习专业领域的知识技术。\n行动计划：参加相关课程，确保自己跟上行业发展步伐。",
+      "bounds_pt": [
+        34.6,
+        317.5,
+        159.7,
+        95.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "TextBox 47",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "目标：提高与同事、客户沟通能力。\n行动计划：参加公共演讲和写作课程，定期进行反馈。",
+      "bounds_pt": [
+        217.3,
+        317.5,
+        159.7,
+        95.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "TextBox 47",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "目标：有效管理时间，确保高效完成任务。\n行动计划：使用时间管理工具设定工作目标，培养好习惯。",
+      "bounds_pt": [
+        400.1,
+        314.5,
+        159.7,
+        95.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "TextBox 47",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "目标：提升自己的决策能力和创新思维。\n行动计划：争取在项目中担任负责人，提升协调和决策能力。",
+      "bounds_pt": [
+        582.8,
+        314.5,
+        159.7,
+        95.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "TextBox 47",
+      "type": "text",
+      "max_chars": 98,
+      "source_sample_chars": 49,
+      "source_text": "目标：在面对问题时能迅速有效地提出解决方案。\n行动计划：遇到问题时能快速评估和提出创新的解决方法。",
+      "bounds_pt": [
+        765.6,
+        314.5,
+        159.7,
+        95.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "TextBox 47",
+      "type": "text",
+      "max_chars": 222,
+      "source_sample_chars": 111,
+      "source_text": "2026年个人职业技能提升计划重点在于设定清晰的发展目标和详细的执行计划。我将注重技能提升和专业知识学习，参与行业培训和项目管理，同时加强人际关系和团队合作能力。此外，我也将重视自我管理与健康保持，努力实现个人和职业目标。",
+      "bounds_pt": [
+        34.6,
+        451.2,
+        890.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "箭头: 五边形 34",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "2026年个人职业技能提升计划",
+      "bounds_pt": [
+        27.5,
+        82.9,
+        356.1,
+        51.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "述职汇报｜个人职业技能提升计划",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

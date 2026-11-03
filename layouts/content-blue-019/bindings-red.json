@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "强化品牌市场影响力",
+      "bounds_pt": [
+        553.7,
+        200.6,
+        143.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 152,
+      "source_sample_chars": 76,
+      "source_text": "提升品牌知名度：通过实施创新营销策略和品牌推广活动，市场认知度提升了25%。\n扩展市场覆盖：在新区域和新渠道开展业务，使品牌的市场覆盖面积扩大了18%。",
+      "bounds_pt": [
+        507.4,
+        297.5,
+        175.4,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "TextBox 161",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "影响力 +25%",
+      "bounds_pt": [
+        509.8,
+        479.1,
+        173.1,
+        27.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "增强员工满意度",
+      "bounds_pt": [
+        326.3,
+        222.7,
+        143.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 162,
+      "source_sample_chars": 81,
+      "source_text": "改善工作环境：引入了更灵活的工作安排和舒适的办公环境，员工满意度提升了20%。\n增加培训机会：提供了更多的职业培训和发展机会，员工的技能满意度和工作效率明显提高。",
+      "bounds_pt": [
+        283.5,
+        296.7,
+        175.4,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "TextBox 161",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "满意度 +20%",
+      "bounds_pt": [
+        284.8,
+        479.1,
+        173.1,
+        27.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "提升项目交付效率",
+      "bounds_pt": [
+        101.8,
+        222.9,
+        143.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 154,
+      "source_sample_chars": 77,
+      "source_text": "缩短交付时间：通过优化项目管理流程，我们成功将项目交付时间缩短了15%。\n减少项目超支：实施了严格的预算控制和风险管理策略，使得项目成本超支降低了10%。",
+      "bounds_pt": [
+        58.9,
+        297.5,
+        175.4,
+        129.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "TextBox 161",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "交付时间 +15%",
+      "bounds_pt": [
+        60.0,
+        479.8,
+        173.1,
+        27.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "改进客户服务质量",
+      "bounds_pt": [
+        772.2,
+        179.2,
+        143.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 194,
+      "source_sample_chars": 97,
+      "source_text": "优化服务流程：重构了客户服务流程，简化了服务步骤，客户响应时间缩短了30%。\n引入客户反馈机制：建立了客户反馈收集和处理机制。\n建立客户满意度调查：客户满意度调查结果显示，服务质量提升了15%。",
+      "bounds_pt": [
+        725.5,
+        255.4,
+        175.4,
+        181.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "TextBox 161",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "服务质量 +15%",
+      "bounds_pt": [
+        727.7,
+        479.4,
+        173.1,
+        27.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜工作成果展示",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "任意多边形: 形状 62",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "2026年度重点工作成果展示",
+      "bounds_pt": [
+        43.2,
+        86.4,
+        431.5,
+        47.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 116,
+      "source_sample_chars": 58,
+      "source_text": "在公司的战略指引和团队的通力协作下，我围绕年度核心目标，在业务增长、运营提效与团队建设等方面取得了一系列扎实的成果。",
+      "bounds_pt": [
+        43.2,
+        141.1,
+        431.5,
+        45.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

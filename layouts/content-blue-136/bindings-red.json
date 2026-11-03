@@ -1,0 +1,391 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜不足之处与改进方案",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "任意多边形: 形状 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "制定计划·改善不足",
+      "bounds_pt": [
+        497.6,
+        452.2,
+        418.9,
+        51.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "任意多边形: 形状 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "找出不足·分析原因",
+      "bounds_pt": [
+        43.5,
+        82.5,
+        418.9,
+        51.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "矩形: 圆角 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "效率低下",
+      "bounds_pt": [
+        60.0,
+        463.7,
+        93.6,
+        28.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "矩形: 圆角 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "进度滞后",
+      "bounds_pt": [
+        206.2,
+        463.7,
+        93.6,
+        28.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "矩形: 圆角 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "重复遗漏",
+      "bounds_pt": [
+        352.3,
+        463.7,
+        93.6,
+        28.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "矩形: 圆角 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "高效工具",
+      "bounds_pt": [
+        514.1,
+        94.0,
+        93.6,
+        28.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "矩形: 圆角 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "时间规划",
+      "bounds_pt": [
+        660.2,
+        94.0,
+        93.6,
+        28.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "矩形: 圆角 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "信任建设",
+      "bounds_pt": [
+        806.4,
+        94.0,
+        93.6,
+        28.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.沟通效率不足",
+      "bounds_pt": [
+        96.0,
+        141.2,
+        278.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "在工作中，尤其是跨部门协作时，沟通效率有时不够高，导致信息传递滞后，影响了项目的推进速度。",
+      "bounds_pt": [
+        96.0,
+        165.5,
+        285.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.时间管理不足",
+      "bounds_pt": [
+        96.5,
+        218.3,
+        278.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 100,
+      "source_sample_chars": 50,
+      "source_text": "由于同时处理多个项目，有时会出现工作优先级不清晰的情况导致某些任务的完成进度滞后，影响整体工作效率。",
+      "bounds_pt": [
+        96.5,
+        242.6,
+        285.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.团队协作不足",
+      "bounds_pt": [
+        96.0,
+        296.0,
+        278.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 104,
+      "source_sample_chars": 52,
+      "source_text": "在一些项目的执行过程中，团队成员之间的协作不够紧密，部分细节的沟通与分工不到位，导致了任务的重复或遗漏。",
+      "bounds_pt": [
+        96.0,
+        320.2,
+        285.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.利用工具沟通",
+      "bounds_pt": [
+        582.5,
+        218.4,
+        278.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "利用团队会议、邮件和即时通讯工具保持及时的沟通，并通过周报或月报的形式让各方了解工作的进展情况。",
+      "bounds_pt": [
+        582.5,
+        242.7,
+        285.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "02.建立优先级",
+      "bounds_pt": [
+        583.0,
+        295.5,
+        278.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "要更加注重时间规划，优先处理重要且紧急的工作任务，并学会合理分配时间给每个项目，确保高效完成。",
+      "bounds_pt": [
+        583.0,
+        319.8,
+        285.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.加强团队建设",
+      "bounds_pt": [
+        582.5,
+        373.2,
+        278.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "加强团队内部的协作与信任建设，定期召开项目总结会议，确保每个成员都能清楚了解自己的职责和任务。",
+      "bounds_pt": [
+        582.5,
+        397.4,
+        285.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "不足之处",
+      "bounds_pt": [
+        411.4,
+        242.8,
+        43.6,
+        104.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "改进方案",
+      "bounds_pt": [
+        500.1,
+        242.8,
+        43.6,
+        104.2
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

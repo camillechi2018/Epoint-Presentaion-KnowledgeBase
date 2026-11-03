@@ -1,0 +1,679 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "圆角矩形 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作挑战01",
+      "bounds_pt": [
+        62.4,
+        140.2,
+        100.0,
+        26.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "项目进度有延迟：",
+      "bounds_pt": [
+        54.3,
+        177.2,
+        154.9,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "圆角矩形 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "解决方案01",
+      "bounds_pt": [
+        62.4,
+        353.9,
+        100.0,
+        26.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "圆角矩形 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作挑战02",
+      "bounds_pt": [
+        235.6,
+        140.2,
+        100.0,
+        26.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "圆角矩形 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "解决方案02",
+      "bounds_pt": [
+        235.6,
+        353.9,
+        100.0,
+        26.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "圆角矩形 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作挑战03",
+      "bounds_pt": [
+        408.7,
+        140.2,
+        100.0,
+        26.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "圆角矩形 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "解决方案03",
+      "bounds_pt": [
+        408.7,
+        353.9,
+        100.0,
+        26.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        98.6,
+        88.1,
+        42.5,
+        32.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        276.1,
+        88.1,
+        42.5,
+        32.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        444.9,
+        88.1,
+        42.5,
+        32.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        618.9,
+        88.1,
+        42.5,
+        32.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        793.9,
+        88.1,
+        42.5,
+        32.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "圆角矩形 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作挑战04",
+      "bounds_pt": [
+        581.9,
+        140.2,
+        100.0,
+        26.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "圆角矩形 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "解决方案04",
+      "bounds_pt": [
+        581.9,
+        353.9,
+        100.0,
+        26.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "圆角矩形 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作挑战05",
+      "bounds_pt": [
+        755.1,
+        140.2,
+        100.0,
+        26.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "圆角矩形 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "解决方案05",
+      "bounds_pt": [
+        755.1,
+        353.9,
+        100.0,
+        26.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "没有及时对项目任务进行重新排序。\n没有将关键任务提到优先处理的地位。",
+      "bounds_pt": [
+        53.9,
+        202.0,
+        155.7,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "增加资源支持：",
+      "bounds_pt": [
+        53.7,
+        389.1,
+        156.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "根据项目需求调配更多的人员或外部资源。\n弥补因资源不足导致的进度延迟问题。",
+      "bounds_pt": [
+        53.7,
+        411.8,
+        156.2,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "团队成员沟通不畅：",
+      "bounds_pt": [
+        230.3,
+        177.2,
+        151.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "没有定期的团队会议，没有让成员了解进展。\n没有完善的汇报机制，导致各方进度不统一。",
+      "bounds_pt": [
+        230.3,
+        202.0,
+        148.3,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "明确沟通渠道和职责：",
+      "bounds_pt": [
+        227.8,
+        389.1,
+        153.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "制定清晰的沟通渠道和具体责任分配。\n确保每个团队成员知道向谁报告或反馈。",
+      "bounds_pt": [
+        229.1,
+        411.8,
+        152.2,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "客户需求不断变化：",
+      "bounds_pt": [
+        400.7,
+        177.2,
+        154.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "没有及时与客户保持定期的沟通，导致信息偏差。\n了解其最新需求和期望，没有及时调整项目方向。",
+      "bounds_pt": [
+        401.1,
+        202.0,
+        151.8,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "使用需求管理工具：",
+      "bounds_pt": [
+        402.5,
+        389.1,
+        151.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "使用需求管理工具记录客户需求的变化。\n所有需求变更都有清晰的记录和处理过程。",
+      "bounds_pt": [
+        403.3,
+        411.8,
+        148.0,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "资源分配不均：",
+      "bounds_pt": [
+        576.5,
+        177.2,
+        157.5,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "没有详细分析项目资源需求导致分配不均。\n没有确保所有任务和子任务都得到适当的资源分配。",
+      "bounds_pt": [
+        574.0,
+        202.0,
+        156.8,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "培训和多技能发展：",
+      "bounds_pt": [
+        576.5,
+        389.1,
+        155.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "培训团队成员掌握多项技能提高工作灵活性。\n资源紧张时能够灵活调配和使用各类资源。",
+      "bounds_pt": [
+        574.0,
+        411.8,
+        156.8,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "项目团队士气低落：",
+      "bounds_pt": [
+        755.0,
+        177.2,
+        151.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "没有及时给予团队成员正面反馈和表扬。\n团队创新能力水平与市场发展要求存在差距。",
+      "bounds_pt": [
+        755.0,
+        202.0,
+        151.8,
+        88.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "改善工作环境：",
+      "bounds_pt": [
+        754.8,
+        389.1,
+        151.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "TextBox 41",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "创造一个积极的工作环境提供舒适的办公条件。\n通过提升打造学习型组织文化，激发团队活力。",
+      "bounds_pt": [
+        755.0,
+        411.8,
+        151.8,
+        88.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜工作挑战与解决方案",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        98.6,
+        303.1,
+        42.5,
+        32.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        276.1,
+        303.1,
+        42.5,
+        32.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        444.9,
+        303.1,
+        42.5,
+        32.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        618.9,
+        303.1,
+        42.5,
+        32.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        793.9,
+        303.1,
+        42.5,
+        32.6
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 9,
+        "shape_name": "图片 8",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

@@ -1,0 +1,599 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜工作成果展示",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "矩形 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "运营效率提升成效显著",
+      "bounds_pt": [
+        43.2,
+        111.0,
+        209.8,
+        69.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "矩形 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "服务质量改善成果突出",
+      "bounds_pt": [
+        43.2,
+        191.8,
+        209.8,
+        69.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "矩形 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "数据驱动决策效果明显",
+      "bounds_pt": [
+        43.2,
+        272.6,
+        209.8,
+        69.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "矩形 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "成本控制取得显著成效",
+      "bounds_pt": [
+        43.2,
+        353.3,
+        209.8,
+        69.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "矩形 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "风险管理体系持续完善",
+      "bounds_pt": [
+        43.2,
+        434.1,
+        209.8,
+        69.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        27.9,
+        133.6,
+        30.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        27.9,
+        214.4,
+        30.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        27.9,
+        295.3,
+        30.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        27.9,
+        376.2,
+        30.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        27.9,
+        457.1,
+        30.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "实现流程自动化率60%，业务处理时长减少50%。\n优化人力资源配置，运营成本降低20%。\n引入智能排班系统，人力资源利用率提升25%。",
+      "bounds_pt": [
+        264.6,
+        115.9,
+        268.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "建立标准化服务体系，客户满意度提升至98%。\n客户投诉率下降40%，服务质量获得广泛认可。\n实施服务质量全程监控，确保服务标准统一。",
+      "bounds_pt": [
+        264.6,
+        196.7,
+        268.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 130,
+      "source_sample_chars": 65,
+      "source_text": "数据支持业务决策，决策准确率提升35%。\n建立运营数据分析模型，预测准确率达85%。\n数据驱动运营策略迭代，活动ROI提升28%。",
+      "bounds_pt": [
+        264.6,
+        277.6,
+        268.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "优化采购与预算管理流程，运营成本降低15%。\n资源利用率提升至85%，资源配置更加合理。\n推行精细化管理，各类运营费用显著下降。",
+      "bounds_pt": [
+        264.6,
+        358.5,
+        268.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 122,
+      "source_sample_chars": 61,
+      "source_text": "建立业务风险预警机制，完成连续性演练。\n重大运营事故零发生，业务连续性得到保障。\n建立应急响应机制，突发事件处置效率提升。",
+      "bounds_pt": [
+        264.6,
+        439.3,
+        268.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_116",
+      "shape_id": 116,
+      "shape_name": "文本框 115",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "重点工作成果",
+      "bounds_pt": [
+        43.2,
+        84.1,
+        91.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_117",
+      "shape_id": 117,
+      "shape_name": "文本框 116",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "具体工作成果",
+      "bounds_pt": [
+        264.6,
+        84.1,
+        91.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_118",
+      "shape_id": 118,
+      "shape_name": "文本框 117",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "数据展示",
+      "bounds_pt": [
+        643.0,
+        84.1,
+        91.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "888,888万元",
+      "bounds_pt": [
+        657.0,
+        242.7,
+        179.4,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "2026年上半年销售额",
+      "bounds_pt": [
+        657.0,
+        278.8,
+        203.9,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "上半年销售额增长超出预期目标，得益于新产品的推出和品牌知名度提升！",
+      "bounds_pt": [
+        657.0,
+        297.5,
+        246.7,
+        38.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "圆角矩形 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "第一季度业绩",
+      "bounds_pt": [
+        663.1,
+        343.7,
+        144.7,
+        14.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "总业绩",
+      "bounds_pt": [
+        828.9,
+        341.4,
+        63.8,
+        18.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "888,888万元",
+      "bounds_pt": [
+        657.3,
+        376.6,
+        179.4,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "2026年下半年销售额",
+      "bounds_pt": [
+        657.3,
+        412.7,
+        203.9,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "下半年销售额增长超出预期目标，得益于新产品的推出和品牌知名度提升！",
+      "bounds_pt": [
+        657.3,
+        431.4,
+        246.7,
+        38.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "圆角矩形 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "第三季度业绩",
+      "bounds_pt": [
+        663.4,
+        477.5,
+        126.7,
+        14.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "总业绩",
+      "bounds_pt": [
+        829.3,
+        475.2,
+        63.8,
+        18.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_129",
+      "shape_id": 129,
+      "shape_name": "文本框 128",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "人力资源利用率",
+      "bounds_pt": [
+        660.3,
+        196.0,
+        78.4,
+        17.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_130",
+      "shape_id": 130,
+      "shape_name": "文本框 129",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "人力运营成本",
+      "bounds_pt": [
+        746.7,
+        196.0,
+        72.6,
+        17.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_135",
+      "shape_id": 135,
+      "shape_name": "文本框 134",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "客户满意度",
+      "bounds_pt": [
+        830.1,
+        196.0,
+        72.5,
+        17.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_136",
+      "shape_id": 136,
+      "shape_name": "文本框 135",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "25%",
+      "bounds_pt": [
+        671.1,
+        168.1,
+        56.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_137",
+      "shape_id": 137,
+      "shape_name": "文本框 136",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "20%",
+      "bounds_pt": [
+        754.6,
+        168.1,
+        56.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_138",
+      "shape_id": 138,
+      "shape_name": "文本框 137",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "98%",
+      "bounds_pt": [
+        838.1,
+        168.1,
+        56.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "圆角矩形 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "重点数据展示",
+      "bounds_pt": [
+        660.3,
+        121.6,
+        244.5,
+        28.2
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 8,
+        "shape_name": "图片 7",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

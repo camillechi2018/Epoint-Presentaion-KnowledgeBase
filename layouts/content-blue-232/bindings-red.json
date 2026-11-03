@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "矩形 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "项目名称",
+      "bounds_pt": [
+        44.0,
+        82.3,
+        165.9,
+        39.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "矩形 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "项目步骤",
+      "bounds_pt": [
+        219.8,
+        82.3,
+        189.0,
+        39.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "矩形 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "项目具体执行步骤",
+      "bounds_pt": [
+        418.7,
+        82.3,
+        499.5,
+        39.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "五边形 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "产品研发上市",
+      "bounds_pt": [
+        44.0,
+        167.9,
+        151.8,
+        112.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜项目流程汇报",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "五边形 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "客户服务优化",
+      "bounds_pt": [
+        44.0,
+        356.5,
+        151.8,
+        112.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 01",
+      "bounds_pt": [
+        230.0,
+        143.5,
+        82.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "产品研发与规模测试",
+      "bounds_pt": [
+        229.7,
+        181.5,
+        171.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 02",
+      "bounds_pt": [
+        229.3,
+        238.1,
+        82.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "上市准备与全面推广",
+      "bounds_pt": [
+        228.9,
+        276.0,
+        172.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 03",
+      "bounds_pt": [
+        229.6,
+        332.7,
+        82.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "现状诊断与方案设计",
+      "bounds_pt": [
+        229.3,
+        370.7,
+        171.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 04",
+      "bounds_pt": [
+        230.0,
+        427.3,
+        82.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "试点运行与全面推广",
+      "bounds_pt": [
+        229.7,
+        465.3,
+        171.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 202,
+      "source_sample_chars": 101,
+      "source_text": "需求调研与方案设计：组织市场调研收集客户需求，完成产品功能定义和技术方案设计，输出需求文档和原型图。\n样品开发与测试验证：组建研发团队进行样品开发，完成内部功能测试和用户试用验证，根据反馈优化完善产品。",
+      "bounds_pt": [
+        524.6,
+        135.2,
+        378.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 166,
+      "source_sample_chars": 83,
+      "source_text": "上市物料准备：完成产品包装、说明书、宣传资料设计制作，准备销售培训和客服话术材料。\n市场推广执行：制定上市推广方案，开展线上线下预热活动，正式发布并跟进首月销售数据。",
+      "bounds_pt": [
+        524.6,
+        228.4,
+        378.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 168,
+      "source_sample_chars": 84,
+      "source_text": "服务流程梳理：全面调研现有服务流程各环节，收集客户投诉反馈，识别效率瓶颈和服务痛点。\n优化方案制定：针对诊断问题设计新服务流程，明确各环节标准和要求，形成优化方案报告。",
+      "bounds_pt": [
+        524.6,
+        324.4,
+        378.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 164,
+      "source_sample_chars": 82,
+      "source_text": "试点部门测试：选择1-2个试点部门试运行新流程，收集问题和建议，及时调整优化方案。\n全员培训推广：组织全员培训宣贯新流程，正式全面推广运行，建立常态化监控评估机制。",
+      "bounds_pt": [
+        524.6,
+        419.1,
+        378.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "图片 6",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

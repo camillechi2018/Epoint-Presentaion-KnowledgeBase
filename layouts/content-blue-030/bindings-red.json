@@ -1,0 +1,471 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜工作中的亮点",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "五边形 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点01",
+      "bounds_pt": [
+        42.5,
+        223.5,
+        151.5,
+        31.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "燕尾形 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点02",
+      "bounds_pt": [
+        190.5,
+        223.5,
+        151.5,
+        31.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "燕尾形 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点03",
+      "bounds_pt": [
+        338.6,
+        223.5,
+        151.5,
+        31.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "燕尾形 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点04",
+      "bounds_pt": [
+        486.6,
+        223.5,
+        151.5,
+        31.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "圆角矩形 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        56.2,
+        82.2,
+        74.5,
+        30.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "圆角矩形 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        351.6,
+        82.2,
+        74.5,
+        30.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "圆角矩形 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        203.8,
+        366.5,
+        74.5,
+        30.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "圆角矩形 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        503.0,
+        366.5,
+        74.5,
+        30.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "圆角矩形 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "总结",
+      "bounds_pt": [
+        648.1,
+        82.2,
+        258.8,
+        30.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "市场拓展：成功开拓了华南，华东3个新区域市场，营收贡献达25%。\n产品创新：推出了2款新产品，获得了5项专利申请，营收占比超30%。",
+      "bounds_pt": [
+        56.2,
+        119.5,
+        258.8,
+        92.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 146,
+      "source_sample_chars": 73,
+      "source_text": "人才优化：引进高校人才10名，核心人才保留率95%，团队能力显著增强。\n效能提升：人均效能提升35%，沟通交流更高效，跨部门协作效率提升了40%。",
+      "bounds_pt": [
+        351.3,
+        119.5,
+        258.8,
+        92.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 148,
+      "source_sample_chars": 74,
+      "source_text": "流程优化：核心业务流程时效提升50%，月省工时1500小时，提升了工作效率。\n成本控制：运营成本降低20%，资源分配更合理，资源利用率提升至90%。",
+      "bounds_pt": [
+        203.8,
+        265.3,
+        258.8,
+        92.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "服务体系：建立全渠道智能客服，提升回复效率，客户满意度达96%。\n客户价值：大客户续约率95%，业绩持续稳步增长，交叉销售增长40%。",
+      "bounds_pt": [
+        499.0,
+        265.3,
+        258.8,
+        92.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "业务增长突破",
+      "bounds_pt": [
+        130.7,
+        83.8,
+        183.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "团队建设成效",
+      "bounds_pt": [
+        426.1,
+        83.8,
+        183.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "运营效率提升",
+      "bounds_pt": [
+        279.4,
+        368.4,
+        183.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "客户服务升级",
+      "bounds_pt": [
+        574.9,
+        368.4,
+        183.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "市场与产品双轮驱动",
+      "bounds_pt": [
+        56.2,
+        463.4,
+        181.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "运营效能显著提升",
+      "bounds_pt": [
+        278.6,
+        463.4,
+        181.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "人才梯队持续优化",
+      "bounds_pt": [
+        501.1,
+        463.4,
+        181.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "客户价值深度挖掘",
+      "bounds_pt": [
+        723.5,
+        463.4,
+        181.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "圆角矩形 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "核心工作成果01",
+      "bounds_pt": [
+        56.2,
+        429.5,
+        181.0,
+        24.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "圆角矩形 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "核心工作成果02",
+      "bounds_pt": [
+        278.6,
+        429.5,
+        181.0,
+        24.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "圆角矩形 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "核心工作成果03",
+      "bounds_pt": [
+        501.1,
+        429.5,
+        181.0,
+        24.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "圆角矩形 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "核心工作成果04",
+      "bounds_pt": [
+        723.5,
+        429.5,
+        181.0,
+        24.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "业务规模与质量双提升\n运营效率与团队效能双突破",
+      "bounds_pt": [
+        670.9,
+        138.9,
+        213.2,
+        48.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "2026年工作亮点总结",
+      "bounds_pt": [
+        695.4,
+        226.2,
+        163.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 11,
+        "shape_name": "图片 10",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

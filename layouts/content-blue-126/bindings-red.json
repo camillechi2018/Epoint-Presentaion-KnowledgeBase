@@ -1,0 +1,375 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "任意多边形: 形状 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "四象限\n时间管理",
+      "bounds_pt": [
+        423.3,
+        236.6,
+        113.3,
+        113.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "重要",
+      "bounds_pt": [
+        458.8,
+        82.3,
+        42.0,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "不重要",
+      "bounds_pt": [
+        454.4,
+        484.7,
+        50.9,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "不紧急",
+      "bounds_pt": [
+        43.2,
+        283.4,
+        50.9,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "紧急",
+      "bounds_pt": [
+        865.9,
+        283.4,
+        50.9,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 206,
+      "source_sample_chars": 103,
+      "source_text": "特点：这些任务虽然不需要立即完成，但对长远发展和实现目标至关重要。\n例子：制定长期计划、学习新技能、定期评估工作进展等。\n行动：安排时间来执行这类任务，避免拖延，把时间预留给这些任务，以保证工作与自我提升。",
+      "bounds_pt": [
+        158.4,
+        124.3,
+        247.9,
+        114.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "占用时间：60%",
+      "bounds_pt": [
+        158.4,
+        243.3,
+        247.9,
+        27.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "重要不紧急",
+      "bounds_pt": [
+        171.0,
+        87.1,
+        235.3,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 178,
+      "source_sample_chars": 89,
+      "source_text": "特点：这些任务需要立刻处理，不处理可能会造成严重后果。\n例子：临时紧急的客户需求、上级的紧急指示、重要的项目截止日期等。\n行动：执行重要工作任务，优先处理这些任务，确保按时完成。",
+      "bounds_pt": [
+        158.4,
+        124.3,
+        247.9,
+        114.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "占用时间：30%",
+      "bounds_pt": [
+        158.4,
+        243.3,
+        247.9,
+        27.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "重要且紧急",
+      "bounds_pt": [
+        158.4,
+        87.1,
+        247.9,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 176,
+      "source_sample_chars": 88,
+      "source_text": "特点：这些任务既不紧急也不重要，消耗时间但并没有实际价值。\n例子：无意义的社交媒体浏览、网页浏览和下午茶闲聊等。\n行动：减少这些活动的时间，或者彻底避免，确保专注于重要的工作。",
+      "bounds_pt": [
+        158.4,
+        124.3,
+        247.9,
+        114.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "占用时间：1%",
+      "bounds_pt": [
+        158.4,
+        243.3,
+        247.9,
+        27.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "不重要不紧急",
+      "bounds_pt": [
+        172.3,
+        87.1,
+        233.9,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 196,
+      "source_sample_chars": 98,
+      "source_text": "特点：这些任务可能看起来紧急，但对工作目标的实现并不重要。\n例子：不重要的会议、同事的无关打扰、重复的邮件回复等。\n行动：尽量减少此类任务的时间消耗，可以考虑委派给他人，或者通过更高效的方式处理。",
+      "bounds_pt": [
+        158.4,
+        124.3,
+        247.9,
+        114.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "占用时间：9%",
+      "bounds_pt": [
+        158.4,
+        243.3,
+        247.9,
+        27.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "紧急不重要",
+      "bounds_pt": [
+        158.4,
+        87.1,
+        247.9,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第三象限",
+      "bounds_pt": [
+        67.9,
+        384.9,
+        36.4,
+        80.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第四象限",
+      "bounds_pt": [
+        855.8,
+        385.1,
+        36.4,
+        80.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二象限",
+      "bounds_pt": [
+        67.9,
+        157.5,
+        36.4,
+        80.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一象限",
+      "bounds_pt": [
+        855.8,
+        157.7,
+        36.4,
+        80.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "述职汇报｜四象限时间管理",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 24,
+        "shape_name": "图片 23",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

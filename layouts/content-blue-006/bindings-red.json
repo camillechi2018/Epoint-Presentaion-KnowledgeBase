@@ -1,0 +1,727 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜主要工作职责",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "矩形: 圆角 33",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "制定市场策略，驱动业务增长",
+      "bounds_pt": [
+        56.4,
+        452.2,
+        263.9,
+        37.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "矩形: 圆角 34",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "构建销售体系，提升渠道效能",
+      "bounds_pt": [
+        348.4,
+        452.2,
+        263.9,
+        37.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "矩形: 圆角 35",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "强化品牌影响，保障持续增长",
+      "bounds_pt": [
+        640.5,
+        452.2,
+        263.9,
+        37.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "分析行业动态与竞争情报，识别市场机会与潜在风险。",
+      "bounds_pt": [
+        161.6,
+        182.5,
+        159.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "矩形: 圆角 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "市场分析",
+      "bounds_pt": [
+        161.6,
+        155.8,
+        78.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "构建和完善销售管理体系，包括销售流程与激励机制。",
+      "bounds_pt": [
+        181.4,
+        280.2,
+        159.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "矩形: 圆角 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "体系搭建",
+      "bounds_pt": [
+        181.4,
+        253.5,
+        78.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "制定实施品牌推广计划，提升品牌知名度和市场影响力。",
+      "bounds_pt": [
+        161.6,
+        377.9,
+        159.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "矩形: 圆角 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "品牌建设",
+      "bounds_pt": [
+        161.6,
+        351.2,
+        78.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "制定市场进入、品牌定位、产品上市及渠道建设等业务策略。",
+      "bounds_pt": [
+        327.8,
+        182.5,
+        159.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "矩形: 圆角 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "策略制定",
+      "bounds_pt": [
+        327.8,
+        155.8,
+        78.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "开拓和管理各类销售渠道，建立稳固、互利的合作伙伴关系。",
+      "bounds_pt": [
+        347.5,
+        280.2,
+        159.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "矩形: 圆角 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "渠道拓展",
+      "bounds_pt": [
+        347.5,
+        253.5,
+        78.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "策划并执行线上线下整合营销活动，获取潜客并促进转化。",
+      "bounds_pt": [
+        327.8,
+        377.9,
+        159.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "矩形: 圆角 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "营销活动",
+      "bounds_pt": [
+        327.8,
+        351.2,
+        78.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "基于公司战略，制定年度销售与市场目标，并进行合理分解。",
+      "bounds_pt": [
+        494.0,
+        182.5,
+        159.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "矩形: 圆角 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "目标设定",
+      "bounds_pt": [
+        494.0,
+        155.8,
+        78.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "建立客户管理体系，维护关键客户关系，深度挖掘客户价值。",
+      "bounds_pt": [
+        513.7,
+        280.2,
+        159.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "矩形: 圆角 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "客户管理",
+      "bounds_pt": [
+        513.7,
+        253.5,
+        78.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "利用SEO、社交媒体、内容营销等数字化手段驱动业务增长。",
+      "bounds_pt": [
+        494.0,
+        377.9,
+        159.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "矩形: 圆角 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "数字营销",
+      "bounds_pt": [
+        494.0,
+        351.2,
+        78.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "将业务策略转化为具体的、可执行的行动计划，并监督落实。",
+      "bounds_pt": [
+        660.2,
+        182.5,
+        159.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "矩形: 圆角 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "计划执行",
+      "bounds_pt": [
+        660.2,
+        155.8,
+        78.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "负责销售团队的招募、培训与管理，提升团队整体作战能力。",
+      "bounds_pt": [
+        679.9,
+        280.2,
+        159.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "矩形: 圆角 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "团队赋能",
+      "bounds_pt": [
+        679.9,
+        253.5,
+        78.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "建立营销评估体系，通过数据分析优化投放策略，提升ROI。",
+      "bounds_pt": [
+        660.2,
+        377.9,
+        159.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "矩形: 圆角 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "效果评估",
+      "bounds_pt": [
+        660.2,
+        351.2,
+        78.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "职责",
+      "bounds_pt": [
+        62.6,
+        100.0,
+        54.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "细分职责01",
+      "bounds_pt": [
+        148.9,
+        100.0,
+        136.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "细分职责02",
+      "bounds_pt": [
+        314.8,
+        99.7,
+        136.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "细分职责03",
+      "bounds_pt": [
+        480.6,
+        99.4,
+        136.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "细分职责04",
+      "bounds_pt": [
+        646.4,
+        99.1,
+        136.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "文本框 94",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "关键点",
+      "bounds_pt": [
+        839.6,
+        97.5,
+        77.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "矩形: 圆角 95",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "战略",
+      "bounds_pt": [
+        853.6,
+        165.8,
+        50.9,
+        50.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "矩形: 圆角 96",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "体系",
+      "bounds_pt": [
+        853.6,
+        263.5,
+        50.9,
+        50.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "矩形: 圆角 97",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "增长",
+      "bounds_pt": [
+        853.6,
+        361.2,
+        50.9,
+        50.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "文本框 98",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "key points",
+      "bounds_pt": [
+        839.6,
+        118.5,
+        78.6,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "市场战略",
+      "bounds_pt": [
+        51.6,
+        167.9,
+        90.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_114",
+      "shape_id": 114,
+      "shape_name": "文本框 113",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "Market strategy",
+      "bounds_pt": [
+        51.6,
+        194.2,
+        90.2,
+        18.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "销售体系",
+      "bounds_pt": [
+        51.6,
+        265.2,
+        88.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_115",
+      "shape_id": 115,
+      "shape_name": "文本框 114",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "Sales system",
+      "bounds_pt": [
+        51.6,
+        292.3,
+        84.9,
+        18.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "品牌推广",
+      "bounds_pt": [
+        46.8,
+        363.2,
+        97.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_116",
+      "shape_id": 116,
+      "shape_name": "文本框 115",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "Brand promotion",
+      "bounds_pt": [
+        46.8,
+        389.7,
+        97.9,
+        18.2
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

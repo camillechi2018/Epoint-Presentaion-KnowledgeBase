@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜重点工作成果展示",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "任意多边形: 形状 62",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "2026年度重点工作成果展示",
+      "bounds_pt": [
+        43.2,
+        86.4,
+        350.6,
+        47.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_111",
+      "shape_id": 111,
+      "shape_name": "立方体 110",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.开拓新兴市场",
+      "bounds_pt": [
+        43.5,
+        409.1,
+        175.5,
+        94.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "立方体 111",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.创新产品体系",
+      "bounds_pt": [
+        218.3,
+        361.7,
+        175.5,
+        94.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_113",
+      "shape_id": 113,
+      "shape_name": "立方体 112",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.优化销售体系",
+      "bounds_pt": [
+        393.1,
+        314.3,
+        175.5,
+        94.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_114",
+      "shape_id": 114,
+      "shape_name": "立方体 113",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.提升品牌影响",
+      "bounds_pt": [
+        567.9,
+        266.9,
+        175.5,
+        94.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_115",
+      "shape_id": 115,
+      "shape_name": "立方体 114",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "05.优化客户结构",
+      "bounds_pt": [
+        742.7,
+        219.6,
+        175.5,
+        94.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "成功进入东南亚市场，完成首年500万销售目标。\n建立了核心渠道合作伙伴，为持续增长奠定基础。",
+      "bounds_pt": [
+        51.1,
+        291.1,
+        162.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "文本框 81",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "新产品营收占比已达15%，成为新增长引擎。\n完成了核心产品版本的迭代升级，满意度提升25%。",
+      "bounds_pt": [
+        226.1,
+        243.6,
+        162.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "完成销售激励机制重构，人均效能提升25%。\n优化销售漏斗管理，线索转化率提升18%。",
+      "bounds_pt": [
+        401.0,
+        196.2,
+        162.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "品牌搜索量同比增长80%，行业知名度大幅提高。\n荣获“年度创新企业”奖项品牌美誉度获得认可。",
+      "bounds_pt": [
+        575.9,
+        148.7,
+        162.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "文本框 84",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "新增8家行业标杆客户，战略客户营收占比达40%。\n客户满意度提升至95%，客户黏性进一步增强。",
+      "bounds_pt": [
+        750.8,
+        101.3,
+        162.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "矩形: 圆角 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "重点成果：业务增长与市场突破",
+      "bounds_pt": [
+        596.1,
+        377.3,
+        308.2,
+        24.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "完成销售目标",
+      "bounds_pt": [
+        598.2,
+        444.5,
+        89.2,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "500万元",
+      "bounds_pt": [
+        598.2,
+        415.5,
+        89.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "矩形: 圆角 102",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "重点成果数据展示",
+      "bounds_pt": [
+        596.1,
+        476.0,
+        308.2,
+        18.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_104",
+      "shape_id": 104,
+      "shape_name": "文本框 103",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "品牌搜索量增长",
+      "bounds_pt": [
+        705.7,
+        444.5,
+        89.2,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_105",
+      "shape_id": 105,
+      "shape_name": "文本框 104",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "80%",
+      "bounds_pt": [
+        723.1,
+        415.5,
+        54.3,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_106",
+      "shape_id": 106,
+      "shape_name": "文本框 105",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "客户营收占比",
+      "bounds_pt": [
+        813.2,
+        444.5,
+        89.2,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_107",
+      "shape_id": 107,
+      "shape_name": "文本框 106",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "40%",
+      "bounds_pt": [
+        830.6,
+        415.5,
+        54.3,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 160,
+      "source_sample_chars": 80,
+      "source_text": "2026年，在公司的战略指引和团队的通力协作下，我围绕年度核心目标，在业务增长、运营提效与团队建设等方面取得了一系列扎实的成果。现将本年度重点工作成果汇报如下：",
+      "bounds_pt": [
+        43.2,
+        141.1,
+        349.9,
+        65.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

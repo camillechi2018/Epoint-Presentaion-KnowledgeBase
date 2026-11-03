@@ -1,0 +1,174 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "数字化营销优化项目",
+      "bounds_pt": [
+        661.1,
+        93.7,
+        148.1,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 146,
+      "source_sample_chars": 73,
+      "source_text": "该项目旨在通过优化数字营销策略和渠道，提升品牌在目标市场的可见性和吸引力。重点包括SEO优化、社交媒体策略和内容营销，以增加线上客户获取和转化率。",
+      "bounds_pt": [
+        661.6,
+        120.7,
+        234.5,
+        51.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "客户服务体验升级计划",
+      "bounds_pt": [
+        661.1,
+        201.0,
+        205.2,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 116,
+      "source_sample_chars": 58,
+      "source_text": "本项目旨在提升客户服务质量和响应速度，通过优化服务流程、培训客服团队和引入新技术解决方案，以增强客户满意度和忠诚度。",
+      "bounds_pt": [
+        661.6,
+        228.0,
+        234.5,
+        51.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "新市场拓展战略",
+      "bounds_pt": [
+        661.1,
+        308.8,
+        148.1,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 112,
+      "source_sample_chars": 56,
+      "source_text": "该项目计划开拓新的地理和行业市场，通过市场调研、分析竞争对手和制定市场进入策略，实现公司业务增长和市场份额扩展。",
+      "bounds_pt": [
+        661.6,
+        335.8,
+        234.5,
+        51.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "技术基础设施升级计划",
+      "bounds_pt": [
+        661.1,
+        417.3,
+        186.3,
+        23.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 112,
+      "source_sample_chars": 56,
+      "source_text": "本项目旨在升级和优化公司的核心技术基础设施，包括网络安全、数据管理和云计算平台，以支持业务的持续增长和创新发展。",
+      "bounds_pt": [
+        661.6,
+        444.3,
+        234.5,
+        51.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "甘特图｜项目规划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [
+      {
+        "shape_id": 2,
+        "shape_name": "Table 15",
+        "rows": 13,
+        "columns": 5
+      }
+    ],
+    "images": [
+      {
+        "shape_id": 11,
+        "shape_name": "图片 10",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

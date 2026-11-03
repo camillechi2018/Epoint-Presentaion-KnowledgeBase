@@ -1,0 +1,487 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜工作中的创新方式",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "五边形 23",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "创新方式01｜业务拓展创新",
+      "bounds_pt": [
+        51.4,
+        82.6,
+        248.7,
+        33.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "五边形 24",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "创新方式03｜团队赋能创新",
+      "bounds_pt": [
+        344.0,
+        82.6,
+        248.7,
+        33.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "五边形 25",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "创新方式05｜工作方法创新",
+      "bounds_pt": [
+        636.6,
+        82.6,
+        248.7,
+        33.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "五边形 26",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "创新方式02｜运营效率创新",
+      "bounds_pt": [
+        197.9,
+        470.7,
+        248.7,
+        33.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "五边形 27",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "创新方式04｜客户服务创新",
+      "bounds_pt": [
+        491.1,
+        470.7,
+        248.7,
+        33.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "矩形 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "前瞻思维",
+      "bounds_pt": [
+        797.8,
+        395.4,
+        119.7,
+        31.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "矩形 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "数字赋能",
+      "bounds_pt": [
+        797.8,
+        433.9,
+        119.7,
+        31.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "矩形 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "实效验证",
+      "bounds_pt": [
+        797.8,
+        472.5,
+        119.7,
+        31.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "创建“生态合作+场景化营销\"新模式，通过联合行业伙伴打造方案，新客户获取量同比增长60%。",
+      "bounds_pt": [
+        51.4,
+        142.2,
+        248.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "实施“模块化+可配置”产品架构，通过灵活组合满足差异化需求，使产品市场覆盖率提升45%。",
+      "bounds_pt": [
+        51.4,
+        208.9,
+        248.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2.产品策略创新",
+      "bounds_pt": [
+        51.4,
+        183.5,
+        248.7,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "1.产品策略创新",
+      "bounds_pt": [
+        51.4,
+        116.8,
+        248.7,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "试行“敏捷小组+专家支持”的网状组织结构，通过灵活配置提升团队响应速度50%。",
+      "bounds_pt": [
+        344.0,
+        142.2,
+        248.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "设计“项目跟投+价值分享”激励模式，通过利益共享激发团队创新活力。",
+      "bounds_pt": [
+        344.0,
+        208.9,
+        248.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2.激励机制创新",
+      "bounds_pt": [
+        344.0,
+        183.5,
+        248.7,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "1.组织架构创新",
+      "bounds_pt": [
+        344.0,
+        116.8,
+        248.7,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "推行“设计思维+快速原型”工作法，通过用户视角和快速验证，提升解决方案有效性。",
+      "bounds_pt": [
+        636.7,
+        142.2,
+        248.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "构建“智能知识图谱”系统，通过语义关联和智能使知识复用率提升80%。",
+      "bounds_pt": [
+        636.7,
+        208.9,
+        248.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2.知识管理创新",
+      "bounds_pt": [
+        636.7,
+        183.5,
+        248.7,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "1.问题解决创新",
+      "bounds_pt": [
+        636.7,
+        116.8,
+        248.7,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "打造“预测式服务”体系，通过数据分析预判客户需求，实现服务从被动响应到主动预防。",
+      "bounds_pt": [
+        490.8,
+        359.8,
+        248.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "建立“客户创新实验室”，邀请重。点客户参与产品共创，显著提升客户黏性和满意度。",
+      "bounds_pt": [
+        490.8,
+        426.5,
+        248.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2.价值共创创新",
+      "bounds_pt": [
+        490.8,
+        401.1,
+        248.7,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "1.服务交付创新",
+      "bounds_pt": [
+        490.8,
+        334.4,
+        248.7,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "开发“流程数字孪生”系统，通过模拟仿真预判流程瓶颈，使流程优化精准度提升70%。",
+      "bounds_pt": [
+        197.7,
+        359.8,
+        248.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "建立“动态资源池”管理机制，根据项目优先级智能调配资源，使资源利用率达92%。",
+      "bounds_pt": [
+        197.7,
+        426.5,
+        248.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2.资源调配创新",
+      "bounds_pt": [
+        197.7,
+        401.1,
+        248.7,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "1.流程管理创新",
+      "bounds_pt": [
+        197.7,
+        334.4,
+        248.7,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

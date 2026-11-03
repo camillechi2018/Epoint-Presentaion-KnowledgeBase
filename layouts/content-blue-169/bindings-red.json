@@ -1,0 +1,366 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 16,
+      "source_text": "述职汇报｜上半年我完成了多少业绩",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "1000W",
+      "bounds_pt": [
+        63.3,
+        125.9,
+        168.9,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "466W",
+      "bounds_pt": [
+        284.8,
+        125.9,
+        168.9,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "534W",
+      "bounds_pt": [
+        506.3,
+        125.9,
+        168.9,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "较去年同期增长20%",
+      "bounds_pt": [
+        43.2,
+        170.0,
+        209.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "较去年同期下降18%",
+      "bounds_pt": [
+        264.7,
+        170.0,
+        209.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "较去年同期增长22%",
+      "bounds_pt": [
+        486.1,
+        170.0,
+        209.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "96%",
+      "bounds_pt": [
+        802.7,
+        124.8,
+        60.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "业绩达成率",
+      "bounds_pt": [
+        727.3,
+        95.8,
+        36.4,
+        98.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "矩形 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作完成情况",
+      "bounds_pt": [
+        707.6,
+        213.3,
+        209.2,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "客户深度开发",
+      "bounds_pt": [
+        741.6,
+        252.4,
+        160.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "成功签约3家百万级核心客户，带动上半年业绩增长15%。",
+      "bounds_pt": [
+        721.6,
+        269.4,
+        182.4,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "产品竞争力提升",
+      "bounds_pt": [
+        741.6,
+        315.4,
+        160.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "收集整理市场反馈，主导完成主力产品3项功能升级。",
+      "bounds_pt": [
+        720.9,
+        332.4,
+        182.4,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "销售渠道拓展",
+      "bounds_pt": [
+        741.6,
+        378.3,
+        160.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "开发2个新区域代理商，覆盖华东地区空白市场。",
+      "bounds_pt": [
+        720.1,
+        395.4,
+        182.4,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "销售团队赋能",
+      "bounds_pt": [
+        741.6,
+        441.3,
+        160.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "组织4场销售技巧培训，团队成单率提升15%。",
+      "bounds_pt": [
+        719.4,
+        458.4,
+        182.4,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "矩形: 圆角 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "销售金额（万元）",
+      "bounds_pt": [
+        63.4,
+        96.2,
+        168.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "矩形: 圆角 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "销售成本（万元）",
+      "bounds_pt": [
+        284.9,
+        96.3,
+        168.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "矩形: 圆角 76",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "销售利润（万元）",
+      "bounds_pt": [
+        506.4,
+        96.5,
+        168.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 18,
+        "shape_name": "图表 17",
+        "categories_max": 8,
+        "series_max": 4
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

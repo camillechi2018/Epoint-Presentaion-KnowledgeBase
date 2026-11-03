@@ -1,0 +1,391 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_109",
+      "shape_id": 109,
+      "shape_name": "任意形状 108",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 01",
+      "bounds_pt": [
+        355.1,
+        82.3,
+        94.3,
+        94.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_110",
+      "shape_id": 110,
+      "shape_name": "任意形状 109",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 02",
+      "bounds_pt": [
+        355.1,
+        191.3,
+        94.3,
+        94.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_111",
+      "shape_id": 111,
+      "shape_name": "任意形状 110",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 03",
+      "bounds_pt": [
+        355.1,
+        300.3,
+        94.3,
+        94.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "任意形状 111",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 04",
+      "bounds_pt": [
+        355.1,
+        409.3,
+        94.3,
+        94.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_114",
+      "shape_id": 114,
+      "shape_name": "文本框 113",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜阶段工作流程",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "阶段工作流程",
+      "bounds_pt": [
+        188.5,
+        269.1,
+        132.3,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "启动规划",
+      "bounds_pt": [
+        480.7,
+        96.5,
+        422.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "与相关方沟通确认项目的核心目标、预期成果和成功衡量标准，形成正式的项目章程文档，确保所有参与方对目标理解一致。",
+      "bounds_pt": [
+        480.7,
+        121.9,
+        422.9,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "方案设计",
+      "bounds_pt": [
+        480.7,
+        205.9,
+        422.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "设计详细的技术方案或业务方案，明确实现路径、核心方法和关键举措，组织相关部门进行方案评审，收集意见并优化完善。",
+      "bounds_pt": [
+        480.7,
+        231.3,
+        422.9,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "执行推进",
+      "bounds_pt": [
+        480.7,
+        314.5,
+        422.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 100,
+      "source_sample_chars": 50,
+      "source_text": "根据制定的时间表有序开展各项工作，建立日/周例会机制，及时跟进任务完成情况，确保各项工作按节点推进。",
+      "bounds_pt": [
+        480.7,
+        339.9,
+        422.9,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "验收复盘",
+      "bounds_pt": [
+        480.7,
+        423.1,
+        422.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 106,
+      "source_sample_chars": 53,
+      "source_text": "对照项目目标和交付标准逐项进行验收工作成果，收集各相关方反馈的意见和建议，确保各项交付物质量符合预期要求。",
+      "bounds_pt": [
+        480.7,
+        448.5,
+        422.9,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "圆角矩形 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "核心目标",
+      "bounds_pt": [
+        733.7,
+        96.5,
+        77.8,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "圆角矩形 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "目标一致",
+      "bounds_pt": [
+        825.9,
+        96.5,
+        77.8,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "圆角矩形 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "各方评审",
+      "bounds_pt": [
+        733.7,
+        205.2,
+        77.8,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "圆角矩形 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "优化完善",
+      "bounds_pt": [
+        825.9,
+        205.2,
+        77.8,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "圆角矩形 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "有序推进",
+      "bounds_pt": [
+        733.7,
+        314.1,
+        77.8,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "圆角矩形 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "跟进情况",
+      "bounds_pt": [
+        825.9,
+        314.1,
+        77.8,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "圆角矩形 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "验收成果",
+      "bounds_pt": [
+        733.7,
+        423.0,
+        77.8,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "圆角矩形 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "交付质量",
+      "bounds_pt": [
+        825.9,
+        423.0,
+        77.8,
+        25.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "Phase Workflow",
+      "bounds_pt": [
+        188.5,
+        305.3,
+        132.3,
+        20.0
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

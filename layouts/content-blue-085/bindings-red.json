@@ -1,0 +1,439 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 16,
+      "source_text": "述职汇报｜上半年我完成了多少项目",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "任意多边形: 形状 25",
+      "type": "text",
+      "max_chars": 130,
+      "source_sample_chars": 65,
+      "source_text": "第一季度完成系统升级与客户调研，夯实基础；第二季度突破市场推广与流程自动化，成效显著。各项目稳步推进，为全年目标达成奠定坚实基础。",
+      "bounds_pt": [
+        43.4,
+        457.0,
+        873.0,
+        47.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "第一季度我完成的项目",
+      "bounds_pt": [
+        52.6,
+        90.0,
+        345.2,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "一.业务系统升级",
+      "bounds_pt": [
+        56.3,
+        185.9,
+        172.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "二.客户满意度调研",
+      "bounds_pt": [
+        281.2,
+        185.9,
+        172.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "三.新产品市场推广",
+      "bounds_pt": [
+        506.1,
+        185.9,
+        172.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "四.业务流程自动化",
+      "bounds_pt": [
+        730.9,
+        185.9,
+        172.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "系统功能优化",
+      "bounds_pt": [
+        73.3,
+        229.2,
+        157.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "完成核心模块重构，系统响应速度提升40%。\n新增数据可视化看板，实现5类关键业务指标的实时监控。",
+      "bounds_pt": [
+        55.0,
+        250.3,
+        175.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "落地推广成效",
+      "bounds_pt": [
+        73.3,
+        336.4,
+        157.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 98,
+      "source_sample_chars": 49,
+      "source_text": "组织3场培训覆盖80人次，用户操作考核通过率100%。\n系统上线后稳定运行，用户投诉率下降35%。",
+      "bounds_pt": [
+        55.0,
+        357.5,
+        175.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "调研执行情况",
+      "bounds_pt": [
+        298.1,
+        229.2,
+        157.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 104,
+      "source_sample_chars": 52,
+      "source_text": "完成200+客户问卷调研，重点访谈20家VIP客户。\n收集有效改进建议28条，覆盖产品、服务等5个维度。",
+      "bounds_pt": [
+        279.9,
+        250.3,
+        175.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "成果转化应用",
+      "bounds_pt": [
+        298.1,
+        336.4,
+        157.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "输出10页分析报告，识别3个关键改进点。\n推动制定5项改进措施，2项已在Q2落地。",
+      "bounds_pt": [
+        279.9,
+        357.5,
+        175.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "推广活动实施",
+      "bounds_pt": [
+        523.0,
+        229.2,
+        157.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "举办4场线下推介会，吸引200+客户参与。\n同步开展线上直播，累计观看突破5000人次。",
+      "bounds_pt": [
+        504.7,
+        250.3,
+        175.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "营销业绩达成",
+      "bounds_pt": [
+        523.0,
+        336.4,
+        157.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "新增意向客户85家，其中重点客户25家。\n实现销售额1200万，超额完成目标30%。",
+      "bounds_pt": [
+        504.7,
+        357.5,
+        175.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "系统建设成果",
+      "bounds_pt": [
+        747.8,
+        229.2,
+        157.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "完成报销、考勤等3个核心流程自动化开发。\n通过压力测试，支持200人并发操作。",
+      "bounds_pt": [
+        729.6,
+        250.3,
+        175.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "实施效果评估",
+      "bounds_pt": [
+        747.8,
+        336.4,
+        157.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "平均处理时间缩短65%，月省320人工时。\n试点部门的错误率从8%降至2%有效提升工作效率。",
+      "bounds_pt": [
+        729.6,
+        357.5,
+        175.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "第二季度我完成的项目",
+      "bounds_pt": [
+        562.2,
+        90.0,
+        345.2,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 122,
+      "source_sample_chars": 61,
+      "source_text": "第一季度重点推进系统升级和客户调研两大项目。系统升级显著提升运行效率，客户调研为服务优化提供数据支持，为全年工作打下基础。",
+      "bounds_pt": [
+        52.1,
+        120.9,
+        314.5,
+        38.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 98,
+      "source_sample_chars": 49,
+      "source_text": "第二季度聚焦市场拓展和运营提效，新产品推广实现销售突破，流程自动化提升工作效率，超额完成季度目标。",
+      "bounds_pt": [
+        593.2,
+        120.9,
+        314.5,
+        38.5
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

@@ -1,0 +1,599 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "矩形: 圆角 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "具体性",
+      "bounds_pt": [
+        57.4,
+        276.4,
+        133.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "矩形: 圆角 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "可衡量性",
+      "bounds_pt": [
+        235.4,
+        276.0,
+        133.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "矩形: 圆角 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "可达成性",
+      "bounds_pt": [
+        413.4,
+        275.5,
+        133.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "矩形: 圆角 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "相关性",
+      "bounds_pt": [
+        591.5,
+        275.0,
+        133.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "矩形: 圆角 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "时限性",
+      "bounds_pt": [
+        769.5,
+        274.6,
+        133.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "矩形 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "Specific",
+      "bounds_pt": [
+        43.2,
+        201.6,
+        161.6,
+        46.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "矩形 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "Measurable",
+      "bounds_pt": [
+        221.2,
+        201.6,
+        161.6,
+        46.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "矩形 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "Achievable",
+      "bounds_pt": [
+        399.2,
+        201.6,
+        161.6,
+        46.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "矩形 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "Relevant",
+      "bounds_pt": [
+        577.2,
+        201.6,
+        161.6,
+        46.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "矩形 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "Time-bound",
+      "bounds_pt": [
+        755.2,
+        201.6,
+        161.6,
+        46.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "椭圆 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "S",
+      "bounds_pt": [
+        71.9,
+        83.2,
+        104.2,
+        104.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "椭圆 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "M",
+      "bounds_pt": [
+        249.9,
+        83.2,
+        104.2,
+        104.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "椭圆 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "A",
+      "bounds_pt": [
+        427.9,
+        83.2,
+        104.2,
+        104.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "椭圆 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "R",
+      "bounds_pt": [
+        605.9,
+        83.2,
+        104.2,
+        104.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "椭圆 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "T",
+      "bounds_pt": [
+        783.9,
+        83.2,
+        104.2,
+        104.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "任意多边形: 形状 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "优化进度跟踪流程",
+      "bounds_pt": [
+        58.5,
+        403.0,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "任意多边形: 形状 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "改进资源分配",
+      "bounds_pt": [
+        58.5,
+        433.9,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "任意多边形: 形状 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "设定明确的项目目标",
+      "bounds_pt": [
+        58.5,
+        464.7,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "任意多边形: 形状 80",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "减少延期项目的数量",
+      "bounds_pt": [
+        236.5,
+        403.0,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "任意多边形: 形状 81",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "提高任务按时完成率",
+      "bounds_pt": [
+        236.5,
+        433.9,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "任意多边形: 形状 82",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "评估工作负载平衡",
+      "bounds_pt": [
+        236.5,
+        464.7,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "任意多边形: 形状 84",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "实施项目管理工具",
+      "bounds_pt": [
+        414.5,
+        403.0,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_86",
+      "shape_id": 86,
+      "shape_name": "任意多边形: 形状 85",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "定期召开进度会议",
+      "bounds_pt": [
+        414.5,
+        433.9,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "任意多边形: 形状 86",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "提供培训和支持",
+      "bounds_pt": [
+        414.5,
+        464.7,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "任意多边形: 形状 88",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "优化项目交付时间",
+      "bounds_pt": [
+        592.5,
+        403.0,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "任意多边形: 形状 89",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "节省时间和成本",
+      "bounds_pt": [
+        592.5,
+        433.9,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_91",
+      "shape_id": 91,
+      "shape_name": "任意多边形: 形状 90",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "增强团队协作效率",
+      "bounds_pt": [
+        592.5,
+        464.7,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "任意多边形: 形状 92",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "确保一月内顺利运行",
+      "bounds_pt": [
+        770.6,
+        403.0,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "任意多边形: 形状 93",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "二月全面跟进项目",
+      "bounds_pt": [
+        770.6,
+        433.9,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "任意多边形: 形状 94",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "三个月完成率至90%",
+      "bounds_pt": [
+        770.6,
+        464.7,
+        130.9,
+        24.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "目标是具体且清晰的，避免使用模糊的表述。具体目标有助于人们明确知道需要去做些什么，以及如何去做。",
+      "bounds_pt": [
+        58.5,
+        315.7,
+        130.9,
+        71.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "文本框 97",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "目标必须可以量化衡量，这样才能知道进展如何，并最终判断是否达成目标。可以通过具体标准来衡量成果。",
+      "bounds_pt": [
+        236.5,
+        315.7,
+        130.9,
+        71.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "文本框 98",
+      "type": "text",
+      "max_chars": 98,
+      "source_sample_chars": 49,
+      "source_text": "目标在能力范围内，既要具挑战性，也要现实可行。设定目标时要考虑各方因素，确保目标可以通过努力实现。",
+      "bounds_pt": [
+        414.5,
+        315.7,
+        130.9,
+        71.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "max_chars": 100,
+      "source_sample_chars": 50,
+      "source_text": "目标应与各方人员的更大目标相关，确保其价值和意义。若目标与当前的优先事项不一致可能会浪费时间和资源。",
+      "bounds_pt": [
+        592.5,
+        315.7,
+        130.9,
+        71.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "目标须设定明确完成时间，这样才能有紧迫感，并能够跟踪进度。没有时间限制的目标可能会变得不切实际。",
+      "bounds_pt": [
+        770.6,
+        315.7,
+        130.9,
+        71.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜ SMART原则",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 24,
+        "shape_name": "图片 23",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

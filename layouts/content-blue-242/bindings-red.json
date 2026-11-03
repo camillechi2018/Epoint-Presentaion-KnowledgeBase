@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "任意形状 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目流程01",
+      "bounds_pt": [
+        43.2,
+        248.5,
+        133.3,
+        88.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "任意形状 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目流程02",
+      "bounds_pt": [
+        191.2,
+        248.5,
+        133.3,
+        88.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "任意形状 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目流程03",
+      "bounds_pt": [
+        339.3,
+        248.5,
+        133.3,
+        88.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "任意形状 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目流程04",
+      "bounds_pt": [
+        487.4,
+        248.5,
+        133.3,
+        88.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "任意形状 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目流程05",
+      "bounds_pt": [
+        635.4,
+        248.5,
+        133.3,
+        88.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "任意形状 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目流程06",
+      "bounds_pt": [
+        783.5,
+        248.5,
+        133.3,
+        88.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "圆角矩形 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.市场环境分析",
+      "bounds_pt": [
+        43.8,
+        83.3,
+        266.7,
+        31.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 138,
+      "source_sample_chars": 69,
+      "source_text": "外部扫描：研究宏观经济、行业竞争等，分析市场机会与威胁。\n内部盘点：梳理人力、财力、物力，以及公司技术、品牌、文化，明确核心竞争力与短板。",
+      "bounds_pt": [
+        48.0,
+        133.2,
+        262.5,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "圆角矩形 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.项目目标设定",
+      "bounds_pt": [
+        43.8,
+        471.3,
+        266.7,
+        31.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "长期愿景：依环境分析，勾勒 5 - 10 年及更长远发展蓝图，要有前瞻性、激励性。\n短期细化：将长期愿景拆为 1 - 3年可量化的战略目标，明确各业务板块营收、市场份额。",
+      "bounds_pt": [
+        48.0,
+        358.1,
+        262.5,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "圆角矩形 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.制定项目方案",
+      "bounds_pt": [
+        324.6,
+        83.3,
+        310.9,
+        31.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 156,
+      "source_sample_chars": 78,
+      "source_text": "业务战略：确定市场渗透、产品开发、市场开拓或多元化路径，成熟产品靠优化营销渗透。\n职能规划：规划营销、财务、运营战略，提升品牌销量、稳资金流、吸留人才等。​",
+      "bounds_pt": [
+        324.6,
+        133.2,
+        308.7,
+        88.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "圆角矩形 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "04.项目评估与跟进",
+      "bounds_pt": [
+        324.6,
+        471.3,
+        310.9,
+        31.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 156,
+      "source_sample_chars": 78,
+      "source_text": "可行性评估：从资源、技术、运营看公司实施战略的人力、物力、财力及技术支撑。​\n风险收益权衡：识别内外部市场、技术等风险，预估收益，选风险可控、收益高方案。​",
+      "bounds_pt": [
+        324.6,
+        358.1,
+        308.7,
+        88.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "圆角矩形 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "05.项目细化与配置",
+      "bounds_pt": [
+        649.4,
+        83.3,
+        266.7,
+        31.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 154,
+      "source_sample_chars": 77,
+      "source_text": "行动分解：将战略细化为各阶段任务，明确责任人、时间节点，新产品上市各阶段任务安排。​\n资源配置：按行动规划，合理的去分配人力、财力、物力，保障重点项目。​",
+      "bounds_pt": [
+        649.4,
+        133.2,
+        266.7,
+        88.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "圆角矩形 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "06.项目监督与调整",
+      "bounds_pt": [
+        649.4,
+        471.3,
+        266.7,
+        31.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 148,
+      "source_sample_chars": 74,
+      "source_text": "绩效跟踪：建KPI体系，监测营收、市场份额与客户投诉率等，评估战略执行效果。​\n动态调整：依照绩效与环境变化，适时的调整战略，保其适应性、有效性。​",
+      "bounds_pt": [
+        649.4,
+        358.1,
+        266.7,
+        88.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜项目推进流程",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

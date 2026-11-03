@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "TextBox 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "2026",
+      "bounds_pt": [
+        563.8,
+        145.1,
+        631.4,
+        273.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "Rectangle: Rounded Corners 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "汇报人：山小屿",
+      "bounds_pt": [
+        67.1,
+        456.9,
+        220.9,
+        29.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "TextBox 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2026述职汇报",
+      "bounds_pt": [
+        67.1,
+        167.1,
+        337.2,
+        61.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "TextBox 42",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "WORK REPORT POWERPOINT TEMPLATE",
+      "bounds_pt": [
+        67.1,
+        319.5,
+        688.0,
+        53.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "TextBox 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "山屿工作述职报告",
+      "bounds_pt": [
+        61.9,
+        232.1,
+        643.5,
+        94.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "Rectangle: Rounded Corners 35",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "汇报时间：2026.6.6",
+      "bounds_pt": [
+        302.2,
+        456.9,
+        220.9,
+        29.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 24,
+        "shape_name": "图片 23",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "bounds_pt": [
+          114.9,
+          73.8,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

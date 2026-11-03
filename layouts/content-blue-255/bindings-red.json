@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 01",
+      "bounds_pt": [
+        68.4,
+        138.1,
+        125.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 210,
+      "source_sample_chars": 105,
+      "source_text": "明确工作目标：与相关方沟通确认本次工作的核心目标预期成果和成功衡量标准。\n界定范围边界：清晰划定工作范围，明确包含内容和排除内容，避免范围蔓延。\n识别关键节点：梳理工作推进的关键里程碑，为后续进度管控奠定基础。",
+      "bounds_pt": [
+        59.4,
+        233.1,
+        141.1,
+        189.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 208,
+      "source_sample_chars": 104,
+      "source_text": "制定实施方案：设计详细的工作路径和方法，明确各环节操作步骤和技术要求。\n分解任务清单：将整体工作拆解为具体可执行的任务项形成任务分解表。\n评估资源需求：梳理完成工作所需的人力、资金、物料等资源，提前做好规划。",
+      "bounds_pt": [
+        233.6,
+        233.1,
+        141.1,
+        189.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 192,
+      "source_sample_chars": 96,
+      "source_text": "组建执行团队：明确各任务负责人和成员，确保职责分工清晰、人员到位。\n编制进度计划：制定详细时间表，设定各任务起止时间和关键节点。\n调配所需资源：完成预算审批、物资采购、设备调配等前期准备工作。",
+      "bounds_pt": [
+        407.7,
+        233.1,
+        141.1,
+        189.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 190,
+      "source_sample_chars": 95,
+      "source_text": "按计划推进实施：根据进度表开展各项工作，确保每日/周任务按时完成。\n过程跟踪记录：及时记录执行情况和关键数据，形成过程文档备查。\n问题协调解决：及时发现执行中的卡点和问题，协调资源快速解决。",
+      "bounds_pt": [
+        583.6,
+        233.1,
+        141.1,
+        189.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 190,
+      "source_sample_chars": 95,
+      "source_text": "成果验收确认：对照目标验收各项工作成果，确保交付质量符合预期。\n数据复盘分析：整理过程数据，分析成效和不足，评估目标达成情况。\n经验总结归档：组织复盘会议，提炼成功经验和改进点完成资料归档。",
+      "bounds_pt": [
+        759.4,
+        233.1,
+        141.1,
+        189.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "矩形 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "规划阶段",
+      "bounds_pt": [
+        43.9,
+        466.8,
+        174.4,
+        35.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "矩形 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "设计执行阶段",
+      "bounds_pt": [
+        218.6,
+        466.8,
+        521.0,
+        35.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "矩形 78",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "复盘阶段",
+      "bounds_pt": [
+        739.8,
+        466.8,
+        174.5,
+        35.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "流程图｜工作规划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 02",
+      "bounds_pt": [
+        243.2,
+        138.1,
+        125.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 03",
+      "bounds_pt": [
+        418.0,
+        138.1,
+        125.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 04",
+      "bounds_pt": [
+        592.8,
+        138.1,
+        125.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 05",
+      "bounds_pt": [
+        767.6,
+        138.1,
+        125.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "目标规划",
+      "bounds_pt": [
+        68.4,
+        182.6,
+        125.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "方案设计",
+      "bounds_pt": [
+        243.2,
+        183.1,
+        125.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "准备落实",
+      "bounds_pt": [
+        418.0,
+        183.6,
+        125.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "执行推进",
+      "bounds_pt": [
+        592.8,
+        184.1,
+        125.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "验收总结",
+      "bounds_pt": [
+        767.6,
+        184.6,
+        125.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

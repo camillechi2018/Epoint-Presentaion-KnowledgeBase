@@ -1,0 +1,503 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜项目执行流程计划",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "任意多边形: 形状 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "step.01",
+      "bounds_pt": [
+        368.5,
+        82.9,
+        94.0,
+        94.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "任意多边形: 形状 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "step.02",
+      "bounds_pt": [
+        368.5,
+        192.0,
+        94.0,
+        94.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "任意多边形: 形状 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "step.03",
+      "bounds_pt": [
+        368.5,
+        301.2,
+        94.0,
+        94.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "任意多边形: 形状 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "step.04",
+      "bounds_pt": [
+        368.5,
+        410.3,
+        94.0,
+        94.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "50%",
+      "bounds_pt": [
+        152.3,
+        -167.8,
+        770.3,
+        404.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "完成进度",
+      "bounds_pt": [
+        823.1,
+        86.9,
+        94.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "50%",
+      "bounds_pt": [
+        152.3,
+        -167.8,
+        770.3,
+        404.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "完成进度",
+      "bounds_pt": [
+        823.1,
+        86.9,
+        94.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "50%",
+      "bounds_pt": [
+        152.3,
+        -167.8,
+        770.3,
+        404.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "完成进度",
+      "bounds_pt": [
+        823.1,
+        86.9,
+        94.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "50%",
+      "bounds_pt": [
+        152.3,
+        -167.8,
+        770.3,
+        404.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "完成进度",
+      "bounds_pt": [
+        823.1,
+        86.9,
+        94.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "矩形: 圆角 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "深入了解",
+      "bounds_pt": [
+        647.6,
+        89.5,
+        67.8,
+        20.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "矩形: 圆角 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "分析市场",
+      "bounds_pt": [
+        723.4,
+        89.5,
+        67.8,
+        20.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "矩形: 圆角 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "技术框架",
+      "bounds_pt": [
+        647.6,
+        198.9,
+        67.8,
+        20.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "矩形: 圆角 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "内部测试",
+      "bounds_pt": [
+        723.4,
+        198.9,
+        67.8,
+        20.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "矩形: 圆角 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "产品设计",
+      "bounds_pt": [
+        647.6,
+        308.2,
+        67.8,
+        20.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "矩形: 圆角 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "验证工艺",
+      "bounds_pt": [
+        723.4,
+        308.2,
+        67.8,
+        20.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "矩形: 圆角 77",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "按时交付",
+      "bounds_pt": [
+        647.6,
+        417.6,
+        67.8,
+        20.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "矩形: 圆角 78",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "市场推广",
+      "bounds_pt": [
+        723.4,
+        417.6,
+        67.8,
+        20.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "消费者需求调研：通过问卷调查、小组讨论和在线调查等方法，深入了解目标用户的需求、偏好和痛点。",
+      "bounds_pt": [
+        486.4,
+        125.6,
+        304.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "市场调研与需求分析",
+      "bounds_pt": [
+        486.4,
+        87.4,
+        162.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "产品设计与概念验证",
+      "bounds_pt": [
+        486.4,
+        196.5,
+        162.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "产品开发与试生产",
+      "bounds_pt": [
+        486.4,
+        305.7,
+        161.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "批量生产与市场发布",
+      "bounds_pt": [
+        486.4,
+        415.5,
+        161.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "功能设计与技术架构：在概念设计阶段，研发团队需要定义产品的主要功能、性能要求以及技术框架。",
+      "bounds_pt": [
+        486.4,
+        234.5,
+        304.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "详细设计与工艺规划：在产品开发阶段，团队将完成详细的产品设计，并制定生产工艺流程。",
+      "bounds_pt": [
+        486.4,
+        344.0,
+        304.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 108,
+      "source_sample_chars": 54,
+      "source_text": "大规模生产与供应链管理：需要确保供应链的稳定性，包括原材料的采购、生产能力的配置等，以确保产品能够按时交付。",
+      "bounds_pt": [
+        486.4,
+        453.5,
+        304.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "项目执行流程计划",
+      "bounds_pt": [
+        43.5,
+        253.7,
+        157.9,
+        84.8
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

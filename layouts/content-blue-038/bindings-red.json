@@ -1,0 +1,400 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "述职汇报｜年度数据分析（年度各版块经营数据）",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "任意形状 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "Q1：基础能力建设",
+      "bounds_pt": [
+        43.2,
+        278.8,
+        223.7,
+        41.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "任意形状 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "Q2：业务规模拓展",
+      "bounds_pt": [
+        263.8,
+        278.8,
+        223.7,
+        41.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "任意形状 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "Q3：质量效益提升",
+      "bounds_pt": [
+        484.4,
+        278.8,
+        223.7,
+        41.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "任意形状 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "Q4：创新发展突破",
+      "bounds_pt": [
+        705.0,
+        278.8,
+        213.2,
+        41.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "任意形状 13",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "让我们以坚实根基再攀高峰，用创新突破开创未来，携手共铸新的辉煌篇章！",
+      "bounds_pt": [
+        43.8,
+        463.9,
+        875.0,
+        39.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "1666万",
+      "bounds_pt": [
+        55.0,
+        103.2,
+        195.2,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "2026上半年总销售额",
+      "bounds_pt": [
+        73.2,
+        143.7,
+        158.7,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "16%",
+      "bounds_pt": [
+        292.5,
+        103.2,
+        158.7,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "上半年业绩同比增长",
+      "bounds_pt": [
+        292.5,
+        143.7,
+        158.7,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "166,000",
+      "bounds_pt": [
+        511.7,
+        103.2,
+        158.7,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "2026年上半年新增客户",
+      "bounds_pt": [
+        511.7,
+        143.7,
+        158.7,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3款",
+      "bounds_pt": [
+        729.0,
+        103.2,
+        158.7,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "2026年上半年新产品上市",
+      "bounds_pt": [
+        729.0,
+        143.7,
+        158.7,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "市场开拓创新",
+      "bounds_pt": [
+        82.8,
+        191.1,
+        174.0,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "首创“数据分析+精准投放”市场拓展模式，通过大数据分析精准定位目标客户群体。",
+      "bounds_pt": [
+        43.2,
+        225.7,
+        218.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "产品研发创新",
+      "bounds_pt": [
+        294.5,
+        191.1,
+        186.8,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "建立“客户需求驱动”的敏捷研发机制，将用户反馈实时融入产品迭代流程。",
+      "bounds_pt": [
+        261.7,
+        225.7,
+        216.9,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "流程优化创新",
+      "bounds_pt": [
+        520.2,
+        191.1,
+        179.3,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "引入业务流程再造方法论，通过价值流分析消除了大部分非增值环节。",
+      "bounds_pt": [
+        487.4,
+        225.7,
+        212.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "成本管控创新",
+      "bounds_pt": [
+        732.2,
+        191.1,
+        186.0,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "构建“全员参与+数据驱动”成本管控体系，通过精细化管理和过程管控。",
+      "bounds_pt": [
+        699.4,
+        225.7,
+        218.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 15,
+        "shape_name": "图表 14",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 16,
+        "shape_name": "图表 15",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 17,
+        "shape_name": "图表 16",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 18,
+        "shape_name": "图表 17",
+        "categories_max": 8,
+        "series_max": 4
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 20,
+        "shape_name": "图片 19",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

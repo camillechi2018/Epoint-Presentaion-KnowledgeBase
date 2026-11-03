@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "时间轴｜季度工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一季度",
+      "bounds_pt": [
+        114.9,
+        430.8,
+        78.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二季度",
+      "bounds_pt": [
+        331.5,
+        430.2,
+        78.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第三季度",
+      "bounds_pt": [
+        549.9,
+        430.0,
+        78.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第四季度",
+      "bounds_pt": [
+        768.3,
+        429.7,
+        78.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "圆角矩形 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "目标制定",
+      "bounds_pt": [
+        67.5,
+        91.4,
+        173.1,
+        25.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "圆角矩形 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "资源准备",
+      "bounds_pt": [
+        67.4,
+        244.5,
+        173.1,
+        25.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "圆角矩形 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "市场拓展",
+      "bounds_pt": [
+        284.6,
+        91.8,
+        173.1,
+        25.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "圆角矩形 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "产品研发",
+      "bounds_pt": [
+        284.6,
+        244.9,
+        173.1,
+        25.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "圆角矩形 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "新品上市",
+      "bounds_pt": [
+        501.4,
+        91.4,
+        173.1,
+        25.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "圆角矩形 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "服务升级",
+      "bounds_pt": [
+        501.4,
+        244.5,
+        173.1,
+        25.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "圆角矩形 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "业绩冲刺",
+      "bounds_pt": [
+        718.1,
+        91.0,
+        173.1,
+        25.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "圆角矩形 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "复盘规划",
+      "bounds_pt": [
+        718.1,
+        244.1,
+        173.1,
+        25.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 122,
+      "source_sample_chars": 61,
+      "source_text": "战略研讨：全面完成年度战略规划制定，明确核心KPI指标和方向。\n目标分解：将年度目标分解至各部门及个人，建立动态跟踪机制。",
+      "bounds_pt": [
+        67.4,
+        123.8,
+        173.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "区域开发：持续加大重点区域市场开发力度，深耕核心渠道。\n客户增长：积极拓展新客户资源渠道稳步提升市场份额占比。",
+      "bounds_pt": [
+        284.4,
+        123.8,
+        173.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "测试发布：全面完成重点新品测试验证，正式发布推向市场。\n推广落地：精心制定新品推广方案，确保上市首月目标达成。",
+      "bounds_pt": [
+        501.4,
+        123.8,
+        173.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "项目收尾：全力推进重点项目收尾工作，确保按期交付验收。\n目标达成：奋力冲刺确保全年指标超额完成，交出优异答卷。",
+      "bounds_pt": [
+        718.4,
+        123.8,
+        173.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 114,
+      "source_sample_chars": 57,
+      "source_text": "预算编制：系统完成年度预算编制和审批流程，确保资金到位。\n团队组建：快速组建跨部门项目团队明确职责分工和汇报关系。",
+      "bounds_pt": [
+        67.4,
+        275.7,
+        173.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "进度把控：加快推进新品研发进度节奏，确保按计划推进。\n节点保障：全力确保关键里程碑节点按时达成，保障项目顺利。",
+      "bounds_pt": [
+        284.4,
+        275.7,
+        173.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "体系优化：系统优化客户服务体系流程，提升整体服务质量。\n效率提升：全面提升响应速度和处理效率，增强客户满意度。",
+      "bounds_pt": [
+        501.4,
+        275.7,
+        173.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 104,
+      "source_sample_chars": 52,
+      "source_text": "年度总结：全面深入复盘年度工作系统总结经验教训。\n明年布局：科学制定下一年度战略目标，提前布局准备工作。",
+      "bounds_pt": [
+        718.4,
+        275.7,
+        173.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 32,
+        "shape_name": "图片 31",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

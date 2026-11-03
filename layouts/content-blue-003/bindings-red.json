@@ -1,0 +1,567 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        55.0,
+        104.7,
+        33.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        351.2,
+        105.3,
+        33.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        647.4,
+        104.7,
+        33.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "夯实基础期",
+      "bounds_pt": [
+        87.2,
+        102.4,
+        111.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "能力突破期",
+      "bounds_pt": [
+        384.6,
+        102.4,
+        111.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "价值创造期",
+      "bounds_pt": [
+        680.3,
+        102.4,
+        111.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "初入岗位时，我以 “快速融入、精准执行” 为目标，系统学习业务流程与行业规范。",
+      "bounds_pt": [
+        68.5,
+        188.0,
+        232.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "矩形: 圆角 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "（入职第 1-2 年）",
+      "bounds_pt": [
+        88.9,
+        148.8,
+        191.7,
+        32.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "严谨习惯养成",
+      "bounds_pt": [
+        95.1,
+        356.7,
+        179.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "业务上手与工具掌握",
+      "bounds_pt": [
+        95.4,
+        263.1,
+        179.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 116,
+      "source_sample_chars": 58,
+      "source_text": "参与项目数据整理、客户初步对接，3个月内熟练运用核心业务工具，完成200+份零误差报表，助力团队季度效率提升15%。",
+      "bounds_pt": [
+        68.3,
+        285.1,
+        232.7,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 106,
+      "source_sample_chars": 53,
+      "source_text": "通过“清单+记录+复盘”流程化操作，规避多次信息偏差，后续优化3项基础流程，深化对“细节决定成败”的认知。",
+      "bounds_pt": [
+        68.3,
+        380.3,
+        233.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "这一阶段，我深刻的理解了 “细节决定成败” 的工作准则养成了对数据、流程的严谨把控习惯。",
+      "bounds_pt": [
+        56.4,
+        461.9,
+        222.4,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 106,
+      "source_sample_chars": 53,
+      "source_text": "这一阶段，我逐步具备了从业务全局视角规划工作的能力，在保障常规业务稳定运转的同时，持续为团队创造增量价值。",
+      "bounds_pt": [
+        648.1,
+        461.9,
+        229.4,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "矩形: 圆角 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "（入职第 3-4 年）",
+      "bounds_pt": [
+        384.9,
+        148.1,
+        191.7,
+        32.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "随着业务熟练度和工作能力的提升，我开始承担更具挑战性的任务。",
+      "bounds_pt": [
+        364.3,
+        188.0,
+        232.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "矩形: 圆角 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目深度攻坚",
+      "bounds_pt": [
+        440.7,
+        310.3,
+        79.9,
+        22.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "矩形: 圆角 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "角色转型",
+      "bounds_pt": [
+        449.1,
+        348.6,
+        63.0,
+        22.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "椭圆 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "解决者",
+      "bounds_pt": [
+        620.4,
+        229.8,
+        120.0,
+        120.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "椭圆 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "执行者",
+      "bounds_pt": [
+        300.4,
+        229.8,
+        120.0,
+        120.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "椭圆 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "优秀\n员工",
+      "bounds_pt": [
+        479.7,
+        247.2,
+        89.9,
+        89.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "矩形: 圆角 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "（入职第5年至今）",
+      "bounds_pt": [
+        680.9,
+        147.5,
+        191.7,
+        32.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "基于前四年积累的工作经验和主导的项目，我开始主导核心业务板块的创新探索。",
+      "bounds_pt": [
+        660.1,
+        188.0,
+        232.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "矩形: 圆角 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3项",
+      "bounds_pt": [
+        831.1,
+        265.0,
+        57.8,
+        42.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "矩形: 圆角 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3项",
+      "bounds_pt": [
+        831.1,
+        332.2,
+        57.8,
+        42.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "矩形: 圆角 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3项",
+      "bounds_pt": [
+        831.1,
+        399.3,
+        57.8,
+        42.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "业务模式创新",
+      "bounds_pt": [
+        663.7,
+        269.3,
+        151.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "Business model innovation",
+      "bounds_pt": [
+        664.0,
+        287.8,
+        151.3,
+        17.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "业务流程优化",
+      "bounds_pt": [
+        663.3,
+        336.3,
+        151.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "Business process optimization",
+      "bounds_pt": [
+        663.7,
+        354.8,
+        151.3,
+        17.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "数据分析创新",
+      "bounds_pt": [
+        663.0,
+        403.3,
+        151.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "文本框 81",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "Innovation in Data Analysis",
+      "bounds_pt": [
+        663.3,
+        421.8,
+        151.3,
+        17.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜个人职业发展历程",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "突破",
+      "bounds_pt": [
+        462.4,
+        266.9,
+        37.6,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

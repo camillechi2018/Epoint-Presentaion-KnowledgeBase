@@ -1,0 +1,439 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜SWOT模型",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "圆角矩形 34",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "优势(Strengths)",
+      "bounds_pt": [
+        72.5,
+        105.1,
+        373.0,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "圆角矩形 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "S",
+      "bounds_pt": [
+        72.5,
+        105.1,
+        84.5,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "圆角矩形 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "威胁(Threats)",
+      "bounds_pt": [
+        72.5,
+        444.7,
+        373.0,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "圆角矩形 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "T",
+      "bounds_pt": [
+        72.5,
+        444.7,
+        84.5,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "圆角矩形 38",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "劣势(Weaknesses)",
+      "bounds_pt": [
+        514.5,
+        105.1,
+        373.0,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "圆角矩形 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "W",
+      "bounds_pt": [
+        803.0,
+        105.1,
+        84.5,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "圆角矩形 40",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "机会(Opportunities)",
+      "bounds_pt": [
+        514.5,
+        444.7,
+        373.0,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "圆角矩形 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "O",
+      "bounds_pt": [
+        803.0,
+        444.7,
+        84.5,
+        35.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "分析\n模型",
+      "bounds_pt": [
+        450.3,
+        261.1,
+        62.3,
+        65.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "S",
+      "bounds_pt": [
+        415.0,
+        214.1,
+        38.3,
+        55.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "W",
+      "bounds_pt": [
+        498.6,
+        214.1,
+        52.9,
+        55.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "O",
+      "bounds_pt": [
+        501.1,
+        316.1,
+        45.3,
+        55.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "T",
+      "bounds_pt": [
+        415.6,
+        316.5,
+        32.2,
+        55.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "战略规划能力",
+      "bounds_pt": [
+        72.5,
+        147.4,
+        258.6,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "具备系统性的战略思维，能准确预判行业发展趋势和市场趋势。",
+      "bounds_pt": [
+        72.5,
+        172.5,
+        258.6,
+        48.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "擅长制定可执行的战略规划规划，年度目标达成率超120%。",
+      "bounds_pt": [
+        72.5,
+        217.1,
+        258.6,
+        48.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "市场竞争加剧",
+      "bounds_pt": [
+        72.5,
+        319.7,
+        258.6,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "行业市场的竞争态势日益激烈，人才争夺白热化。",
+      "bounds_pt": [
+        72.5,
+        344.8,
+        258.6,
+        48.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "新技术、新模式、新产品不断涌现，知识更新压力持续增大。",
+      "bounds_pt": [
+        72.5,
+        389.5,
+        258.6,
+        48.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "技术深度待提升",
+      "bounds_pt": [
+        623.9,
+        147.4,
+        258.6,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "对新兴前沿技术的理解和实际应用能力仍需持续加强提升。",
+      "bounds_pt": [
+        623.9,
+        172.5,
+        258.6,
+        48.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "技术能力与管理能力的有机结合度需要进一步提高完善。",
+      "bounds_pt": [
+        623.9,
+        217.1,
+        258.6,
+        48.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "公司平台优势",
+      "bounds_pt": [
+        623.9,
+        319.7,
+        258.6,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "公司处于战略性扩张发展期，提供更多职业发展平台。",
+      "bounds_pt": [
+        623.9,
+        344.8,
+        258.6,
+        48.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "内部轮岗机制为个人的综合能力提升创造了良好条件。",
+      "bounds_pt": [
+        623.9,
+        389.5,
+        258.6,
+        48.6
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "图片 6",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

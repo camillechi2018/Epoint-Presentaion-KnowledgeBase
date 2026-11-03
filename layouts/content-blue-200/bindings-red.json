@@ -1,0 +1,599 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "箭头: 五边形 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "职业规划01",
+      "bounds_pt": [
+        43.2,
+        82.2,
+        182.7,
+        59.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "箭头: V 形 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "职业规划02",
+      "bounds_pt": [
+        217.9,
+        82.2,
+        182.7,
+        59.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "箭头: V 形 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "职业规划03",
+      "bounds_pt": [
+        392.6,
+        82.2,
+        182.7,
+        59.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "箭头: V 形 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "职业规划04",
+      "bounds_pt": [
+        567.4,
+        82.2,
+        182.7,
+        59.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "箭头: V 形 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "职业规划05",
+      "bounds_pt": [
+        742.1,
+        82.2,
+        174.8,
+        59.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "2026年",
+      "bounds_pt": [
+        104.0,
+        480.0,
+        75.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "2027年",
+      "bounds_pt": [
+        277.4,
+        480.0,
+        75.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "2028年",
+      "bounds_pt": [
+        450.8,
+        480.0,
+        75.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "2029年",
+      "bounds_pt": [
+        624.2,
+        480.0,
+        75.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "2030年",
+      "bounds_pt": [
+        797.6,
+        480.4,
+        75.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "矩形: 圆角 82",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "夯实基础",
+      "bounds_pt": [
+        69.8,
+        182.4,
+        145.5,
+        31.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "矩形: 圆角 83",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "拓展技能",
+      "bounds_pt": [
+        241.9,
+        182.4,
+        145.5,
+        31.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "矩形: 圆角 84",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "深耕专业",
+      "bounds_pt": [
+        414.0,
+        182.4,
+        145.5,
+        31.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_86",
+      "shape_id": 86,
+      "shape_name": "矩形: 圆角 85",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "迈向高层",
+      "bounds_pt": [
+        586.2,
+        182.4,
+        145.5,
+        31.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "矩形: 圆角 86",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "目标达成",
+      "bounds_pt": [
+        758.3,
+        182.4,
+        145.5,
+        31.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "技能提升",
+      "bounds_pt": [
+        90.6,
+        230.6,
+        123.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 100,
+      "source_sample_chars": 50,
+      "source_text": "系统学习数字营销工具，并取得相关认证。提升数据分析能力，学习使用Excel高级功能及数据可视化工具。",
+      "bounds_pt": [
+        70.3,
+        255.4,
+        144.1,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "项目经验",
+      "bounds_pt": [
+        89.5,
+        345.7,
+        123.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "参与公司品牌推广活动，负责其中一个工作环节的执行，积累实战经验。独立完成一个小型营销项目。",
+      "bounds_pt": [
+        69.3,
+        370.4,
+        144.1,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "技能拓展",
+      "bounds_pt": [
+        262.8,
+        230.6,
+        123.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "学习内容营销策略，掌握如何通过优质笔记内容吸引目标用户，尝试通过低成本手段实现用户快速增长。",
+      "bounds_pt": [
+        242.6,
+        255.4,
+        144.1,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "成果展示",
+      "bounds_pt": [
+        261.8,
+        345.7,
+        123.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "策划执行一次成功的营销活动达成预设的KPI。在公司内部分享一次营销案例，展示个人工作能力。",
+      "bounds_pt": [
+        241.5,
+        370.4,
+        144.1,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "深入研究",
+      "bounds_pt": [
+        435.1,
+        230.6,
+        123.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "深入研究消费者心理，提升对用户需求的洞察能力，优化营销策略。学习品牌管理知识掌握品牌定位。",
+      "bounds_pt": [
+        414.9,
+        255.4,
+        144.1,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "团队协作",
+      "bounds_pt": [
+        434.1,
+        345.7,
+        123.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "担任负责人，带领团队完成一个中型项目。与其他部门紧密合作，推动跨部门协作，提升业务效果。",
+      "bounds_pt": [
+        413.8,
+        370.4,
+        144.1,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "行业影响",
+      "bounds_pt": [
+        607.4,
+        230.6,
+        123.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "在行业峰会上做一次公开演讲分享成功案例。发表至少两篇营销相关文章，提升个人行业影响力。",
+      "bounds_pt": [
+        587.2,
+        255.4,
+        144.1,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "项目经验",
+      "bounds_pt": [
+        606.3,
+        345.7,
+        123.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "参与了公司演讲活动，负责向参会人员进行项目汇报，积累汇报经验。独立完成一个项目总结会议。",
+      "bounds_pt": [
+        586.1,
+        370.4,
+        144.1,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "目标达成",
+      "bounds_pt": [
+        779.7,
+        230.6,
+        123.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "回顾五年的规划目标，评估是否达成“市场总监”职位，是否具备制定公司整体营销战略的工作能力。",
+      "bounds_pt": [
+        759.4,
+        255.4,
+        144.1,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "未来展望",
+      "bounds_pt": [
+        778.6,
+        345.7,
+        123.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "规划后续职业方向，制定新的学习计划。探索新兴营销趋势如AI营销、元宇宙营销等，保持行业前沿视野。",
+      "bounds_pt": [
+        758.4,
+        370.4,
+        144.1,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "时间轴｜个人职业5年规划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

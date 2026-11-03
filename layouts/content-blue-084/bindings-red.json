@@ -1,0 +1,647 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜上半年工作进度回顾",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "矩形 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一季度",
+      "bounds_pt": [
+        43.2,
+        82.2,
+        63.3,
+        206.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "矩形 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二季度",
+      "bounds_pt": [
+        43.2,
+        297.5,
+        63.3,
+        206.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "椭圆 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "1月",
+      "bounds_pt": [
+        139.5,
+        70.1,
+        55.3,
+        55.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "椭圆 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "2月",
+      "bounds_pt": [
+        398.0,
+        70.1,
+        55.3,
+        55.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "椭圆 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3月",
+      "bounds_pt": [
+        656.4,
+        70.1,
+        55.3,
+        55.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "椭圆 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "4月",
+      "bounds_pt": [
+        139.5,
+        287.0,
+        55.3,
+        55.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "椭圆 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "5月",
+      "bounds_pt": [
+        398.0,
+        287.0,
+        55.3,
+        55.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "椭圆 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "6月",
+      "bounds_pt": [
+        656.4,
+        287.0,
+        55.3,
+        55.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "推进项目落地",
+      "bounds_pt": [
+        194.8,
+        83.0,
+        203.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "优化协作流程",
+      "bounds_pt": [
+        453.3,
+        83.1,
+        203.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "提升客户满意度",
+      "bounds_pt": [
+        711.7,
+        83.1,
+        203.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "达成项目关键节点",
+      "bounds_pt": [
+        194.8,
+        298.5,
+        203.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "公司降本增效",
+      "bounds_pt": [
+        453.2,
+        298.5,
+        203.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升团队能力",
+      "bounds_pt": [
+        711.7,
+        298.6,
+        203.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "进度达成",
+      "bounds_pt": [
+        181.8,
+        129.9,
+        216.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "我们将高效完成需求分析与方案设计，计划于3月初正式启动开发。",
+      "bounds_pt": [
+        181.8,
+        151.7,
+        223.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "资源协调",
+      "bounds_pt": [
+        181.6,
+        205.0,
+        216.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "通过高效联动3个相关部门，全力确保项目按计划顺利推进。",
+      "bounds_pt": [
+        181.6,
+        226.7,
+        223.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "机制完善",
+      "bounds_pt": [
+        440.3,
+        129.9,
+        216.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "我们计划正式引入周报与OKR机制，确保任务跟进效率提升20%以上。",
+      "bounds_pt": [
+        440.3,
+        151.7,
+        223.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "沟通增效",
+      "bounds_pt": [
+        440.0,
+        205.0,
+        216.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "为加强跨部门协作，我们将组织2次专题会议，有效减少信息沟通滞后问题。",
+      "bounds_pt": [
+        440.0,
+        226.7,
+        223.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "文本框 81",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "需求调研",
+      "bounds_pt": [
+        698.5,
+        129.9,
+        216.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "我们现已顺利完成15家重点客户回访工作，并收集到改进建议8条。",
+      "bounds_pt": [
+        698.5,
+        151.7,
+        223.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "流程优化",
+      "bounds_pt": [
+        698.2,
+        205.0,
+        216.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "文本框 84",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "我们将通过流程优化缩短售后响应时长，确保平均处理效率提升30%。",
+      "bounds_pt": [
+        698.2,
+        226.7,
+        223.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_86",
+      "shape_id": 86,
+      "shape_name": "文本框 85",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "开发进展",
+      "bounds_pt": [
+        181.8,
+        356.5,
+        216.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "文本框 86",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "目前项目核心功能开发已顺利完成，正式进入测试阶段（整体进度75%）。",
+      "bounds_pt": [
+        181.8,
+        378.2,
+        223.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "问题攻坚",
+      "bounds_pt": [
+        181.6,
+        431.5,
+        216.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "经过集中攻坚，我们已成功解决3项技术难点，全力保障系统Q3如期上线。",
+      "bounds_pt": [
+        181.6,
+        453.3,
+        223.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "文本框 89",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "成本控制",
+      "bounds_pt": [
+        440.3,
+        356.5,
+        216.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_91",
+      "shape_id": 91,
+      "shape_name": "文本框 90",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "我们通过多轮供应商谈判，成功实现整体采购成本降低12%的目标。",
+      "bounds_pt": [
+        440.3,
+        378.2,
+        223.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "文本框 91",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "库存优化",
+      "bounds_pt": [
+        440.0,
+        431.5,
+        216.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "文本框 92",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "通过专项清理与流程优化，我们已减少呆滞物料占比8%，提升周转率。",
+      "bounds_pt": [
+        440.0,
+        453.3,
+        223.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "培训覆盖",
+      "bounds_pt": [
+        698.5,
+        356.5,
+        216.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "文本框 94",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "我们近期顺利开展了4次专业技能培训，并达成考核通过率100%的优异成绩。",
+      "bounds_pt": [
+        698.5,
+        378.2,
+        223.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "新人培养",
+      "bounds_pt": [
+        698.2,
+        431.5,
+        216.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "我们全面推行“老带新”人才培养计划，成功使新人上手周期缩短50%。",
+      "bounds_pt": [
+        698.2,
+        453.3,
+        223.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 24,
+        "shape_name": "图片 23",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

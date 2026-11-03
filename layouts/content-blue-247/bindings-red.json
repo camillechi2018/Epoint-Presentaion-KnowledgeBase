@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "任意形状 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "作出的改变",
+      "bounds_pt": [
+        83.7,
+        229.8,
+        30.9,
+        105.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "任意形状 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "取得的成就",
+      "bounds_pt": [
+        84.1,
+        398.7,
+        30.9,
+        105.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "供应链网络\n优化",
+      "bounds_pt": [
+        128.4,
+        135.3,
+        107.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "文本框 94",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "供应商质量\n提升",
+      "bounds_pt": [
+        274.8,
+        135.3,
+        107.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "需求预测精\n准化",
+      "bounds_pt": [
+        419.8,
+        135.3,
+        107.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "供应链风险\n管理",
+      "bounds_pt": [
+        565.5,
+        135.3,
+        107.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "文本框 97",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "物流成本\n优化",
+      "bounds_pt": [
+        711.2,
+        135.3,
+        107.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "文本框 98",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "重新设计优化了全球供应链网络，缩短了供应链周期，提高了交付速度。",
+      "bounds_pt": [
+        126.4,
+        249.0,
+        123.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "降低了平均库存水平20%减少了物流成本10%，成功应对市场需求变化。",
+      "bounds_pt": [
+        126.9,
+        422.5,
+        123.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "建立了供应商评估和管理标准，实施了定期的供应商培训和审核程序。",
+      "bounds_pt": [
+        272.2,
+        249.0,
+        123.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "提高了关键供应商的质量合格率至98%，减少了供应链中断事件。",
+      "bounds_pt": [
+        272.7,
+        422.5,
+        123.1,
+        60.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "引入先进的数据分析工具，提升了需求预测的准确度和时效性。",
+      "bounds_pt": [
+        417.9,
+        249.0,
+        123.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_104",
+      "shape_id": 104,
+      "shape_name": "文本框 103",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "减少了平均的预测误差率至5%，降低了库存水平的同时提升了订单交付率。",
+      "bounds_pt": [
+        418.4,
+        422.5,
+        123.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_105",
+      "shape_id": 105,
+      "shape_name": "文本框 104",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "建立了全面的供应链风险评估和管理机制，制定了应急响应计划。",
+      "bounds_pt": [
+        565.0,
+        249.0,
+        123.1,
+        60.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_106",
+      "shape_id": 106,
+      "shape_name": "文本框 105",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "成功应对了多次供应链中断和外部环境变化，保障了关键物料的持续供应。",
+      "bounds_pt": [
+        565.5,
+        422.5,
+        123.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_107",
+      "shape_id": 107,
+      "shape_name": "文本框 106",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "优化了全球物流网络和运输路线，重新谈判了物流服务合同。",
+      "bounds_pt": [
+        710.8,
+        249.0,
+        123.1,
+        60.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_108",
+      "shape_id": 108,
+      "shape_name": "文本框 107",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "降低了物流成本15%，同时提高了运输效率，增强了客户满意度。",
+      "bounds_pt": [
+        711.3,
+        422.5,
+        123.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜项目优化流程",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

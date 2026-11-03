@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜下半年工作任务计划",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "箭头: 五边形 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.提升工作效率",
+      "bounds_pt": [
+        43.2,
+        82.2,
+        295.1,
+        40.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "箭头: V 形 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "03. 提高专业技能",
+      "bounds_pt": [
+        338.3,
+        82.2,
+        295.1,
+        40.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "箭头: V 形 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "05. 加强数据分析",
+      "bounds_pt": [
+        633.5,
+        82.2,
+        295.1,
+        40.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "箭头: V 形 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "04. 优化客户服务",
+      "bounds_pt": [
+        338.3,
+        257.0,
+        295.1,
+        40.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "箭头: V 形 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "06. 创新项目管理",
+      "bounds_pt": [
+        633.5,
+        257.0,
+        295.1,
+        40.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "箭头: 五边形 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "02. 加强团队合作",
+      "bounds_pt": [
+        43.2,
+        257.0,
+        295.1,
+        40.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 162,
+      "source_sample_chars": 81,
+      "source_text": "优化工作流程：评估现有工作流程，找出并优化低效环节，确保资源得到最大化利用。\n引入自动化工具：引入自动化工具或软件，减少重复性劳动，让员工能专注于更具创意的工作。",
+      "bounds_pt": [
+        52.8,
+        145.6,
+        264.2,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 176,
+      "source_sample_chars": 88,
+      "source_text": "参加行业培训：报名参加行业相关的培训课程或认证考试，通过系统的学习提升自己的专业水平。\n每月阅读专业书籍：每月阅读至少一本专业书籍，学习新的知识和技能，帮助自己更好地适应工作。",
+      "bounds_pt": [
+        347.9,
+        145.9,
+        264.2,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 152,
+      "source_sample_chars": 76,
+      "source_text": "加强数据分析：学习并熟练掌握数据分析工具，通过数据驱动决策。\n定期分析工作数据：定期分析工作中的数据，根据结果提出可行的改进措施，帮助提升整体工作效果。",
+      "bounds_pt": [
+        643.0,
+        146.2,
+        264.2,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 178,
+      "source_sample_chars": 89,
+      "source_text": "定期团队会议：定期组织团队会议，确保每个成员都能分享工作进展和遇到的挑战，保持透明沟通。\n建立快速反馈机制：建立快速反馈机制，确保项目中出现问题时可以立即得到反馈并迅速调整方向。",
+      "bounds_pt": [
+        52.8,
+        321.8,
+        264.2,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 174,
+      "source_sample_chars": 87,
+      "source_text": "定期与客户沟通：定期与客户进行沟通，了解他们的需求和反馈，及时调整服务策略以满足客户期望。\n快速响应客户问题：快速响应客户的问题，提供有效的解决方案，确保客户的服务感受良好。",
+      "bounds_pt": [
+        347.9,
+        322.1,
+        264.2,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "推动创新思维：在项目中引入新的创意或方法，不断推动创新，提升工作效率和成果质量。\n制定详细项目计划：制定详细且可行的项目计划，明确每个阶段的目标，确保项目按时高质量完成。",
+      "bounds_pt": [
+        643.0,
+        322.4,
+        264.2,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "第一阶段：建设与提升",
+      "bounds_pt": [
+        43.2,
+        445.4,
+        283.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "第二阶段：技能与服务",
+      "bounds_pt": [
+        338.3,
+        447.7,
+        283.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "第三阶段：创新与管理",
+      "bounds_pt": [
+        633.5,
+        450.0,
+        283.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "2026年7月-2026年8月",
+      "bounds_pt": [
+        43.2,
+        477.2,
+        283.3,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 16,
+      "source_text": "2026年9月-2026年10月",
+      "bounds_pt": [
+        338.3,
+        477.2,
+        283.3,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "2026年11月-2026年12月",
+      "bounds_pt": [
+        633.5,
+        477.2,
+        283.3,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

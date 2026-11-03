@@ -1,0 +1,423 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜不足之处与改进方法",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "部分项目在具体执行过程中出现未预见的风险。\n对项目关键节点的风险预警机制和反应力不够完善。",
+      "bounds_pt": [
+        72.0,
+        136.2,
+        189.4,
+        78.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "同侧圆角矩形 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "01.项目风险预见性不足",
+      "bounds_pt": [
+        58.9,
+        98.9,
+        215.5,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "同侧圆角矩形 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "02.行业知识更新不及时",
+      "bounds_pt": [
+        58.9,
+        233.5,
+        215.5,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "同侧圆角矩形 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "03.创新思维应用不系统",
+      "bounds_pt": [
+        58.9,
+        368.1,
+        215.5,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "同侧圆角矩形 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "01.完善风险管理体系",
+      "bounds_pt": [
+        685.3,
+        98.9,
+        216.7,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "同侧圆角矩形 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "02.建立持续学习机制",
+      "bounds_pt": [
+        685.3,
+        233.5,
+        216.7,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "同侧圆角矩形 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "03.构建创新管理体系",
+      "bounds_pt": [
+        685.3,
+        368.1,
+        216.7,
+        33.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "对行业发展趋势跟踪不够紧密，了解不够透彻。\n对于新兴业务模式的学习和知识应用相对滞后。",
+      "bounds_pt": [
+        72.0,
+        270.8,
+        189.4,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "对于业务创新想法较多，但是缺乏系统性的落地规划。\n对项目创新成果的评估和流程优化机制不够完善。",
+      "bounds_pt": [
+        72.0,
+        405.5,
+        189.4,
+        78.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "建立项目全周期风险评估机制，提升抗风险能力。\n制定项目关键节点风险预警清单和应对预案。",
+      "bounds_pt": [
+        698.7,
+        136.2,
+        189.4,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "每月安排固定时间进行行业研究和专业技能学习。\n参与行业交流活动，拓展专业视野提升专业能力。",
+      "bounds_pt": [
+        698.7,
+        270.8,
+        189.4,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "建立创新想法评估和筛选流程，有效提升工作效率。\n设立创新项目试点和优化机制，完善创新机制。",
+      "bounds_pt": [
+        698.7,
+        405.5,
+        189.4,
+        77.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "不足\n之处",
+      "bounds_pt": [
+        378.7,
+        264.7,
+        59.4,
+        55.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "改进方法",
+      "bounds_pt": [
+        521.9,
+        264.7,
+        59.4,
+        55.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "圆角矩形 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "预见性",
+      "bounds_pt": [
+        335.6,
+        83.4,
+        90.4,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "圆角矩形 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "敏感度",
+      "bounds_pt": [
+        434.8,
+        83.4,
+        90.4,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "圆角矩形 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "创新性",
+      "bounds_pt": [
+        534.0,
+        83.4,
+        90.4,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "圆角矩形 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "风险管理",
+      "bounds_pt": [
+        335.6,
+        466.7,
+        90.4,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "圆角矩形 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "持续学习",
+      "bounds_pt": [
+        434.8,
+        466.7,
+        90.4,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "圆角矩形 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "创新管理",
+      "bounds_pt": [
+        534.0,
+        466.7,
+        90.4,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "风险",
+      "bounds_pt": [
+        385.3,
+        208.3,
+        46.3,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "落后",
+      "bounds_pt": [
+        385.3,
+        348.6,
+        46.3,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "完善",
+      "bounds_pt": [
+        524.1,
+        208.8,
+        46.3,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "创新",
+      "bounds_pt": [
+        524.1,
+        349.1,
+        46.3,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 11,
+        "shape_name": "图片 10",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

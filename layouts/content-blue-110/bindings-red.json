@@ -1,0 +1,688 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜工作成果数据可视化",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_114",
+      "shape_id": 114,
+      "shape_name": "文本框 113",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "各产品销售数量分析",
+      "bounds_pt": [
+        50.7,
+        201.7,
+        144.5,
+        23.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_113",
+      "shape_id": 113,
+      "shape_name": "文本框 112",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "（单位：个）",
+      "bounds_pt": [
+        164.6,
+        206.5,
+        66.5,
+        17.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_132",
+      "shape_id": 132,
+      "shape_name": "文本框 131",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "产品A",
+      "bounds_pt": [
+        540.3,
+        350.5,
+        43.9,
+        16.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_130",
+      "shape_id": 130,
+      "shape_name": "文本框 129",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "产品B",
+      "bounds_pt": [
+        540.3,
+        350.5,
+        43.9,
+        16.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_128",
+      "shape_id": 128,
+      "shape_name": "文本框 127",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "产品C",
+      "bounds_pt": [
+        540.3,
+        350.5,
+        43.9,
+        16.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_178",
+      "shape_id": 178,
+      "shape_name": "文本框 177",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "全年逐月销售额分析",
+      "bounds_pt": [
+        50.7,
+        358.9,
+        144.5,
+        23.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_177",
+      "shape_id": 177,
+      "shape_name": "文本框 176",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "（单位：元）",
+      "bounds_pt": [
+        164.6,
+        363.6,
+        66.5,
+        17.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_280",
+      "shape_id": 280,
+      "shape_name": "文本框 279",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "全年销售额",
+      "bounds_pt": [
+        763.2,
+        94.0,
+        103.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_281",
+      "shape_id": 281,
+      "shape_name": "文本框 280",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "￥104000.00",
+      "bounds_pt": [
+        713.2,
+        118.4,
+        203.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_290",
+      "shape_id": 290,
+      "shape_name": "矩形: 圆角 289",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "第一季度销售额",
+      "bounds_pt": [
+        713.3,
+        224.1,
+        203.2,
+        19.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_294",
+      "shape_id": 294,
+      "shape_name": "文本框 293",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "23000.00",
+      "bounds_pt": [
+        798.1,
+        173.2,
+        108.7,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_295",
+      "shape_id": 295,
+      "shape_name": "文本框 294",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "占比：22.10%",
+      "bounds_pt": [
+        798.1,
+        200.5,
+        108.7,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_298",
+      "shape_id": 298,
+      "shape_name": "矩形: 圆角 297",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "第二季度销售额",
+      "bounds_pt": [
+        713.3,
+        310.9,
+        203.2,
+        19.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_302",
+      "shape_id": 302,
+      "shape_name": "文本框 301",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "30000.00",
+      "bounds_pt": [
+        798.1,
+        260.0,
+        108.7,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_303",
+      "shape_id": 303,
+      "shape_name": "文本框 302",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "占比：28.85%",
+      "bounds_pt": [
+        798.1,
+        287.3,
+        108.7,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_307",
+      "shape_id": 307,
+      "shape_name": "矩形: 圆角 306",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "第三季度销售额",
+      "bounds_pt": [
+        713.3,
+        397.7,
+        203.2,
+        19.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_311",
+      "shape_id": 311,
+      "shape_name": "文本框 310",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "26000.00",
+      "bounds_pt": [
+        798.1,
+        346.8,
+        108.7,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_312",
+      "shape_id": 312,
+      "shape_name": "文本框 311",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "占比：25.00%",
+      "bounds_pt": [
+        798.1,
+        374.1,
+        108.7,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_315",
+      "shape_id": 315,
+      "shape_name": "矩形: 圆角 314",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "第四季度销售额",
+      "bounds_pt": [
+        713.3,
+        484.5,
+        203.2,
+        19.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_319",
+      "shape_id": 319,
+      "shape_name": "文本框 318",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "25000.00",
+      "bounds_pt": [
+        798.1,
+        433.6,
+        108.7,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_320",
+      "shape_id": 320,
+      "shape_name": "文本框 319",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "占比：24.04%",
+      "bounds_pt": [
+        798.1,
+        460.8,
+        108.7,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_330",
+      "shape_id": 330,
+      "shape_name": "文本框 329",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "渠道销售额TOP.4",
+      "bounds_pt": [
+        499.4,
+        200.9,
+        116.9,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_349",
+      "shape_id": 349,
+      "shape_name": "文本框 348",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "完成率",
+      "bounds_pt": [
+        66.9,
+        98.4,
+        90.5,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_355",
+      "shape_id": 355,
+      "shape_name": "文本框 354",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "目标: 120000",
+      "bounds_pt": [
+        77.5,
+        131.9,
+        88.0,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_353",
+      "shape_id": 353,
+      "shape_name": "文本框 352",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "完成: 104000",
+      "bounds_pt": [
+        77.5,
+        147.7,
+        86.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_360",
+      "shape_id": 360,
+      "shape_name": "文本框 359",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "86%",
+      "bounds_pt": [
+        178.7,
+        123.1,
+        47.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_371",
+      "shape_id": 371,
+      "shape_name": "文本框 370",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "利润率",
+      "bounds_pt": [
+        290.4,
+        98.0,
+        90.5,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_377",
+      "shape_id": 377,
+      "shape_name": "文本框 376",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "目标: 70000",
+      "bounds_pt": [
+        304.5,
+        131.9,
+        86.4,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_375",
+      "shape_id": 375,
+      "shape_name": "文本框 374",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "完成: 60000",
+      "bounds_pt": [
+        304.5,
+        147.7,
+        85.0,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_368",
+      "shape_id": 368,
+      "shape_name": "文本框 367",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "85%",
+      "bounds_pt": [
+        402.2,
+        122.8,
+        47.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_385",
+      "shape_id": 385,
+      "shape_name": "文本框 384",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "同期增长",
+      "bounds_pt": [
+        513.8,
+        98.0,
+        110.5,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_391",
+      "shape_id": 391,
+      "shape_name": "文本框 390",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "去年: 95000",
+      "bounds_pt": [
+        526.4,
+        131.9,
+        90.8,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_389",
+      "shape_id": 389,
+      "shape_name": "文本框 388",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "今年: 104000",
+      "bounds_pt": [
+        526.4,
+        147.7,
+        89.3,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_382",
+      "shape_id": 382,
+      "shape_name": "文本框 381",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "9.4%",
+      "bounds_pt": [
+        624.4,
+        122.8,
+        52.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_395",
+      "shape_id": 395,
+      "shape_name": "文本框 394",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "供应商结算状态分析",
+      "bounds_pt": [
+        526.1,
+        355.6,
+        133.5,
+        23.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_398",
+      "shape_id": 398,
+      "shape_name": "文本框 397",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "已结算",
+      "bounds_pt": [
+        493.9,
+        388.0,
+        44.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_402",
+      "shape_id": 402,
+      "shape_name": "文本框 401",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "75%",
+      "bounds_pt": [
+        491.4,
+        400.6,
+        44.5,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_406",
+      "shape_id": 406,
+      "shape_name": "文本框 405",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "未结算",
+      "bounds_pt": [
+        663.8,
+        454.6,
+        44.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_407",
+      "shape_id": 407,
+      "shape_name": "文本框 406",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "25%",
+      "bounds_pt": [
+        663.7,
+        465.9,
+        42.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 116,
+        "shape_name": "图表 115",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 168,
+        "shape_name": "图表 9",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 332,
+        "shape_name": "图表 3",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 397,
+        "shape_name": "图表",
+        "categories_max": 8,
+        "series_max": 4
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 24,
+        "shape_name": "图片 23",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

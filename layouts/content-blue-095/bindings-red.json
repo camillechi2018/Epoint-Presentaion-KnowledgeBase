@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        355.7,
+        179.0,
+        76.1,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        529.7,
+        179.0,
+        76.1,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        307.9,
+        276.0,
+        76.1,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        575.9,
+        276.0,
+        76.1,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        351.0,
+        378.9,
+        76.1,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "06",
+      "bounds_pt": [
+        530.7,
+        378.9,
+        76.1,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "矩形 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "优化团队沟通",
+      "bounds_pt": [
+        43.0,
+        82.8,
+        240.8,
+        36.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "矩形 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "员工培训发展",
+      "bounds_pt": [
+        43.0,
+        229.7,
+        240.8,
+        36.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "矩形 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "强化财务管理",
+      "bounds_pt": [
+        43.0,
+        376.7,
+        240.8,
+        36.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "矩形 80",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升客户服务",
+      "bounds_pt": [
+        676.7,
+        82.8,
+        240.8,
+        36.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "矩形 78",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "推动技术创新",
+      "bounds_pt": [
+        676.7,
+        229.7,
+        240.8,
+        36.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "矩形 76",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "保持持续发展",
+      "bounds_pt": [
+        676.7,
+        376.7,
+        240.8,
+        36.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_118",
+      "shape_id": 118,
+      "shape_name": "文本框 117",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "建立沟通渠道：设立不同层级的沟通平台确保信息及时传达，避免沟通误差。\n加强部门协作：增强不同部门之间的了解与合作，提高项目执行效率。",
+      "bounds_pt": [
+        54.3,
+        122.8,
+        218.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_119",
+      "shape_id": 119,
+      "shape_name": "文本框 118",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "建立反馈机制：定期通过调查等方式收集客户反馈，及时跟进解决客户问题。\n制定客户服务标准与流程：完善客户服务的标准化流程，提升客户体验。",
+      "bounds_pt": [
+        688.1,
+        122.8,
+        218.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_120",
+      "shape_id": 120,
+      "shape_name": "文本框 119",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "制定个性化发展计划：根据员工的工作表现、兴趣与职业规划。\n组织分享学习活动：鼓励员工交流经验与知识，并提高团队整体技能水平。",
+      "bounds_pt": [
+        54.3,
+        269.7,
+        218.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_121",
+      "shape_id": 121,
+      "shape_name": "文本框 120",
+      "type": "text",
+      "max_chars": 136,
+      "source_sample_chars": 68,
+      "source_text": "引入先进技术：根据行业趋势和公司需求部署新兴技术，提高整体效率。\n鼓励创新文化：激发员工的创新思维，鼓励提出新思路，推动企业发展和优化。",
+      "bounds_pt": [
+        688.1,
+        269.7,
+        218.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_122",
+      "shape_id": 122,
+      "shape_name": "文本框 121",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "优化资源配置：对每个部门和项目进行严格的预算控制，避免资源浪费。\n财务透明度管理：通过财务审计和定期报告，及时调整和优化资金使用策略。",
+      "bounds_pt": [
+        54.3,
+        416.7,
+        218.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_123",
+      "shape_id": 123,
+      "shape_name": "文本框 122",
+      "type": "text",
+      "max_chars": 130,
+      "source_sample_chars": 65,
+      "source_text": "推动绿色环保项目：推动绿色技术和环保措施的实施，减少能源消耗和排放。\n关注社会责任：支持公益事业发展，增强公司在公众中的正面形象。",
+      "bounds_pt": [
+        688.1,
+        416.7,
+        218.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "核心工作任务",
+      "bounds_pt": [
+        413.4,
+        298.0,
+        133.2,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜年度核心工作任务",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 24,
+        "shape_name": "图片 23",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

@@ -1,0 +1,663 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "矩形: 圆角 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "研发项目B",
+      "bounds_pt": [
+        43.1,
+        315.6,
+        113.1,
+        126.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "矩形 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "项目推进",
+      "bounds_pt": [
+        43.2,
+        105.0,
+        113.1,
+        51.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "1月-2月",
+      "bounds_pt": [
+        191.6,
+        472.9,
+        73.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "3月-4月",
+      "bounds_pt": [
+        309.8,
+        472.9,
+        73.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "5月-6月",
+      "bounds_pt": [
+        428.1,
+        472.9,
+        73.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "7月-8月",
+      "bounds_pt": [
+        546.3,
+        472.9,
+        73.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "9月-11月",
+      "bounds_pt": [
+        659.6,
+        472.9,
+        83.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "12月",
+      "bounds_pt": [
+        788.5,
+        472.9,
+        59.0,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "矩形: 圆角 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "研发项目A",
+      "bounds_pt": [
+        43.2,
+        171.6,
+        113.1,
+        126.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "分析与调研",
+      "bounds_pt": [
+        173.7,
+        194.7,
+        109.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "与各部门沟通，收集用户反馈，分析竞品和市场调研数据。",
+      "bounds_pt": [
+        173.7,
+        221.6,
+        109.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "设计与架构",
+      "bounds_pt": [
+        291.8,
+        193.7,
+        109.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "确定平台技术栈，进行系统架构设计，开发并评审原型。",
+      "bounds_pt": [
+        291.8,
+        220.6,
+        109.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "开发与测试",
+      "bounds_pt": [
+        409.7,
+        193.7,
+        109.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "分阶段开发核心功能并进行单元测试，确保功能稳定。",
+      "bounds_pt": [
+        409.7,
+        220.6,
+        109.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "优化与调整",
+      "bounds_pt": [
+        527.6,
+        193.7,
+        109.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "进行模块间接口对接并进行系统测试，优化系统稳定性。",
+      "bounds_pt": [
+        527.6,
+        220.6,
+        109.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "验收与反馈",
+      "bounds_pt": [
+        645.4,
+        193.7,
+        109.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "邀请部分用户进行测试，收集建议，进行相应的功能调整。",
+      "bounds_pt": [
+        645.4,
+        220.6,
+        109.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "上线与发布",
+      "bounds_pt": [
+        763.3,
+        193.7,
+        109.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "完成系统部署，制定上线计划，进行生产环境的监控。",
+      "bounds_pt": [
+        763.3,
+        220.6,
+        109.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "调研与规划",
+      "bounds_pt": [
+        173.7,
+        194.7,
+        109.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "收集用户需求，确定项目范围，制定详细的研发计划。",
+      "bounds_pt": [
+        173.7,
+        221.6,
+        109.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "评审与开发",
+      "bounds_pt": [
+        291.8,
+        333.8,
+        109.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "进行技术评审，搭建开发环境和测试环境进行基础配置。",
+      "bounds_pt": [
+        291.8,
+        360.7,
+        109.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "开发与测试",
+      "bounds_pt": [
+        409.7,
+        333.8,
+        109.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "发各个功能模块，进行功能测试和bug修复，优化性能。",
+      "bounds_pt": [
+        409.7,
+        360.7,
+        109.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "集成与优化",
+      "bounds_pt": [
+        527.6,
+        333.8,
+        109.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "进行集成测试，发现并解决性能瓶颈，确保系统稳定性。",
+      "bounds_pt": [
+        527.6,
+        360.7,
+        109.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "验收与修复",
+      "bounds_pt": [
+        645.4,
+        333.8,
+        109.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "进行验收测试，收集用户反馈，进行修复和优化。",
+      "bounds_pt": [
+        645.4,
+        360.7,
+        109.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "部署与维护",
+      "bounds_pt": [
+        763.3,
+        333.8,
+        109.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "上线部署，监控系统运行状况，提供后期技术支持。",
+      "bounds_pt": [
+        763.3,
+        360.7,
+        109.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_86",
+      "shape_id": 86,
+      "shape_name": "文本框 85",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "推进计划01",
+      "bounds_pt": [
+        179.4,
+        140.4,
+        112.4,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "文本框 86",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "推进计划02",
+      "bounds_pt": [
+        297.4,
+        140.4,
+        112.4,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "推进计划03",
+      "bounds_pt": [
+        416.6,
+        140.4,
+        112.4,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "推进计划04",
+      "bounds_pt": [
+        534.6,
+        140.4,
+        112.4,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "文本框 89",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "推进计划05",
+      "bounds_pt": [
+        653.2,
+        140.4,
+        112.4,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_91",
+      "shape_id": 91,
+      "shape_name": "文本框 90",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "推进计划06",
+      "bounds_pt": [
+        772.9,
+        140.4,
+        112.4,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "时间轴｜项目推进计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 11,
+        "shape_name": "图片 10",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

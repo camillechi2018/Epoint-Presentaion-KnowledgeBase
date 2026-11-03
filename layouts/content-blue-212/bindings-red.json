@@ -1,0 +1,503 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "椭圆 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "1",
+      "bounds_pt": [
+        115.2,
+        392.9,
+        21.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "椭圆 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "2",
+      "bounds_pt": [
+        291.9,
+        392.4,
+        21.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "椭圆 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "3",
+      "bounds_pt": [
+        468.6,
+        391.9,
+        21.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "椭圆 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "4",
+      "bounds_pt": [
+        645.3,
+        391.4,
+        21.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "椭圆 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "5",
+      "bounds_pt": [
+        822.0,
+        390.9,
+        21.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "矩形: 圆角 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "1月",
+      "bounds_pt": [
+        42.7,
+        478.6,
+        166.8,
+        32.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "矩形: 圆角 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3月",
+      "bounds_pt": [
+        220.2,
+        478.6,
+        166.8,
+        32.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "矩形: 圆角 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "6月",
+      "bounds_pt": [
+        396.6,
+        478.6,
+        166.8,
+        32.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "矩形: 圆角 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "9月",
+      "bounds_pt": [
+        573.1,
+        478.6,
+        166.8,
+        32.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "矩形: 圆角 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "12月",
+      "bounds_pt": [
+        749.5,
+        478.6,
+        166.8,
+        32.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "工作计划",
+      "bounds_pt": [
+        95.1,
+        101.6,
+        115.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "年度规划与目标设定",
+      "bounds_pt": [
+        42.1,
+        174.7,
+        166.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "项目启动与进度跟踪",
+      "bounds_pt": [
+        220.3,
+        174.7,
+        165.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "中期评估与优化调整",
+      "bounds_pt": [
+        396.6,
+        174.7,
+        166.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "年度总结与信息反馈",
+      "bounds_pt": [
+        573.1,
+        174.7,
+        166.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "文本框 81",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "年终总结与新年规划",
+      "bounds_pt": [
+        750.0,
+        174.7,
+        166.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "max_chars": 130,
+      "source_sample_chars": 65,
+      "source_text": "任务一：制定公司或团队的年度工作目标与计划。\n任务二：分析去年的业绩，并根据反馈调整策略。\n任务三：开展团建活动，提高整体凝聚力。",
+      "bounds_pt": [
+        56.6,
+        232.4,
+        149.2,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_86",
+      "shape_id": 86,
+      "shape_name": "文本框 85",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "任务一：启动实施年度重点项目，明确项目目标。\n任务二：分配资源，确保项目成员明确各自职责。\n任务三：跟踪项目进度，解决任何阻碍问题。",
+      "bounds_pt": [
+        234.0,
+        232.4,
+        149.2,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "文本框 86",
+      "type": "text",
+      "max_chars": 138,
+      "source_sample_chars": 69,
+      "source_text": "任务一：评估上半年工作完成情况，分析与目标的差距。\n任务二：调整下半年的工作重点，确保目标达成。\n任务三：优化资源分配，提升整体工作效率。",
+      "bounds_pt": [
+        411.5,
+        232.4,
+        149.2,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "max_chars": 140,
+      "source_sample_chars": 70,
+      "source_text": "任务一：总结上半年工作成果分析不足并制定改进措施。\n任务二：收集团队成员的反馈进行优化调整。\n任务三：检查部门预算执行情况，做出必要的调整。",
+      "bounds_pt": [
+        588.9,
+        232.4,
+        149.2,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "type": "text",
+      "max_chars": 146,
+      "source_sample_chars": 73,
+      "source_text": "任务一：总结全年工作业务成绩，编写年终报告。\n任务二：与团队成员进行年度绩效评估与个人发展规划。\n任务三：调整和优化公司整体战略，为下一年做准备。",
+      "bounds_pt": [
+        766.4,
+        232.4,
+        149.2,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作计划任务",
+      "bounds_pt": [
+        262.2,
+        124.6,
+        91.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "文本框 94",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "15项",
+      "bounds_pt": [
+        262.2,
+        90.1,
+        91.3,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "已完成计划",
+      "bounds_pt": [
+        436.5,
+        124.6,
+        91.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "6项",
+      "bounds_pt": [
+        436.5,
+        90.1,
+        91.3,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "文本框 97",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "未完成计划",
+      "bounds_pt": [
+        610.8,
+        124.6,
+        91.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "文本框 98",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "9项",
+      "bounds_pt": [
+        610.8,
+        90.1,
+        91.3,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "计划完成率",
+      "bounds_pt": [
+        785.0,
+        124.6,
+        91.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "40%",
+      "bounds_pt": [
+        785.0,
+        90.1,
+        91.3,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "时间轴｜重点月份工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 11,
+        "shape_name": "图片 10",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

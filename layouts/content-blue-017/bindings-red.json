@@ -1,0 +1,407 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜重点工作成果展示",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "任意多边形: 形状 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "重点工作\n成果展示",
+      "bounds_pt": [
+        93.8,
+        196.1,
+        200.4,
+        200.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "矩形: 圆角 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "上半年\n工作成果",
+      "bounds_pt": [
+        53.8,
+        99.7,
+        128.0,
+        85.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "矩形: 圆角 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "下半年\n工作成果",
+      "bounds_pt": [
+        53.8,
+        408.2,
+        128.0,
+        85.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "客户满意度提升",
+      "bounds_pt": [
+        428.6,
+        114.7,
+        124.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "Enhanced Customer Satisfaction",
+      "bounds_pt": [
+        428.6,
+        135.5,
+        124.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "深挖客户价值",
+      "bounds_pt": [
+        428.6,
+        220.7,
+        124.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "Digging deeper into customer value",
+      "bounds_pt": [
+        428.6,
+        241.5,
+        124.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "优化服务体系",
+      "bounds_pt": [
+        428.6,
+        327.4,
+        124.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "Optimize service system",
+      "bounds_pt": [
+        436.8,
+        348.2,
+        108.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "构建客户生态",
+      "bounds_pt": [
+        428.6,
+        432.7,
+        124.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "Building a customer ecosystem",
+      "bounds_pt": [
+        428.6,
+        453.5,
+        124.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "NPS得分提升至60，客户续约率达到92%。\n建立客户健康度模型，实现客户风险预警。\n客户投诉24小时解决率100%，响应速度领先。",
+      "bounds_pt": [
+        575.1,
+        103.8,
+        232.5,
+        66.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 126,
+      "source_sample_chars": 63,
+      "source_text": "客单价提升25%，交叉销售业绩增长40%。\n解决方案签约数量翻倍，客户价值深度挖掘。\n建立商机挖掘机制，存量客户价值增长30%",
+      "bounds_pt": [
+        575.1,
+        210.1,
+        232.5,
+        66.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "建立客户成功管理体系，实施分级服务标准。\n服务响应时效提升50%，服务体验持续优化。\n实施服务质量监控，服务过程100%可追溯。",
+      "bounds_pt": [
+        575.1,
+        316.4,
+        232.5,
+        66.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 122,
+      "source_sample_chars": 61,
+      "source_text": "沉淀百个客户案例，客户互动更加深入。\n建立客户委员会，产品研发客户参与度提升。\n客户转介绍率提升25%，口碑效应开始显现。",
+      "bounds_pt": [
+        575.1,
+        422.7,
+        232.5,
+        66.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "矩形 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "投诉24小时解决率",
+      "bounds_pt": [
+        807.6,
+        144.4,
+        84.5,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "矩形 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "销售业绩增长",
+      "bounds_pt": [
+        807.6,
+        250.7,
+        84.5,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "矩形 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "服务响应时效提升",
+      "bounds_pt": [
+        807.6,
+        357.0,
+        84.5,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "矩形 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "客户转介绍率提升",
+      "bounds_pt": [
+        807.6,
+        463.3,
+        84.5,
+        18.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "100%",
+      "bounds_pt": [
+        807.6,
+        110.1,
+        84.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "40%",
+      "bounds_pt": [
+        807.6,
+        216.5,
+        84.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "100%",
+      "bounds_pt": [
+        807.6,
+        322.9,
+        84.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "100%",
+      "bounds_pt": [
+        807.6,
+        429.3,
+        84.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

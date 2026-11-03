@@ -1,0 +1,519 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜项目策略思路",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "深度洞察与分析",
+      "bounds_pt": [
+        53.4,
+        447.7,
+        153.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "目标定位与规划",
+      "bounds_pt": [
+        227.4,
+        447.7,
+        153.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "方案设计与优化",
+      "bounds_pt": [
+        401.4,
+        447.7,
+        153.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "执行推进与管控",
+      "bounds_pt": [
+        575.4,
+        447.7,
+        153.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "文本框 81",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "复盘迭代与提升",
+      "bounds_pt": [
+        749.5,
+        447.7,
+        153.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "文本框 84",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "Step01",
+      "bounds_pt": [
+        117.3,
+        127.0,
+        82.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "文本框 86",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "Step02",
+      "bounds_pt": [
+        290.5,
+        127.0,
+        82.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "Step03",
+      "bounds_pt": [
+        463.7,
+        127.0,
+        82.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "Step04",
+      "bounds_pt": [
+        637.0,
+        127.0,
+        82.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "文本框 89",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "Step05",
+      "bounds_pt": [
+        810.2,
+        127.0,
+        82.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "市场环境扫描",
+      "bounds_pt": [
+        49.9,
+        206.6,
+        159.5,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "运用PEST分析评估宏观环境。\n通过竞争矩阵定位市场格局。",
+      "bounds_pt": [
+        49.9,
+        241.2,
+        159.5,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "用户需求挖掘",
+      "bounds_pt": [
+        50.1,
+        309.7,
+        159.5,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "文本框 97",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "定量定性结合建立用户画像。\n运用Kano模型分析优先级。",
+      "bounds_pt": [
+        50.1,
+        344.3,
+        159.5,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "文本框 98",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "战略目标制定",
+      "bounds_pt": [
+        223.9,
+        206.6,
+        159.5,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "SMART原则设定具体目标。\n运用OGSM模型转化战略路径。",
+      "bounds_pt": [
+        223.9,
+        241.2,
+        159.5,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "资源路径规划",
+      "bounds_pt": [
+        224.1,
+        309.7,
+        159.5,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "绘制资源地图明确关键要素。\n制定里程碑计划把控进度。",
+      "bounds_pt": [
+        224.1,
+        344.3,
+        159.5,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "创新方案构思",
+      "bounds_pt": [
+        397.8,
+        206.6,
+        159.5,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_104",
+      "shape_id": 104,
+      "shape_name": "文本框 103",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "运用设计思维理解用户痛点。\n通过头脑风暴激发创新想法。",
+      "bounds_pt": [
+        397.8,
+        241.2,
+        159.5,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_105",
+      "shape_id": 105,
+      "shape_name": "文本框 104",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "方案可行性评估",
+      "bounds_pt": [
+        398.1,
+        309.7,
+        159.5,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_106",
+      "shape_id": 106,
+      "shape_name": "文本框 105",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "多维度评估方案实施条件。\nSWOT分析识别优劣机遇。",
+      "bounds_pt": [
+        398.1,
+        344.3,
+        159.5,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_107",
+      "shape_id": 107,
+      "shape_name": "文本框 106",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "敏捷执行推进",
+      "bounds_pt": [
+        571.8,
+        206.6,
+        159.5,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_108",
+      "shape_id": 108,
+      "shape_name": "文本框 107",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "采用迭代开发快速验证。\n建立节奏化推进机制。",
+      "bounds_pt": [
+        571.8,
+        241.2,
+        159.5,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_109",
+      "shape_id": 109,
+      "shape_name": "文本框 108",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "风险动态管控",
+      "bounds_pt": [
+        572.0,
+        309.7,
+        159.5,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_110",
+      "shape_id": 110,
+      "shape_name": "文本框 109",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "实时监控环境变化。\n制定应急预案应对风险。",
+      "bounds_pt": [
+        572.0,
+        344.3,
+        159.5,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_111",
+      "shape_id": 111,
+      "shape_name": "文本框 110",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "效果评估复盘",
+      "bounds_pt": [
+        745.8,
+        206.6,
+        159.5,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "文本框 111",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "数据看板追踪关键指标。\n系统总结项目经验得失。",
+      "bounds_pt": [
+        745.8,
+        241.2,
+        159.5,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_113",
+      "shape_id": 113,
+      "shape_name": "文本框 112",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "知识沉淀推广",
+      "bounds_pt": [
+        746.0,
+        309.7,
+        159.5,
+        30.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_114",
+      "shape_id": 114,
+      "shape_name": "文本框 113",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "建立项目全域知识库。\n总结经验，推广最佳实践方法。",
+      "bounds_pt": [
+        746.0,
+        344.3,
+        167.7,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

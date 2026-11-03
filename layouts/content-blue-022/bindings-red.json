@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "任意形状 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "项目成果2",
+      "bounds_pt": [
+        216.4,
+        307.3,
+        180.4,
+        60.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "任意形状 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "项目成果1",
+      "bounds_pt": [
+        43.2,
+        307.3,
+        179.9,
+        60.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "任意形状 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "项目成果3",
+      "bounds_pt": [
+        390.0,
+        307.3,
+        180.4,
+        60.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "任意形状 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "项目成果4",
+      "bounds_pt": [
+        563.6,
+        307.3,
+        180.4,
+        60.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "任意形状 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "项目成果5",
+      "bounds_pt": [
+        737.2,
+        307.3,
+        180.4,
+        60.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "01.成功实施新系统",
+      "bounds_pt": [
+        55.6,
+        165.2,
+        260.8,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 160,
+      "source_sample_chars": 80,
+      "source_text": "系统上线顺利：在规定的时间内成功上线新的系统，系统稳定性和性能满足预期目标。\n生产力提升：引入了新的项目管理工具，使团队生产力提高了20%，工作任务完成更高效。",
+      "bounds_pt": [
+        55.5,
+        203.4,
+        261.0,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.提升销售业绩",
+      "bounds_pt": [
+        346.2,
+        164.8,
+        268.8,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.改善团队协作",
+      "bounds_pt": [
+        644.7,
+        164.8,
+        260.8,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "人才结构优化：成功引进10名高校人才，人才保留率达到95%，团队能力显著增强。\n服务创新奖励：设立了服务创新奖，激励团队提升服务水平。",
+      "bounds_pt": [
+        644.7,
+        202.9,
+        260.8,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.优化业务流程",
+      "bounds_pt": [
+        70.2,
+        378.7,
+        375.6,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "流程改进实施：对关键业务流程进行了优化，减少了冗余步骤，使操作时间缩短了20%。\n工具赋能增效：引入RPA和智能化工具，自动化处理重复性工作内容，有效释放30%人力资源。",
+      "bounds_pt": [
+        70.2,
+        416.0,
+        375.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "05.开发新产品",
+      "bounds_pt": [
+        511.1,
+        378.7,
+        375.2,
+        36.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 200,
+      "source_sample_chars": 100,
+      "source_text": "产品上市：新产品不仅如期顺利上市，完成了项目计划中的所有关键里程碑，其在初期的市场表现更是可圈可点。\n信息安全强化：已顺利通过信息安全认证，建立全方位、多层次安全防护体系，全面有效保障数据和系统安全。",
+      "bounds_pt": [
+        511.0,
+        416.0,
+        375.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 154,
+      "source_sample_chars": 77,
+      "source_text": "销售增长：实施了新的销售策略，季度销售额提升了25%，超出预期目标。\n体系构建完善：建立全渠道一体化客服体系，实现线上线下服务，问题一次性解决率达85%。",
+      "bounds_pt": [
+        345.7,
+        202.9,
+        269.7,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜工作成果展示",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "TextBox 161",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2026成果展示",
+      "bounds_pt": [
+        59.6,
+        105.9,
+        269.0,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "Rectangle 4",
+      "type": "text",
+      "max_chars": 208,
+      "source_sample_chars": 104,
+      "source_text": "在过去的一年中，我们公司取得了显著的进展和成就。通过不断优化内部流程和引入创新技术，我们不仅提升了运营效率，还显著降低了成本。我们的客户满意度得到了显著提升，客户反馈的积极评价进一步验证了我们服务质量的改善。",
+      "bounds_pt": [
+        346.6,
+        104.4,
+        559.8,
+        34.7
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

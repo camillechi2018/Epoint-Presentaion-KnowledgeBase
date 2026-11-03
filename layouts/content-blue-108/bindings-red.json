@@ -1,0 +1,439 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "述职汇报｜重点项目工作成果展示",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.销售业绩提升",
+      "bounds_pt": [
+        43.2,
+        146.4,
+        166.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.品牌份额提升",
+      "bounds_pt": [
+        219.9,
+        146.4,
+        166.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.团队建设加强",
+      "bounds_pt": [
+        396.6,
+        146.4,
+        166.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.成本控制优化",
+      "bounds_pt": [
+        573.3,
+        146.4,
+        166.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "05.满意度的提升",
+      "bounds_pt": [
+        749.9,
+        146.4,
+        166.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 120,
+      "source_sample_chars": 60,
+      "source_text": "销售策略优化：通过分析市场数据调整销售策略，使得产品销售额同比增长了25%。\n客户关系管理：与核心客户建立长期合作关系。",
+      "bounds_pt": [
+        47.1,
+        244.1,
+        162.9,
+        101.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体成果",
+      "bounds_pt": [
+        73.3,
+        213.3,
+        136.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体成果",
+      "bounds_pt": [
+        249.7,
+        213.3,
+        136.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体成果",
+      "bounds_pt": [
+        424.5,
+        213.3,
+        136.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体成果",
+      "bounds_pt": [
+        599.2,
+        213.3,
+        136.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体成果",
+      "bounds_pt": [
+        774.8,
+        213.3,
+        136.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "成果总结",
+      "bounds_pt": [
+        73.3,
+        376.4,
+        136.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "成果总结",
+      "bounds_pt": [
+        249.7,
+        376.4,
+        136.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "成果总结",
+      "bounds_pt": [
+        424.5,
+        376.4,
+        136.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "成果总结",
+      "bounds_pt": [
+        599.2,
+        376.4,
+        136.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "成果总结",
+      "bounds_pt": [
+        774.8,
+        376.4,
+        136.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "销售策略的调整为公司带来了稳定的增长。\n客户关系维系增加了客户的忠诚度，促进了销售增长。",
+      "bounds_pt": [
+        47.3,
+        407.0,
+        162.9,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 118,
+      "source_sample_chars": 59,
+      "source_text": "新市场开发：成功进入新的市场，通过本地化营销策略迅速建立品牌影响力。\n品牌知名度提升：通过营销活动，提升了品牌知名度。",
+      "bounds_pt": [
+        223.5,
+        244.1,
+        162.9,
+        101.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "新市场的开拓为公司带来了新的收入来源。\n品牌知名度提升促进了市场渗透，增加了客户群体。",
+      "bounds_pt": [
+        223.7,
+        407.0,
+        162.9,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "培训与技能提升：通过定期举办内部培训，提高团队的业务能力，增强整体执行力。\n团队文化建设：组织团队建设活动，加强团队凝聚力。",
+      "bounds_pt": [
+        398.2,
+        244.1,
+        162.9,
+        101.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "团队技能的提升使得工作效率得到了显著提高。\n团队凝聚力的增强促进了项目顺利推进。",
+      "bounds_pt": [
+        398.3,
+        407.0,
+        162.9,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 120,
+      "source_sample_chars": 60,
+      "source_text": "供应链优化：通过调整供应链管理，降低了采购成本，使整体成本下降了15%。\n资源合理配置：优化内部资源配置，避免资源浪费。",
+      "bounds_pt": [
+        572.8,
+        244.1,
+        162.9,
+        101.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "成本控制在提升利润的同时保持了稳定的现金流。\n资源合理配置减少了冗余成本提升了资源使用效率。",
+      "bounds_pt": [
+        573.0,
+        407.0,
+        162.9,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 116,
+      "source_sample_chars": 58,
+      "source_text": "客户服务改善：优化客户服务流程，提供更快捷的解决方案提升客户满意度。\n客户调研与反馈：通过客户调研，增强客户忠诚度。",
+      "bounds_pt": [
+        748.3,
+        244.1,
+        162.9,
+        101.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "服务提升增强了客户的信任感促进了客户的复购。\n客户反馈的及时响应帮助公司不断优化产品和服务。",
+      "bounds_pt": [
+        748.5,
+        407.0,
+        162.9,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 24,
+        "shape_name": "图片 23",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

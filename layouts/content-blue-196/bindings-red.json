@@ -1,0 +1,334 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "甘特图｜年度工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "圆角矩形 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "市场情报收集",
+      "bounds_pt": [
+        47.4,
+        174.2,
+        127.8,
+        22.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "圆角矩形 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "谈判策略制定",
+      "bounds_pt": [
+        47.4,
+        216.6,
+        127.8,
+        22.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "圆角矩形 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "谈判团队组建",
+      "bounds_pt": [
+        47.4,
+        259.0,
+        127.8,
+        22.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "圆角矩形 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "大客户谈判启动",
+      "bounds_pt": [
+        47.4,
+        301.5,
+        127.8,
+        22.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "圆角矩形 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "价格与服务磋商",
+      "bounds_pt": [
+        47.4,
+        343.9,
+        127.8,
+        22.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "圆角矩形 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "供应商年度谈判",
+      "bounds_pt": [
+        47.4,
+        386.3,
+        127.8,
+        22.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "圆角矩形 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "合同续签推进",
+      "bounds_pt": [
+        47.4,
+        428.8,
+        127.8,
+        22.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "圆角矩形 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "谈判复盘总结",
+      "bounds_pt": [
+        47.4,
+        471.2,
+        127.8,
+        22.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "阶段01",
+      "bounds_pt": [
+        428.4,
+        131.7,
+        49.4,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "阶段02",
+      "bounds_pt": [
+        798.0,
+        133.2,
+        49.4,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "系统梳理目标客户和供应商信息，掌握行业动态和价格行情",
+      "bounds_pt": [
+        202.3,
+        176.1,
+        275.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "针对不同对象制定差异化策略，明确底线、目标和核心筹码",
+      "bounds_pt": [
+        361.1,
+        218.4,
+        275.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "选拔核心成员，明确职责分工，开展谈判技巧专项培训",
+      "bounds_pt": [
+        290.8,
+        260.7,
+        275.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "针对年度重点客户展开首轮接触和意向沟通，建立信任关系",
+      "bounds_pt": [
+        513.9,
+        303.1,
+        275.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "围绕核心条款展开多轮谈判，争取最优价格和服务条件",
+      "bounds_pt": [
+        278.7,
+        345.4,
+        275.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "与核心供应商就采购价格、付款条件等展开年度谈判",
+      "bounds_pt": [
+        514.5,
+        387.7,
+        275.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "推动重点客户和供应商年度合同续签，确保业务连续性",
+      "bounds_pt": [
+        529.3,
+        430.6,
+        275.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "系统复盘全年谈判工作，总结经验教训，优化明年策略",
+      "bounds_pt": [
+        474.4,
+        472.9,
+        275.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [
+      {
+        "shape_id": 2,
+        "shape_name": "表格 1",
+        "rows": 2,
+        "columns": 13
+      }
+    ],
+    "images": [
+      {
+        "shape_id": 5,
+        "shape_name": "图片 4",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}

@@ -1,0 +1,807 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜工作内容概述",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "箭头: 五边形 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q1",
+      "bounds_pt": [
+        121.6,
+        460.0,
+        211.6,
+        43.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_141",
+      "shape_id": 141,
+      "shape_name": "箭头: V 形 140",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q2",
+      "bounds_pt": [
+        319.6,
+        460.0,
+        215.0,
+        43.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_142",
+      "shape_id": 142,
+      "shape_name": "箭头: V 形 141",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q3",
+      "bounds_pt": [
+        521.0,
+        460.0,
+        215.0,
+        43.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_143",
+      "shape_id": 143,
+      "shape_name": "箭头: V 形 142",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q4",
+      "bounds_pt": [
+        722.4,
+        460.0,
+        215.0,
+        43.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_178",
+      "shape_id": 178,
+      "shape_name": "文本框 177",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "1.目标规划与市场布局",
+      "bounds_pt": [
+        122.0,
+        100.8,
+        192.6,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_179",
+      "shape_id": 179,
+      "shape_name": "文本框 178",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "Goal planning and market layout",
+      "bounds_pt": [
+        122.0,
+        126.6,
+        192.6,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_180",
+      "shape_id": 180,
+      "shape_name": "文本框 179",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "Goal planning and market layout",
+      "bounds_pt": [
+        338.9,
+        126.6,
+        192.6,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_181",
+      "shape_id": 181,
+      "shape_name": "文本框 180",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "Goal planning and market layout",
+      "bounds_pt": [
+        539.7,
+        126.6,
+        192.6,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_182",
+      "shape_id": 182,
+      "shape_name": "文本框 181",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "Goal planning and market layout",
+      "bounds_pt": [
+        740.6,
+        126.6,
+        192.6,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_183",
+      "shape_id": 183,
+      "shape_name": "文本框 182",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "2.全面出击与渠道深化",
+      "bounds_pt": [
+        339.0,
+        100.8,
+        193.0,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_184",
+      "shape_id": 184,
+      "shape_name": "文本框 183",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "3.旺季攻坚与品牌提升",
+      "bounds_pt": [
+        539.3,
+        100.8,
+        193.5,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_185",
+      "shape_id": 185,
+      "shape_name": "文本框 184",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "4.业绩收官与战略前瞻",
+      "bounds_pt": [
+        739.6,
+        100.8,
+        193.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_186",
+      "shape_id": 186,
+      "shape_name": "文本框 185",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "销售目标分解",
+      "bounds_pt": [
+        126.3,
+        166.6,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_187",
+      "shape_id": 187,
+      "shape_name": "文本框 186",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "将年度业绩目标分解至各区域、各渠道及个人。",
+      "bounds_pt": [
+        126.4,
+        186.2,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_189",
+      "shape_id": 189,
+      "shape_name": "文本框 188",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "市场策略制定",
+      "bounds_pt": [
+        126.3,
+        240.6,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_190",
+      "shape_id": 190,
+      "shape_name": "文本框 189",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "确定全年品牌推广、渠道拓展及营销活动策略。",
+      "bounds_pt": [
+        126.4,
+        260.1,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_192",
+      "shape_id": 192,
+      "shape_name": "文本框 191",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "销售工具准备",
+      "bounds_pt": [
+        126.3,
+        314.5,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_193",
+      "shape_id": 193,
+      "shape_name": "文本框 192",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "更新产品方案、报价体系、销售方案及销售物料库。",
+      "bounds_pt": [
+        126.4,
+        334.1,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_195",
+      "shape_id": 195,
+      "shape_name": "文本框 194",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "团队启动赋能",
+      "bounds_pt": [
+        126.6,
+        388.4,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_196",
+      "shape_id": 196,
+      "shape_name": "文本框 195",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "召开年度启动会，并进行新产品与新培训。",
+      "bounds_pt": [
+        126.7,
+        408.0,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_198",
+      "shape_id": 198,
+      "shape_name": "文本框 197",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "新市场/客户开拓",
+      "bounds_pt": [
+        327.2,
+        166.6,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_199",
+      "shape_id": 199,
+      "shape_name": "文本框 198",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "集中力量攻坚新区域或新客户群体，实现突破。",
+      "bounds_pt": [
+        327.2,
+        186.2,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_201",
+      "shape_id": 201,
+      "shape_name": "文本框 200",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "营销活动落地",
+      "bounds_pt": [
+        327.2,
+        240.6,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_202",
+      "shape_id": 202,
+      "shape_name": "文本框 201",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "大型季度营销活动（如春季发布会）的执行与推广。",
+      "bounds_pt": [
+        327.2,
+        260.1,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_204",
+      "shape_id": 204,
+      "shape_name": "文本框 203",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "渠道伙伴赋能",
+      "bounds_pt": [
+        327.2,
+        314.5,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_205",
+      "shape_id": 205,
+      "shape_name": "文本框 204",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "将年度业绩目标分解至各区域、各渠道及个人。",
+      "bounds_pt": [
+        327.2,
+        334.1,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_207",
+      "shape_id": 207,
+      "shape_name": "文本框 206",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "销售过程管控",
+      "bounds_pt": [
+        327.5,
+        388.4,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_208",
+      "shape_id": 208,
+      "shape_name": "文本框 207",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "强化销售漏斗管理，确保商机储备与健康转化。",
+      "bounds_pt": [
+        327.5,
+        408.0,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_210",
+      "shape_id": 210,
+      "shape_name": "文本框 209",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "业务旺季冲刺",
+      "bounds_pt": [
+        528.0,
+        166.6,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_211",
+      "shape_id": 211,
+      "shape_name": "文本框 210",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "把握市场旺季，策划促销活动，冲击核心业绩指标。",
+      "bounds_pt": [
+        528.1,
+        186.2,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_213",
+      "shape_id": 213,
+      "shape_name": "文本框 212",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "品牌影响力建设",
+      "bounds_pt": [
+        528.0,
+        240.6,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_214",
+      "shape_id": 214,
+      "shape_name": "文本框 213",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "参与或主办行业展会、峰会，提升品牌权威性。",
+      "bounds_pt": [
+        528.1,
+        260.1,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_216",
+      "shape_id": 216,
+      "shape_name": "文本框 215",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "大客户关系管理",
+      "bounds_pt": [
+        528.0,
+        314.5,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_217",
+      "shape_id": 217,
+      "shape_name": "文本框 216",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "核心客户进行深度拜访与关系维护，提升份额。",
+      "bounds_pt": [
+        528.1,
+        334.1,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_219",
+      "shape_id": 219,
+      "shape_name": "文本框 218",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "竞对动态分析",
+      "bounds_pt": [
+        528.3,
+        388.4,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_220",
+      "shape_id": 220,
+      "shape_name": "文本框 219",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "密切监控竞争对手动向，并及时调整市场策略。",
+      "bounds_pt": [
+        528.3,
+        408.0,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_222",
+      "shape_id": 222,
+      "shape_name": "文本框 221",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "全年业绩冲刺",
+      "bounds_pt": [
+        728.8,
+        166.6,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_223",
+      "shape_id": 223,
+      "shape_name": "文本框 222",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "全力完成最终销售与回款目标，确保完美收官。",
+      "bounds_pt": [
+        728.9,
+        186.2,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_225",
+      "shape_id": 225,
+      "shape_name": "文本框 224",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "客户回访与复盘",
+      "bounds_pt": [
+        728.8,
+        240.6,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_226",
+      "shape_id": 226,
+      "shape_name": "文本框 225",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "开展重点客户回访，总结工作经验和全年合作得失。",
+      "bounds_pt": [
+        728.9,
+        260.1,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_228",
+      "shape_id": 228,
+      "shape_name": "文本框 227",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "市场趋势研判",
+      "bounds_pt": [
+        728.8,
+        314.5,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_229",
+      "shape_id": 229,
+      "shape_name": "文本框 228",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "分析全年市场数据，预判未来趋势，输出洞察报告。",
+      "bounds_pt": [
+        728.9,
+        334.1,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_231",
+      "shape_id": 231,
+      "shape_name": "文本框 230",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "新年度规划制定",
+      "bounds_pt": [
+        729.1,
+        388.4,
+        184.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_232",
+      "shape_id": 232,
+      "shape_name": "文本框 231",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "制定下一年度的业务目标、市场策略与预算方案。",
+      "bounds_pt": [
+        729.2,
+        408.0,
+        184.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "椭圆 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        54.9,
+        172.9,
+        48.3,
+        48.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_236",
+      "shape_id": 236,
+      "shape_name": "椭圆 235",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        54.9,
+        246.8,
+        48.3,
+        48.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_237",
+      "shape_id": 237,
+      "shape_name": "椭圆 236",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        54.9,
+        320.8,
+        48.3,
+        48.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_238",
+      "shape_id": 238,
+      "shape_name": "椭圆 237",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        54.9,
+        394.7,
+        48.3,
+        48.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+}
