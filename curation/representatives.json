@@ -1,0 +1,20 @@
+{
+  "status": "visual_reviewed_not_auto_approved",
+  "source": "PowerPoint 导出的蓝色来源页预览；逐页结构与字段容量仍需实填验收",
+  "entries": {
+    "content-blue-001": {"role": "directory", "information_relation": "navigation", "family_id": "directory-six-grid", "composition_tags": ["six-items", "grid", "chapter-navigation"], "source_count": 6, "density": "sparse"},
+    "content-blue-002": {"role": "section", "information_relation": "chapter-divider", "family_id": "section-number-hero", "composition_tags": ["large-number", "section-title"], "source_count": 1, "density": "sparse"},
+    "content-blue-015": {"role": "progress", "information_relation": "progress-comparison", "family_id": "progress-five-stages", "composition_tags": ["five-items", "percentages", "horizontal-sequence"], "source_count": 5, "density": "medium"},
+    "content-blue-025": {"role": "timeline", "information_relation": "chronology", "family_id": "timeline-multi-row", "composition_tags": ["milestones", "horizontal", "three-rows"], "source_count": 12, "density": "dense"},
+    "content-blue-036": {"role": "data-chart", "information_relation": "metric-comparison", "family_id": "chart-multi-panel", "composition_tags": ["chart", "table", "multi-metric"], "source_count": 4, "density": "dense"},
+    "content-blue-050": {"role": "comparison", "information_relation": "problem-response", "family_id": "comparison-risk-response", "composition_tags": ["two-sided", "triangle", "risk"], "source_count": 2, "density": "medium"},
+    "content-blue-060": {"role": "process", "information_relation": "ordered-steps", "family_id": "process-horizontal-four", "composition_tags": ["four-steps", "arrow", "horizontal"], "source_count": 4, "density": "medium"},
+    "content-blue-070": {"role": "schedule", "information_relation": "project-schedule", "family_id": "schedule-gantt-bars", "composition_tags": ["gantt", "rows", "months"], "source_count": 6, "density": "medium"},
+    "content-blue-110": {"role": "data-chart", "information_relation": "dashboard", "family_id": "dashboard-chart-grid", "composition_tags": ["multi-chart", "metrics", "dashboard"], "source_count": 4, "density": "dense"},
+    "content-blue-150": {"role": "parallel", "information_relation": "parallel-items", "family_id": "parallel-five-cards", "composition_tags": ["five-items", "cards", "bottom-timeline"], "source_count": 5, "density": "medium"},
+    "content-blue-191": {"role": "data-table", "information_relation": "tabular-detail", "family_id": "table-native-grid", "composition_tags": ["native-table", "matrix"], "source_count": null, "density": "dense"},
+    "content-blue-230": {"role": "process", "information_relation": "ordered-steps", "family_id": "process-five-chevron", "composition_tags": ["five-steps", "chevron", "horizontal"], "source_count": 5, "density": "medium"},
+    "content-blue-260": {"role": "cycle", "information_relation": "cyclical-process", "family_id": "cycle-four-ring", "composition_tags": ["four-steps", "ring", "cycle"], "source_count": 4, "density": "medium"},
+    "content-blue-270": {"role": "data-chart", "information_relation": "period-comparison", "family_id": "area-chart-side-by-side", "composition_tags": ["two-periods", "area-chart", "metrics"], "source_count": 2, "density": "medium"}
+  }
+}

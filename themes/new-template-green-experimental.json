@@ -1,0 +1,23 @@
+{
+  "id": "new-template-green-experimental",
+  "status": "experimental_not_source_derived",
+  "base_theme": "new-template-blue",
+  "color_slots": {
+    "dk2": "004D44",
+    "lt2": "F5FCFA",
+    "accent1": "087F73",
+    "accent2": "21B9A6",
+    "accent3": "65C6B7",
+    "accent4": "2C9F92",
+    "accent5": "9DDDD4",
+    "accent6": "1D766B"
+  },
+  "semantic_roles": {
+    "primary": "accent1",
+    "secondary": "accent2",
+    "text_dark": "dk2",
+    "surface_light": "lt2"
+  },
+  "logo_color_policy": "locked; never recolor logo",
+  "object_binding_status": "theme_slots_only; explicit colors pending review"
+}

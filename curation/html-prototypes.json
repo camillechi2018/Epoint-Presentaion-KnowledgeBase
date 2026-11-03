@@ -1,0 +1,22 @@
+{
+  "status": "internal_prototype",
+  "profiles": {
+    "cover-01": {
+      "renderer": "scripts/render_html.py",
+      "format": "offline_html",
+      "text_selectable": true,
+      "background": "source_extracted_image",
+      "brand_logo": "embedded_svg_locked",
+      "validation": "browser_open_and_visual_review_only"
+    },
+    "content-blue-060": {
+      "renderer": "scripts/render_html.py",
+      "format": "offline_html",
+      "text_selectable": true,
+      "item_counts": [2, 3, 4],
+      "themes": ["blue", "red", "green-experimental"],
+      "motion": "click_reveal_optional",
+      "validation": "browser_open_keyboard_reveal_and_visual_review_only"
+    }
+  }
+}

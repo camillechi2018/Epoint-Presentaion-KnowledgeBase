@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "content-blue-060": {
+      "cardinality_mode": "repeatable",
+      "source_count": 4,
+      "supported_counts": [2, 3, 4],
+      "validation_status": "prototype_requires_render_review",
+      "spacing_emu": 2807208,
+      "arrow_shape_id": 4,
+      "units": [
+        [9, 17, 5, 2, 21, 25, 13],
+        [10, 18, 6, 3, 22, 26, 14],
+        [11, 19, 7, 33, 23, 27, 15],
+        [12, 20, 8, 34, 24, 28, 16]
+      ]
+    }
+  }
+}

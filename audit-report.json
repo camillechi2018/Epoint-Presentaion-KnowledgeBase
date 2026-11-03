@@ -3,17 +3,21 @@
   "physical_pages": 611,
   "component_entries": 324,
   "exact_pair_candidates": 287,
+  "source_logo_entries": 288,
+  "visual_reviewed_entries": 14,
+  "motion_prototype_entries": 1,
   "source_counts": {
     "blue": 295,
     "red": 296,
     "cover": 20
   },
-  "manifest_files": 2239,
+  "manifest_files": 2246,
   "issues": [],
   "issue_count": 0,
   "limits": [
     "顶层配对未完成人工语义复核",
-    "HTML与动效未实现",
+    "仅 P01 封面及 P060 流程有 HTML 内部原型",
+    "仅 P060 流程有项数和动效内部原型，放映未签收",
     "预览未逐页视觉验收",
     "显式色对象映射待审核"
   ]
