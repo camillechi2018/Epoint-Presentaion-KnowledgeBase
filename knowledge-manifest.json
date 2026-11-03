@@ -2,11 +2,11 @@
   "schema_version": "1.0",
   "version": "1.0.0-draft",
   "status": "draft_pending_review",
-  "file_count": 2248,
+  "file_count": 2249,
   "files": {
     ".gitignore": "01f797f0f3bba220a65d704559a3adb2beaecf1ab31b60cdd61b163b5c3a02f1",
     "BRANCH.md": "0aade4fb01c3b752ca012db536bacc760af74cc9aad53e959ff860d7d4d88176",
-    "catalog.json": "a763b7fb3039ae7310699335a84c80c6fbd0da8a84a36102b4b045260f83a4e9",
+    "catalog.json": "479ba77c5150424b48b45e0a30c158394dff24981ba534aa45884f4778f2f943",
     "color-inventory.json": "ceb5adb1440854226de6fcc007086b69b1e7cae49889ef12bc0e0b21a456cb39",
     "color-pair-audit.json": "704a8f1b46034e9e0cfcb1d3d33099fd3a40778da01640454aeb2295acb69d96",
     "color-summary.json": "d4d19da269e8018ac0caa74648d67f4924d75efdc5528aff408506c367330c09",
@@ -1620,7 +1620,7 @@
     "layouts/cover-15/bindings.json": "b8ef2a64083021ab24903f48d751fa8164fd7de3d32d9e8778a3f181647d994c",
     "layouts/cover-15/layout_rules.json": "0a0ec06bcc945615c03aa2c130e3218de5b88c6aaebf46f1bcd9c91db75f59a9",
     "layouts/cover-15/motion.json": "300fb58d7ef05c539d184d5a97533d3daf68a17ede1422b1d3272d94f10b6502",
-    "layouts/cover-15/spec.md": "84f527f405d8f5f06376caa132fa02c10b6330ee6cfcd65e9d6b8ef0ed02c4bd",
+    "layouts/cover-15/spec.md": "99642c390e85580efdfa5dea7820ad4777dc2a6f6988ae60642acefbce8f4b27",
     "layouts/cover-16/bindings.json": "77623fbeba9a1aff9589e22bc12c2fc4e31e03b984b6df197dcb6806b4209428",
     "layouts/cover-16/layout_rules.json": "0a0ec06bcc945615c03aa2c130e3218de5b88c6aaebf46f1bcd9c91db75f59a9",
     "layouts/cover-16/motion.json": "300fb58d7ef05c539d184d5a97533d3daf68a17ede1422b1d3272d94f10b6502",
@@ -2251,6 +2251,7 @@
     "source-previews/red/P293.png": "fcb1d40efa500ccd1bbf2f7d12e978de79cd9868e5f3e9f4ce041bed582520d2",
     "source-previews/red/P294.png": "8937a0e7e0f9a5885828f0bba79b112ed7a1302933de69405659ba651e509241",
     "source-previews/red/P295.png": "cb567d6a65178c4e609c5e73d7921b206389e5a350f54e97b67ab33a095389f5",
-    "source-previews/red/P296.png": "22327125f17327c699c0620ef962c71e2578b151711c329a270a583f62ec1cab"
+    "source-previews/red/P296.png": "22327125f17327c699c0620ef962c71e2578b151711c329a270a583f62ec1cab",
+    "curation/cover-tag-overrides.json": "09a85fa2a67c65f53ec9a0b3a87e632b4c0ecf64cdc128c5533705fb0be1ac00"
   }
 }

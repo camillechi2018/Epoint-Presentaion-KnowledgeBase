@@ -13325,7 +13325,7 @@
       "motion": "layouts/cover-15/motion.json",
       "preview": "source-previews/cover/P015.png",
       "themes": [
-        "neutral"
+        "red"
       ],
       "status": "draft_pending_review",
       "capacity": {
@@ -13341,15 +13341,17 @@
       "source_mapping": {
         "cover": 15
       },
-      "color_family": "neutral",
+      "color_family": "red",
       "style": "minimal-business",
       "visual_impact": "medium",
       "title_area_hint": "center",
-      "cover_match_status": "original_only_pending_review",
+      "cover_match_status": "verified_original",
       "stock_code_default": "688232",
       "slogan_locked": "成为行业数字化领航者",
       "source_logo_present": true,
-      "background_image": "cover-images/P15.jpg"
+      "background_image": "cover-images/P15.jpg",
+      "color_match_note": "用户指定 P15 归入红色封面候选。原图为银灰色丝绸背景，适合作为红色内容页的中性衔接封面；并非红色主视觉图片。原配标题、Logo、股票代码与品牌语位置保留。",
+      "brand_contrast_variant": "dark"
     },
     {
       "id": "cover-16",
