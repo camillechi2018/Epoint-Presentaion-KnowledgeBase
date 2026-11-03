@@ -1,0 +1,297 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "group_path": [],
+      "source_text": "更新技能适应变化",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1800950,
+        3602727,
+        2451769,
+        400110
+      ]
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "group_path": [],
+      "source_text": "根据数字化转型的需求，提升自己的\n数字技能，如数据分析、编程等",
+      "source_sample_chars": 31,
+      "max_chars": 46,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1706881,
+        3971761,
+        2545838,
+        488788
+      ]
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "group_path": [],
+      "source_text": "将数字化转型的理念和技能应用到实际工作中\n如优化工作流程、提升工作效率等",
+      "source_sample_chars": 36,
+      "max_chars": 54,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7939281,
+        3971761,
+        3047443,
+        488788
+      ]
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "group_path": [],
+      "source_text": "数字化转型实践",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7939282,
+        3602727,
+        2545837,
+        400110
+      ]
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "group_path": [],
+      "source_text": "了解数字化转型的最新趋势和前沿技术\n如人工智能、大数据、云计算等",
+      "source_sample_chars": 32,
+      "max_chars": 48,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        635904,
+        2153751,
+        2574312,
+        488788
+      ]
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "group_path": [],
+      "source_text": "洞察趋势把握机遇",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        878709,
+        1784717,
+        2331507,
+        400110
+      ]
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "group_path": [],
+      "source_text": "培养创新思维，将不同领域的知识和\n技术相融合，创造新的价值",
+      "source_sample_chars": 29,
+      "max_chars": 43,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4711009,
+        6041527,
+        2769984,
+        488788
+      ]
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "group_path": [],
+      "source_text": "跨界思考创新驱动",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4252719,
+        5675150,
+        3686562,
+        400110
+      ]
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "group_path": [],
+      "source_text": "定期评估自己的数字化转型能力和成果\n制定改进计划，实现自我迭代",
+      "source_sample_chars": 31,
+      "max_chars": 46,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8956609,
+        2153751,
+        2620725,
+        488788
+      ]
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "group_path": [],
+      "source_text": "持续学习与自我迭代",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8956608,
+        1784717,
+        3531046,
+        400110
+      ]
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "group_path": [],
+      "source_text": "5\n大关键",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5542004,
+        2269218,
+        1107996,
+        1138773
+      ]
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "group_path": [
+        85,
+        87
+      ],
+      "source_text": "职业成长关键举措",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "矩形 88",
+      "type": "text",
+      "group_path": [
+        85,
+        87
+      ],
+      "source_text": "围绕趋势洞察、技能更新与持续学习，规划个人未来发展路径",
+      "source_sample_chars": 27,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 90,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          85,
+          86
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 93,
+        "shape_name": "图片 92",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          85,
+          86
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

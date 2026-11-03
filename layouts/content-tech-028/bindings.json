@@ -1,0 +1,345 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "group_path": [
+        6,
+        8
+      ],
+      "source_text": "平台突围两阶段路径",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "矩形 9",
+      "type": "text",
+      "group_path": [
+        6,
+        8
+      ],
+      "source_text": "以聚量到聚核的阶段路径说明平台从红海突围的增长策略",
+      "source_sample_chars": 25,
+      "max_chars": 37,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ]
+    },
+    {
+      "field": "text_153",
+      "shape_id": 153,
+      "shape_name": "文本框 152",
+      "type": "text",
+      "group_path": [
+        171,
+        146
+      ],
+      "source_text": "买力分散",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        884236,
+        2565624,
+        2412385,
+        231237
+      ]
+    },
+    {
+      "field": "text_154",
+      "shape_id": 154,
+      "shape_name": "文本框 153",
+      "type": "text",
+      "group_path": [
+        171,
+        146
+      ],
+      "source_text": "低透明度",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        458754,
+        3085536,
+        2597430,
+        231237
+      ]
+    },
+    {
+      "field": "text_155",
+      "shape_id": 155,
+      "shape_name": "文本框 154",
+      "type": "text",
+      "group_path": [
+        171,
+        146
+      ],
+      "source_text": "标准壁垒",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        578911,
+        3605448,
+        2412385,
+        231237
+      ]
+    },
+    {
+      "field": "text_156",
+      "shape_id": 156,
+      "shape_name": "文本框 155",
+      "type": "text",
+      "group_path": [
+        171,
+        146
+      ],
+      "source_text": "技术垄断",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        884237,
+        4125360,
+        2216875,
+        231237
+      ]
+    },
+    {
+      "field": "text_157",
+      "shape_id": 157,
+      "shape_name": "文本框 156",
+      "type": "text",
+      "group_path": [
+        171,
+        146
+      ],
+      "source_text": "供需波动",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        919114,
+        4645271,
+        2412385,
+        231237
+      ]
+    },
+    {
+      "field": "text_165",
+      "shape_id": 165,
+      "shape_name": "文本框 164",
+      "type": "text",
+      "group_path": [
+        171,
+        158
+      ],
+      "source_text": "资源分散",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        884236,
+        2565624,
+        2412385,
+        231237
+      ]
+    },
+    {
+      "field": "text_166",
+      "shape_id": 166,
+      "shape_name": "文本框 165",
+      "type": "text",
+      "group_path": [
+        171,
+        158
+      ],
+      "source_text": "数字赋能不足",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        458754,
+        3085536,
+        2597430,
+        231237
+      ]
+    },
+    {
+      "field": "text_167",
+      "shape_id": 167,
+      "shape_name": "文本框 166",
+      "type": "text",
+      "group_path": [
+        171,
+        158
+      ],
+      "source_text": "战略性预判",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        578911,
+        3605448,
+        2412385,
+        231237
+      ]
+    },
+    {
+      "field": "text_168",
+      "shape_id": 168,
+      "shape_name": "文本框 167",
+      "type": "text",
+      "group_path": [
+        171,
+        158
+      ],
+      "source_text": "赋能高效交易",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        884236,
+        4125360,
+        2216875,
+        231237
+      ]
+    },
+    {
+      "field": "text_169",
+      "shape_id": 169,
+      "shape_name": "文本框 168",
+      "type": "text",
+      "group_path": [
+        171,
+        158
+      ],
+      "source_text": "优化供需格局",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        919115,
+        4645271,
+        2412385,
+        231237
+      ]
+    },
+    {
+      "field": "text_272",
+      "shape_id": 272,
+      "shape_name": "矩形 271",
+      "type": "text",
+      "group_path": [],
+      "source_text": "第一阶段\n聚量",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3468619,
+        2695633,
+        2103347,
+        1279261
+      ]
+    },
+    {
+      "field": "text_273",
+      "shape_id": 273,
+      "shape_name": "矩形 272",
+      "type": "text",
+      "group_path": [],
+      "source_text": "第二阶段\n聚核",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6620034,
+        2695632,
+        2103347,
+        1279261
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 13,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          6,
+          7
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 28,
+        "shape_name": "图片 27",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          6,
+          7
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

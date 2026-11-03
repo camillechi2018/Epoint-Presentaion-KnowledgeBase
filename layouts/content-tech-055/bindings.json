@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "group_path": [],
+      "source_text": "企业文化建设",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4526283,
+        2685818,
+        3139438,
+        646331
+      ]
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "group_path": [],
+      "source_text": "企业文化是企业的灵魂和核心竞争力之一。一个积极、健康、富有特色的企业文化能够激发员工的归属感和自豪感，提升企业的品牌形象和市场竞争力。\n本页将探讨互联网企业如何通过塑造\n具有自身特色的企业文化。",
+      "source_sample_chars": 97,
+      "max_chars": 145,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3935585,
+        3470541,
+        4320833,
+        1679434
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

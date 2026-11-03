@@ -1,0 +1,455 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "group_path": [],
+      "source_text": "智能",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5574099,
+        3546784,
+        1043803,
+        400110
+      ]
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "group_path": [],
+      "source_text": "连接",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5574099,
+        4379420,
+        1043803,
+        276999
+      ]
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "group_path": [],
+      "source_text": "智慧\n营销",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9514565,
+        5620720,
+        911526,
+        492507
+      ]
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "group_path": [],
+      "source_text": "数字化\n班组",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8580763,
+        5814395,
+        911526,
+        492507
+      ]
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "group_path": [],
+      "source_text": "移动\n协同",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7572091,
+        5905200,
+        911526,
+        492507
+      ]
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "group_path": [],
+      "source_text": "新能源\n运营",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6416533,
+        5971240,
+        911526,
+        492507
+      ]
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "group_path": [],
+      "source_text": "综合能源\n服务",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4789136,
+        5971240,
+        1061138,
+        492507
+      ]
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "group_path": [],
+      "source_text": "零碳\n园区",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3690395,
+        5905200,
+        911526,
+        492507
+      ]
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "group_path": [],
+      "source_text": "破资产\n管理",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2713508,
+        5814395,
+        911526,
+        492507
+      ]
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "group_path": [],
+      "source_text": "生态\n协同",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1765909,
+        5620720,
+        911526,
+        492507
+      ]
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "group_path": [],
+      "source_text": "能源数字化场景矩阵",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "group_path": [
+        76
+      ],
+      "source_text": "智慧\n管网",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        10475888,
+        2647898,
+        563156,
+        350160
+      ]
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "group_path": [
+        77
+      ],
+      "source_text": "智慧\n运检",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        10475888,
+        2647898,
+        563156,
+        350160
+      ]
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "文本框 86",
+      "type": "text",
+      "group_path": [
+        85
+      ],
+      "source_text": "智慧\n变电站",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        10475888,
+        2647898,
+        563156,
+        350160
+      ]
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "文本框 94",
+      "type": "text",
+      "group_path": [
+        93
+      ],
+      "source_text": "能效\n优化",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        10475888,
+        2647898,
+        563156,
+        350160
+      ]
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "type": "text",
+      "group_path": [
+        101
+      ],
+      "source_text": "智能\n安全",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        10475888,
+        2647898,
+        563156,
+        350160
+      ]
+    },
+    {
+      "field": "text_139",
+      "shape_id": 139,
+      "shape_name": "文本框 138",
+      "type": "text",
+      "group_path": [
+        109
+      ],
+      "source_text": "全真互\n联产线",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        10475888,
+        2647898,
+        563156,
+        350160
+      ]
+    },
+    {
+      "field": "text_147",
+      "shape_id": 147,
+      "shape_name": "文本框 146",
+      "type": "text",
+      "group_path": [
+        145
+      ],
+      "source_text": "智慧\n矿车",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        10475888,
+        2647898,
+        563156,
+        350160
+      ]
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "group_path": [],
+      "source_text": "增效",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5706793,
+        1615382,
+        778415,
+        400110
+      ]
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "group_path": [],
+      "source_text": "降本",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5725161,
+        4709712,
+        778415,
+        400110
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          5
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 12,
+        "shape_name": "图片 11",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          5
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 218,
+        "shape_name": "图片 217",
+        "sha256": "04b623d02160cf64d681570dc676c432b16fb670d056325dfe7f3a39f35795a3",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [],
+        "bounds_emu_local": [
+          4184909,
+          3827042,
+          3925884,
+          635250
+        ]
+      },
+      {
+        "shape_id": 219,
+        "shape_name": "图片 218",
+        "sha256": "8faef33d3b9c68b0353fc955135c1b0677e080312f84de074649e982819ab140",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [],
+        "bounds_emu_local": [
+          3741663,
+          1730426,
+          4812376,
+          635250
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

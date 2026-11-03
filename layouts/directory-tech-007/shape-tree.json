@@ -1,0 +1,300 @@
+{
+  "source_page": 7,
+  "recursive_shapes": [
+    {
+      "shape_id": 50,
+      "shape_name": "平行四边形 49",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        848102,
+        0,
+        9600446,
+        6858000
+      ]
+    },
+    {
+      "shape_id": 51,
+      "shape_name": "任意多边形: 形状 50",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        7992065,
+        2229064,
+        4199934,
+        2029380
+      ]
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "任意多边形: 形状 2",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        1,
+        2229064,
+        3529013,
+        2029380
+      ]
+    },
+    {
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        5076825,
+        955664,
+        1087420,
+        646331
+      ],
+      "text_preview": "01",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "TextBox 76",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        555609,
+        2889811,
+        1702682,
+        460375
+      ],
+      "text_preview": "目录",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 7,
+      "shape_name": "矩形 6",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        9359334,
+        2982144,
+        2172970,
+        521970
+      ],
+      "text_preview": "CONTENTS",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "TextBox 76",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        6402886,
+        955665,
+        2108269,
+        461665
+      ],
+      "text_preview": "岗位工作概述",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "TextBox 76",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        6402169,
+        1384925,
+        1117614,
+        246221
+      ],
+      "text_preview": "Job description",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 21,
+      "shape_name": "TextBox 76",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        5817036,
+        2023463,
+        2108269,
+        461665
+      ],
+      "text_preview": "工作完成情况",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 23,
+      "shape_name": "TextBox 76",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        5817036,
+        2452723,
+        1228221,
+        246221
+      ],
+      "text_preview": "Work completion",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 25,
+      "shape_name": "TextBox 76",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        5207059,
+        3091261,
+        2108269,
+        461665
+      ],
+      "text_preview": "成功案例展示",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 26,
+      "shape_name": "TextBox 76",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        5207059,
+        3520521,
+        1983235,
+        246221
+      ],
+      "text_preview": "Successful case presentation",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 28,
+      "shape_name": "TextBox 76",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        4637562,
+        4159059,
+        2108269,
+        461665
+      ],
+      "text_preview": "经验不足分享",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 29,
+      "shape_name": "TextBox 76",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        4637561,
+        4588319,
+        1353256,
+        246221
+      ],
+      "text_preview": "Experience sharing",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 30,
+      "shape_name": "TextBox 76",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 14,
+      "local_bounds_emu": [
+        4018219,
+        5226856,
+        2108269,
+        461665
+      ],
+      "text_preview": "未来岗位规划",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 31,
+      "shape_name": "TextBox 76",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 15,
+      "local_bounds_emu": [
+        4018219,
+        5656116,
+        1380506,
+        246221
+      ],
+      "text_preview": "Future job planning",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 16,
+      "local_bounds_emu": [
+        2795969,
+        5226855,
+        1087420,
+        646331
+      ],
+      "text_preview": "05",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 17,
+      "local_bounds_emu": [
+        3376122,
+        4159058,
+        1087420,
+        646331
+      ],
+      "text_preview": "04",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 18,
+      "local_bounds_emu": [
+        3984809,
+        3091260,
+        1087420,
+        646331
+      ],
+      "text_preview": "03",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 19,
+      "local_bounds_emu": [
+        4568659,
+        2023462,
+        1087420,
+        646331
+      ],
+      "text_preview": "02",
+      "typography_role": "latin_numeric"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

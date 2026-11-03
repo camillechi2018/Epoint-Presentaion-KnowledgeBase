@@ -1,0 +1,78 @@
+{
+  "status": "provisional_requires_manual_object_review",
+  "source_count": 6,
+  "target_counts": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "units": [
+    {
+      "root_shape_id": 269,
+      "source_shape_ids": [
+        269,
+        281,
+        282,
+        294
+      ]
+    },
+    {
+      "root_shape_id": 271,
+      "source_shape_ids": [
+        271,
+        283,
+        295,
+        305
+      ]
+    },
+    {
+      "root_shape_id": 273,
+      "source_shape_ids": [
+        273,
+        285,
+        296,
+        304
+      ]
+    },
+    {
+      "root_shape_id": 274,
+      "source_shape_ids": [
+        274,
+        287,
+        297,
+        303
+      ]
+    },
+    {
+      "root_shape_id": 272,
+      "source_shape_ids": [
+        272,
+        289,
+        298,
+        302
+      ]
+    },
+    {
+      "root_shape_id": 270,
+      "source_shape_ids": [
+        270,
+        291,
+        299,
+        301
+      ]
+    }
+  ],
+  "shared_shape_ids": [
+    3,
+    21,
+    276,
+    277,
+    280,
+    293,
+    329
+  ],
+  "geometry_family": "six-pillars",
+  "auto_grouped_count": 6
+}

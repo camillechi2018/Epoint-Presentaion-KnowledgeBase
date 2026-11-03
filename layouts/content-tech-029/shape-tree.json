@@ -1,0 +1,682 @@
+{
+  "source_page": 29,
+  "recursive_shapes": [
+    {
+      "shape_id": 61,
+      "shape_name": "组合 60",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        868482,
+        5374637,
+        10483850,
+        575302
+      ]
+    },
+    {
+      "shape_id": 53,
+      "shape_name": "梯形 52",
+      "shape_type": 1,
+      "group_path": [
+        61
+      ],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        2337643,
+        5659640,
+        7529039,
+        602328
+      ]
+    },
+    {
+      "shape_id": 58,
+      "shape_name": "任意多边形: 形状 57",
+      "shape_type": 5,
+      "group_path": [
+        61
+      ],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        607829,
+        5659640,
+        2992283,
+        602328
+      ]
+    },
+    {
+      "shape_id": 59,
+      "shape_name": "任意多边形: 形状 58",
+      "shape_type": 5,
+      "group_path": [
+        61
+      ],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        8591889,
+        5659640,
+        2992283,
+        602328
+      ]
+    },
+    {
+      "shape_id": 43,
+      "shape_name": "组合 42",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        3724623,
+        1880745,
+        2775334,
+        2779638
+      ]
+    },
+    {
+      "shape_id": 41,
+      "shape_name": "弧形 40",
+      "shape_type": 1,
+      "group_path": [
+        43
+      ],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        7838648,
+        6525271,
+        2775334,
+        2779638
+      ]
+    },
+    {
+      "shape_id": 30,
+      "shape_name": "椭圆 29",
+      "shape_type": 1,
+      "group_path": [
+        43
+      ],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        8147307,
+        6722110,
+        2324557,
+        2324557
+      ]
+    },
+    {
+      "shape_id": 31,
+      "shape_name": "椭圆 30",
+      "shape_type": 1,
+      "group_path": [
+        43
+      ],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        8027703,
+        6617500,
+        2571267,
+        2571268
+      ]
+    },
+    {
+      "shape_id": 36,
+      "shape_name": "椭圆 35",
+      "shape_type": 1,
+      "group_path": [
+        43
+      ],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        8261707,
+        8920464,
+        93902,
+        93902
+      ]
+    },
+    {
+      "shape_id": 44,
+      "shape_name": "组合 43",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        5661531,
+        1827477,
+        2775334,
+        2779638
+      ]
+    },
+    {
+      "shape_id": 45,
+      "shape_name": "弧形 44",
+      "shape_type": 1,
+      "group_path": [
+        44
+      ],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        7838648,
+        6525271,
+        2775334,
+        2779638
+      ]
+    },
+    {
+      "shape_id": 46,
+      "shape_name": "椭圆 45",
+      "shape_type": 1,
+      "group_path": [
+        44
+      ],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        8147307,
+        6722110,
+        2324557,
+        2324557
+      ]
+    },
+    {
+      "shape_id": 47,
+      "shape_name": "椭圆 46",
+      "shape_type": 1,
+      "group_path": [
+        44
+      ],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        8027703,
+        6617500,
+        2571267,
+        2571268
+      ]
+    },
+    {
+      "shape_id": 48,
+      "shape_name": "椭圆 47",
+      "shape_type": 1,
+      "group_path": [
+        44
+      ],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        8261707,
+        8920464,
+        93902,
+        93902
+      ]
+    },
+    {
+      "shape_id": 5,
+      "shape_name": "Group 2",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 14,
+      "local_bounds_emu": [
+        7835900,
+        1511114,
+        3530600,
+        3543300
+      ]
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "Freeform 7",
+      "shape_type": 5,
+      "group_path": [
+        5
+      ],
+      "z_order_recursive": 15,
+      "local_bounds_emu": [
+        7850188,
+        2333626,
+        3502025,
+        3505200
+      ]
+    },
+    {
+      "shape_id": 7,
+      "shape_name": "Freeform 8",
+      "shape_type": 5,
+      "group_path": [
+        5
+      ],
+      "z_order_recursive": 16,
+      "local_bounds_emu": [
+        10710863,
+        2314576,
+        669925,
+        3543300
+      ]
+    },
+    {
+      "shape_id": 9,
+      "shape_name": "Oval 6",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 17,
+      "local_bounds_emu": [
+        5884862,
+        2166180,
+        2160588,
+        2160000
+      ],
+      "text_preview": "母婴\n人群",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "Group 3",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 18,
+      "local_bounds_emu": [
+        825500,
+        1530164,
+        3502025,
+        3505200
+      ]
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "Freeform 9",
+      "shape_type": 5,
+      "group_path": [
+        10
+      ],
+      "z_order_recursive": 19,
+      "local_bounds_emu": [
+        839788,
+        2333626,
+        3502025,
+        3505200
+      ]
+    },
+    {
+      "shape_id": 12,
+      "shape_name": "Freeform 10",
+      "shape_type": 5,
+      "group_path": [
+        10
+      ],
+      "z_order_recursive": 20,
+      "local_bounds_emu": [
+        839788,
+        2333626,
+        620713,
+        3505200
+      ]
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "Oval 5",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 21,
+      "local_bounds_emu": [
+        4117975,
+        2166180,
+        2160588,
+        2160000
+      ],
+      "text_preview": "新时代\n年轻人群",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "组合 2",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 22,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1084812
+      ]
+    },
+    {
+      "shape_id": 8,
+      "shape_name": "组合 7",
+      "shape_type": 6,
+      "group_path": [
+        3
+      ],
+      "z_order_recursive": 23,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1084812
+      ]
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "Freeform 3076",
+      "shape_type": 13,
+      "group_path": [
+        3,
+        8
+      ],
+      "z_order_recursive": 24,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12171817,
+        809426
+      ],
+      "image_sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 16,
+      "shape_name": "图形 70",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        8
+      ],
+      "z_order_recursive": 25,
+      "local_bounds_emu": [
+        5558,
+        402332,
+        12180884,
+        532358
+      ]
+    },
+    {
+      "shape_id": 17,
+      "shape_name": "组合 16",
+      "shape_type": 6,
+      "group_path": [
+        3,
+        8
+      ],
+      "z_order_recursive": 26,
+      "local_bounds_emu": [
+        3190011,
+        837645,
+        5811979,
+        61114
+      ]
+    },
+    {
+      "shape_id": 19,
+      "shape_name": "组合 18",
+      "shape_type": 6,
+      "group_path": [
+        3,
+        8,
+        17
+      ],
+      "z_order_recursive": 27,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 24,
+      "shape_name": "任意多边形: 形状 23",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        8,
+        17,
+        19
+      ],
+      "z_order_recursive": 28,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 25,
+      "shape_name": "任意多边形: 形状 24",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        8,
+        17,
+        19
+      ],
+      "z_order_recursive": 29,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 26,
+      "shape_name": "任意多边形: 形状 25",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        8,
+        17,
+        19
+      ],
+      "z_order_recursive": 30,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 20,
+      "shape_name": "组合 19",
+      "shape_type": 6,
+      "group_path": [
+        3,
+        8,
+        17
+      ],
+      "z_order_recursive": 31,
+      "local_bounds_emu": [
+        8435884,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 21,
+      "shape_name": "任意多边形: 形状 20",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        8,
+        17,
+        20
+      ],
+      "z_order_recursive": 32,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 22,
+      "shape_name": "任意多边形: 形状 21",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        8,
+        17,
+        20
+      ],
+      "z_order_recursive": 33,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 23,
+      "shape_name": "任意多边形: 形状 22",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        8,
+        17,
+        20
+      ],
+      "z_order_recursive": 34,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 18,
+      "shape_name": "图片 17",
+      "shape_type": 13,
+      "group_path": [
+        3,
+        8
+      ],
+      "z_order_recursive": 35,
+      "local_bounds_emu": [
+        3686833,
+        651534,
+        4811984,
+        564680
+      ],
+      "image_sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "shape_type": 17,
+      "group_path": [
+        3
+      ],
+      "z_order_recursive": 36,
+      "local_bounds_emu": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ],
+      "text_preview": "目标人群画像对比",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 37,
+      "local_bounds_emu": [
+        8618935,
+        2884161,
+        2615034,
+        797206
+      ],
+      "text_preview": "更注重品质优先与产品\n适用性，孕妇产期口腔脆弱敏感，更需要呵护对待护理",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 38,
+      "local_bounds_emu": [
+        958031,
+        2764128,
+        2674330,
+        797206
+      ],
+      "text_preview": "颜值的首要保证，注重牙齿护理、美白清洁最为关键，敢于尝鲜新品牌，品质力与设计感有着首要吸引力",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 39,
+      "local_bounds_emu": [
+        1391920,
+        4863027,
+        9408160,
+        774636
+      ],
+      "text_preview": "这两个群体既有明显的代际分野\n又在追求“长期主义”与“情绪价值”上呈现出惊人的内核同源性",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 40,
+      "local_bounds_emu": [
+        1816100,
+        1054100,
+        8559800,
+        253916
+      ]
+    },
+    {
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 41,
+      "local_bounds_emu": [
+        1816100,
+        1054100,
+        8559800,
+        253916
+      ]
+    },
+    {
+      "shape_id": 4,
+      "shape_name": "矩形 3",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 42,
+      "local_bounds_emu": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "text_preview": "对比年轻人群与母婴人群的消费特征、情绪价值与产品诉求",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 28,
+      "shape_name": "图片 27",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 43,
+      "local_bounds_emu": [
+        11057890,
+        6476365,
+        893445,
+        191770
+      ],
+      "image_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_role": "brand_logo_locked"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

@@ -1,0 +1,13 @@
+{
+  "status": "provisional_requires_manual_object_review",
+  "source_count": 4,
+  "target_counts": [
+    2,
+    3,
+    4
+  ],
+  "units": [],
+  "shared_shape_ids": [],
+  "geometry_family": "process-columns",
+  "auto_grouped_count": 0
+}

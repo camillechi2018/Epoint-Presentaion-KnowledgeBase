@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "圆角矩形 166",
+      "type": "text",
+      "group_path": [],
+      "source_text": "数据驱动增长",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8505272,
+        1529253,
+        2539484,
+        484456
+      ]
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "圆角矩形 166",
+      "type": "text",
+      "group_path": [],
+      "source_text": "线上线下市场增长",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        673098,
+        1529253,
+        3475074,
+        484456
+      ]
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "圆角矩形 166",
+      "type": "text",
+      "group_path": [],
+      "source_text": "门店管理增长",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4819207,
+        1529253,
+        2539484,
+        484456
+      ]
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "group_path": [],
+      "source_text": "新零售将线上和线下销售渠道\n整合为一个统一的销售生态系统",
+      "source_sample_chars": 28,
+      "max_chars": 42,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1256916,
+        1942496,
+        2294741,
+        580450
+      ]
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "group_path": [],
+      "source_text": "新零售倡导智能化技术在\n门店管理中的应用",
+      "source_sample_chars": 20,
+      "max_chars": 30,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4941579,
+        1942496,
+        2294741,
+        580450
+      ]
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "group_path": [],
+      "source_text": "新零售注重数据在\n决策中的作用",
+      "source_sample_chars": 15,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8627644,
+        1942496,
+        2294741,
+        580450
+      ]
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "group_path": [
+        23
+      ],
+      "source_text": "新零售增长驱动分析",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "矩形 101",
+      "type": "text",
+      "group_path": [],
+      "source_text": "展示线上线下、门店管理与数据决策驱动增长",
+      "source_sample_chars": 20,
+      "max_chars": 30,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 12,
+        "shape_name": "图表 11",
+        "group_path": [],
+        "categories_max": 12,
+        "series_max": 5
+      },
+      {
+        "shape_id": 13,
+        "shape_name": "图表 12",
+        "group_path": [],
+        "categories_max": 12,
+        "series_max": 5
+      },
+      {
+        "shape_id": 14,
+        "shape_name": "图表 13",
+        "group_path": [],
+        "categories_max": 12,
+        "series_max": 5
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 21,
+        "shape_name": "图片 20",
+        "sha256": "b966196360c9d90391bae5c8cfc8a8c10e3dad6e8a5b3dd9bc5cab40b373f8dc",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          56
+        ],
+        "bounds_emu_local": [
+          724062,
+          6401868,
+          3287792,
+          809210
+        ]
+      },
+      {
+        "shape_id": 73,
+        "shape_name": "图片 72",
+        "sha256": "b966196360c9d90391bae5c8cfc8a8c10e3dad6e8a5b3dd9bc5cab40b373f8dc",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          66
+        ],
+        "bounds_emu_local": [
+          724062,
+          6401868,
+          3287792,
+          809210
+        ]
+      },
+      {
+        "shape_id": 81,
+        "shape_name": "图片 80",
+        "sha256": "b966196360c9d90391bae5c8cfc8a8c10e3dad6e8a5b3dd9bc5cab40b373f8dc",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          74
+        ],
+        "bounds_emu_local": [
+          724062,
+          6401868,
+          3287792,
+          809210
+        ]
+      },
+      {
+        "shape_id": 26,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          23,
+          24
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 29,
+        "shape_name": "图片 28",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          23,
+          24
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

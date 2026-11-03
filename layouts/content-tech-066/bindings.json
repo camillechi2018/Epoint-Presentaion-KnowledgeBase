@@ -1,0 +1,229 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "group_path": [
+        26
+      ],
+      "source_text": "企业发展里程碑",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2014年创立\n大学生团队在宿舍启动\n校园快递聚合平台项目。",
+      "source_sample_chars": 30,
+      "max_chars": 45,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        975101,
+        2582437,
+        1901410,
+        785087
+      ]
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2016年首轮融资\n覆盖二十城高校\n获千万级天使投资。",
+      "source_sample_chars": 27,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2440654,
+        5288538,
+        2030725,
+        785087
+      ]
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "文本框 89",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2018年业务扩张\n收购小型物流公司\n建立同城配送网络。",
+      "source_sample_chars": 28,
+      "max_chars": 42,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4241022,
+        2966044,
+        2147613,
+        785087
+      ]
+    },
+    {
+      "field": "text_91",
+      "shape_id": 91,
+      "shape_name": "文本框 90",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2020年转型零售\n试点社区团购\n开启即时电商新模式。",
+      "source_sample_chars": 27,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6096000,
+        5557892,
+        3775393,
+        712118
+      ]
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "文本框 91",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2021年进军生鲜\n产地直采模式推动\n年交易额突破十亿。",
+      "source_sample_chars": 28,
+      "max_chars": 42,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7010176,
+        1551001,
+        3746538,
+        785087
+      ]
+    },
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "文本框 92",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2023年技术升级\n自研仓储AI调度系统\n提升履约效率。",
+      "source_sample_chars": 28,
+      "max_chars": 42,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8810569,
+        4386364,
+        3767378,
+        785087
+      ]
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2025年\n全品类拓展\n从生鲜向日用百货延伸，\n用户覆盖全国。",
+      "source_sample_chars": 31,
+      "max_chars": 46,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        10244052,
+        1259651,
+        1980426,
+        969753
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 29,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          26,
+          27
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 32,
+        "shape_name": "图片 31",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          26,
+          27
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 53,
+        "shape_name": "图片 52",
+        "sha256": "c31a78caf416ad63296b42cce92f0e28517e2d66ec610289505036f48769dc43",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [],
+        "bounds_emu_local": [
+          1117573,
+          3852486,
+          2629158,
+          1172507
+        ]
+      },
+      {
+        "shape_id": 58,
+        "shape_name": "图片 57",
+        "sha256": "033b30d473a6d57f425cdb03e9f24bb4fab33418289c57343357ee82f6a7eec5",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [],
+        "bounds_emu_local": [
+          6721779,
+          2392191,
+          1590418,
+          1172507
+        ]
+      },
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

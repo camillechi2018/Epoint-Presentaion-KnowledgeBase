@@ -1,0 +1,733 @@
+{
+  "source_page": 68,
+  "recursive_shapes": [
+    {
+      "shape_id": 2,
+      "shape_name": "组合 1",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        6979727,
+        2239129,
+        3979093,
+        3761201
+      ]
+    },
+    {
+      "shape_id": 20,
+      "shape_name": "图表 19",
+      "shape_type": 3,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        4153866,
+        1657493,
+        3876656,
+        3664372
+      ]
+    },
+    {
+      "shape_id": 21,
+      "shape_name": "圆: 空心 20",
+      "shape_type": 1,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        5072234,
+        2479821,
+        2039915,
+        2019717
+      ]
+    },
+    {
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        5830908,
+        3922746,
+        1383038,
+        307777
+      ],
+      "text_preview": "20%",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 27,
+      "shape_name": "Rectangle: Rounded Corners 31",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        7647855,
+        1457763,
+        1036212,
+        438673
+      ],
+      "text_preview": "D企业",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        7497303,
+        2003080,
+        1383038,
+        307777
+      ],
+      "text_preview": "11%",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        10278125,
+        2682550,
+        1383038,
+        307777
+      ],
+      "text_preview": "30%",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        10278125,
+        6008603,
+        1383038,
+        307777
+      ],
+      "text_preview": "39%",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 41,
+      "shape_name": "组合 40",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        8596350,
+        3694860,
+        793810,
+        841232
+      ]
+    },
+    {
+      "shape_id": 45,
+      "shape_name": "任意多边形: 形状 44",
+      "shape_type": 5,
+      "group_path": [
+        41
+      ],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        6359949,
+        2556463,
+        319588,
+        597381
+      ]
+    },
+    {
+      "shape_id": 78,
+      "shape_name": "任意多边形: 形状 77",
+      "shape_type": 5,
+      "group_path": [
+        41
+      ],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        6051149,
+        2462740,
+        588645,
+        768885
+      ]
+    },
+    {
+      "shape_id": 79,
+      "shape_name": "任意多边形: 形状 78",
+      "shape_type": 5,
+      "group_path": [
+        41
+      ],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        6254061,
+        2727423,
+        531505,
+        513610
+      ]
+    },
+    {
+      "shape_id": 80,
+      "shape_name": "矩形: 剪去单角 79",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        660398,
+        1484313,
+        4896529,
+        2214666
+      ]
+    },
+    {
+      "shape_id": 84,
+      "shape_name": "矩形: 剪去单角 83",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        660398,
+        4021034,
+        4896529,
+        2214666
+      ]
+    },
+    {
+      "shape_id": 85,
+      "shape_name": "六边形 38",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 14,
+      "local_bounds_emu": [
+        931318,
+        2234863,
+        257640,
+        255867
+      ],
+      "text_preview": "1",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 86,
+      "shape_name": "文本框 85",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 15,
+      "local_bounds_emu": [
+        1324790,
+        1708866,
+        2016579,
+        307777
+      ],
+      "text_preview": "市场份额",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 87,
+      "shape_name": "文本框 86",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 16,
+      "local_bounds_emu": [
+        1324793,
+        2237562,
+        3929694,
+        464807
+      ],
+      "text_preview": "市场扩张：随着互联网技术的不断进步和创新，企业通过拓展新市场和增加产品线，实现了市场份额的逐年增长",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 88,
+      "shape_name": "六边形 38",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 17,
+      "local_bounds_emu": [
+        931318,
+        2824274,
+        257640,
+        255867
+      ],
+      "text_preview": "2",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 18,
+      "local_bounds_emu": [
+        1324793,
+        2826973,
+        3929694,
+        704873
+      ],
+      "text_preview": "用户基础扩大：企业通过提供优质服务和增强用户体验，吸引了更多的新用户，同时保持了老用户的忠诚度，从而扩大了市场份额",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 91,
+      "shape_name": "任意多边形: 形状 90",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 19,
+      "local_bounds_emu": [
+        926088,
+        1713238,
+        268101,
+        285780
+      ]
+    },
+    {
+      "shape_id": 92,
+      "shape_name": "六边形 38",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 20,
+      "local_bounds_emu": [
+        931318,
+        4797256,
+        257640,
+        255867
+      ],
+      "text_preview": "1",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 21,
+      "local_bounds_emu": [
+        1324790,
+        4258007,
+        3103767,
+        307777
+      ],
+      "text_preview": "财务表现与市场趋势",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 22,
+      "local_bounds_emu": [
+        1324793,
+        4799955,
+        3929694,
+        464807
+      ],
+      "text_preview": "收入增长：企业的年度报告显示，收入连续几年实现增长，这直接反映了市场份额的增加和市场竞争力的提升",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 102,
+      "shape_name": "六边形 38",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 23,
+      "local_bounds_emu": [
+        931318,
+        5386667,
+        257640,
+        255867
+      ],
+      "text_preview": "2",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 24,
+      "local_bounds_emu": [
+        1324793,
+        5389366,
+        3929694,
+        464807
+      ],
+      "text_preview": "投资回报率提高：随着市场份额的增长，企业的投资回报率也逐年提高，这表明企业的投资和运营效率得到了优化",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 104,
+      "shape_name": "图形 89",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 25,
+      "local_bounds_emu": [
+        921656,
+        4264432,
+        276964,
+        276957
+      ]
+    },
+    {
+      "shape_id": 107,
+      "shape_name": "Rectangle: Rounded Corners 31",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 26,
+      "local_bounds_emu": [
+        5981460,
+        3377429,
+        1036212,
+        438673
+      ],
+      "text_preview": "C企业",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 108,
+      "shape_name": "Rectangle: Rounded Corners 31",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 27,
+      "local_bounds_emu": [
+        10451538,
+        5463286,
+        1036212,
+        438673
+      ],
+      "text_preview": "B企业",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 109,
+      "shape_name": "Rectangle: Rounded Corners 31",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 28,
+      "local_bounds_emu": [
+        10451538,
+        2137233,
+        1036212,
+        438673
+      ],
+      "text_preview": "A企业",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "组合 2",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 29,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1225804
+      ]
+    },
+    {
+      "shape_id": 4,
+      "shape_name": "组合 3",
+      "shape_type": 6,
+      "group_path": [
+        3
+      ],
+      "z_order_recursive": 30,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1084812
+      ]
+    },
+    {
+      "shape_id": 8,
+      "shape_name": "Freeform 3076",
+      "shape_type": 13,
+      "group_path": [
+        3,
+        4
+      ],
+      "z_order_recursive": 31,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12171817,
+        809426
+      ],
+      "image_sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 9,
+      "shape_name": "图形 70",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        4
+      ],
+      "z_order_recursive": 32,
+      "local_bounds_emu": [
+        5558,
+        402332,
+        12180884,
+        532358
+      ]
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "组合 9",
+      "shape_type": 6,
+      "group_path": [
+        3,
+        4
+      ],
+      "z_order_recursive": 33,
+      "local_bounds_emu": [
+        3190011,
+        837645,
+        5811979,
+        61114
+      ]
+    },
+    {
+      "shape_id": 12,
+      "shape_name": "组合 11",
+      "shape_type": 6,
+      "group_path": [
+        3,
+        4,
+        10
+      ],
+      "z_order_recursive": 34,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 17,
+      "shape_name": "任意多边形: 形状 16",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        4,
+        10,
+        12
+      ],
+      "z_order_recursive": 35,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 18,
+      "shape_name": "任意多边形: 形状 17",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        4,
+        10,
+        12
+      ],
+      "z_order_recursive": 36,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 19,
+      "shape_name": "任意多边形: 形状 18",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        4,
+        10,
+        12
+      ],
+      "z_order_recursive": 37,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "组合 12",
+      "shape_type": 6,
+      "group_path": [
+        3,
+        4,
+        10
+      ],
+      "z_order_recursive": 38,
+      "local_bounds_emu": [
+        8435884,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "任意多边形: 形状 13",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        4,
+        10,
+        13
+      ],
+      "z_order_recursive": 39,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "任意多边形: 形状 14",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        4,
+        10,
+        13
+      ],
+      "z_order_recursive": 40,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 16,
+      "shape_name": "任意多边形: 形状 15",
+      "shape_type": 5,
+      "group_path": [
+        3,
+        4,
+        10,
+        13
+      ],
+      "z_order_recursive": 41,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "图片 10",
+      "shape_type": 13,
+      "group_path": [
+        3,
+        4
+      ],
+      "z_order_recursive": 42,
+      "local_bounds_emu": [
+        3686833,
+        651534,
+        4811984,
+        564680
+      ],
+      "image_sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 5,
+      "shape_name": "组合 4",
+      "shape_type": 6,
+      "group_path": [
+        3
+      ],
+      "z_order_recursive": 43,
+      "local_bounds_emu": [
+        1285874,
+        416934,
+        9620252,
+        940272
+      ]
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "shape_type": 17,
+      "group_path": [
+        3,
+        5
+      ],
+      "z_order_recursive": 44,
+      "local_bounds_emu": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ],
+      "text_preview": "财务表现与市场趋势",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 7,
+      "shape_name": "矩形 6",
+      "shape_type": 1,
+      "group_path": [
+        3,
+        5
+      ],
+      "z_order_recursive": 45,
+      "local_bounds_emu": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "text_preview": "结合份额结构与增长说明呈现企业经营分析",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 22,
+      "shape_name": "图片 21",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 46,
+      "local_bounds_emu": [
+        11057890,
+        6476365,
+        893445,
+        191770
+      ],
+      "image_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_role": "brand_logo_locked"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

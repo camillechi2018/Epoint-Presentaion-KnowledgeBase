@@ -1,0 +1,441 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "group_path": [
+        5
+      ],
+      "source_text": "CONTENTS",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5406326,
+        5455618,
+        1392049,
+        317074
+      ]
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "group_path": [
+        5
+      ],
+      "source_text": "目录",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5410570,
+        4682577,
+        1370860,
+        808542
+      ]
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "group_path": [
+        193,
+        47,
+        46
+      ],
+      "source_text": "输入章节标题",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7685448,
+        7891090,
+        2283868,
+        448738
+      ]
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "group_path": [
+        193,
+        47,
+        46
+      ],
+      "source_text": "Enter chapter title",
+      "source_sample_chars": 19,
+      "max_chars": 28,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7685448,
+        8332789,
+        2283868,
+        253916
+      ]
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "group_path": [
+        193,
+        47
+      ],
+      "source_text": "01",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6933486,
+        8057279,
+        483442,
+        397992
+      ]
+    },
+    {
+      "field": "text_140",
+      "shape_id": 140,
+      "shape_name": "文本框 139",
+      "type": "text",
+      "group_path": [
+        193,
+        135,
+        138
+      ],
+      "source_text": "输入章节标题",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7685448,
+        7891090,
+        2283868,
+        448738
+      ]
+    },
+    {
+      "field": "text_141",
+      "shape_id": 141,
+      "shape_name": "文本框 140",
+      "type": "text",
+      "group_path": [
+        193,
+        135,
+        138
+      ],
+      "source_text": "Enter chapter title",
+      "source_sample_chars": 19,
+      "max_chars": 28,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7685448,
+        8332789,
+        2283868,
+        253916
+      ]
+    },
+    {
+      "field": "text_139",
+      "shape_id": 139,
+      "shape_name": "文本框 138",
+      "type": "text",
+      "group_path": [
+        193,
+        135
+      ],
+      "source_text": "02",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6911110,
+        8057279,
+        528192,
+        397992
+      ]
+    },
+    {
+      "field": "text_169",
+      "shape_id": 169,
+      "shape_name": "文本框 168",
+      "type": "text",
+      "group_path": [
+        193,
+        164,
+        167
+      ],
+      "source_text": "输入章节标题",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7685448,
+        7891090,
+        2283868,
+        448738
+      ]
+    },
+    {
+      "field": "text_170",
+      "shape_id": 170,
+      "shape_name": "文本框 169",
+      "type": "text",
+      "group_path": [
+        193,
+        164,
+        167
+      ],
+      "source_text": "Enter chapter title",
+      "source_sample_chars": 19,
+      "max_chars": 28,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7685448,
+        8332789,
+        2283868,
+        253916
+      ]
+    },
+    {
+      "field": "text_168",
+      "shape_id": 168,
+      "shape_name": "文本框 167",
+      "type": "text",
+      "group_path": [
+        193,
+        164
+      ],
+      "source_text": "03",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6911110,
+        8057279,
+        528192,
+        397992
+      ]
+    },
+    {
+      "field": "text_258",
+      "shape_id": 258,
+      "shape_name": "文本框 257",
+      "type": "text",
+      "group_path": [
+        194,
+        195,
+        256
+      ],
+      "source_text": "输入章节标题",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7685448,
+        7891090,
+        2283868,
+        448738
+      ]
+    },
+    {
+      "field": "text_259",
+      "shape_id": 259,
+      "shape_name": "文本框 258",
+      "type": "text",
+      "group_path": [
+        194,
+        195,
+        256
+      ],
+      "source_text": "Enter chapter title",
+      "source_sample_chars": 19,
+      "max_chars": 28,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7685448,
+        8332789,
+        2283868,
+        253916
+      ]
+    },
+    {
+      "field": "text_257",
+      "shape_id": 257,
+      "shape_name": "文本框 256",
+      "type": "text",
+      "group_path": [
+        194,
+        195
+      ],
+      "source_text": "04",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6911110,
+        8057279,
+        528192,
+        397992
+      ]
+    },
+    {
+      "field": "text_230",
+      "shape_id": 230,
+      "shape_name": "文本框 229",
+      "type": "text",
+      "group_path": [
+        194,
+        196,
+        228
+      ],
+      "source_text": "输入章节标题",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7685448,
+        7891090,
+        2283868,
+        448738
+      ]
+    },
+    {
+      "field": "text_231",
+      "shape_id": 231,
+      "shape_name": "文本框 230",
+      "type": "text",
+      "group_path": [
+        194,
+        196,
+        228
+      ],
+      "source_text": "Enter chapter title",
+      "source_sample_chars": 19,
+      "max_chars": 28,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7685448,
+        8332789,
+        2283868,
+        253916
+      ]
+    },
+    {
+      "field": "text_229",
+      "shape_id": 229,
+      "shape_name": "文本框 228",
+      "type": "text",
+      "group_path": [
+        194,
+        196
+      ],
+      "source_text": "05",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6911110,
+        8057279,
+        528192,
+        397992
+      ]
+    },
+    {
+      "field": "text_202",
+      "shape_id": 202,
+      "shape_name": "文本框 201",
+      "type": "text",
+      "group_path": [
+        194,
+        197,
+        200
+      ],
+      "source_text": "输入章节标题",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7685448,
+        7891090,
+        2283868,
+        448738
+      ]
+    },
+    {
+      "field": "text_203",
+      "shape_id": 203,
+      "shape_name": "文本框 202",
+      "type": "text",
+      "group_path": [
+        194,
+        197,
+        200
+      ],
+      "source_text": "Enter chapter title",
+      "source_sample_chars": 19,
+      "max_chars": 28,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7685448,
+        8332789,
+        2283868,
+        253916
+      ]
+    },
+    {
+      "field": "text_201",
+      "shape_id": 201,
+      "shape_name": "文本框 200",
+      "type": "text",
+      "group_path": [
+        194,
+        197
+      ],
+      "source_text": "06",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6911110,
+        8057279,
+        528192,
+        397992
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

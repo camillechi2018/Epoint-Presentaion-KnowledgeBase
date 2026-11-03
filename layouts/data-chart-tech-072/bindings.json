@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "group_path": [
+        19,
+        21
+      ],
+      "source_text": "交易市场规模对比",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "矩形 22",
+      "type": "text",
+      "group_path": [
+        19,
+        21
+      ],
+      "source_text": "对比 CEX 与 DEX 交易体量，体现市场发展空间",
+      "source_sample_chars": 26,
+      "max_chars": 39,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ]
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "group_path": [],
+      "source_text": "6411\nMillion",
+      "source_sample_chars": 12,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2703742,
+        3799595,
+        1106392,
+        769441
+      ]
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "type": "text",
+      "group_path": [],
+      "source_text": "6411\nMillion",
+      "source_sample_chars": 12,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8314780,
+        3799595,
+        1106392,
+        769441
+      ]
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "Text 2",
+      "type": "text",
+      "group_path": [],
+      "source_text": "CEX现货24小时交易量",
+      "source_sample_chars": 12,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        668959,
+        1693246,
+        5185877,
+        557246
+      ]
+    },
+    {
+      "field": "text_108",
+      "shape_id": 108,
+      "shape_name": "Text 2",
+      "type": "text",
+      "group_path": [],
+      "source_text": "DEX现货24小时交易量",
+      "source_sample_chars": 12,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6287663,
+        1693246,
+        5185877,
+        557246
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 79,
+        "shape_name": "图表 78",
+        "group_path": [],
+        "categories_max": 12,
+        "series_max": 5
+      },
+      {
+        "shape_id": 101,
+        "shape_name": "图表 100",
+        "group_path": [],
+        "categories_max": 12,
+        "series_max": 5
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "Picture 62",
+        "sha256": "7a6f62184e1128d2a4fa75b28433d6fb789d0294ce4d835d25877b5e3f558631",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          95
+        ],
+        "bounds_emu_local": [
+          665136,
+          1751175,
+          5194068,
+          4048495
+        ]
+      },
+      {
+        "shape_id": 98,
+        "shape_name": "Picture 62",
+        "sha256": "7a6f62184e1128d2a4fa75b28433d6fb789d0294ce4d835d25877b5e3f558631",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          96
+        ],
+        "bounds_emu_local": [
+          665136,
+          1751175,
+          5194068,
+          4048495
+        ]
+      },
+      {
+        "shape_id": 24,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          19,
+          20
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 80,
+        "shape_name": "图片 79",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          19,
+          20
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

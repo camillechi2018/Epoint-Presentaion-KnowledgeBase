@@ -1,0 +1,9 @@
+# content-tech-039
+
+来源：深蓝科技风 P039；角色：content；关系初标：parallel-points。
+
+递归对象：55；文本字段：22；图片：3；图表：0；源 Logo：有。
+
+原稿主题示例：KAN DA SHI / KAN DA SHI / KAN DA SHI。源稿示例事实不进入新项目。
+
+项数／字段／动效均待人工复核；原生 PPTX 可编辑结构保留。

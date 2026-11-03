@@ -1,0 +1,13 @@
+{
+  "status": "provisional_requires_manual_object_review",
+  "source_count": 5,
+  "target_counts": [
+    3,
+    4,
+    5
+  ],
+  "units": [],
+  "shared_shape_ids": [],
+  "geometry_family": "directory-columns",
+  "auto_grouped_count": 0
+}

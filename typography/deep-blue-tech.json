@@ -1,0 +1,19 @@
+{
+  "id": "deep-blue-tech",
+  "status": "provisional_requires_render_review",
+  "source_theme_major": {
+    "latin": "OPPOSans R",
+    "east_asian": "锐字锐线怒放黑简1.0"
+  },
+  "source_theme_minor": {
+    "latin": "OPPOSans R",
+    "east_asian": "OPPOSans R"
+  },
+  "roles": {
+    "chinese_display": "Microsoft YaHei",
+    "chinese_heading": "Microsoft YaHei",
+    "chinese_body": "DengXian",
+    "latin_numeric": "Arial"
+  },
+  "rule": "preserve source font size and line spacing; inspect line wraps after replacement"
+}

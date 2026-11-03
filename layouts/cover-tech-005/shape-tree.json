@@ -1,0 +1,92 @@
+{
+  "source_page": 5,
+  "recursive_shapes": [
+    {
+      "shape_id": 50,
+      "shape_name": "图片 49",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        0,
+        0,
+        12192000,
+        6858000
+      ],
+      "image_sha256": "89b04c60fb7cf4cbecc2066f448fc4c0efca4c9b6373c1404e9141a0bda80736",
+      "semantic_role": "cover_visual_layer"
+    },
+    {
+      "shape_id": 23,
+      "shape_name": "Brand Presentation",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        1182914,
+        1403115,
+        9826172,
+        1477328
+      ],
+      "text_preview": "连接·无限可能",
+      "typography_role": "chinese_display"
+    },
+    {
+      "shape_id": 28,
+      "shape_name": "矩形 27",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        4553427,
+        3410859,
+        2456814,
+        21205
+      ]
+    },
+    {
+      "shape_id": 29,
+      "shape_name": "矩形 28",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        6019272,
+        4103673,
+        2456814,
+        21205
+      ]
+    },
+    {
+      "shape_id": 33,
+      "shape_name": "Brand Presentation",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        4059588,
+        3599345,
+        4072825,
+        369332
+      ],
+      "text_preview": "嘉宾姓名 |  XXXX公司负责人",
+      "typography_role": "chinese_display"
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "图片 2",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        10955020,
+        178435,
+        893445,
+        191770
+      ],
+      "image_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_role": "brand_logo_locked"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

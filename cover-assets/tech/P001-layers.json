@@ -1,0 +1,35 @@
+{
+  "source_page": 1,
+  "layers": [
+    {
+      "shape_id": 34,
+      "source_group_path": [],
+      "z_order_recursive": 0,
+      "image": "cover-assets/tech/P001-layer01.jpg",
+      "sha256": "05fc780f44682e7bec8ff93011f062183a743aeae60f43a0ade766d290e0399b",
+      "bounds_emu_local": [
+        -1,
+        0,
+        12192002,
+        6858000
+      ],
+      "full_bleed": true
+    },
+    {
+      "shape_id": 8,
+      "source_group_path": [],
+      "z_order_recursive": 3,
+      "image": "cover-assets/tech/P001-layer02.jpg",
+      "sha256": "e547dafaef29cbda8b5577ddd39123047458c47dc513022a90b9bbc5e18127a1",
+      "bounds_emu_local": [
+        0,
+        1927225,
+        4540250,
+        2667000
+      ],
+      "full_bleed": false
+    }
+  ],
+  "source_logo_shape_id": 3,
+  "status": "visual_review_required"
+}

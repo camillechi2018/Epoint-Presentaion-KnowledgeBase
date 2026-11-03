@@ -1,0 +1,686 @@
+{
+  "source_page": 21,
+  "recursive_shapes": [
+    {
+      "shape_id": 88,
+      "shape_name": "组合 87",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        3046472,
+        1600916,
+        6099058,
+        1640839
+      ]
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "梯形 2",
+      "shape_type": 1,
+      "group_path": [
+        88
+      ],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        2954069,
+        1600916,
+        6283865,
+        1632915
+      ]
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "平行四边形 5",
+      "shape_type": 1,
+      "group_path": [
+        88
+      ],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        3778802,
+        3216471,
+        4634396,
+        25284
+      ]
+    },
+    {
+      "shape_id": 7,
+      "shape_name": "组合 6",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        4680989,
+        3346179,
+        2830022,
+        3079648
+      ]
+    },
+    {
+      "shape_id": 8,
+      "shape_name": "等腰三角形 7",
+      "shape_type": 1,
+      "group_path": [
+        7
+      ],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        4830689,
+        3206672,
+        2530622,
+        465974
+      ]
+    },
+    {
+      "shape_id": 9,
+      "shape_name": "等腰三角形 8",
+      "shape_type": 1,
+      "group_path": [
+        7
+      ],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        4945577,
+        3763254,
+        2753841,
+        920701
+      ]
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "等腰三角形 9",
+      "shape_type": 1,
+      "group_path": [
+        7
+      ],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        4506438,
+        3763254,
+        2753841,
+        920701
+      ]
+    },
+    {
+      "shape_id": 44,
+      "shape_name": "组合 43",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1225804
+      ]
+    },
+    {
+      "shape_id": 45,
+      "shape_name": "组合 44",
+      "shape_type": 6,
+      "group_path": [
+        44
+      ],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1084812
+      ]
+    },
+    {
+      "shape_id": 49,
+      "shape_name": "Freeform 3076",
+      "shape_type": 13,
+      "group_path": [
+        44,
+        45
+      ],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12171817,
+        809426
+      ],
+      "image_sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 50,
+      "shape_name": "图形 70",
+      "shape_type": 5,
+      "group_path": [
+        44,
+        45
+      ],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        5558,
+        402332,
+        12180884,
+        532358
+      ]
+    },
+    {
+      "shape_id": 51,
+      "shape_name": "组合 50",
+      "shape_type": 6,
+      "group_path": [
+        44,
+        45
+      ],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        3190011,
+        837645,
+        5811979,
+        61114
+      ]
+    },
+    {
+      "shape_id": 53,
+      "shape_name": "组合 52",
+      "shape_type": 6,
+      "group_path": [
+        44,
+        45,
+        51
+      ],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 58,
+      "shape_name": "任意多边形: 形状 57",
+      "shape_type": 5,
+      "group_path": [
+        44,
+        45,
+        51,
+        53
+      ],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 59,
+      "shape_name": "任意多边形: 形状 58",
+      "shape_type": 5,
+      "group_path": [
+        44,
+        45,
+        51,
+        53
+      ],
+      "z_order_recursive": 14,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 60,
+      "shape_name": "任意多边形: 形状 59",
+      "shape_type": 5,
+      "group_path": [
+        44,
+        45,
+        51,
+        53
+      ],
+      "z_order_recursive": 15,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 54,
+      "shape_name": "组合 53",
+      "shape_type": 6,
+      "group_path": [
+        44,
+        45,
+        51
+      ],
+      "z_order_recursive": 16,
+      "local_bounds_emu": [
+        8435884,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 55,
+      "shape_name": "任意多边形: 形状 54",
+      "shape_type": 5,
+      "group_path": [
+        44,
+        45,
+        51,
+        54
+      ],
+      "z_order_recursive": 17,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 56,
+      "shape_name": "任意多边形: 形状 55",
+      "shape_type": 5,
+      "group_path": [
+        44,
+        45,
+        51,
+        54
+      ],
+      "z_order_recursive": 18,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 57,
+      "shape_name": "任意多边形: 形状 56",
+      "shape_type": 5,
+      "group_path": [
+        44,
+        45,
+        51,
+        54
+      ],
+      "z_order_recursive": 19,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 52,
+      "shape_name": "图片 51",
+      "shape_type": 13,
+      "group_path": [
+        44,
+        45
+      ],
+      "z_order_recursive": 20,
+      "local_bounds_emu": [
+        3686833,
+        651534,
+        4811984,
+        564680
+      ],
+      "image_sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 46,
+      "shape_name": "组合 45",
+      "shape_type": 6,
+      "group_path": [
+        44
+      ],
+      "z_order_recursive": 21,
+      "local_bounds_emu": [
+        1285874,
+        416934,
+        9620252,
+        940272
+      ]
+    },
+    {
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "shape_type": 17,
+      "group_path": [
+        44,
+        46
+      ],
+      "z_order_recursive": 22,
+      "local_bounds_emu": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ],
+      "text_preview": "三大工作亮点",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 48,
+      "shape_name": "矩形 47",
+      "shape_type": 1,
+      "group_path": [
+        44,
+        46
+      ],
+      "z_order_recursive": 23,
+      "local_bounds_emu": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "text_preview": "从技术基座、生态价值和用户价值三方面提炼阶段性成果",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 80,
+      "shape_name": "组合 79",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 24,
+      "local_bounds_emu": [
+        743929,
+        4154699,
+        4344508,
+        2049279
+      ]
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "任意多边形: 形状 10",
+      "shape_type": 5,
+      "group_path": [
+        80
+      ],
+      "z_order_recursive": 25,
+      "local_bounds_emu": [
+        1257531,
+        4161039,
+        4344508,
+        2042939
+      ]
+    },
+    {
+      "shape_id": 12,
+      "shape_name": "平行四边形 11",
+      "shape_type": 1,
+      "group_path": [
+        80
+      ],
+      "z_order_recursive": 26,
+      "local_bounds_emu": [
+        4514012,
+        4154699,
+        1088027,
+        2049279
+      ]
+    },
+    {
+      "shape_id": 75,
+      "shape_name": "组合 74",
+      "shape_type": 6,
+      "group_path": [
+        80
+      ],
+      "z_order_recursive": 27,
+      "local_bounds_emu": [
+        1605280,
+        4469131,
+        3563393,
+        1476540
+      ]
+    },
+    {
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "shape_type": 17,
+      "group_path": [
+        80,
+        75
+      ],
+      "z_order_recursive": 28,
+      "local_bounds_emu": [
+        1605282,
+        4339356,
+        2471071,
+        406265
+      ],
+      "text_preview": "技术基座升级",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 19,
+      "shape_name": "Rounded Rectangle_28",
+      "shape_type": 1,
+      "group_path": [
+        80,
+        75
+      ],
+      "z_order_recursive": 29,
+      "local_bounds_emu": [
+        1605282,
+        4819174,
+        3244126,
+        400962
+      ],
+      "text_preview": "从供应侧破局·加速技术发展",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "shape_type": 17,
+      "group_path": [
+        80,
+        75
+      ],
+      "z_order_recursive": 30,
+      "local_bounds_emu": [
+        1605280,
+        5347209,
+        3563393,
+        468687
+      ],
+      "text_preview": "推荐算法AUC提升至1.91，拉动GMV增长21%\n智能客服覆盖率达95%，人力成本下降30%",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "任意多边形: 形状 12",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 31,
+      "local_bounds_emu": [
+        7103564,
+        4161354,
+        4344507,
+        2042939
+      ]
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "平行四边形 13",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 32,
+      "local_bounds_emu": [
+        7105944,
+        4157187,
+        1088027,
+        2049279
+      ]
+    },
+    {
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 33,
+      "local_bounds_emu": [
+        8641057,
+        4428448,
+        2363950,
+        406265
+      ],
+      "text_preview": "生态价值释放",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 66,
+      "shape_name": "Rounded Rectangle_28",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 34,
+      "local_bounds_emu": [
+        7542882,
+        4908266,
+        3462124,
+        400962
+      ],
+      "text_preview": "从需求侧破局·驱动增长引擎",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 35,
+      "local_bounds_emu": [
+        8003572,
+        5476736,
+        3001434,
+        468687
+      ],
+      "text_preview": "主导制定《实时数据接口》行业标准\n云服务API调用量月增300%",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 36,
+      "local_bounds_emu": [
+        4863496,
+        1548772,
+        2465007,
+        369332
+      ],
+      "text_preview": "用户价值深耕",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 37,
+      "local_bounds_emu": [
+        3909580,
+        2536013,
+        4372840,
+        423962
+      ],
+      "text_preview": "数据洞察：构建千万级用户行为画像库，覆盖20+核心路径\n智能运营：落地增长黑客体系，AB测试平台支撑日均50次实验",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 69,
+      "shape_name": "Rounded Rectangle_28",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 38,
+      "local_bounds_emu": [
+        4299296,
+        2003372,
+        3361881,
+        400962
+      ],
+      "text_preview": "从用户侧破局·拉通用户链条",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 87,
+      "shape_name": "组合 86",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 39,
+      "local_bounds_emu": [
+        5365757,
+        4009308,
+        1460487,
+        1089538
+      ]
+    },
+    {
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "shape_type": 17,
+      "group_path": [
+        87
+      ],
+      "z_order_recursive": 40,
+      "local_bounds_emu": [
+        5146131,
+        3346887,
+        759438,
+        738664
+      ],
+      "text_preview": "3",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 85,
+      "shape_name": "文本框 84",
+      "shape_type": 17,
+      "group_path": [
+        87
+      ],
+      "z_order_recursive": 41,
+      "local_bounds_emu": [
+        4795607,
+        4128648,
+        1460487,
+        307777
+      ],
+      "text_preview": "大工作亮点",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 2,
+      "shape_name": "图片 1",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 42,
+      "local_bounds_emu": [
+        10955020,
+        178435,
+        893445,
+        191770
+      ],
+      "image_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_role": "brand_logo_locked"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

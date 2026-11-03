@@ -1,0 +1,79 @@
+{
+  "source_page": 14,
+  "recursive_shapes": [
+    {
+      "shape_id": 11,
+      "shape_name": "图片 10",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        0,
+        0,
+        12192000,
+        6858000
+      ],
+      "image_sha256": "9d5f6199350a8e4d034296b56befffe6b5e5ca45929fba6fbfaed1134b81afc3",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        5810562,
+        2240600,
+        5685529,
+        1569660
+      ],
+      "text_preview": "PART 1",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        7057054,
+        3038693,
+        3192544,
+        923330
+      ],
+      "text_preview": "第一部分",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        4738059,
+        3982048,
+        7830534,
+        400110
+      ],
+      "text_preview": "标题副文案填这里",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 21,
+      "shape_name": "直接连接符 20",
+      "shape_type": 9,
+      "group_path": [],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        8356382,
+        4626977,
+        593888,
+        0
+      ]
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

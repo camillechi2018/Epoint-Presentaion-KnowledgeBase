@@ -1,0 +1,82 @@
+{
+  "status": "provisional_requires_manual_object_review",
+  "source_count": 6,
+  "target_counts": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "units": [
+    {
+      "root_shape_id": 7,
+      "source_shape_ids": [
+        7,
+        15,
+        22,
+        32,
+        106,
+        124
+      ]
+    },
+    {
+      "root_shape_id": 11,
+      "source_shape_ids": [
+        11,
+        19,
+        29,
+        36,
+        105,
+        121
+      ]
+    },
+    {
+      "root_shape_id": 6,
+      "source_shape_ids": [
+        6,
+        31,
+        38,
+        95,
+        100,
+        118
+      ]
+    },
+    {
+      "root_shape_id": 8,
+      "source_shape_ids": [
+        8,
+        16,
+        23,
+        33,
+        111,
+        99
+      ]
+    },
+    {
+      "root_shape_id": 9,
+      "source_shape_ids": [
+        9,
+        17,
+        24,
+        34,
+        98,
+        115
+      ]
+    },
+    {
+      "root_shape_id": 10,
+      "source_shape_ids": [
+        10,
+        18,
+        25,
+        35,
+        97,
+        112
+      ]
+    }
+  ],
+  "shared_shape_ids": [],
+  "geometry_family": "schedule-rows",
+  "auto_grouped_count": 6
+}

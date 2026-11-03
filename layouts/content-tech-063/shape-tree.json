@@ -1,0 +1,841 @@
+{
+  "source_page": 63,
+  "recursive_shapes": [
+    {
+      "shape_id": 6,
+      "shape_name": "组合 5",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1225804
+      ]
+    },
+    {
+      "shape_id": 7,
+      "shape_name": "组合 6",
+      "shape_type": 6,
+      "group_path": [
+        6
+      ],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1084812
+      ]
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "Freeform 3076",
+      "shape_type": 13,
+      "group_path": [
+        6,
+        7
+      ],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12171817,
+        809426
+      ],
+      "image_sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "图形 70",
+      "shape_type": 5,
+      "group_path": [
+        6,
+        7
+      ],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        5558,
+        402332,
+        12180884,
+        532358
+      ]
+    },
+    {
+      "shape_id": 12,
+      "shape_name": "组合 11",
+      "shape_type": 6,
+      "group_path": [
+        6,
+        7
+      ],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        3190011,
+        837645,
+        5811979,
+        61114
+      ]
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "组合 13",
+      "shape_type": 6,
+      "group_path": [
+        6,
+        7,
+        12
+      ],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 19,
+      "shape_name": "任意多边形: 形状 18",
+      "shape_type": 5,
+      "group_path": [
+        6,
+        7,
+        12,
+        14
+      ],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 20,
+      "shape_name": "任意多边形: 形状 19",
+      "shape_type": 5,
+      "group_path": [
+        6,
+        7,
+        12,
+        14
+      ],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 21,
+      "shape_name": "任意多边形: 形状 20",
+      "shape_type": 5,
+      "group_path": [
+        6,
+        7,
+        12,
+        14
+      ],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "组合 14",
+      "shape_type": 6,
+      "group_path": [
+        6,
+        7,
+        12
+      ],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        8435884,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 16,
+      "shape_name": "任意多边形: 形状 15",
+      "shape_type": 5,
+      "group_path": [
+        6,
+        7,
+        12,
+        15
+      ],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 17,
+      "shape_name": "任意多边形: 形状 16",
+      "shape_type": 5,
+      "group_path": [
+        6,
+        7,
+        12,
+        15
+      ],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 18,
+      "shape_name": "任意多边形: 形状 17",
+      "shape_type": 5,
+      "group_path": [
+        6,
+        7,
+        12,
+        15
+      ],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "图片 12",
+      "shape_type": 13,
+      "group_path": [
+        6,
+        7
+      ],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        3686833,
+        651534,
+        4811984,
+        564680
+      ],
+      "image_sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "shape_type": 17,
+      "group_path": [
+        6
+      ],
+      "z_order_recursive": 14,
+      "local_bounds_emu": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ],
+      "text_preview": "科技企业成长路径",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 9,
+      "shape_name": "矩形 8",
+      "shape_type": 1,
+      "group_path": [
+        6
+      ],
+      "z_order_recursive": 15,
+      "local_bounds_emu": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "text_preview": "展示从算法研发、上市、产品发布到生态项目的阶段演进",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 30,
+      "shape_name": "组合 29",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 16,
+      "local_bounds_emu": [
+        536598,
+        2365050,
+        11122002,
+        3775513
+      ]
+    },
+    {
+      "shape_id": 25,
+      "shape_name": "任意多边形: 形状 24",
+      "shape_type": 5,
+      "group_path": [
+        30
+      ],
+      "z_order_recursive": 17,
+      "local_bounds_emu": [
+        406868,
+        1861896,
+        1052436,
+        68738
+      ]
+    },
+    {
+      "shape_id": 26,
+      "shape_name": "任意多边形: 形状 25",
+      "shape_type": 5,
+      "group_path": [
+        30
+      ],
+      "z_order_recursive": 18,
+      "local_bounds_emu": [
+        1600410,
+        1912489,
+        2609742,
+        293953
+      ]
+    },
+    {
+      "shape_id": 27,
+      "shape_name": "任意多边形: 形状 26",
+      "shape_type": 5,
+      "group_path": [
+        30
+      ],
+      "z_order_recursive": 19,
+      "local_bounds_emu": [
+        4277400,
+        2131726,
+        2385642,
+        1326324
+      ]
+    },
+    {
+      "shape_id": 28,
+      "shape_name": "任意多边形: 形状 27",
+      "shape_type": 5,
+      "group_path": [
+        30
+      ],
+      "z_order_recursive": 20,
+      "local_bounds_emu": [
+        3669180,
+        3530205,
+        2363631,
+        2105081
+      ]
+    },
+    {
+      "shape_id": 29,
+      "shape_name": "任意多边形: 形状 28",
+      "shape_type": 5,
+      "group_path": [
+        30
+      ],
+      "z_order_recursive": 21,
+      "local_bounds_emu": [
+        5706406,
+        5484790,
+        6081924,
+        885282
+      ]
+    },
+    {
+      "shape_id": 84,
+      "shape_name": "任意多边形: 形状 83",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 22,
+      "local_bounds_emu": [
+        2229000,
+        1837961,
+        514351,
+        606837
+      ]
+    },
+    {
+      "shape_id": 71,
+      "shape_name": "组合 70",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 23,
+      "local_bounds_emu": [
+        733108,
+        2685734,
+        2530809,
+        970968
+      ]
+    },
+    {
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "shape_type": 17,
+      "group_path": [
+        71
+      ],
+      "z_order_recursive": 24,
+      "local_bounds_emu": [
+        1401420,
+        3001304,
+        2530809,
+        596830
+      ],
+      "text_preview": "成立于硅谷，初期专注\nAI算法研发，获天使轮融资",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 48,
+      "shape_name": "组合 47",
+      "shape_type": 6,
+      "group_path": [
+        71
+      ],
+      "z_order_recursive": 25,
+      "local_bounds_emu": [
+        1472184,
+        2627166,
+        1447801,
+        330669
+      ]
+    },
+    {
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "shape_type": 17,
+      "group_path": [
+        71,
+        48
+      ],
+      "z_order_recursive": 26,
+      "local_bounds_emu": [
+        6854421,
+        2171039,
+        1447801,
+        330669
+      ],
+      "text_preview": "2010年",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 50,
+      "shape_name": "TextBox 44-mask",
+      "shape_type": 1,
+      "group_path": [
+        71,
+        48
+      ],
+      "z_order_recursive": 27,
+      "local_bounds_emu": [
+        6854421,
+        2171039,
+        48029,
+        330669
+      ]
+    },
+    {
+      "shape_id": 85,
+      "shape_name": "任意多边形: 形状 84",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 28,
+      "local_bounds_emu": [
+        9353976,
+        5150498,
+        514351,
+        606837
+      ]
+    },
+    {
+      "shape_id": 86,
+      "shape_name": "任意多边形: 形状 85",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 29,
+      "local_bounds_emu": [
+        6019087,
+        4912392,
+        514351,
+        606837
+      ]
+    },
+    {
+      "shape_id": 87,
+      "shape_name": "任意多边形: 形状 86",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 30,
+      "local_bounds_emu": [
+        3834199,
+        4209307,
+        514351,
+        606837
+      ]
+    },
+    {
+      "shape_id": 88,
+      "shape_name": "任意多边形: 形状 87",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 31,
+      "local_bounds_emu": [
+        5250026,
+        2197309,
+        514351,
+        606837
+      ]
+    },
+    {
+      "shape_id": 2,
+      "shape_name": "组合 1",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 32,
+      "local_bounds_emu": [
+        6180987,
+        1811476,
+        3026513,
+        970968
+      ]
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "shape_type": 17,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 33,
+      "local_bounds_emu": [
+        1401420,
+        3001304,
+        3026513,
+        596830
+      ],
+      "text_preview": "上市纳斯达克发布\n自动驾驶系统「Aurora Drive」",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 4,
+      "shape_name": "组合 3",
+      "shape_type": 6,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 34,
+      "local_bounds_emu": [
+        1472184,
+        2627166,
+        1447801,
+        330669
+      ]
+    },
+    {
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "shape_type": 17,
+      "group_path": [
+        2,
+        4
+      ],
+      "z_order_recursive": 35,
+      "local_bounds_emu": [
+        6854421,
+        2171039,
+        1447801,
+        330669
+      ],
+      "text_preview": "2014年",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 22,
+      "shape_name": "TextBox 44-mask",
+      "shape_type": 1,
+      "group_path": [
+        2,
+        4
+      ],
+      "z_order_recursive": 36,
+      "local_bounds_emu": [
+        6854421,
+        2171039,
+        48029,
+        330669
+      ]
+    },
+    {
+      "shape_id": 23,
+      "shape_name": "组合 22",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 37,
+      "local_bounds_emu": [
+        6533438,
+        3955198,
+        2530809,
+        970968
+      ]
+    },
+    {
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "shape_type": 17,
+      "group_path": [
+        23
+      ],
+      "z_order_recursive": 38,
+      "local_bounds_emu": [
+        1401420,
+        3001304,
+        2530809,
+        596830
+      ],
+      "text_preview": "推出全球首款\n情感交互AI「Aurora X」",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 31,
+      "shape_name": "组合 30",
+      "shape_type": 6,
+      "group_path": [
+        23
+      ],
+      "z_order_recursive": 39,
+      "local_bounds_emu": [
+        1472184,
+        2627166,
+        1447801,
+        330669
+      ]
+    },
+    {
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "shape_type": 17,
+      "group_path": [
+        23,
+        31
+      ],
+      "z_order_recursive": 40,
+      "local_bounds_emu": [
+        6854421,
+        2171039,
+        1447801,
+        330669
+      ],
+      "text_preview": "2022年",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 33,
+      "shape_name": "TextBox 44-mask",
+      "shape_type": 1,
+      "group_path": [
+        23,
+        31
+      ],
+      "z_order_recursive": 41,
+      "local_bounds_emu": [
+        6854421,
+        2171039,
+        48029,
+        330669
+      ]
+    },
+    {
+      "shape_id": 34,
+      "shape_name": "组合 33",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 42,
+      "local_bounds_emu": [
+        9252617,
+        3955198,
+        2530809,
+        970968
+      ]
+    },
+    {
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "shape_type": 17,
+      "group_path": [
+        34
+      ],
+      "z_order_recursive": 43,
+      "local_bounds_emu": [
+        1401420,
+        3001304,
+        2530809,
+        596830
+      ],
+      "text_preview": "极光城市」项目启动，打造\n全AI管理的可持续智慧社区",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 36,
+      "shape_name": "组合 35",
+      "shape_type": 6,
+      "group_path": [
+        34
+      ],
+      "z_order_recursive": 44,
+      "local_bounds_emu": [
+        1472184,
+        2627166,
+        1447801,
+        330669
+      ]
+    },
+    {
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "shape_type": 17,
+      "group_path": [
+        34,
+        36
+      ],
+      "z_order_recursive": 45,
+      "local_bounds_emu": [
+        6854421,
+        2171039,
+        1447801,
+        330669
+      ],
+      "text_preview": "2026年",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 38,
+      "shape_name": "TextBox 44-mask",
+      "shape_type": 1,
+      "group_path": [
+        34,
+        36
+      ],
+      "z_order_recursive": 46,
+      "local_bounds_emu": [
+        6854421,
+        2171039,
+        48029,
+        330669
+      ]
+    },
+    {
+      "shape_id": 39,
+      "shape_name": "组合 38",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 47,
+      "local_bounds_emu": [
+        356338,
+        4142267,
+        3148476,
+        970968
+      ]
+    },
+    {
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "shape_type": 17,
+      "group_path": [
+        39
+      ],
+      "z_order_recursive": 48,
+      "local_bounds_emu": [
+        1401421,
+        3001304,
+        3148476,
+        596830
+      ],
+      "text_preview": "收购机器人公司「NeonTech」\n进军服务机器人领域",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 42,
+      "shape_name": "组合 41",
+      "shape_type": 6,
+      "group_path": [
+        39
+      ],
+      "z_order_recursive": 49,
+      "local_bounds_emu": [
+        1472184,
+        2627166,
+        1447801,
+        330669
+      ]
+    },
+    {
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "shape_type": 17,
+      "group_path": [
+        39,
+        42
+      ],
+      "z_order_recursive": 50,
+      "local_bounds_emu": [
+        6854421,
+        2171039,
+        1447801,
+        330669
+      ],
+      "text_preview": "2019年",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 51,
+      "shape_name": "TextBox 44-mask",
+      "shape_type": 1,
+      "group_path": [
+        39,
+        42
+      ],
+      "z_order_recursive": 51,
+      "local_bounds_emu": [
+        6854421,
+        2171039,
+        48029,
+        330669
+      ]
+    },
+    {
+      "shape_id": 44,
+      "shape_name": "图片 43",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 52,
+      "local_bounds_emu": [
+        11057890,
+        6476365,
+        893445,
+        191770
+      ],
+      "image_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_role": "brand_logo_locked"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

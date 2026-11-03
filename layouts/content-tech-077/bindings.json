@@ -1,0 +1,401 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "group_path": [],
+      "source_text": "VIP\n用户",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3529458,
+        1781954,
+        1012698,
+        584775
+      ]
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "group_path": [],
+      "source_text": "重要用户",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3679269,
+        3062938,
+        1276047,
+        369332
+      ]
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "group_path": [],
+      "source_text": "普通用户",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3679269,
+        4342728,
+        1276047,
+        369332
+      ]
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "group_path": [],
+      "source_text": "基础用户",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3679269,
+        5397066,
+        1276047,
+        369332
+      ]
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "group_path": [],
+      "source_text": "特征\n高贡献、高活跃、高忠诚。他们不仅是收入的顶梁柱，更是品牌的拥趸和产品共创者",
+      "source_sample_chars": 40,
+      "max_chars": 60,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8118692,
+        1591500,
+        3152033,
+        857222
+      ]
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "group_path": [],
+      "source_text": "特征\n有稳定的付费行为和产品使用习惯\n是核心收入来源，有明确的升级潜力",
+      "source_sample_chars": 35,
+      "max_chars": 52,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8118692,
+        2848663,
+        3152033,
+        857222
+      ]
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "group_path": [],
+      "source_text": "特征\n高贡献、高活跃、高忠诚。他们不仅是收入的顶梁柱，更是品牌的拥趸和产品共创者",
+      "source_sample_chars": 40,
+      "max_chars": 60,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8118692,
+        4040558,
+        3152033,
+        857222
+      ]
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "group_path": [],
+      "source_text": "特征\n有稳定的付费行为和产品使用习惯\n是核心收入来源，有明确的升级潜力",
+      "source_sample_chars": 35,
+      "max_chars": 52,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8118692,
+        5213272,
+        3152033,
+        857222
+      ]
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "group_path": [],
+      "source_text": "金字塔分层人群",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        557746,
+        1413619,
+        2923363,
+        523220
+      ]
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "group_path": [],
+      "source_text": "是商业策略的基石其核心好处在于实现“精准化”与“高效率”，将有限的资源转化为最大的商业价值。",
+      "source_sample_chars": 46,
+      "max_chars": 69,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        557747,
+        2352693,
+        2413242,
+        1104533
+      ]
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "group_path": [
+        48
+      ],
+      "source_text": "用户画像分层分析",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "group_path": [],
+      "source_text": "占比",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4844814,
+        1596539,
+        936931,
+        338298
+      ]
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "group_path": [],
+      "source_text": "19%",
+      "source_sample_chars": 3,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4844652,
+        1827217,
+        1703566,
+        561244
+      ]
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "group_path": [],
+      "source_text": "占比",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5465271,
+        2853702,
+        936931,
+        338298
+      ]
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "25%",
+      "source_sample_chars": 3,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5465109,
+        3084380,
+        1703566,
+        561244
+      ]
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "group_path": [],
+      "source_text": "占比",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6794081,
+        5243711,
+        936931,
+        338298
+      ]
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "group_path": [],
+      "source_text": "49%",
+      "source_sample_chars": 3,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6793919,
+        5474389,
+        1703566,
+        561244
+      ]
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "group_path": [],
+      "source_text": "占比",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6114839,
+        4060158,
+        936931,
+        338298
+      ]
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "group_path": [],
+      "source_text": "39%",
+      "source_sample_chars": 3,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6114677,
+        4290836,
+        1703566,
+        561244
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 51,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          48,
+          49
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 54,
+        "shape_name": "图片 53",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          48,
+          49
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

@@ -1,0 +1,315 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "group_path": [],
+      "source_text": "技能提升",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8264455,
+        4202963,
+        1231106,
+        369332
+      ]
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "职业发展",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5480447,
+        4461801,
+        1231106,
+        369332
+      ]
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "group_path": [],
+      "source_text": "经验积累",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2696436,
+        4202963,
+        1231106,
+        369332
+      ]
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "group_path": [],
+      "source_text": "通过自我评估、职业兴趣测试等\n方式，了解自己的性格、优势\n兴趣等，明确职业发展方向",
+      "source_sample_chars": 41,
+      "max_chars": 61,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        673101,
+        2099656,
+        2008188,
+        599588
+      ]
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "group_path": [],
+      "source_text": "积极参与实习、项目、志愿服务等实践活动，积累工作经验和职场人脉",
+      "source_sample_chars": 31,
+      "max_chars": 46,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1011712,
+        5486847,
+        2107166,
+        691921
+      ]
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "group_path": [],
+      "source_text": "根据职业目标，制定技能提升计划，通过培训、自学等方式不断提升自我",
+      "source_sample_chars": 32,
+      "max_chars": 48,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9030070,
+        5486847,
+        2239365,
+        691921
+      ]
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "group_path": [],
+      "source_text": "根据职业发展方向，设定短期、中期和长期职业目标，并规划实现路径",
+      "source_sample_chars": 31,
+      "max_chars": 46,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9399236,
+        2099656,
+        2119663,
+        691921
+      ]
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "group_path": [],
+      "source_text": "自我认知",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1887772,
+        3367203,
+        1231106,
+        369332
+      ]
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "group_path": [],
+      "source_text": "目标设定",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9073122,
+        3367203,
+        1231106,
+        369332
+      ]
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "group_path": [],
+      "source_text": "根据职业发展情况和个人目标的变化，灵活调整职业发展规划，保持职业发展的动力和活力",
+      "source_sample_chars": 40,
+      "max_chars": 60,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4876553,
+        5691700,
+        2438895,
+        691921
+      ]
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "5",
+      "source_sample_chars": 1,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5206362,
+        1709400,
+        1746888,
+        1569660
+      ]
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "group_path": [],
+      "source_text": "项指标",
+      "source_sample_chars": 3,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5206362,
+        3021061,
+        1746888,
+        369332
+      ]
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "group_path": [
+        42,
+        44
+      ],
+      "source_text": "职业发展路径",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "矩形 45",
+      "type": "text",
+      "group_path": [
+        42,
+        44
+      ],
+      "source_text": "从自我认知到目标设定，规划个人能力成长与职业发展方向",
+      "source_sample_chars": 26,
+      "max_chars": 39,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 47,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          42,
+          43
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 62,
+        "shape_name": "图片 61",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          42,
+          43
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

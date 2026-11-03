@@ -1,0 +1,203 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "group_path": [
+        3
+      ],
+      "source_text": "资源投入计划",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "矩形 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "计划招聘50名优秀人才，重点补充技术研发和市场运营团队，构建高素质人才梯队。",
+      "source_sample_chars": 38,
+      "max_chars": 57,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1762242,
+        3866512,
+        1966017,
+        1102353
+      ]
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "矩形 8",
+      "type": "text",
+      "group_path": [],
+      "source_text": "人力资源扩充",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1762240,
+        3006617,
+        1966020,
+        342466
+      ]
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "矩形 11",
+      "type": "text",
+      "group_path": [],
+      "source_text": "市场推广费用增加至总营收的15%，重点用于品牌建设提升和全渠道拓展，扩大市场份额。",
+      "source_sample_chars": 41,
+      "max_chars": 61,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5112990,
+        4190535,
+        1966017,
+        1102353
+      ]
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "矩形 25",
+      "type": "text",
+      "group_path": [],
+      "source_text": "市场推广预算",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5112988,
+        3330640,
+        1966020,
+        342466
+      ]
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "矩形 28",
+      "type": "text",
+      "group_path": [],
+      "source_text": "研发投入占比提升至20%，聚焦核心技术攻关和产品创新，保持技术领先优势。",
+      "source_sample_chars": 36,
+      "max_chars": 54,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8463738,
+        3866512,
+        1966017,
+        822276
+      ]
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "矩形 29",
+      "type": "text",
+      "group_path": [],
+      "source_text": "技术研发投入",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8463736,
+        3006617,
+        1966020,
+        342466
+      ]
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "矩形 84",
+      "type": "text",
+      "group_path": [],
+      "source_text": "以人力资源和推广预算以及研发投入触发列出计划",
+      "source_sample_chars": 22,
+      "max_chars": 33,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 14,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          3,
+          5
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 17,
+        "shape_name": "图片 16",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          3,
+          5
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

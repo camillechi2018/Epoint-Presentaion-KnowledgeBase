@@ -1,0 +1,207 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_819",
+      "shape_id": 819,
+      "shape_name": "文本框 818",
+      "type": "text",
+      "group_path": [],
+      "source_text": "通过市场调研和数据分析，明确目标客户群体和需求特点\n制定针对性的市场营销策路，确保信息精准触达目标客户",
+      "source_sample_chars": 51,
+      "max_chars": 76,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1446190,
+        3512466,
+        2042636,
+        879728
+      ]
+    },
+    {
+      "field": "text_820",
+      "shape_id": 820,
+      "shape_name": "文本框 819",
+      "type": "text",
+      "group_path": [],
+      "source_text": "深入了解精准触达",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1217633,
+        3135617,
+        2434517,
+        406265
+      ]
+    },
+    {
+      "field": "text_821",
+      "shape_id": 821,
+      "shape_name": "文本框 820",
+      "type": "text",
+      "group_path": [],
+      "source_text": "利用社交媒体、搜索引擎优化、内容营销等多种道进行品牌推广。\n与行业媒体、KOL等合作，提升品牌知名度和影响力。",
+      "source_sample_chars": 55,
+      "max_chars": 82,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5107322,
+        3512466,
+        2106474,
+        879728
+      ]
+    },
+    {
+      "field": "text_822",
+      "shape_id": 822,
+      "shape_name": "文本框 821",
+      "type": "text",
+      "group_path": [],
+      "source_text": "线上线下全方位覆盖",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4671110,
+        3135617,
+        2849829,
+        406265
+      ]
+    },
+    {
+      "field": "text_823",
+      "shape_id": 823,
+      "shape_name": "文本框 822",
+      "type": "text",
+      "group_path": [],
+      "source_text": "利用大数据和人工智能技术分析客户行为和需求趋势。\n根据数据分析结果调整营销策略和渠道投入，提升营销效果。",
+      "source_sample_chars": 52,
+      "max_chars": 78,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8768454,
+        3512466,
+        2106474,
+        879728
+      ]
+    },
+    {
+      "field": "text_824",
+      "shape_id": 824,
+      "shape_name": "文本框 823",
+      "type": "text",
+      "group_path": [],
+      "source_text": "数据驱动营销决策",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8332242,
+        3135617,
+        2849829,
+        406265
+      ]
+    },
+    {
+      "field": "text_1919",
+      "shape_id": 1919,
+      "shape_name": "文本框 1918",
+      "type": "text",
+      "group_path": [
+        1916,
+        1918
+      ],
+      "source_text": "精准营销策略框架",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_1920",
+      "shape_id": 1920,
+      "shape_name": "矩形 1919",
+      "type": "text",
+      "group_path": [
+        1916,
+        1918
+      ],
+      "source_text": "从用户洞察、全域覆盖和数据驱动三个维度搭建营销策略",
+      "source_sample_chars": 25,
+      "max_chars": 37,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 1921,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          1916,
+          1917
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 1924,
+        "shape_name": "图片 1923",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          1916,
+          1917
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "group_path": [],
+      "source_text": "实战打法解析",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_display",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1447800,
+        2678396,
+        9296400,
+        1323439
+      ]
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "流量裂变",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_display",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3999252,
+        1988815,
+        4193497,
+        830997
+      ]
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "矩形: 剪去对角 12",
+      "type": "text",
+      "group_path": [
+        23,
+        12
+      ],
+      "source_text": "时间：2025.04.05",
+      "source_sample_chars": 13,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4655690,
+        3743347,
+        4336587,
+        1920755
+      ]
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "矩形: 剪去对角 16",
+      "type": "text",
+      "group_path": [
+        23,
+        16
+      ],
+      "source_text": "汇报人：毛球盒PPT",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4655690,
+        3743347,
+        4336587,
+        1920755
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "619563ff7abd528321e3a114ac54ff8582b12d9d0f3732eb5d2022a772bd53b1",
+        "semantic_role": "cover_visual_layer",
+        "group_path": [],
+        "bounds_emu_local": [
+          0,
+          0,
+          12192000,
+          6858000
+        ]
+      },
+      {
+        "shape_id": 18,
+        "shape_name": "图片 17",
+        "sha256": "96bcd5086641900afc4ba2165fc6113a40feac3219f9005b3742cd92513cadd7",
+        "semantic_role": "cover_visual_layer",
+        "group_path": [],
+        "bounds_emu_local": [
+          0,
+          0,
+          12192000,
+          6858000
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          10955020,
+          178435,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

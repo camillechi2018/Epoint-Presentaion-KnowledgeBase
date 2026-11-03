@@ -1,0 +1,227 @@
+{
+  "source_page": 1,
+  "recursive_shapes": [
+    {
+      "shape_id": 34,
+      "shape_name": "图片 33",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        -1,
+        0,
+        12192002,
+        6858000
+      ],
+      "image_sha256": "05fc780f44682e7bec8ff93011f062183a743aeae60f43a0ade766d290e0399b",
+      "semantic_role": "cover_visual_layer"
+    },
+    {
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        4455364,
+        3352051,
+        7158786,
+        245901
+      ],
+      "text_preview": "Exploring the Ecological Revolution under the Integration of 5G",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        4372814,
+        2544348,
+        7819186,
+        738664
+      ],
+      "text_preview": "探索AI融合下的生态革命",
+      "typography_role": "chinese_display"
+    },
+    {
+      "shape_id": 8,
+      "shape_name": "图片占位符 46",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        0,
+        1927225,
+        4540250,
+        2667000
+      ],
+      "image_sha256": "e547dafaef29cbda8b5577ddd39123047458c47dc513022a90b9bbc5e18127a1",
+      "semantic_role": "cover_visual_layer"
+    },
+    {
+      "shape_id": 9,
+      "shape_name": "任意多边形: 形状 8",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        3211633,
+        1226916,
+        1457493,
+        1811437
+      ]
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "任意多边形: 形状 10",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        1866411,
+        4275884,
+        899014,
+        1018650
+      ]
+    },
+    {
+      "shape_id": 12,
+      "shape_name": "任意多边形: 形状 11",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        -25395,
+        3476625,
+        1015995,
+        1116967
+      ]
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "组合 13",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        4455364,
+        3824863,
+        4781572,
+        338554
+      ]
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "shape_type": 17,
+      "group_path": [
+        14
+      ],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        4220152,
+        5310503,
+        2021086,
+        338554
+      ],
+      "text_preview": "汇报人：毛球盒PPT",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "shape_type": 17,
+      "group_path": [
+        14
+      ],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        6731683,
+        5310503,
+        1927403,
+        338554
+      ],
+      "text_preview": "时间：2025.04.05",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 17,
+      "shape_name": "任意多边形: 形状 16",
+      "shape_type": 5,
+      "group_path": [
+        14
+      ],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        3945249,
+        5376353,
+        167137,
+        206854
+      ]
+    },
+    {
+      "shape_id": 18,
+      "shape_name": "矩形: 圆角 17",
+      "shape_type": 1,
+      "group_path": [
+        14
+      ],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        3877514,
+        5328476,
+        302608,
+        302608
+      ]
+    },
+    {
+      "shape_id": 19,
+      "shape_name": "矩形: 圆角 18",
+      "shape_type": 1,
+      "group_path": [
+        14
+      ],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        6429075,
+        5328476,
+        302608,
+        302608
+      ]
+    },
+    {
+      "shape_id": 20,
+      "shape_name": "图形 252",
+      "shape_type": 5,
+      "group_path": [
+        14
+      ],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        6507257,
+        5410140,
+        146244,
+        139280
+      ]
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "图片 2",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 14,
+      "local_bounds_emu": [
+        10955020,
+        178435,
+        893445,
+        191770
+      ],
+      "image_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_role": "brand_logo_locked"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

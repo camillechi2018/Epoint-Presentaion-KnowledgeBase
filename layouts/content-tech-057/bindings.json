@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_159",
+      "shape_id": 159,
+      "shape_name": "文本框 158",
+      "type": "text",
+      "group_path": [
+        1092
+      ],
+      "source_text": "杭州五大产业生态圈",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1306287,
+        2474592,
+        2634524,
+        400110
+      ]
+    },
+    {
+      "field": "text_160",
+      "shape_id": 160,
+      "shape_name": "文本框 159",
+      "type": "text",
+      "group_path": [
+        1092
+      ],
+      "source_text": "政策与市场双轮驱动",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1499429,
+        2817156,
+        2441381,
+        298351
+      ]
+    },
+    {
+      "field": "text_1094",
+      "shape_id": 1094,
+      "shape_name": "文本框 1093",
+      "type": "text",
+      "group_path": [
+        1093
+      ],
+      "source_text": "北京产业生态圈",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        735935,
+        2474592,
+        3204875,
+        400110
+      ]
+    },
+    {
+      "field": "text_1095",
+      "shape_id": 1095,
+      "shape_name": "文本框 1094",
+      "type": "text",
+      "group_path": [
+        1093
+      ],
+      "source_text": "全球创新生态标杆",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1499429,
+        2817156,
+        2441381,
+        298351
+      ]
+    },
+    {
+      "field": "text_1097",
+      "shape_id": 1097,
+      "shape_name": "文本框 1096",
+      "type": "text",
+      "group_path": [
+        1096
+      ],
+      "source_text": "贵阳高新区“林泉生态圈”",
+      "source_sample_chars": 12,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        906040,
+        2474592,
+        3140710,
+        400110
+      ]
+    },
+    {
+      "field": "text_1098",
+      "shape_id": 1098,
+      "shape_name": "文本框 1097",
+      "type": "text",
+      "group_path": [
+        1096
+      ],
+      "source_text": "地理集聚催生效率革命",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1499429,
+        2817156,
+        2441381,
+        298351
+      ]
+    },
+    {
+      "field": "text_1100",
+      "shape_id": 1100,
+      "shape_name": "文本框 1099",
+      "type": "text",
+      "group_path": [],
+      "source_text": "梁溪区十大产业生态圈",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8302479,
+        2373370,
+        2972999,
+        400110
+      ]
+    },
+    {
+      "field": "text_1101",
+      "shape_id": 1101,
+      "shape_name": "文本框 1100",
+      "type": "text",
+      "group_path": [],
+      "source_text": "老城复兴的“建圈强链”实践",
+      "source_sample_chars": 13,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8302479,
+        2715934,
+        2441381,
+        298351
+      ]
+    },
+    {
+      "field": "text_1103",
+      "shape_id": 1103,
+      "shape_name": "文本框 1102",
+      "type": "text",
+      "group_path": [],
+      "source_text": "武乡数字农业生态圈",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8706587,
+        3618477,
+        3624566,
+        400110
+      ]
+    },
+    {
+      "field": "text_1104",
+      "shape_id": 1104,
+      "shape_name": "文本框 1103",
+      "type": "text",
+      "group_path": [],
+      "source_text": "科技重构传统产业",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8706587,
+        3961041,
+        2441381,
+        298351
+      ]
+    },
+    {
+      "field": "text_1106",
+      "shape_id": 1106,
+      "shape_name": "文本框 1105",
+      "type": "text",
+      "group_path": [],
+      "source_text": "杭州文旅产业生态圈",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8302479,
+        4863584,
+        2983481,
+        400110
+      ]
+    },
+    {
+      "field": "text_1107",
+      "shape_id": 1107,
+      "shape_name": "文本框 1106",
+      "type": "text",
+      "group_path": [],
+      "source_text": "“三生融合”的城市样本",
+      "source_sample_chars": 11,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8302479,
+        5206148,
+        2441381,
+        298351
+      ]
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "group_path": [
+        42,
+        44
+      ],
+      "source_text": "产业生态案例",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "矩形 45",
+      "type": "text",
+      "group_path": [
+        42,
+        44
+      ],
+      "source_text": "通过典型区域案例展示产业生态圈建设路径与发展样本",
+      "source_sample_chars": 24,
+      "max_chars": 36,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 47,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          42,
+          43
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 50,
+        "shape_name": "图片 49",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          42,
+          43
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

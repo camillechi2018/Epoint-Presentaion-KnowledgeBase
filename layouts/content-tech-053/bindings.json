@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "group_path": [
+        34
+      ],
+      "source_text": "年度核心业绩数据总结",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "group_path": [],
+      "source_text": "关键能力提升率",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8271902,
+        4603886,
+        3228156,
+        401905
+      ]
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "group_path": [],
+      "source_text": "35%+",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1085133,
+        2365640,
+        2379545,
+        553998
+      ]
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "type": "text",
+      "group_path": [],
+      "source_text": "145%+",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4845671,
+        2365640,
+        2379545,
+        553998
+      ]
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "type": "text",
+      "group_path": [],
+      "source_text": "125%+",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8606209,
+        2365640,
+        2379545,
+        553998
+      ]
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "group_path": [
+        3
+      ],
+      "source_text": "工作差错率下降",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        672415,
+        4643308,
+        3228156,
+        401905
+      ]
+    },
+    {
+      "field": "text_107",
+      "shape_id": 107,
+      "shape_name": "矩形 106",
+      "type": "text",
+      "group_path": [
+        3
+      ],
+      "source_text": "通过优化工作流程、建立双重校验机制，本年度业务差错率同比下降 35% 以上",
+      "source_sample_chars": 37,
+      "max_chars": 55,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1345213,
+        5399825,
+        1933180,
+        699487
+      ]
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "group_path": [
+        8
+      ],
+      "source_text": "核心KPI完成率",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4487094,
+        4603886,
+        3228156,
+        401905
+      ]
+    },
+    {
+      "field": "text_113",
+      "shape_id": 113,
+      "shape_name": "矩形 112",
+      "type": "text",
+      "group_path": [
+        8
+      ],
+      "source_text": "通过高效的时间管理与任务优先级规划，关键项目\n交付效率显著提升",
+      "source_sample_chars": 31,
+      "max_chars": 46,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5149716,
+        5399825,
+        1933180,
+        699487
+      ]
+    },
+    {
+      "field": "text_119",
+      "shape_id": 119,
+      "shape_name": "矩形 118",
+      "type": "text",
+      "group_path": [],
+      "source_text": "通过参与专项培训、项目实践复盘，个人核心业务\n能力同比提升 125%",
+      "source_sample_chars": 34,
+      "max_chars": 51,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8954219,
+        5399825,
+        1933180,
+        699487
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 37,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          34,
+          35
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 40,
+        "shape_name": "图片 39",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          34,
+          35
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 5,
+        "shape_name": "图片 4",
+        "sha256": "d6cc74b9ca499f5cc0e7424d9a73275644dbb0392782358add1a48a67ea40323",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          2
+        ],
+        "bounds_emu_local": [
+          2067404,
+          3974636,
+          1190146,
+          291742
+        ]
+      },
+      {
+        "shape_id": 31,
+        "shape_name": "图片 30",
+        "sha256": "d6cc74b9ca499f5cc0e7424d9a73275644dbb0392782358add1a48a67ea40323",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          29
+        ],
+        "bounds_emu_local": [
+          5502174,
+          3974636,
+          1190146,
+          291742
+        ]
+      },
+      {
+        "shape_id": 79,
+        "shape_name": "图片 78",
+        "sha256": "d6cc74b9ca499f5cc0e7424d9a73275644dbb0392782358add1a48a67ea40323",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          77
+        ],
+        "bounds_emu_local": [
+          8936944,
+          3974636,
+          1190146,
+          291742
+        ]
+      },
+      {
+        "shape_id": 14,
+        "shape_name": "图片 13",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

@@ -1,0 +1,445 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "group_path": [
+        19,
+        21
+      ],
+      "source_text": "个人能力优劣势分析",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "矩形 22",
+      "type": "text",
+      "group_path": [
+        19,
+        21
+      ],
+      "source_text": "围绕专业技能、沟通、协作、创新及短板进行个人能力诊断",
+      "source_sample_chars": 26,
+      "max_chars": 39,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ]
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "group_path": [],
+      "source_text": "优劣势\n分析",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5328587,
+        3528581,
+        1538890,
+        861774
+      ]
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "type": "text",
+      "group_path": [],
+      "source_text": "专业技能",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1252255,
+        2118420,
+        2017370,
+        307777
+      ]
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "文本框 89",
+      "type": "text",
+      "group_path": [],
+      "source_text": "具备扎实的运营知识和技能，在运营策略制定、\n数据分析等方面有丰富的经验和熟练的操作能力",
+      "source_sample_chars": 43,
+      "max_chars": 64,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        181029,
+        2444138,
+        3095319,
+        387286
+      ]
+    },
+    {
+      "field": "text_91",
+      "shape_id": 91,
+      "shape_name": "文本框 90",
+      "type": "text",
+      "group_path": [],
+      "source_text": "沟通能力",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1111055,
+        3079263,
+        2017370,
+        307777
+      ]
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "文本框 91",
+      "type": "text",
+      "group_path": [],
+      "source_text": "能够有效地与领导和客户进行沟通\n确保信息的准确传递和问题的及时解决",
+      "source_sample_chars": 33,
+      "max_chars": 49,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        757939,
+        3398257,
+        2357031,
+        387286
+      ]
+    },
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "文本框 92",
+      "type": "text",
+      "group_path": [],
+      "source_text": "团队合作",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1111055,
+        4020682,
+        2017370,
+        307777
+      ]
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "group_path": [],
+      "source_text": "熟悉业务流程，执行力强，在跨部门协作中表现出色，能够推动项目顺利进行",
+      "source_sample_chars": 34,
+      "max_chars": 51,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        757939,
+        4352376,
+        2357031,
+        387286
+      ]
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "文本框 94",
+      "type": "text",
+      "group_path": [],
+      "source_text": "创新思维",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1252255,
+        4981150,
+        2017370,
+        307777
+      ]
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "group_path": [],
+      "source_text": "在运营活动中，能够提出新颖的创意和\n解决方案提升用户体验和业务效果",
+      "source_sample_chars": 33,
+      "max_chars": 49,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        340533,
+        5306494,
+        2935815,
+        387286
+      ]
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "group_path": [],
+      "source_text": "跨领域知识不足",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8949270,
+        2118420,
+        2206220,
+        307777
+      ]
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "文本框 97",
+      "type": "text",
+      "group_path": [],
+      "source_text": "在面对涉及多领域的复杂项目时，\n可能会因缺乏某些特定领域的知识而遇到瓶颈",
+      "source_sample_chars": 36,
+      "max_chars": 54,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8949272,
+        2444138,
+        3095319,
+        387286
+      ]
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "文本框 98",
+      "type": "text",
+      "group_path": [],
+      "source_text": "决策能力待提升",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9077029,
+        3079263,
+        1990960,
+        307777
+      ]
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "group_path": [],
+      "source_text": "在处理紧急或复杂问题时，有时会犹豫不决，需要进一步提高决策速度和准确性",
+      "source_sample_chars": 35,
+      "max_chars": 52,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9077029,
+        3398257,
+        2447895,
+        387286
+      ]
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "group_path": [],
+      "source_text": "社交能力欠佳",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9077028,
+        4020682,
+        1879789,
+        307777
+      ]
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "type": "text",
+      "group_path": [],
+      "source_text": "在与陌生人建立关系时，可能会显得\n不够主动或自然，影响人脉资源的拓展",
+      "source_sample_chars": 34,
+      "max_chars": 51,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9077030,
+        4352376,
+        2357031,
+        387286
+      ]
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "type": "text",
+      "group_path": [],
+      "source_text": "在带领团队或主导项目时，可能缺乏足够的\n领导力和管理经验，需要进一步积累",
+      "source_sample_chars": 36,
+      "max_chars": 54,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8949272,
+        5306494,
+        3095319,
+        387286
+      ]
+    },
+    {
+      "field": "text_104",
+      "shape_id": 104,
+      "shape_name": "文本框 103",
+      "type": "text",
+      "group_path": [],
+      "source_text": "缺少领导经验",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8949271,
+        4981150,
+        1879789,
+        307777
+      ]
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "椭圆 77",
+      "type": "text",
+      "group_path": [
+        124
+      ],
+      "source_text": "优势",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3888268,
+        3366963,
+        1102217,
+        1102214
+      ]
+    },
+    {
+      "field": "text_132",
+      "shape_id": 132,
+      "shape_name": "椭圆 131",
+      "type": "text",
+      "group_path": [
+        131
+      ],
+      "source_text": "劣势",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3888268,
+        3366963,
+        1102217,
+        1102214
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 24,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          19,
+          20
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 63,
+        "shape_name": "图片 62",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          19,
+          20
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

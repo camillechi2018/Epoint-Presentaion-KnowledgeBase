@@ -1,0 +1,389 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "group_path": [
+        2,
+        4
+      ],
+      "source_text": "循环经济机制",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815442,
+        416934,
+        8561118,
+        430887
+      ]
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "矩形 5",
+      "type": "text",
+      "group_path": [
+        2,
+        4
+      ],
+      "source_text": "以减少、复用、回收、再制造四个环节呈现可持续循环路径",
+      "source_sample_chars": 26,
+      "max_chars": 39,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ]
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "TextBox 350",
+      "type": "text",
+      "group_path": [
+        201
+      ],
+      "source_text": "设计阶段管理",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1145157,
+        1652571,
+        2135150,
+        369332
+      ]
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "TextBox 350",
+      "type": "text",
+      "group_path": [
+        201
+      ],
+      "source_text": "EDA工具链集成：支持主流EDA工具（如Cadence、Synopsys、Mentor）的数据交互，实现RTL设计、仿真验证和物理设计的协同管理。\n\nIP核管理：提供第三方IP库的版本控制、授权跟踪和合规性检查，避免供应链风险。",
+      "source_sample_chars": 114,
+      "max_chars": 171,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1372402,
+        1993285,
+        1680661,
+        1680973
+      ]
+    },
+    {
+      "field": "text_192",
+      "shape_id": 192,
+      "shape_name": "TextBox 350",
+      "type": "text",
+      "group_path": [
+        202
+      ],
+      "source_text": "芯片部署与运维",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5028425,
+        1311243,
+        2135150,
+        369332
+      ]
+    },
+    {
+      "field": "text_193",
+      "shape_id": 193,
+      "shape_name": "TextBox 350",
+      "type": "text",
+      "group_path": [
+        202
+      ],
+      "source_text": "设备绑定与激活：记录每颗芯片的出厂ID、部署位置（如服务器、汽车ECU），防止窜货与伪造。\n\n远程监控：通过OTA（空中升级）收集芯片运行状态（温度、功耗、错误日志），实现预测性维护。",
+      "source_sample_chars": 92,
+      "max_chars": 138,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5255670,
+        1669353,
+        1680661,
+        1680973
+      ]
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "TextBox 350",
+      "type": "text",
+      "group_path": [
+        198
+      ],
+      "source_text": "制造与测试管理",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2517505,
+        1495139,
+        2135150,
+        369332
+      ]
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "TextBox 350",
+      "type": "text",
+      "group_path": [
+        198
+      ],
+      "source_text": "晶圆追踪（Wafer Tracking）：通过RFID或二维码记录每片晶圆的制造数据（如工艺参数、良率），支持缺陷定位与根因分析。\n\n测试自动化：对接ATE（自动测试设备），管理测试向量、Bin分类及失效分析（FA）数据。",
+      "source_sample_chars": 111,
+      "max_chars": 166,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2719525,
+        1849345,
+        1798207,
+        1514774
+      ]
+    },
+    {
+      "field": "text_195",
+      "shape_id": 195,
+      "shape_name": "TextBox 350",
+      "type": "text",
+      "group_path": [
+        197
+      ],
+      "source_text": "退役与回收管理",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6378759,
+        1495139,
+        2135150,
+        369332
+      ]
+    },
+    {
+      "field": "text_196",
+      "shape_id": 196,
+      "shape_name": "TextBox 350",
+      "type": "text",
+      "group_path": [
+        197
+      ],
+      "source_text": "生命周期终止（EOL）预测：基于历史数据评估芯片剩余寿命，规划迭代或替换。\n\n环保合规：跟踪有害物质（如铅、镉）含量，确保符合RoHS/WEEE标准。",
+      "source_sample_chars": 75,
+      "max_chars": 112,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6606004,
+        1849345,
+        1680661,
+        1348574
+      ]
+    },
+    {
+      "field": "text_204",
+      "shape_id": 204,
+      "shape_name": "TextBox 350",
+      "type": "text",
+      "group_path": [
+        203
+      ],
+      "source_text": "平台核心技术",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1145157,
+        1652571,
+        2135150,
+        369332
+      ]
+    },
+    {
+      "field": "text_205",
+      "shape_id": 205,
+      "shape_name": "TextBox 350",
+      "type": "text",
+      "group_path": [
+        203
+      ],
+      "source_text": "数字孪生（Digital Twin）：构建芯片虚拟模型，模拟实际运行环境。\n\n区块链存证：关键数据（如测试报告、授权记录）上链，确保不可篡改。",
+      "source_sample_chars": 71,
+      "max_chars": 106,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1372402,
+        1993285,
+        1680661,
+        1348574
+      ]
+    },
+    {
+      "field": "text_364",
+      "shape_id": 364,
+      "shape_name": "文本框 363",
+      "type": "text",
+      "group_path": [],
+      "source_text": "循环机制",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5311930,
+        4671461,
+        1568142,
+        369332
+      ]
+    },
+    {
+      "field": "text_368",
+      "shape_id": 368,
+      "shape_name": "文本框 367",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Reduce\n减少",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1663701,
+        5424904,
+        2028404,
+        559127
+      ]
+    },
+    {
+      "field": "text_369",
+      "shape_id": 369,
+      "shape_name": "文本框 368",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Reuse\n复用",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3942433,
+        5706866,
+        2028404,
+        559127
+      ]
+    },
+    {
+      "field": "text_370",
+      "shape_id": 370,
+      "shape_name": "文本框 369",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Recycle\n回收",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6221165,
+        5706866,
+        2028404,
+        559127
+      ]
+    },
+    {
+      "field": "text_371",
+      "shape_id": 371,
+      "shape_name": "文本框 370",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Remanufacture \n再制造",
+      "source_sample_chars": 18,
+      "max_chars": 27,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8499897,
+        5424904,
+        2028404,
+        559127
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          2,
+          3
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 10,
+        "shape_name": "图片 9",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          2,
+          3
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 19,
+        "shape_name": "图片 18",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

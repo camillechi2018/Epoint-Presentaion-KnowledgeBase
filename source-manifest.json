@@ -15,6 +15,12 @@
       "filename": "20页封面（比例16-9）.pptx",
       "sha256": "598b334f9c13fd70ab9b2a202c4251ed67d326808460b468ea713f40c581bc7f",
       "page_count": 20
+    },
+    "tech": {
+      "filename": "03深蓝-科技风.pptx",
+      "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564",
+      "page_count": 85,
+      "style_family": "deep-blue-tech"
     }
   },
   "exact_top_level_pairs": 287,

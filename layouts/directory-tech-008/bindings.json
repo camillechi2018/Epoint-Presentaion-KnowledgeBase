@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "group_path": [],
+      "source_text": "可以在这里输入章节标题",
+      "source_sample_chars": 11,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6651984,
+        827551,
+        3544354,
+        448738
+      ]
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "group_path": [],
+      "source_text": "YOU CAN ENTER TITLE NOUNS HERE",
+      "source_sample_chars": 30,
+      "max_chars": 45,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6664494,
+        1269253,
+        3693640,
+        253916
+      ]
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "group_path": [],
+      "source_text": "可以在这里输入章节标题",
+      "source_sample_chars": 11,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6005741,
+        1964475,
+        3544354,
+        448738
+      ]
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "group_path": [],
+      "source_text": "YOU CAN ENTER TITLE NOUNS HERE",
+      "source_sample_chars": 30,
+      "max_chars": 45,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6018251,
+        2406177,
+        3693640,
+        253916
+      ]
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "group_path": [],
+      "source_text": "可以在这里输入章节标题",
+      "source_sample_chars": 11,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5824435,
+        3101399,
+        3544354,
+        448738
+      ]
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "group_path": [],
+      "source_text": "YOU CAN ENTER TITLE NOUNS HERE",
+      "source_sample_chars": 30,
+      "max_chars": 45,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5836945,
+        3543101,
+        3693640,
+        253916
+      ]
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "group_path": [],
+      "source_text": "可以在这里输入章节标题",
+      "source_sample_chars": 11,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6005741,
+        4238323,
+        3544354,
+        448738
+      ]
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "group_path": [],
+      "source_text": "YOU CAN ENTER TITLE NOUNS HERE",
+      "source_sample_chars": 30,
+      "max_chars": 45,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6018251,
+        4680025,
+        3693640,
+        253916
+      ]
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "group_path": [],
+      "source_text": "可以在这里输入章节标题",
+      "source_sample_chars": 11,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6651984,
+        5375247,
+        3544354,
+        448738
+      ]
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "group_path": [],
+      "source_text": "YOU CAN ENTER TITLE NOUNS HERE",
+      "source_sample_chars": 30,
+      "max_chars": 45,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6664494,
+        5816949,
+        3693640,
+        253916
+      ]
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "group_path": [],
+      "source_text": "CONTENTS",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1621503,
+        3667720,
+        1544334,
+        347852
+      ]
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "group_path": [],
+      "source_text": "目录",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1548001,
+        2640878,
+        1678636,
+        993207
+      ]
+    },
+    {
+      "field": "text_124",
+      "shape_id": 124,
+      "shape_name": "椭圆 123",
+      "type": "text",
+      "group_path": [
+        136
+      ],
+      "source_text": "01",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5087063,
+        833012,
+        608964,
+        608963
+      ]
+    },
+    {
+      "field": "text_138",
+      "shape_id": 138,
+      "shape_name": "椭圆 137",
+      "type": "text",
+      "group_path": [
+        137
+      ],
+      "source_text": "02",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5087063,
+        833012,
+        608964,
+        608963
+      ]
+    },
+    {
+      "field": "text_151",
+      "shape_id": 151,
+      "shape_name": "椭圆 150",
+      "type": "text",
+      "group_path": [
+        150
+      ],
+      "source_text": "03",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5087063,
+        833012,
+        608964,
+        608963
+      ]
+    },
+    {
+      "field": "text_164",
+      "shape_id": 164,
+      "shape_name": "椭圆 163",
+      "type": "text",
+      "group_path": [
+        163
+      ],
+      "source_text": "04",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5087063,
+        833012,
+        608964,
+        608963
+      ]
+    },
+    {
+      "field": "text_177",
+      "shape_id": 177,
+      "shape_name": "椭圆 176",
+      "type": "text",
+      "group_path": [
+        176
+      ],
+      "source_text": "05",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5087063,
+        833012,
+        608964,
+        608963
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

@@ -1,0 +1,323 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "group_path": [
+        2
+      ],
+      "source_text": "团队文化核心要素",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "Freeform 5",
+      "type": "text",
+      "group_path": [],
+      "source_text": "沟通",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2088995,
+        4181024,
+        1402708,
+        1363715
+      ]
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "Freeform 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "发展",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2088995,
+        2862524,
+        1402708,
+        1318765
+      ]
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "Freeform 7",
+      "type": "text",
+      "group_path": [],
+      "source_text": "创造",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2088995,
+        1795988,
+        1402708,
+        1329622
+      ]
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "group_path": [
+        55
+      ],
+      "source_text": "||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+      "source_sample_chars": 80,
+      "max_chars": 120,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6175142,
+        8186490,
+        677113,
+        677112
+      ]
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "椭圆 53",
+      "type": "text",
+      "group_path": [
+        55
+      ],
+      "source_text": "产品",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6211308,
+        8222781,
+        604782,
+        604778
+      ]
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "TextBox 46",
+      "type": "text",
+      "group_path": [],
+      "source_text": "从0到1的突破，从1到N的迭代，每一次向前一步，都源自于我们敢于质疑、敢于试错的决心。",
+      "source_sample_chars": 43,
+      "max_chars": 64,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6730261,
+        1904343,
+        4014840,
+        504497
+      ]
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "TextBox 47",
+      "type": "text",
+      "group_path": [],
+      "source_text": "在一次次真诚的对谈中，消除壁垒，达成共识，\n让个体的微光汇聚成团队的烈焰。",
+      "source_sample_chars": 37,
+      "max_chars": 55,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6730260,
+        3254141,
+        4014840,
+        504497
+      ]
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "TextBox 48",
+      "type": "text",
+      "group_path": [],
+      "source_text": "在一次次真诚的对谈中，消除壁垒，达成共识，\n让个体的微光汇聚成团队的烈焰。",
+      "source_sample_chars": 37,
+      "max_chars": 55,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6746291,
+        4612247,
+        4014840,
+        504497
+      ]
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "group_path": [
+        56
+      ],
+      "source_text": "||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+      "source_sample_chars": 80,
+      "max_chars": 120,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6175142,
+        8186490,
+        677113,
+        677112
+      ]
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "椭圆 58",
+      "type": "text",
+      "group_path": [
+        56
+      ],
+      "source_text": "进度",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6211308,
+        8222779,
+        604782,
+        604778
+      ]
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "group_path": [
+        64
+      ],
+      "source_text": "||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+      "source_sample_chars": 80,
+      "max_chars": 120,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6175143,
+        8186488,
+        677113,
+        677112
+      ]
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "椭圆 65",
+      "type": "text",
+      "group_path": [
+        64
+      ],
+      "source_text": "内容",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6211310,
+        8222779,
+        604782,
+        604778
+      ]
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "矩形 7",
+      "type": "text",
+      "group_path": [],
+      "source_text": "从创造、发展与沟通三个关键词表达团队和企业文化内核",
+      "source_sample_chars": 25,
+      "max_chars": 37,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          2,
+          4
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 10,
+        "shape_name": "图片 9",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          2,
+          4
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 18,
+        "shape_name": "图片 17",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

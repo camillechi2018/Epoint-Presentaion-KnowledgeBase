@@ -1,0 +1,21 @@
+{
+  "source_page": 5,
+  "layers": [
+    {
+      "shape_id": 50,
+      "source_group_path": [],
+      "z_order_recursive": 0,
+      "image": "cover-assets/tech/P005-layer01.jpg",
+      "sha256": "89b04c60fb7cf4cbecc2066f448fc4c0efca4c9b6373c1404e9141a0bda80736",
+      "bounds_emu_local": [
+        0,
+        0,
+        12192000,
+        6858000
+      ],
+      "full_bleed": true
+    }
+  ],
+  "source_logo_shape_id": 3,
+  "status": "visual_review_required"
+}

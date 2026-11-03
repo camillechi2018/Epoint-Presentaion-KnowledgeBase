@@ -1,0 +1,199 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_121",
+      "shape_id": 121,
+      "shape_name": "TextBox 19",
+      "type": "text",
+      "group_path": [
+        157
+      ],
+      "source_text": "资源协同\n与火力全开",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5172073,
+        2264329,
+        1847852,
+        726161
+      ]
+    },
+    {
+      "field": "text_122",
+      "shape_id": 122,
+      "shape_name": "TextBox 18",
+      "type": "text",
+      "group_path": [
+        157
+      ],
+      "source_text": "实时监控\n与快速迭代",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5172073,
+        3548546,
+        1847852,
+        726161
+      ]
+    },
+    {
+      "field": "text_120",
+      "shape_id": 120,
+      "shape_name": "TextBox 17",
+      "type": "text",
+      "group_path": [
+        157
+      ],
+      "source_text": "目标拆解\n与责任锁定",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5172073,
+        4971222,
+        1847852,
+        726161
+      ]
+    },
+    {
+      "field": "text_128",
+      "shape_id": 128,
+      "shape_name": "文本框 127",
+      "type": "text",
+      "group_path": [
+        125,
+        127
+      ],
+      "source_text": "目标落地机制",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_129",
+      "shape_id": 129,
+      "shape_name": "矩形 128",
+      "type": "text",
+      "group_path": [
+        125,
+        127
+      ],
+      "source_text": "通过目标拆解、资源协同与实时迭代保障业务执行落地",
+      "source_sample_chars": 24,
+      "max_chars": 36,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ]
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "矩形 111",
+      "type": "text",
+      "group_path": [
+        166
+      ],
+      "source_text": "配套\n制度保障",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1322009,
+        3110816,
+        1899614,
+        1036920
+      ]
+    },
+    {
+      "field": "text_169",
+      "shape_id": 169,
+      "shape_name": "矩形 168",
+      "type": "text",
+      "group_path": [
+        167
+      ],
+      "source_text": "资源\n绿色通道",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1322009,
+        3110816,
+        1899614,
+        1036920
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 130,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          125,
+          126
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 133,
+        "shape_name": "图片 132",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          125,
+          126
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

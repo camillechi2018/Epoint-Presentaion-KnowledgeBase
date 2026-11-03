@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "矩形: 剪去对角 11",
+      "type": "text",
+      "group_path": [],
+      "source_text": "使用Trello、Jira等工具，清晰跟踪任务进度。这些工具可以帮助团队\n更好地分配任务、设置截止日期，并实时监控项目进展。\n项目管理工具和文档协作工具的结合，可以让团队工作更加透明化",
+      "source_sample_chars": 92,
+      "max_chars": 138,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        664046,
+        4259929,
+        5162144,
+        1729190
+      ]
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "矩形: 剪去对角 72",
+      "type": "text",
+      "group_path": [],
+      "source_text": "通过Notion、飞书等工具，实现团队高效协作。多人同时编辑、\n评论和分享文档，减少沟通成本，提升工作效率。\n选择适合的工具，能够帮助员工更好地管理任务、沟通协作",
+      "source_sample_chars": 81,
+      "max_chars": 121,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6365810,
+        4259929,
+        5162144,
+        1729190
+      ]
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "矩形 42",
+      "type": "text",
+      "group_path": [],
+      "source_text": "压力识别",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1315551,
+        2510546,
+        2084634,
+        400111
+      ]
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "group_path": [],
+      "source_text": "分析工作中的压力来源，\n通过自我反思和记录",
+      "source_sample_chars": 21,
+      "max_chars": 31,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        830176,
+        2860472,
+        3055377,
+        444353
+      ]
+    },
+    {
+      "field": "text_157",
+      "shape_id": 157,
+      "shape_name": "矩形 156",
+      "type": "text",
+      "group_path": [],
+      "source_text": "情绪调节",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8791818,
+        2510546,
+        2084634,
+        400111
+      ]
+    },
+    {
+      "field": "text_158",
+      "shape_id": 158,
+      "shape_name": "文本框 157",
+      "type": "text",
+      "group_path": [],
+      "source_text": "深呼吸与冥想：通过深呼吸和冥想练习，\n缓解紧张情绪，恢复心理平衡。",
+      "source_sample_chars": 33,
+      "max_chars": 49,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8306443,
+        2860472,
+        3055377,
+        444353
+      ]
+    },
+    {
+      "field": "text_176",
+      "shape_id": 176,
+      "shape_name": "矩形 175",
+      "type": "text",
+      "group_path": [],
+      "source_text": "压力缓解",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5053684,
+        2510546,
+        2084634,
+        400111
+      ]
+    },
+    {
+      "field": "text_177",
+      "shape_id": 177,
+      "shape_name": "文本框 176",
+      "type": "text",
+      "group_path": [],
+      "source_text": "适当的压力缓解技巧能够\n帮助员工恢复精力，提升工作效率",
+      "source_sample_chars": 27,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4568309,
+        2860472,
+        3055377,
+        444353
+      ]
+    },
+    {
+      "field": "text_212",
+      "shape_id": 212,
+      "shape_name": "矩形 211",
+      "type": "text",
+      "group_path": [
+        210
+      ],
+      "source_text": "文档协作工具",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4312673,
+        3569992,
+        3484015,
+        276999
+      ]
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "group_path": [
+        45,
+        47
+      ],
+      "source_text": "团队运营支持体系",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "矩形 48",
+      "type": "text",
+      "group_path": [
+        45,
+        47
+      ],
+      "source_text": "整合任务工具、文档协作、压力管理与情绪调节提升团队运行效率",
+      "source_sample_chars": 29,
+      "max_chars": 43,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ]
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "矩形 71",
+      "type": "text",
+      "group_path": [
+        70
+      ],
+      "source_text": "项目管理工具",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4312673,
+        3569992,
+        3484015,
+        276999
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 50,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          45,
+          46
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 53,
+        "shape_name": "图片 52",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          45,
+          46
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

@@ -1,0 +1,66 @@
+{
+  "source_page": 3,
+  "recursive_shapes": [
+    {
+      "shape_id": 8,
+      "shape_name": "图片 7",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        0,
+        0,
+        12192000,
+        6858000
+      ],
+      "image_sha256": "83b935fc33651388ca4216843f13158fa6d3d1149b3f681dffb452002ab4f252",
+      "semantic_role": "cover_visual_layer"
+    },
+    {
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        238125,
+        1558288,
+        11715750,
+        1200329
+      ],
+      "text_preview": "数字系统解决方案",
+      "typography_role": "chinese_display"
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        3203140,
+        2841599,
+        5785718,
+        484133
+      ],
+      "text_preview": "助力产业创新  精选百款产品",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 16,
+      "shape_name": "图片 15",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        10955020,
+        178435,
+        893445,
+        191770
+      ],
+      "image_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_role": "brand_logo_locked"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

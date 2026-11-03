@@ -1,0 +1,233 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "留存率",
+      "source_sample_chars": 3,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8424334,
+        2211463,
+        1846717,
+        427118
+      ]
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "group_path": [],
+      "source_text": "34.6%",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8424334,
+        1649113,
+        1846717,
+        685300
+      ]
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "group_path": [],
+      "source_text": "付费率",
+      "source_sample_chars": 3,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8424334,
+        3815408,
+        1846717,
+        427118
+      ]
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "group_path": [],
+      "source_text": "25.6%",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8424334,
+        3198209,
+        1846717,
+        685300
+      ]
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "group_path": [],
+      "source_text": "主线完成度",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8424334,
+        5364489,
+        1846717,
+        427118
+      ]
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "group_path": [],
+      "source_text": "54.9%",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8424334,
+        4747288,
+        1846717,
+        685300
+      ]
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "group_path": [
+        45
+      ],
+      "source_text": "销售目标完成概览",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "group_path": [
+        86
+      ],
+      "source_text": "销售目标",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6413025,
+        1762892,
+        1100534,
+        400110
+      ]
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "group_path": [
+        92
+      ],
+      "source_text": "重点变化",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6452994,
+        1762892,
+        1020595,
+        400110
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 22,
+        "shape_name": "图表 21",
+        "group_path": [],
+        "categories_max": 12,
+        "series_max": 5
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 50,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          45,
+          46
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 53,
+        "shape_name": "图片 52",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          45,
+          46
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

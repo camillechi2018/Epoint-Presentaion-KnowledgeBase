@@ -1,0 +1,214 @@
+{
+  "source_page": 12,
+  "recursive_shapes": [
+    {
+      "shape_id": 2,
+      "shape_name": "组合 1",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        -5763430,
+        -1853009,
+        10564030,
+        10564018
+      ]
+    },
+    {
+      "shape_id": 4,
+      "shape_name": "弧形 3",
+      "shape_type": 1,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        860916,
+        2097619,
+        2225103,
+        2225102
+      ]
+    },
+    {
+      "shape_id": 5,
+      "shape_name": "弧形 4",
+      "shape_type": 1,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        860917,
+        2097617,
+        2225101,
+        2225104
+      ]
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "椭圆 5",
+      "shape_type": 1,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        1120944,
+        2357648,
+        1705044,
+        1705046
+      ]
+    },
+    {
+      "shape_id": 7,
+      "shape_name": "弧形 6",
+      "shape_type": 1,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        1029579,
+        2266282,
+        1887777,
+        1887778
+      ]
+    },
+    {
+      "shape_id": 8,
+      "shape_name": "弧形 7",
+      "shape_type": 1,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        950769,
+        2187472,
+        2045397,
+        2045397
+      ]
+    },
+    {
+      "shape_id": 12,
+      "shape_name": "组合 11",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        964818,
+        2202408,
+        1928733,
+        2262684
+      ]
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "shape_type": 17,
+      "group_path": [
+        12
+      ],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        1573662,
+        2203201,
+        936475,
+        1862048
+      ],
+      "text_preview": "1",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "shape_type": 17,
+      "group_path": [
+        12
+      ],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        1172784,
+        3942665,
+        1928733,
+        523220
+      ],
+      "text_preview": "第一部分",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 17,
+      "shape_name": "组合 16",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        5686779,
+        2622281,
+        5973110,
+        1462466
+      ]
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "shape_type": 17,
+      "group_path": [
+        17
+      ],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        5886804,
+        2767017,
+        4924071,
+        923330
+      ],
+      "text_preview": "AI赋能网络",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "shape_type": 17,
+      "group_path": [
+        17
+      ],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        5886804,
+        3767818,
+        5973110,
+        461665
+      ],
+      "text_preview": "智能流量调度（如AIOps）、安全威胁预测",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 20,
+      "shape_name": "图形 18",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        -701356,
+        4560106,
+        11659493,
+        4986066
+      ]
+    },
+    {
+      "shape_id": 21,
+      "shape_name": "图形 18",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        -701356,
+        -2765879,
+        11659493,
+        4986066
+      ]
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

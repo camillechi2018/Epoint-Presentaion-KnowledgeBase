@@ -1,0 +1,221 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "group_path": [
+        69
+      ],
+      "source_text": "技术中台应用案例",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "group_path": [],
+      "source_text": "技术中心研发的物联网与AI模型为西北农场部署气候监测与自动灌溉系统。实现节水35%、作物增产20%，带动周边5000亩农田标准化生产",
+      "source_sample_chars": 66,
+      "max_chars": 99,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1756229,
+        2093896,
+        3456992,
+        797206
+      ]
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "group_path": [],
+      "source_text": "智慧农业中心",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1912200,
+        1552412,
+        2950183,
+        494238
+      ]
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "group_path": [],
+      "source_text": "通过可穿戴设备与AI健康算法，为城市社区提供个性化慢病监测服务，异常情况实时提醒家庭医生，试点区域急诊率降低25%",
+      "source_sample_chars": 57,
+      "max_chars": 85,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8575017,
+        3936125,
+        3083797,
+        797206
+      ]
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "社区慢病管理助手",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8913156,
+        3400960,
+        2721456,
+        494238
+      ]
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "group_path": [],
+      "source_text": "基于工业互联网架构，为装备制造企业搭建预测性维护平台，实时分析设备数据，故障预警准确率达90%，维护成本下降40%",
+      "source_sample_chars": 57,
+      "max_chars": 85,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        485838,
+        4669550,
+        3166494,
+        797206
+      ]
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "group_path": [],
+      "source_text": "工业智能诊断平台",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        585963,
+        4134385,
+        2754300,
+        494238
+      ]
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "group_path": [],
+      "source_text": "技术\n中台",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5254629,
+        3784174,
+        1682742,
+        1107996
+      ]
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "矩形 3",
+      "type": "text",
+      "group_path": [],
+      "source_text": "以智慧农业、慢病管理、工业诊断三类案例说明技术中台落地价值",
+      "source_sample_chars": 29,
+      "max_chars": 43,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 74,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          69,
+          70
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 77,
+        "shape_name": "图片 76",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          69,
+          70
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

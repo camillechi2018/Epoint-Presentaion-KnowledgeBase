@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "group_path": [],
+      "source_text": "边缘计算",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2925900,
+        2292127,
+        6340197,
+        1938992
+      ]
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "group_path": [],
+      "source_text": "降低延迟（如自动驾驶、AR/VR）",
+      "source_sample_chars": 17,
+      "max_chars": 25,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4273224,
+        4284208,
+        3645550,
+        369332
+      ]
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "group_path": [
+        14
+      ],
+      "source_text": "Part 01",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5002530,
+        1650547,
+        2186940,
+        476071
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

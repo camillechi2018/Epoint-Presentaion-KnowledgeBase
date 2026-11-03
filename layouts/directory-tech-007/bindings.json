@@ -1,0 +1,317 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "group_path": [],
+      "source_text": "01",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5076825,
+        955664,
+        1087420,
+        646331
+      ]
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "TextBox 76",
+      "type": "text",
+      "group_path": [],
+      "source_text": "目录",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        555609,
+        2889811,
+        1702682,
+        460375
+      ]
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "矩形 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "CONTENTS",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9359334,
+        2982144,
+        2172970,
+        521970
+      ]
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "TextBox 76",
+      "type": "text",
+      "group_path": [],
+      "source_text": "岗位工作概述",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6402886,
+        955665,
+        2108269,
+        461665
+      ]
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "TextBox 76",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Job description",
+      "source_sample_chars": 15,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6402169,
+        1384925,
+        1117614,
+        246221
+      ]
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "TextBox 76",
+      "type": "text",
+      "group_path": [],
+      "source_text": "工作完成情况",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5817036,
+        2023463,
+        2108269,
+        461665
+      ]
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "TextBox 76",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Work completion",
+      "source_sample_chars": 15,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5817036,
+        2452723,
+        1228221,
+        246221
+      ]
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "TextBox 76",
+      "type": "text",
+      "group_path": [],
+      "source_text": "成功案例展示",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5207059,
+        3091261,
+        2108269,
+        461665
+      ]
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "TextBox 76",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Successful case presentation",
+      "source_sample_chars": 28,
+      "max_chars": 42,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5207059,
+        3520521,
+        1983235,
+        246221
+      ]
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "TextBox 76",
+      "type": "text",
+      "group_path": [],
+      "source_text": "经验不足分享",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4637562,
+        4159059,
+        2108269,
+        461665
+      ]
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "TextBox 76",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Experience sharing",
+      "source_sample_chars": 18,
+      "max_chars": 27,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4637561,
+        4588319,
+        1353256,
+        246221
+      ]
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "TextBox 76",
+      "type": "text",
+      "group_path": [],
+      "source_text": "未来岗位规划",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4018219,
+        5226856,
+        2108269,
+        461665
+      ]
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "TextBox 76",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Future job planning",
+      "source_sample_chars": 19,
+      "max_chars": 28,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4018219,
+        5656116,
+        1380506,
+        246221
+      ]
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "group_path": [],
+      "source_text": "05",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2795969,
+        5226855,
+        1087420,
+        646331
+      ]
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "group_path": [],
+      "source_text": "04",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3376122,
+        4159058,
+        1087420,
+        646331
+      ]
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "group_path": [],
+      "source_text": "03",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3984809,
+        3091260,
+        1087420,
+        646331
+      ]
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "group_path": [],
+      "source_text": "02",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4568659,
+        2023462,
+        1087420,
+        646331
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

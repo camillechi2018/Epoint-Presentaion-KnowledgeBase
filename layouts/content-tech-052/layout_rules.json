@@ -1,0 +1,8 @@
+{
+  "cardinality_mode": "fixed_until_validated",
+  "supported_counts": [],
+  "source_count": null,
+  "candidate_counts": [],
+  "reflow_status": "not_implemented",
+  "grouping_status": "provisional_requires_manual_object_review"
+}

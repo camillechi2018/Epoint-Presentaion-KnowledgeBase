@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "group_path": [],
+      "source_text": "业务发展",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6138726,
+        3694276,
+        5349875,
+        1107996
+      ]
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Business Development",
+      "source_sample_chars": 20,
+      "max_chars": 30,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6123486,
+        1922924,
+        6258560,
+        1754326
+      ]
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "group_path": [],
+      "source_text": "1",
+      "source_sample_chars": 1,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2137767,
+        1418696,
+        2441694,
+        5386090
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

@@ -1,0 +1,321 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "group_path": [
+        105
+      ],
+      "source_text": "远程工作优势",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        999433,
+        1757551,
+        2762245,
+        369332
+      ]
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "group_path": [
+        105
+      ],
+      "source_text": "探讨远程工作在提高工作效率、降低成本与增强员工满意度方面的优势\n分享远程工作的成功案例，激发团队对远程工作的兴趣与信心",
+      "source_sample_chars": 59,
+      "max_chars": 88,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        868481,
+        2287624,
+        4654417,
+        797206
+      ]
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "group_path": [
+        105
+      ],
+      "source_text": "01",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4713863,
+        3172974,
+        1057884,
+        430887
+      ]
+    },
+    {
+      "field": "text_130",
+      "shape_id": 130,
+      "shape_name": "文本框 129",
+      "type": "text",
+      "group_path": [],
+      "source_text": "数字化办公安全",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6718856,
+        4144277,
+        2762245,
+        369332
+      ]
+    },
+    {
+      "field": "text_131",
+      "shape_id": 131,
+      "shape_name": "文本框 130",
+      "type": "text",
+      "group_path": [],
+      "source_text": "强调数据安全的重要性，介绍数据加密、备份与恢复等安全措施\n分享数据安全事件案例，提高团队成员的安全意识与防范能力",
+      "source_sample_chars": 56,
+      "max_chars": 84,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6587904,
+        4674350,
+        4654417,
+        557140
+      ]
+    },
+    {
+      "field": "text_132",
+      "shape_id": 132,
+      "shape_name": "文本框 131",
+      "type": "text",
+      "group_path": [],
+      "source_text": "04",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        10433286,
+        5559700,
+        1057884,
+        430887
+      ]
+    },
+    {
+      "field": "text_144",
+      "shape_id": 144,
+      "shape_name": "文本框 143",
+      "type": "text",
+      "group_path": [],
+      "source_text": "远程工作挑战与应对",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6718856,
+        1757551,
+        2762245,
+        369332
+      ]
+    },
+    {
+      "field": "text_145",
+      "shape_id": 145,
+      "shape_name": "文本框 144",
+      "type": "text",
+      "group_path": [],
+      "source_text": "分析远程工作中可能遇到的沟通障碍、团队协作与自律性等问题\n提出应对策略，如建立明确的沟通机制、设定工作目标与时间管理等",
+      "source_sample_chars": 59,
+      "max_chars": 88,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6587904,
+        2287624,
+        4654417,
+        797206
+      ]
+    },
+    {
+      "field": "text_146",
+      "shape_id": 146,
+      "shape_name": "文本框 145",
+      "type": "text",
+      "group_path": [],
+      "source_text": "02",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        10433286,
+        3172974,
+        1057884,
+        430887
+      ]
+    },
+    {
+      "field": "text_159",
+      "shape_id": 159,
+      "shape_name": "文本框 158",
+      "type": "text",
+      "group_path": [],
+      "source_text": "远程工作工具推荐",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1007777,
+        4144277,
+        2762245,
+        369332
+      ]
+    },
+    {
+      "field": "text_160",
+      "shape_id": 160,
+      "shape_name": "文本框 159",
+      "type": "text",
+      "group_path": [],
+      "source_text": "推荐适合远程工作的工具，如视频会议软件、在线白板、时间管理工具等\n分享工具使用技巧与心得，帮助团队成员更好地适应远程工作模式",
+      "source_sample_chars": 62,
+      "max_chars": 93,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        876824,
+        4674350,
+        4803355,
+        797206
+      ]
+    },
+    {
+      "field": "text_161",
+      "shape_id": 161,
+      "shape_name": "文本框 160",
+      "type": "text",
+      "group_path": [],
+      "source_text": "03",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4722207,
+        5559700,
+        1057884,
+        430887
+      ]
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "group_path": [
+        2,
+        4
+      ],
+      "source_text": "远程办公实践指南",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "矩形 6",
+      "type": "text",
+      "group_path": [
+        2,
+        4
+      ],
+      "source_text": "从优势、挑战、工具与安全四个维度搭建远程工作机制",
+      "source_sample_chars": 24,
+      "max_chars": 36,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 8,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          2,
+          3
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 13,
+        "shape_name": "图片 12",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          2,
+          3
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

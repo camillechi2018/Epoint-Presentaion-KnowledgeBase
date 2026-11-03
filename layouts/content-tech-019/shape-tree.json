@@ -1,0 +1,579 @@
+{
+  "source_page": 19,
+  "recursive_shapes": [
+    {
+      "shape_id": 61,
+      "shape_name": "任意多边形: 形状 60",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        0,
+        -1,
+        12192000,
+        8978574
+      ]
+    },
+    {
+      "shape_id": 20,
+      "shape_name": "圆角矩形 57",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        3580965,
+        1925156,
+        5030070,
+        2656408
+      ]
+    },
+    {
+      "shape_id": 29,
+      "shape_name": "等腰三角形 28",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        1864591,
+        928489,
+        8462818,
+        4386225
+      ]
+    },
+    {
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        4420573,
+        1881260,
+        3350856,
+        1389342
+      ],
+      "text_preview": "占位用户心智Occupancy \nuser mindset",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 31,
+      "shape_name": "菱形 30",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        2843449,
+        1957034,
+        196614,
+        196614
+      ]
+    },
+    {
+      "shape_id": 32,
+      "shape_name": "菱形 31",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        4420571,
+        3586721,
+        196614,
+        196614
+      ]
+    },
+    {
+      "shape_id": 33,
+      "shape_name": "菱形 32",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        5997693,
+        5216407,
+        196614,
+        196614
+      ]
+    },
+    {
+      "shape_id": 34,
+      "shape_name": "菱形 33",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        9151937,
+        1957034,
+        196614,
+        196614
+      ]
+    },
+    {
+      "shape_id": 35,
+      "shape_name": "菱形 34",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        7574815,
+        3586721,
+        196614,
+        196614
+      ]
+    },
+    {
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        3407752,
+        5884574,
+        5376496,
+        430887
+      ],
+      "text_preview": "“懂你的焦虑，也懂你的骄傲。”——\n用故事或价值观绑定用户情绪，建立深层连接。",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        4744720,
+        5469685,
+        2702560,
+        400110
+      ],
+      "text_preview": "情感共鸣",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        326221,
+        2223802,
+        2256231,
+        738472
+      ],
+      "text_preview": "第一个被记住的，永远不会被遗忘。”——用独特视觉符号或口号，在用户心智中刻下品牌烙印。",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        1342598,
+        3922981,
+        2860040,
+        738472
+      ],
+      "text_preview": "“你的烦恼，我们早已解决。”\n——精准戳中用户需求，\n让品牌成为问题的唯一答案。",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        944457,
+        3485825,
+        3232782,
+        400110
+      ],
+      "text_preview": "痛点直击",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 14,
+      "local_bounds_emu": [
+        481353,
+        1812188,
+        2075701,
+        400110
+      ],
+      "text_preview": "抢占第一印象",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 15,
+      "local_bounds_emu": [
+        9657269,
+        2223802,
+        2193995,
+        738472
+      ],
+      "text_preview": "“每次______时，就会想起我们。”——将品牌植入高频生活场景，形成条件反射式联想。",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 16,
+      "local_bounds_emu": [
+        8060263,
+        3922981,
+        2755714,
+        738472
+      ],
+      "text_preview": "“90%专家都在用的选择。”\n——借势权威背书，\n快速建立信任感与专业形象。",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 17,
+      "local_bounds_emu": [
+        8089291,
+        3485825,
+        1849908,
+        400110
+      ],
+      "text_preview": "权威认证",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 18,
+      "local_bounds_emu": [
+        9686297,
+        1812188,
+        1810747,
+        400110
+      ],
+      "text_preview": "场景绑定",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 2,
+      "shape_name": "组合 1",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 19,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1225804
+      ]
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "组合 2",
+      "shape_type": 6,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 20,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1084812
+      ]
+    },
+    {
+      "shape_id": 7,
+      "shape_name": "Freeform 3076",
+      "shape_type": 13,
+      "group_path": [
+        2,
+        3
+      ],
+      "z_order_recursive": 21,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12171817,
+        809426
+      ],
+      "image_sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 8,
+      "shape_name": "图形 70",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        3
+      ],
+      "z_order_recursive": 22,
+      "local_bounds_emu": [
+        5558,
+        402332,
+        12180884,
+        532358
+      ]
+    },
+    {
+      "shape_id": 9,
+      "shape_name": "组合 8",
+      "shape_type": 6,
+      "group_path": [
+        2,
+        3
+      ],
+      "z_order_recursive": 23,
+      "local_bounds_emu": [
+        3190011,
+        837645,
+        5811979,
+        61114
+      ]
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "组合 10",
+      "shape_type": 6,
+      "group_path": [
+        2,
+        3,
+        9
+      ],
+      "z_order_recursive": 24,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 16,
+      "shape_name": "任意多边形: 形状 15",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        3,
+        9,
+        11
+      ],
+      "z_order_recursive": 25,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 17,
+      "shape_name": "任意多边形: 形状 16",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        3,
+        9,
+        11
+      ],
+      "z_order_recursive": 26,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 18,
+      "shape_name": "任意多边形: 形状 17",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        3,
+        9,
+        11
+      ],
+      "z_order_recursive": 27,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 12,
+      "shape_name": "组合 11",
+      "shape_type": 6,
+      "group_path": [
+        2,
+        3,
+        9
+      ],
+      "z_order_recursive": 28,
+      "local_bounds_emu": [
+        8435884,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "任意多边形: 形状 12",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        3,
+        9,
+        12
+      ],
+      "z_order_recursive": 29,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "任意多边形: 形状 13",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        3,
+        9,
+        12
+      ],
+      "z_order_recursive": 30,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "任意多边形: 形状 14",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        3,
+        9,
+        12
+      ],
+      "z_order_recursive": 31,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "图片 9",
+      "shape_type": 13,
+      "group_path": [
+        2,
+        3
+      ],
+      "z_order_recursive": 32,
+      "local_bounds_emu": [
+        3686833,
+        651534,
+        4811984,
+        564680
+      ],
+      "image_sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 4,
+      "shape_name": "组合 3",
+      "shape_type": 6,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 33,
+      "local_bounds_emu": [
+        1815439,
+        416934,
+        8561121,
+        940272
+      ]
+    },
+    {
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "shape_type": 17,
+      "group_path": [
+        2,
+        4
+      ],
+      "z_order_recursive": 34,
+      "local_bounds_emu": [
+        1815442,
+        416934,
+        8561118,
+        430887
+      ],
+      "text_preview": "品牌心智占位模型",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "矩形 5",
+      "shape_type": 1,
+      "group_path": [
+        2,
+        4
+      ],
+      "z_order_recursive": 35,
+      "local_bounds_emu": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ],
+      "text_preview": "通过第一印象、场景绑定、痛点直击、权威认证与情感共鸣构建用户心智",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 21,
+      "shape_name": "图片 20",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 36,
+      "local_bounds_emu": [
+        11057890,
+        6476365,
+        893445,
+        191770
+      ],
+      "image_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_role": "brand_logo_locked"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

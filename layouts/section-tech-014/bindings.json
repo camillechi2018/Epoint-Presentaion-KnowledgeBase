@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "group_path": [],
+      "source_text": "PART 1",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5810562,
+        2240600,
+        5685529,
+        1569660
+      ]
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "group_path": [],
+      "source_text": "第一部分",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7057054,
+        3038693,
+        3192544,
+        923330
+      ]
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "group_path": [],
+      "source_text": "标题副文案填这里",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4738059,
+        3982048,
+        7830534,
+        400110
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 11,
+        "shape_name": "图片 10",
+        "sha256": "9d5f6199350a8e4d034296b56befffe6b5e5ca45929fba6fbfaed1134b81afc3",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [],
+        "bounds_emu_local": [
+          0,
+          0,
+          12192000,
+          6858000
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

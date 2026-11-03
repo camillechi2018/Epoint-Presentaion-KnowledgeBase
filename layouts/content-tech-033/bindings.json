@@ -1,0 +1,297 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "group_path": [],
+      "source_text": "职场新趋势与适应策略",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3700423,
+        5053686,
+        4801315,
+        646331
+      ]
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "group_path": [],
+      "source_text": "了解数字化转型的最新趋势和前沿技术，如人工智能、大数据、云计算等。\n分析数字化转型对职场的影响，如工作方式的变革、技能需求的转变等。",
+      "source_sample_chars": 66,
+      "max_chars": 99,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        907007,
+        2758852,
+        1498567,
+        1838773
+      ]
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "group_path": [],
+      "source_text": "根据数字化转型的需求，提升自己的数字技能，如数据分析、编程等。\n制定个人职业发展计划，规划技能提升路径，实现职业转型。",
+      "source_sample_chars": 59,
+      "max_chars": 88,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3112172,
+        2843818,
+        1498567,
+        1618713
+      ]
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "group_path": [],
+      "source_text": "培养创新思维，将不同领域的知识和技术相融合，创造新的价值。\n参与数字化转型项目，积累实践经验，提升创新能力。",
+      "source_sample_chars": 54,
+      "max_chars": 81,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5288391,
+        2938865,
+        1618512,
+        1398653
+      ]
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "group_path": [],
+      "source_text": "将数字化转型的理念和技能应用到实际工作中，如优化工作流程、提升工作效率等。\n分享数字化转型的成功案例，与团队成员共同学习和成长。",
+      "source_sample_chars": 64,
+      "max_chars": 96,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7570180,
+        2843818,
+        1498567,
+        1618713
+      ]
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "group_path": [],
+      "source_text": "保持对数字化转型的关注和热情，不断学习新知识、新技能。\n定期评估自己的数字化转型能力和成果，制定改进计划，实现自我迭代。",
+      "source_sample_chars": 60,
+      "max_chars": 90,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9798583,
+        2758852,
+        1498567,
+        1618713
+      ]
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "矩形: 剪去单角 22",
+      "type": "text",
+      "group_path": [],
+      "source_text": "数字化趋势",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        912081,
+        2268886,
+        1489734,
+        382632
+      ]
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "矩形: 剪去单角 23",
+      "type": "text",
+      "group_path": [],
+      "source_text": "技能提升",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3131606,
+        2374863,
+        1489734,
+        382632
+      ]
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "矩形: 剪去单角 24",
+      "type": "text",
+      "group_path": [],
+      "source_text": "创新思维",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5351132,
+        2460202,
+        1489734,
+        382632
+      ]
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "矩形: 剪去单角 25",
+      "type": "text",
+      "group_path": [],
+      "source_text": "数字化实践",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7570659,
+        2374863,
+        1489734,
+        382632
+      ]
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "矩形: 剪去单角 26",
+      "type": "text",
+      "group_path": [],
+      "source_text": "持续学习",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9790185,
+        2268886,
+        1489734,
+        382632
+      ]
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "group_path": [
+        39,
+        41
+      ],
+      "source_text": "职场数字化适应",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "矩形 42",
+      "type": "text",
+      "group_path": [
+        39,
+        41
+      ],
+      "source_text": "面向数字化转型趋势，拆解员工能力升级与工作方式适应策略",
+      "source_sample_chars": 27,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 44,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          39,
+          40
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 47,
+        "shape_name": "图片 46",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          39,
+          40
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

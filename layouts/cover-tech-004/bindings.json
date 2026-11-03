@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "算力终端合作介绍",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_display",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        893678,
+        1844752,
+        10404644,
+        1446550
+      ]
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2025  上海",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4821156,
+        3500792,
+        2549688,
+        440121
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 21,
+        "shape_name": "图片 20",
+        "sha256": "ddc981ee67b7ef3f866c00984362fbfee7a97c22d3c99ba7fba6aba3eee0ea40",
+        "semantic_role": "cover_visual_layer",
+        "group_path": [],
+        "bounds_emu_local": [
+          2,
+          0,
+          12191996,
+          6858000
+        ]
+      },
+      {
+        "shape_id": 18,
+        "shape_name": "图片 17",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          10955020,
+          178435,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

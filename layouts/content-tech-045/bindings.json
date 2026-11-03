@@ -1,0 +1,331 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "Text 15",
+      "type": "text",
+      "group_path": [],
+      "source_text": "系统自动匹配与你有相似记忆锚点的陌生人——也许你们曾在同一家咖啡馆擦肩，或听过同一场暴雨。AI生成‘平行时空线索报告’，揭示你们本该相遇的5种可能。",
+      "source_sample_chars": 74,
+      "max_chars": 111,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3301158,
+        5164742,
+        2823869,
+        919162
+      ]
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "Text 8",
+      "type": "text",
+      "group_path": [],
+      "source_text": "“翻出你相册里最模糊的老照片、最简短的日记片段，或是一段没有下文的语音。上传至平台，AI将分析画面中的时间、地点与情绪，为你标记‘记忆锚点。”",
+      "source_sample_chars": 71,
+      "max_chars": 106,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        658637,
+        2870533,
+        2573177,
+        919162
+      ]
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "group_path": [
+        58,
+        60
+      ],
+      "source_text": "AI叙事产品流程",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "矩形 61",
+      "type": "text",
+      "group_path": [
+        58,
+        60
+      ],
+      "source_text": "以四步路径说明从记忆采集到叙事生成与体验展览的产品机制",
+      "source_sample_chars": 27,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ]
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "Text 8",
+      "type": "text",
+      "group_path": [],
+      "source_text": "基于10万+用户记忆库，AI构建‘如果那时’剧情：若你选择了另一条路、回应了那个微笑，人生会如何分叉？可定制虚拟短片或互动小说。",
+      "source_sample_chars": 64,
+      "max_chars": 96,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5572039,
+        2533168,
+        2573177,
+        919162
+      ]
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "Text 8",
+      "type": "text",
+      "group_path": [],
+      "source_text": "在虚拟‘时光交错博物馆’中，你的重构记忆将化作光影装置。参与线下AR城市漫步，在真实地点触发‘被遗忘的平行剧情彩蛋’",
+      "source_sample_chars": 58,
+      "max_chars": 87,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9061108,
+        4441457,
+        2354874,
+        919162
+      ]
+    },
+    {
+      "field": "text_123",
+      "shape_id": 123,
+      "shape_name": "任意多边形: 形状 122",
+      "type": "text",
+      "group_path": [
+        122
+      ],
+      "source_text": "Step4",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        632813,
+        1702746,
+        1392045,
+        293168
+      ]
+    },
+    {
+      "field": "text_124",
+      "shape_id": 124,
+      "shape_name": "任意多边形: 形状 123",
+      "type": "text",
+      "group_path": [
+        122
+      ],
+      "source_text": "记忆元宇宙展览",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        642338,
+        1995914,
+        2500912,
+        491041
+      ]
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "任意多边形: 形状 8",
+      "type": "text",
+      "group_path": [
+        8
+      ],
+      "source_text": "Step2",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        632813,
+        1702746,
+        1392045,
+        293168
+      ]
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "任意多边形: 形状 9",
+      "type": "text",
+      "group_path": [
+        8
+      ],
+      "source_text": "时空线索配对",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        642338,
+        1995914,
+        2500912,
+        491041
+      ]
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "任意多边形: 形状 11",
+      "type": "text",
+      "group_path": [
+        11
+      ],
+      "source_text": "Step1",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        632813,
+        1702746,
+        1392045,
+        293168
+      ]
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "任意多边形: 形状 12",
+      "type": "text",
+      "group_path": [
+        11
+      ],
+      "source_text": "记忆碎片征集",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        642338,
+        1995914,
+        2500912,
+        491041
+      ]
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "任意多边形: 形状 14",
+      "type": "text",
+      "group_path": [
+        14
+      ],
+      "source_text": "Step3",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        632813,
+        1702746,
+        1392045,
+        293168
+      ]
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "任意多边形: 形状 15",
+      "type": "text",
+      "group_path": [
+        14
+      ],
+      "source_text": "平行叙事生成",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        642338,
+        1995914,
+        2500912,
+        491041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 63,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          58,
+          59
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 66,
+        "shape_name": "图片 65",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          58,
+          59
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 17,
+        "shape_name": "图片 16",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

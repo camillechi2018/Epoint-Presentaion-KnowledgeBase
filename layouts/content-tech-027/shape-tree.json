@@ -1,0 +1,940 @@
+{
+  "source_page": 27,
+  "recursive_shapes": [
+    {
+      "shape_id": 109,
+      "shape_name": "等腰三角形 108",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        4848505,
+        1702564,
+        6206724,
+        4474312
+      ]
+    },
+    {
+      "shape_id": 19,
+      "shape_name": "组合 18",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1225804
+      ]
+    },
+    {
+      "shape_id": 20,
+      "shape_name": "组合 19",
+      "shape_type": 6,
+      "group_path": [
+        19
+      ],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1084812
+      ]
+    },
+    {
+      "shape_id": 24,
+      "shape_name": "Freeform 3076",
+      "shape_type": 13,
+      "group_path": [
+        19,
+        20
+      ],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12171817,
+        809426
+      ],
+      "image_sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 25,
+      "shape_name": "图形 70",
+      "shape_type": 5,
+      "group_path": [
+        19,
+        20
+      ],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        5558,
+        402332,
+        12180884,
+        532358
+      ]
+    },
+    {
+      "shape_id": 26,
+      "shape_name": "组合 25",
+      "shape_type": 6,
+      "group_path": [
+        19,
+        20
+      ],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        3190011,
+        837645,
+        5811979,
+        61114
+      ]
+    },
+    {
+      "shape_id": 64,
+      "shape_name": "组合 63",
+      "shape_type": 6,
+      "group_path": [
+        19,
+        20,
+        26
+      ],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 69,
+      "shape_name": "任意多边形: 形状 68",
+      "shape_type": 5,
+      "group_path": [
+        19,
+        20,
+        26,
+        64
+      ],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 70,
+      "shape_name": "任意多边形: 形状 69",
+      "shape_type": 5,
+      "group_path": [
+        19,
+        20,
+        26,
+        64
+      ],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 71,
+      "shape_name": "任意多边形: 形状 70",
+      "shape_type": 5,
+      "group_path": [
+        19,
+        20,
+        26,
+        64
+      ],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 65,
+      "shape_name": "组合 64",
+      "shape_type": 6,
+      "group_path": [
+        19,
+        20,
+        26
+      ],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        8435884,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 66,
+      "shape_name": "任意多边形: 形状 65",
+      "shape_type": 5,
+      "group_path": [
+        19,
+        20,
+        26,
+        65
+      ],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 67,
+      "shape_name": "任意多边形: 形状 66",
+      "shape_type": 5,
+      "group_path": [
+        19,
+        20,
+        26,
+        65
+      ],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 68,
+      "shape_name": "任意多边形: 形状 67",
+      "shape_type": 5,
+      "group_path": [
+        19,
+        20,
+        26,
+        65
+      ],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 63,
+      "shape_name": "图片 62",
+      "shape_type": 13,
+      "group_path": [
+        19,
+        20
+      ],
+      "z_order_recursive": 14,
+      "local_bounds_emu": [
+        3686833,
+        651534,
+        4811984,
+        564680
+      ],
+      "image_sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 21,
+      "shape_name": "组合 20",
+      "shape_type": 6,
+      "group_path": [
+        19
+      ],
+      "z_order_recursive": 15,
+      "local_bounds_emu": [
+        1285874,
+        416934,
+        9620252,
+        940272
+      ]
+    },
+    {
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "shape_type": 17,
+      "group_path": [
+        19,
+        21
+      ],
+      "z_order_recursive": 16,
+      "local_bounds_emu": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ],
+      "text_preview": "个人能力优劣势分析",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 23,
+      "shape_name": "矩形 22",
+      "shape_type": 1,
+      "group_path": [
+        19,
+        21
+      ],
+      "z_order_recursive": 17,
+      "local_bounds_emu": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "text_preview": "围绕专业技能、沟通、协作、创新及短板进行个人能力诊断",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 72,
+      "shape_name": "弧形 71",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 18,
+      "local_bounds_emu": [
+        4318897,
+        2138935,
+        3558268,
+        3558268
+      ]
+    },
+    {
+      "shape_id": 74,
+      "shape_name": "等腰三角形 73",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 19,
+      "local_bounds_emu": [
+        1227639,
+        1702566,
+        6206722,
+        4474308
+      ]
+    },
+    {
+      "shape_id": 75,
+      "shape_name": "椭圆 74",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 20,
+      "local_bounds_emu": [
+        4687819,
+        2529763,
+        2819912,
+        2819912
+      ]
+    },
+    {
+      "shape_id": 76,
+      "shape_name": "椭圆 75",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 21,
+      "local_bounds_emu": [
+        3354575,
+        1196263,
+        5486912,
+        5486912
+      ]
+    },
+    {
+      "shape_id": 79,
+      "shape_name": "椭圆 78",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 22,
+      "local_bounds_emu": [
+        5289806,
+        3131750,
+        1615938,
+        1615938
+      ]
+    },
+    {
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 23,
+      "local_bounds_emu": [
+        5328587,
+        3528581,
+        1538890,
+        861774
+      ],
+      "text_preview": "优劣势\n分析",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 81,
+      "shape_name": "椭圆 80",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 24,
+      "local_bounds_emu": [
+        3522066,
+        2744088,
+        152133,
+        152133
+      ]
+    },
+    {
+      "shape_id": 82,
+      "shape_name": "椭圆 81",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 25,
+      "local_bounds_emu": [
+        3298787,
+        3493769,
+        152133,
+        152133
+      ]
+    },
+    {
+      "shape_id": 83,
+      "shape_name": "椭圆 82",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 26,
+      "local_bounds_emu": [
+        3298787,
+        4218050,
+        152133,
+        152133
+      ]
+    },
+    {
+      "shape_id": 84,
+      "shape_name": "椭圆 83",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 27,
+      "local_bounds_emu": [
+        3522066,
+        4967732,
+        152133,
+        152133
+      ]
+    },
+    {
+      "shape_id": 85,
+      "shape_name": "椭圆 84",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 28,
+      "local_bounds_emu": [
+        8517802,
+        2744088,
+        152133,
+        152133
+      ]
+    },
+    {
+      "shape_id": 86,
+      "shape_name": "椭圆 85",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 29,
+      "local_bounds_emu": [
+        8741081,
+        3493769,
+        152133,
+        152133
+      ]
+    },
+    {
+      "shape_id": 87,
+      "shape_name": "椭圆 86",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 30,
+      "local_bounds_emu": [
+        8741081,
+        4218050,
+        152133,
+        152133
+      ]
+    },
+    {
+      "shape_id": 88,
+      "shape_name": "椭圆 87",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 31,
+      "local_bounds_emu": [
+        8517802,
+        4967732,
+        152133,
+        152133
+      ]
+    },
+    {
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 32,
+      "local_bounds_emu": [
+        1252255,
+        2118420,
+        2017370,
+        307777
+      ],
+      "text_preview": "专业技能",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 90,
+      "shape_name": "文本框 89",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 33,
+      "local_bounds_emu": [
+        181029,
+        2444138,
+        3095319,
+        387286
+      ],
+      "text_preview": "具备扎实的运营知识和技能，在运营策略制定、\n数据分析等方面有丰富的经验和熟练的操作能力",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 91,
+      "shape_name": "文本框 90",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 34,
+      "local_bounds_emu": [
+        1111055,
+        3079263,
+        2017370,
+        307777
+      ],
+      "text_preview": "沟通能力",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 92,
+      "shape_name": "文本框 91",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 35,
+      "local_bounds_emu": [
+        757939,
+        3398257,
+        2357031,
+        387286
+      ],
+      "text_preview": "能够有效地与领导和客户进行沟通\n确保信息的准确传递和问题的及时解决",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 93,
+      "shape_name": "文本框 92",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 36,
+      "local_bounds_emu": [
+        1111055,
+        4020682,
+        2017370,
+        307777
+      ],
+      "text_preview": "团队合作",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 37,
+      "local_bounds_emu": [
+        757939,
+        4352376,
+        2357031,
+        387286
+      ],
+      "text_preview": "熟悉业务流程，执行力强，在跨部门协作中表现出色，能够推动项目顺利进行",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 95,
+      "shape_name": "文本框 94",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 38,
+      "local_bounds_emu": [
+        1252255,
+        4981150,
+        2017370,
+        307777
+      ],
+      "text_preview": "创新思维",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 39,
+      "local_bounds_emu": [
+        340533,
+        5306494,
+        2935815,
+        387286
+      ],
+      "text_preview": "在运营活动中，能够提出新颖的创意和\n解决方案提升用户体验和业务效果",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 40,
+      "local_bounds_emu": [
+        8949270,
+        2118420,
+        2206220,
+        307777
+      ],
+      "text_preview": "跨领域知识不足",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 98,
+      "shape_name": "文本框 97",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 41,
+      "local_bounds_emu": [
+        8949272,
+        2444138,
+        3095319,
+        387286
+      ],
+      "text_preview": "在面对涉及多领域的复杂项目时，\n可能会因缺乏某些特定领域的知识而遇到瓶颈",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 99,
+      "shape_name": "文本框 98",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 42,
+      "local_bounds_emu": [
+        9077029,
+        3079263,
+        1990960,
+        307777
+      ],
+      "text_preview": "决策能力待提升",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 43,
+      "local_bounds_emu": [
+        9077029,
+        3398257,
+        2447895,
+        387286
+      ],
+      "text_preview": "在处理紧急或复杂问题时，有时会犹豫不决，需要进一步提高决策速度和准确性",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 44,
+      "local_bounds_emu": [
+        9077028,
+        4020682,
+        1879789,
+        307777
+      ],
+      "text_preview": "社交能力欠佳",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 45,
+      "local_bounds_emu": [
+        9077030,
+        4352376,
+        2357031,
+        387286
+      ],
+      "text_preview": "在与陌生人建立关系时，可能会显得\n不够主动或自然，影响人脉资源的拓展",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 46,
+      "local_bounds_emu": [
+        8949272,
+        5306494,
+        3095319,
+        387286
+      ],
+      "text_preview": "在带领团队或主导项目时，可能缺乏足够的\n领导力和管理经验，需要进一步积累",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 104,
+      "shape_name": "文本框 103",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 47,
+      "local_bounds_emu": [
+        8949271,
+        4981150,
+        1879789,
+        307777
+      ],
+      "text_preview": "缺少领导经验",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 105,
+      "shape_name": "弧形 104",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 48,
+      "local_bounds_emu": [
+        4318897,
+        2215798,
+        3558268,
+        3558268
+      ]
+    },
+    {
+      "shape_id": 124,
+      "shape_name": "组合 123",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 49,
+      "local_bounds_emu": [
+        3803571,
+        3333502,
+        1212438,
+        1212435
+      ]
+    },
+    {
+      "shape_id": 78,
+      "shape_name": "椭圆 77",
+      "shape_type": 1,
+      "group_path": [
+        124
+      ],
+      "z_order_recursive": 50,
+      "local_bounds_emu": [
+        3888268,
+        3366963,
+        1102217,
+        1102214
+      ],
+      "text_preview": "优势",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 111,
+      "shape_name": "空心弧 110",
+      "shape_type": 1,
+      "group_path": [
+        124
+      ],
+      "z_order_recursive": 51,
+      "local_bounds_emu": [
+        3772535,
+        3251231,
+        1333682,
+        1333679
+      ]
+    },
+    {
+      "shape_id": 113,
+      "shape_name": "空心弧 112",
+      "shape_type": 1,
+      "group_path": [
+        124
+      ],
+      "z_order_recursive": 52,
+      "local_bounds_emu": [
+        3772535,
+        3251231,
+        1333682,
+        1333679
+      ]
+    },
+    {
+      "shape_id": 114,
+      "shape_name": "空心弧 113",
+      "shape_type": 1,
+      "group_path": [
+        124
+      ],
+      "z_order_recursive": 53,
+      "local_bounds_emu": [
+        3772535,
+        3251231,
+        1333682,
+        1333679
+      ]
+    },
+    {
+      "shape_id": 115,
+      "shape_name": "空心弧 114",
+      "shape_type": 1,
+      "group_path": [
+        124
+      ],
+      "z_order_recursive": 54,
+      "local_bounds_emu": [
+        3772535,
+        3251231,
+        1333682,
+        1333679
+      ]
+    },
+    {
+      "shape_id": 131,
+      "shape_name": "组合 130",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 55,
+      "local_bounds_emu": [
+        7175992,
+        3333502,
+        1212438,
+        1212435
+      ]
+    },
+    {
+      "shape_id": 132,
+      "shape_name": "椭圆 131",
+      "shape_type": 1,
+      "group_path": [
+        131
+      ],
+      "z_order_recursive": 56,
+      "local_bounds_emu": [
+        3888268,
+        3366963,
+        1102217,
+        1102214
+      ],
+      "text_preview": "劣势",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 133,
+      "shape_name": "空心弧 132",
+      "shape_type": 1,
+      "group_path": [
+        131
+      ],
+      "z_order_recursive": 57,
+      "local_bounds_emu": [
+        3772535,
+        3251231,
+        1333682,
+        1333679
+      ]
+    },
+    {
+      "shape_id": 134,
+      "shape_name": "空心弧 133",
+      "shape_type": 1,
+      "group_path": [
+        131
+      ],
+      "z_order_recursive": 58,
+      "local_bounds_emu": [
+        3772535,
+        3251231,
+        1333682,
+        1333679
+      ]
+    },
+    {
+      "shape_id": 135,
+      "shape_name": "空心弧 134",
+      "shape_type": 1,
+      "group_path": [
+        131
+      ],
+      "z_order_recursive": 59,
+      "local_bounds_emu": [
+        3772535,
+        3251231,
+        1333682,
+        1333679
+      ]
+    },
+    {
+      "shape_id": 136,
+      "shape_name": "空心弧 135",
+      "shape_type": 1,
+      "group_path": [
+        131
+      ],
+      "z_order_recursive": 60,
+      "local_bounds_emu": [
+        3772535,
+        3251231,
+        1333682,
+        1333679
+      ]
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "图片 2",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 61,
+      "local_bounds_emu": [
+        11057890,
+        6476365,
+        893445,
+        191770
+      ],
+      "image_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_role": "brand_logo_locked"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

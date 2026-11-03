@@ -1,0 +1,14 @@
+{
+  "cardinality_mode": "fixed_until_validated",
+  "supported_counts": [],
+  "source_count": 6,
+  "candidate_counts": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "reflow_status": "not_implemented",
+  "grouping_status": "provisional_requires_manual_object_review"
+}

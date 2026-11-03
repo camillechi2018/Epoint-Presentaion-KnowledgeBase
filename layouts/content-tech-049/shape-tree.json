@@ -1,0 +1,956 @@
+{
+  "source_page": 49,
+  "recursive_shapes": [
+    {
+      "shape_id": 2,
+      "shape_name": "组合 1",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1225804
+      ]
+    },
+    {
+      "shape_id": 4,
+      "shape_name": "组合 3",
+      "shape_type": 6,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1084812
+      ]
+    },
+    {
+      "shape_id": 8,
+      "shape_name": "Freeform 3076",
+      "shape_type": 13,
+      "group_path": [
+        2,
+        4
+      ],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12171817,
+        809426
+      ],
+      "image_sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 9,
+      "shape_name": "图形 70",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        4
+      ],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        5558,
+        402332,
+        12180884,
+        532358
+      ]
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "组合 9",
+      "shape_type": 6,
+      "group_path": [
+        2,
+        4
+      ],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        3190011,
+        837645,
+        5811979,
+        61114
+      ]
+    },
+    {
+      "shape_id": 12,
+      "shape_name": "组合 11",
+      "shape_type": 6,
+      "group_path": [
+        2,
+        4,
+        10
+      ],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 17,
+      "shape_name": "任意多边形: 形状 16",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        4,
+        10,
+        12
+      ],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 18,
+      "shape_name": "任意多边形: 形状 17",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        4,
+        10,
+        12
+      ],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 19,
+      "shape_name": "任意多边形: 形状 18",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        4,
+        10,
+        12
+      ],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "组合 12",
+      "shape_type": 6,
+      "group_path": [
+        2,
+        4,
+        10
+      ],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        8435884,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "任意多边形: 形状 13",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        4,
+        10,
+        13
+      ],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "任意多边形: 形状 14",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        4,
+        10,
+        13
+      ],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 16,
+      "shape_name": "任意多边形: 形状 15",
+      "shape_type": 5,
+      "group_path": [
+        2,
+        4,
+        10,
+        13
+      ],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "图片 10",
+      "shape_type": 13,
+      "group_path": [
+        2,
+        4
+      ],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        3686833,
+        651534,
+        4811984,
+        564680
+      ],
+      "image_sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 5,
+      "shape_name": "组合 4",
+      "shape_type": 6,
+      "group_path": [
+        2
+      ],
+      "z_order_recursive": 14,
+      "local_bounds_emu": [
+        1285874,
+        416934,
+        9620252,
+        940272
+      ]
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "shape_type": 17,
+      "group_path": [
+        2,
+        5
+      ],
+      "z_order_recursive": 15,
+      "local_bounds_emu": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ],
+      "text_preview": "产品特点六维展示",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 7,
+      "shape_name": "矩形 6",
+      "shape_type": 1,
+      "group_path": [
+        2,
+        5
+      ],
+      "z_order_recursive": 16,
+      "local_bounds_emu": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "text_preview": "以六项特性展示产品功能卖点、环保优势与物联网能力",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 56,
+      "shape_name": "组合 55",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 17,
+      "local_bounds_emu": [
+        532758,
+        1807747,
+        11126484,
+        1502997
+      ]
+    },
+    {
+      "shape_id": 43,
+      "shape_name": "组合 42",
+      "shape_type": 6,
+      "group_path": [
+        56
+      ],
+      "z_order_recursive": 18,
+      "local_bounds_emu": [
+        447870,
+        1986962,
+        3533852,
+        1502997
+      ]
+    },
+    {
+      "shape_id": 38,
+      "shape_name": "任意多边形: 形状 37",
+      "shape_type": 5,
+      "group_path": [
+        56,
+        43
+      ],
+      "z_order_recursive": 19,
+      "local_bounds_emu": [
+        447870,
+        2754653,
+        2959883,
+        735306
+      ]
+    },
+    {
+      "shape_id": 27,
+      "shape_name": "图形 25",
+      "shape_type": 5,
+      "group_path": [
+        56,
+        43
+      ],
+      "z_order_recursive": 20,
+      "local_bounds_emu": [
+        3006161,
+        1986962,
+        975561,
+        1413463
+      ]
+    },
+    {
+      "shape_id": 40,
+      "shape_name": "任意多边形: 形状 39",
+      "shape_type": 5,
+      "group_path": [
+        56,
+        43
+      ],
+      "z_order_recursive": 21,
+      "local_bounds_emu": [
+        447870,
+        2171976,
+        2959883,
+        582676
+      ]
+    },
+    {
+      "shape_id": 41,
+      "shape_name": "矩形 40",
+      "shape_type": 1,
+      "group_path": [
+        56,
+        43
+      ],
+      "z_order_recursive": 22,
+      "local_bounds_emu": [
+        705303,
+        2276364,
+        1669392,
+        374205
+      ],
+      "text_preview": "受干扰少",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "shape_type": 17,
+      "group_path": [
+        56,
+        43
+      ],
+      "z_order_recursive": 23,
+      "local_bounds_emu": [
+        617646,
+        2826426,
+        2581275,
+        557140
+      ],
+      "text_preview": "不采取微生物方式，不受周边环境或者餐厨垃圾种类的影响",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 44,
+      "shape_name": "组合 43",
+      "shape_type": 6,
+      "group_path": [
+        56
+      ],
+      "z_order_recursive": 24,
+      "local_bounds_emu": [
+        4244186,
+        1986962,
+        3533852,
+        1502997
+      ]
+    },
+    {
+      "shape_id": 45,
+      "shape_name": "任意多边形: 形状 44",
+      "shape_type": 5,
+      "group_path": [
+        56,
+        44
+      ],
+      "z_order_recursive": 25,
+      "local_bounds_emu": [
+        447870,
+        2754653,
+        2959883,
+        735306
+      ]
+    },
+    {
+      "shape_id": 46,
+      "shape_name": "图形 25",
+      "shape_type": 5,
+      "group_path": [
+        56,
+        44
+      ],
+      "z_order_recursive": 26,
+      "local_bounds_emu": [
+        3006161,
+        1986962,
+        975561,
+        1413463
+      ]
+    },
+    {
+      "shape_id": 47,
+      "shape_name": "任意多边形: 形状 46",
+      "shape_type": 5,
+      "group_path": [
+        56,
+        44
+      ],
+      "z_order_recursive": 27,
+      "local_bounds_emu": [
+        447870,
+        2171976,
+        2959883,
+        582676
+      ]
+    },
+    {
+      "shape_id": 48,
+      "shape_name": "矩形 47",
+      "shape_type": 1,
+      "group_path": [
+        56,
+        44
+      ],
+      "z_order_recursive": 28,
+      "local_bounds_emu": [
+        705303,
+        2276364,
+        1669392,
+        374205
+      ],
+      "text_preview": "臭味去除",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "shape_type": 17,
+      "group_path": [
+        56,
+        44
+      ],
+      "z_order_recursive": 29,
+      "local_bounds_emu": [
+        617646,
+        2826426,
+        2581275,
+        557140
+      ],
+      "text_preview": "可分解各种餐厨垃圾中95%以上的盐分，臭味几乎被完全去除",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 50,
+      "shape_name": "组合 49",
+      "shape_type": 6,
+      "group_path": [
+        56
+      ],
+      "z_order_recursive": 30,
+      "local_bounds_emu": [
+        8040502,
+        1986962,
+        3533852,
+        1502997
+      ]
+    },
+    {
+      "shape_id": 51,
+      "shape_name": "任意多边形: 形状 50",
+      "shape_type": 5,
+      "group_path": [
+        56,
+        50
+      ],
+      "z_order_recursive": 31,
+      "local_bounds_emu": [
+        447870,
+        2754653,
+        2959883,
+        735306
+      ]
+    },
+    {
+      "shape_id": 52,
+      "shape_name": "图形 25",
+      "shape_type": 5,
+      "group_path": [
+        56,
+        50
+      ],
+      "z_order_recursive": 32,
+      "local_bounds_emu": [
+        3006161,
+        1986962,
+        975561,
+        1413463
+      ]
+    },
+    {
+      "shape_id": 53,
+      "shape_name": "任意多边形: 形状 52",
+      "shape_type": 5,
+      "group_path": [
+        56,
+        50
+      ],
+      "z_order_recursive": 33,
+      "local_bounds_emu": [
+        447870,
+        2171976,
+        2959883,
+        582676
+      ]
+    },
+    {
+      "shape_id": 54,
+      "shape_name": "矩形 53",
+      "shape_type": 1,
+      "group_path": [
+        56,
+        50
+      ],
+      "z_order_recursive": 34,
+      "local_bounds_emu": [
+        705303,
+        2276364,
+        1669392,
+        374205
+      ],
+      "text_preview": "低碳环保",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "shape_type": 17,
+      "group_path": [
+        56,
+        50
+      ],
+      "z_order_recursive": 35,
+      "local_bounds_emu": [
+        617646,
+        2826426,
+        2581275,
+        557140
+      ],
+      "text_preview": "采用彻底分解方式，无任何二次污染物产生，绿色环保的先导技术",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 57,
+      "shape_name": "组合 56",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 36,
+      "local_bounds_emu": [
+        532758,
+        4259879,
+        11126484,
+        1502997
+      ]
+    },
+    {
+      "shape_id": 58,
+      "shape_name": "组合 57",
+      "shape_type": 6,
+      "group_path": [
+        57
+      ],
+      "z_order_recursive": 37,
+      "local_bounds_emu": [
+        447870,
+        1986962,
+        3533852,
+        1502997
+      ]
+    },
+    {
+      "shape_id": 71,
+      "shape_name": "任意多边形: 形状 70",
+      "shape_type": 5,
+      "group_path": [
+        57,
+        58
+      ],
+      "z_order_recursive": 38,
+      "local_bounds_emu": [
+        447870,
+        2754653,
+        2959883,
+        735306
+      ]
+    },
+    {
+      "shape_id": 72,
+      "shape_name": "图形 25",
+      "shape_type": 5,
+      "group_path": [
+        57,
+        58
+      ],
+      "z_order_recursive": 39,
+      "local_bounds_emu": [
+        3006161,
+        1986962,
+        975561,
+        1413463
+      ]
+    },
+    {
+      "shape_id": 73,
+      "shape_name": "任意多边形: 形状 72",
+      "shape_type": 5,
+      "group_path": [
+        57,
+        58
+      ],
+      "z_order_recursive": 40,
+      "local_bounds_emu": [
+        447870,
+        2171976,
+        2959883,
+        582676
+      ]
+    },
+    {
+      "shape_id": 74,
+      "shape_name": "矩形 73",
+      "shape_type": 1,
+      "group_path": [
+        57,
+        58
+      ],
+      "z_order_recursive": 41,
+      "local_bounds_emu": [
+        705303,
+        2276364,
+        1669392,
+        374205
+      ],
+      "text_preview": "分解迅速",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "shape_type": 17,
+      "group_path": [
+        57,
+        58
+      ],
+      "z_order_recursive": 42,
+      "local_bounds_emu": [
+        617646,
+        2826426,
+        2179683,
+        557140
+      ],
+      "text_preview": "4小时迅速分解餐厨垃圾变为液态肥料，高效节能",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 59,
+      "shape_name": "组合 58",
+      "shape_type": 6,
+      "group_path": [
+        57
+      ],
+      "z_order_recursive": 43,
+      "local_bounds_emu": [
+        4244186,
+        1986962,
+        3533852,
+        1502997
+      ]
+    },
+    {
+      "shape_id": 66,
+      "shape_name": "任意多边形: 形状 65",
+      "shape_type": 5,
+      "group_path": [
+        57,
+        59
+      ],
+      "z_order_recursive": 44,
+      "local_bounds_emu": [
+        447870,
+        2754653,
+        2959883,
+        735306
+      ]
+    },
+    {
+      "shape_id": 67,
+      "shape_name": "图形 25",
+      "shape_type": 5,
+      "group_path": [
+        57,
+        59
+      ],
+      "z_order_recursive": 45,
+      "local_bounds_emu": [
+        3006161,
+        1986962,
+        975561,
+        1413463
+      ]
+    },
+    {
+      "shape_id": 68,
+      "shape_name": "任意多边形: 形状 67",
+      "shape_type": 5,
+      "group_path": [
+        57,
+        59
+      ],
+      "z_order_recursive": 46,
+      "local_bounds_emu": [
+        447870,
+        2171976,
+        2959883,
+        582676
+      ]
+    },
+    {
+      "shape_id": 69,
+      "shape_name": "矩形 68",
+      "shape_type": 1,
+      "group_path": [
+        57,
+        59
+      ],
+      "z_order_recursive": 47,
+      "local_bounds_emu": [
+        705303,
+        2276364,
+        1669392,
+        374205
+      ],
+      "text_preview": "经济实惠",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "shape_type": 17,
+      "group_path": [
+        57,
+        59
+      ],
+      "z_order_recursive": 48,
+      "local_bounds_emu": [
+        617646,
+        2826426,
+        2283915,
+        557140
+      ],
+      "text_preview": "催化酶填充一次后，至少可使用30次，处理成本低，效率高",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 60,
+      "shape_name": "组合 59",
+      "shape_type": 6,
+      "group_path": [
+        57
+      ],
+      "z_order_recursive": 49,
+      "local_bounds_emu": [
+        8040502,
+        1986962,
+        3533852,
+        1502997
+      ]
+    },
+    {
+      "shape_id": 61,
+      "shape_name": "任意多边形: 形状 60",
+      "shape_type": 5,
+      "group_path": [
+        57,
+        60
+      ],
+      "z_order_recursive": 50,
+      "local_bounds_emu": [
+        447870,
+        2754653,
+        2959883,
+        735306
+      ]
+    },
+    {
+      "shape_id": 62,
+      "shape_name": "图形 25",
+      "shape_type": 5,
+      "group_path": [
+        57,
+        60
+      ],
+      "z_order_recursive": 51,
+      "local_bounds_emu": [
+        3006161,
+        1986962,
+        975561,
+        1413463
+      ]
+    },
+    {
+      "shape_id": 63,
+      "shape_name": "任意多边形: 形状 62",
+      "shape_type": 5,
+      "group_path": [
+        57,
+        60
+      ],
+      "z_order_recursive": 52,
+      "local_bounds_emu": [
+        447870,
+        2171976,
+        2959883,
+        582676
+      ]
+    },
+    {
+      "shape_id": 64,
+      "shape_name": "矩形 63",
+      "shape_type": 1,
+      "group_path": [
+        57,
+        60
+      ],
+      "z_order_recursive": 53,
+      "local_bounds_emu": [
+        705303,
+        2276364,
+        1669392,
+        374205
+      ],
+      "text_preview": "物联网",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "shape_type": 17,
+      "group_path": [
+        57,
+        60
+      ],
+      "z_order_recursive": 54,
+      "local_bounds_emu": [
+        617646,
+        2826426,
+        2581275,
+        557140
+      ],
+      "text_preview": "物联网+大数据，运行数据可通过物联网系统在电脑进行查看和监控",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 76,
+      "shape_name": "梯形 75",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 55,
+      "local_bounds_emu": [
+        532758,
+        5533647,
+        10986142,
+        582676
+      ]
+    },
+    {
+      "shape_id": 77,
+      "shape_name": "梯形 76",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 56,
+      "local_bounds_emu": [
+        532758,
+        3085016,
+        10986142,
+        582676
+      ]
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "图片 2",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 57,
+      "local_bounds_emu": [
+        11057890,
+        6476365,
+        893445,
+        191770
+      ],
+      "image_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_role": "brand_logo_locked"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "group_path": [
+        6
+      ],
+      "source_text": "协议技术演进路线",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "矩形 8",
+      "type": "text",
+      "group_path": [
+        6
+      ],
+      "source_text": "梳理技术协议从实验版本到智能化治理的迭代过程",
+      "source_sample_chars": 22,
+      "max_chars": 33,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ]
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2018年 - V0.1实验版本\n开源社区发布首个测试网实现，支持跨CPU/GPU资源池化，但仅限实验室环境\n\n缺陷\n高延迟、缺乏\n容错机制",
+      "source_sample_chars": 70,
+      "max_chars": 105,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        862632,
+        3291232,
+        2000874,
+        2675091
+      ]
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2010年",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        862632,
+        2834128,
+        1447801,
+        400110
+      ]
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "group_path": [],
+      "source_text": "加入区块链技术实现\n资源溯源，被云计算\n厂商用于边缘计算场景\n\n首次大规模应用\n欧洲某电信公司利用AORO协议优化5G",
+      "source_sample_chars": 59,
+      "max_chars": 88,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3015069,
+        3291232,
+        1964587,
+        2114938
+      ]
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2018年",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3015069,
+        2834128,
+        1447801,
+        400110
+      ]
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "group_path": [],
+      "source_text": "引入抗量子加密算法，成为首个通过NIST后\n量子安全认证的\n编排协议\n\n争议\n中心化治理委员会被批评违背开源精神。",
+      "source_sample_chars": 57,
+      "max_chars": 85,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5178474,
+        3291232,
+        2000874,
+        2395015
+      ]
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2022年",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5178474,
+        2834128,
+        1447801,
+        400110
+      ]
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "group_path": [],
+      "source_text": "支持脑机接口设备\n与AI算力动态匹配，\n医疗/元宇宙领域\n采用率激增\n\n标志性事件\nXpace星云网络\n部署AORO协议\n管理卫星资源",
+      "source_sample_chars": 67,
+      "max_chars": 100,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7341540,
+        3291232,
+        1995399,
+        2675091
+      ]
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2024年",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7341540,
+        2834128,
+        1447801,
+        400110
+      ]
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "group_path": [],
+      "source_text": "AI仲裁器上线\n协议内嵌动态修改逻辑的AI核心，可基于实时负载与攻击数据重写\n自身规则，引发“协议是否具备法律人格”的\n全球辩论",
+      "source_sample_chars": 64,
+      "max_chars": 96,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9495697,
+        3291232,
+        1962868,
+        2114938
+      ]
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "文本框 84",
+      "type": "text",
+      "group_path": [],
+      "source_text": "2026年（预测)",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9495698,
+        2834128,
+        2231845,
+        400110
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 10,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          6,
+          7
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 13,
+        "shape_name": "图片 12",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          6,
+          7
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

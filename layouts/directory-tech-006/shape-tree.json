@@ -1,0 +1,391 @@
+{
+  "source_page": 6,
+  "recursive_shapes": [
+    {
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        -27792,
+        1262578,
+        12247585,
+        2215991
+      ],
+      "text_preview": "Contents",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 8,
+      "shape_name": "矩形: 剪去对角 7",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        660400,
+        2782390,
+        2073118,
+        2300034
+      ]
+    },
+    {
+      "shape_id": 2,
+      "shape_name": "矩形: 剪去对角 1",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        9445782,
+        2782390,
+        2073118,
+        2300034
+      ]
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "矩形: 剪去对角 2",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        7249437,
+        2782390,
+        2073118,
+        2300034
+      ]
+    },
+    {
+      "shape_id": 4,
+      "shape_name": "矩形: 剪去对角 3",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        5053091,
+        2782390,
+        2073118,
+        2300034
+      ]
+    },
+    {
+      "shape_id": 5,
+      "shape_name": "矩形: 剪去对角 4",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        2856746,
+        2782390,
+        2073118,
+        2300034
+      ]
+    },
+    {
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        788887,
+        3071841,
+        1816145,
+        830997
+      ],
+      "text_preview": "年度工作\n概述",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        2894497,
+        3071841,
+        1997616,
+        830997
+      ],
+      "text_preview": "核心成果\n展示",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        5090842,
+        3071841,
+        1997616,
+        830997
+      ],
+      "text_preview": "问题与\n不足分析",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        7287188,
+        3071841,
+        1997616,
+        830997
+      ],
+      "text_preview": "经验与\n成长总结",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        9483533,
+        3071841,
+        1997616,
+        830997
+      ],
+      "text_preview": "明年\n目标与计划",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        753022,
+        4497587,
+        1887875,
+        1107996
+      ],
+      "text_preview": "01",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        2949368,
+        4497587,
+        1887875,
+        1107996
+      ],
+      "text_preview": "02",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        5145713,
+        4497587,
+        1887875,
+        1107996
+      ],
+      "text_preview": "03",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 14,
+      "local_bounds_emu": [
+        7342059,
+        4497587,
+        1887875,
+        1107996
+      ],
+      "text_preview": "04",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 15,
+      "local_bounds_emu": [
+        9538404,
+        4497587,
+        1887875,
+        1107996
+      ],
+      "text_preview": "05",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 16,
+      "local_bounds_emu": [
+        4156688,
+        641526,
+        3878626,
+        738664
+      ],
+      "text_preview": "目录",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 17,
+      "local_bounds_emu": [
+        1005904,
+        3912183,
+        1382110,
+        461665
+      ],
+      "text_preview": "Annual Work Overview",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 18,
+      "local_bounds_emu": [
+        3043601,
+        3912183,
+        1699408,
+        461665
+      ],
+      "text_preview": "Display of core achievements",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 19,
+      "local_bounds_emu": [
+        5090842,
+        3912183,
+        1997616,
+        461665
+      ],
+      "text_preview": "Analysis of problems \nand Deficiencies",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 20,
+      "local_bounds_emu": [
+        7342059,
+        3912183,
+        1887875,
+        461665
+      ],
+      "text_preview": "Summary of \nExperience Growth",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 21,
+      "local_bounds_emu": [
+        9712491,
+        3912183,
+        1539700,
+        461665
+      ],
+      "text_preview": "Target plan \nfor next year",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "等腰三角形 5",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 22,
+      "local_bounds_emu": [
+        1577870,
+        2686566,
+        238179,
+        186661
+      ]
+    },
+    {
+      "shape_id": 9,
+      "shape_name": "等腰三角形 8",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 23,
+      "local_bounds_emu": [
+        3774216,
+        2686566,
+        238179,
+        186661
+      ]
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "等腰三角形 9",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 24,
+      "local_bounds_emu": [
+        5976299,
+        2686566,
+        238179,
+        186661
+      ]
+    },
+    {
+      "shape_id": 12,
+      "shape_name": "等腰三角形 11",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 25,
+      "local_bounds_emu": [
+        8172645,
+        2686566,
+        238179,
+        186661
+      ]
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "等腰三角形 14",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 26,
+      "local_bounds_emu": [
+        10363252,
+        2686566,
+        238179,
+        186661
+      ]
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

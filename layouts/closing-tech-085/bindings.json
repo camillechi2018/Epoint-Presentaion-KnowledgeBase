@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "group_path": [],
+      "source_text": "营销推广方案",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_display",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4339977,
+        3684861,
+        3512046,
+        523220
+      ]
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "group_path": [],
+      "source_text": "感谢您的观看",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_display",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1668781,
+        1990419,
+        8854440,
+        1569660
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

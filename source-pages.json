@@ -4886,5 +4886,685 @@
     "variant": "cover",
     "source_pptx": "sources/cover.pptx",
     "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 1,
+    "component_id": "cover-tech-001",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 2,
+    "component_id": "cover-tech-002",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 3,
+    "component_id": "cover-tech-003",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 4,
+    "component_id": "cover-tech-004",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 5,
+    "component_id": "cover-tech-005",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 6,
+    "component_id": "directory-tech-006",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 7,
+    "component_id": "directory-tech-007",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 8,
+    "component_id": "directory-tech-008",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 9,
+    "component_id": "directory-tech-009",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 10,
+    "component_id": "directory-tech-010",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 11,
+    "component_id": "section-tech-011",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 12,
+    "component_id": "section-tech-012",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 13,
+    "component_id": "section-tech-013",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 14,
+    "component_id": "section-tech-014",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 15,
+    "component_id": "section-tech-015",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 16,
+    "component_id": "content-tech-016",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 17,
+    "component_id": "content-tech-017",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 18,
+    "component_id": "content-tech-018",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 19,
+    "component_id": "content-tech-019",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 20,
+    "component_id": "content-tech-020",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 21,
+    "component_id": "content-tech-021",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 22,
+    "component_id": "content-tech-022",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 23,
+    "component_id": "content-tech-023",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 24,
+    "component_id": "content-tech-024",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 25,
+    "component_id": "content-tech-025",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 26,
+    "component_id": "content-tech-026",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 27,
+    "component_id": "content-tech-027",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 28,
+    "component_id": "content-tech-028",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 29,
+    "component_id": "content-tech-029",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 30,
+    "component_id": "content-tech-030",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 31,
+    "component_id": "content-tech-031",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 32,
+    "component_id": "content-tech-032",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 33,
+    "component_id": "content-tech-033",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 34,
+    "component_id": "content-tech-034",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 35,
+    "component_id": "content-tech-035",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 36,
+    "component_id": "content-tech-036",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 37,
+    "component_id": "content-tech-037",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 38,
+    "component_id": "content-tech-038",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 39,
+    "component_id": "content-tech-039",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 40,
+    "component_id": "content-tech-040",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 41,
+    "component_id": "content-tech-041",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 42,
+    "component_id": "content-tech-042",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 43,
+    "component_id": "content-tech-043",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 44,
+    "component_id": "content-tech-044",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 45,
+    "component_id": "content-tech-045",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 46,
+    "component_id": "content-tech-046",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 47,
+    "component_id": "content-tech-047",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 48,
+    "component_id": "content-tech-048",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 49,
+    "component_id": "content-tech-049",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 50,
+    "component_id": "content-tech-050",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 51,
+    "component_id": "content-tech-051",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 52,
+    "component_id": "content-tech-052",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 53,
+    "component_id": "content-tech-053",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 54,
+    "component_id": "content-tech-054",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 55,
+    "component_id": "content-tech-055",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 56,
+    "component_id": "content-tech-056",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 57,
+    "component_id": "content-tech-057",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 58,
+    "component_id": "content-tech-058",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 59,
+    "component_id": "content-tech-059",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 60,
+    "component_id": "content-tech-060",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 61,
+    "component_id": "content-tech-061",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 62,
+    "component_id": "content-tech-062",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 63,
+    "component_id": "content-tech-063",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 64,
+    "component_id": "content-tech-064",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 65,
+    "component_id": "content-tech-065",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 66,
+    "component_id": "content-tech-066",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 67,
+    "component_id": "data-chart-tech-067",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 68,
+    "component_id": "data-chart-tech-068",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 69,
+    "component_id": "schedule-tech-069",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 70,
+    "component_id": "data-chart-tech-070",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 71,
+    "component_id": "data-chart-tech-071",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 72,
+    "component_id": "data-chart-tech-072",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 73,
+    "component_id": "data-chart-tech-073",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 74,
+    "component_id": "data-chart-tech-074",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 75,
+    "component_id": "data-chart-tech-075",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 76,
+    "component_id": "data-chart-tech-076",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 77,
+    "component_id": "content-tech-077",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 78,
+    "component_id": "content-tech-078",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 79,
+    "component_id": "content-tech-079",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 80,
+    "component_id": "content-tech-080",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 81,
+    "component_id": "content-tech-081",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 82,
+    "component_id": "closing-tech-082",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 83,
+    "component_id": "closing-tech-083",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 84,
+    "component_id": "closing-tech-084",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "tech",
+    "page": 85,
+    "component_id": "closing-tech-085",
+    "variant": "deep-blue-tech",
+    "source_pptx": "sources/tech.pptx",
+    "extraction_status": "indexed"
   }
 ]

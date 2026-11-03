@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "group_path": [],
+      "source_text": "CONTENTS",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2604593,
+        922317,
+        2014014,
+        440185
+      ]
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "group_path": [],
+      "source_text": "目录",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1233733,
+        587431,
+        1370860,
+        808542
+      ]
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "矩形: 剪去单角 86",
+      "type": "text",
+      "group_path": [
+        91
+      ],
+      "source_text": "01",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1792671,
+        2239536,
+        834782,
+        834782
+      ]
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "group_path": [
+        91,
+        90
+      ],
+      "source_text": "工作回顾总结",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2939620,
+        2231263,
+        2339103,
+        523220
+      ]
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "type": "text",
+      "group_path": [
+        91,
+        90
+      ],
+      "source_text": "Work Review and Summary",
+      "source_sample_chars": 23,
+      "max_chars": 34,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2974345,
+        2758984,
+        2484976,
+        246221
+      ]
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "矩形: 剪去单角 97",
+      "type": "text",
+      "group_path": [
+        92
+      ],
+      "source_text": "02",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1792671,
+        2239536,
+        834782,
+        834782
+      ]
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "group_path": [
+        92,
+        99
+      ],
+      "source_text": "能力提升路径",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2939620,
+        2231263,
+        2339103,
+        523220
+      ]
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "group_path": [
+        92,
+        99
+      ],
+      "source_text": "Skill Enhancement Path",
+      "source_sample_chars": 22,
+      "max_chars": 33,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2974345,
+        2758984,
+        2196435,
+        246221
+      ]
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "矩形: 剪去单角 111",
+      "type": "text",
+      "group_path": [
+        106
+      ],
+      "source_text": "03",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1792671,
+        2239536,
+        834782,
+        834782
+      ]
+    },
+    {
+      "field": "text_114",
+      "shape_id": 114,
+      "shape_name": "文本框 113",
+      "type": "text",
+      "group_path": [
+        106,
+        113
+      ],
+      "source_text": "问题反思改进",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2939620,
+        2231263,
+        2339103,
+        523220
+      ]
+    },
+    {
+      "field": "text_115",
+      "shape_id": 115,
+      "shape_name": "文本框 114",
+      "type": "text",
+      "group_path": [
+        106,
+        113
+      ],
+      "source_text": "Reflection and Improvement",
+      "source_sample_chars": 26,
+      "max_chars": 39,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2974345,
+        2758984,
+        2598788,
+        246221
+      ]
+    },
+    {
+      "field": "text_126",
+      "shape_id": 126,
+      "shape_name": "矩形: 剪去单角 125",
+      "type": "text",
+      "group_path": [
+        120
+      ],
+      "source_text": "04",
+      "source_sample_chars": 2,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1792671,
+        2239536,
+        834782,
+        834782
+      ]
+    },
+    {
+      "field": "text_128",
+      "shape_id": 128,
+      "shape_name": "文本框 127",
+      "type": "text",
+      "group_path": [
+        120,
+        127
+      ],
+      "source_text": "未来目标展望",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2939620,
+        2231263,
+        2339103,
+        523220
+      ]
+    },
+    {
+      "field": "text_129",
+      "shape_id": 129,
+      "shape_name": "文本框 128",
+      "type": "text",
+      "group_path": [
+        120,
+        127
+      ],
+      "source_text": "Future Goals Outlook",
+      "source_sample_chars": 20,
+      "max_chars": 30,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2974345,
+        2758984,
+        1996059,
+        246221
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

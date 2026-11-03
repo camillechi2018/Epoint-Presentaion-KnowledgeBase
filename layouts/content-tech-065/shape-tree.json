@@ -1,0 +1,668 @@
+{
+  "source_page": 65,
+  "recursive_shapes": [
+    {
+      "shape_id": 12,
+      "shape_name": "任意多边形: 形状 11",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        -55302,
+        3692120,
+        12252659,
+        778595
+      ]
+    },
+    {
+      "shape_id": 94,
+      "shape_name": "组合 93",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1225804
+      ]
+    },
+    {
+      "shape_id": 95,
+      "shape_name": "组合 94",
+      "shape_type": 6,
+      "group_path": [
+        94
+      ],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1084812
+      ]
+    },
+    {
+      "shape_id": 98,
+      "shape_name": "Freeform 3076",
+      "shape_type": 13,
+      "group_path": [
+        94,
+        95
+      ],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12171817,
+        809426
+      ],
+      "image_sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 99,
+      "shape_name": "图形 70",
+      "shape_type": 5,
+      "group_path": [
+        94,
+        95
+      ],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        5558,
+        402332,
+        12180884,
+        532358
+      ]
+    },
+    {
+      "shape_id": 100,
+      "shape_name": "组合 99",
+      "shape_type": 6,
+      "group_path": [
+        94,
+        95
+      ],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        3190011,
+        837645,
+        5811979,
+        61114
+      ]
+    },
+    {
+      "shape_id": 102,
+      "shape_name": "组合 101",
+      "shape_type": 6,
+      "group_path": [
+        94,
+        95,
+        100
+      ],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 107,
+      "shape_name": "任意多边形: 形状 106",
+      "shape_type": 5,
+      "group_path": [
+        94,
+        95,
+        100,
+        102
+      ],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 108,
+      "shape_name": "任意多边形: 形状 107",
+      "shape_type": 5,
+      "group_path": [
+        94,
+        95,
+        100,
+        102
+      ],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 109,
+      "shape_name": "任意多边形: 形状 108",
+      "shape_type": 5,
+      "group_path": [
+        94,
+        95,
+        100,
+        102
+      ],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 103,
+      "shape_name": "组合 102",
+      "shape_type": 6,
+      "group_path": [
+        94,
+        95,
+        100
+      ],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        8435884,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 104,
+      "shape_name": "任意多边形: 形状 103",
+      "shape_type": 5,
+      "group_path": [
+        94,
+        95,
+        100,
+        103
+      ],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 105,
+      "shape_name": "任意多边形: 形状 104",
+      "shape_type": 5,
+      "group_path": [
+        94,
+        95,
+        100,
+        103
+      ],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 106,
+      "shape_name": "任意多边形: 形状 105",
+      "shape_type": 5,
+      "group_path": [
+        94,
+        95,
+        100,
+        103
+      ],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 101,
+      "shape_name": "图片 100",
+      "shape_type": 13,
+      "group_path": [
+        94,
+        95
+      ],
+      "z_order_recursive": 14,
+      "local_bounds_emu": [
+        3686833,
+        651534,
+        4811984,
+        564680
+      ],
+      "image_sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "shape_type": 17,
+      "group_path": [
+        94
+      ],
+      "z_order_recursive": 15,
+      "local_bounds_emu": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ],
+      "text_preview": "项目合作推进路径",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 97,
+      "shape_name": "矩形 96",
+      "shape_type": 1,
+      "group_path": [
+        94
+      ],
+      "z_order_recursive": 16,
+      "local_bounds_emu": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ],
+      "text_preview": "以时间节点呈现客户合作、资金托管、规模增长过程",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "任意多边形: 形状 9",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 17,
+      "local_bounds_emu": [
+        -45083,
+        3652968,
+        12273092,
+        770886
+      ]
+    },
+    {
+      "shape_id": 11,
+      "shape_name": "任意多边形: 形状 10",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 18,
+      "local_bounds_emu": [
+        -55302,
+        3721339,
+        12312071,
+        657901
+      ]
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "任意多边形: 形状 14",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 19,
+      "local_bounds_emu": [
+        -55302,
+        3428642,
+        12273095,
+        677422
+      ]
+    },
+    {
+      "shape_id": 40,
+      "shape_name": "组合 39",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 20,
+      "local_bounds_emu": [
+        2725728,
+        4403074,
+        2413854,
+        1911297
+      ]
+    },
+    {
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "shape_type": 17,
+      "group_path": [
+        40
+      ],
+      "z_order_recursive": 21,
+      "local_bounds_emu": [
+        3008532,
+        5197084,
+        2413854,
+        400110
+      ],
+      "text_preview": "2023年11月",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "shape_type": 17,
+      "group_path": [
+        40
+      ],
+      "z_order_recursive": 22,
+      "local_bounds_emu": [
+        3381387,
+        5620965,
+        1668144,
+        596830
+      ],
+      "text_preview": "成立\n伟光人寿",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 17,
+      "shape_name": "直接连接符 16",
+      "shape_type": 9,
+      "group_path": [
+        40
+      ],
+      "z_order_recursive": 23,
+      "local_bounds_emu": [
+        4215459,
+        4306498,
+        0,
+        682162
+      ]
+    },
+    {
+      "shape_id": 41,
+      "shape_name": "组合 40",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 24,
+      "local_bounds_emu": [
+        7052420,
+        4403074,
+        2413854,
+        1911297
+      ]
+    },
+    {
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "shape_type": 17,
+      "group_path": [
+        41
+      ],
+      "z_order_recursive": 25,
+      "local_bounds_emu": [
+        7347112,
+        4935450,
+        2413854,
+        400110
+      ],
+      "text_preview": "2025年12月",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "shape_type": 17,
+      "group_path": [
+        41
+      ],
+      "z_order_recursive": 26,
+      "local_bounds_emu": [
+        7719967,
+        5359331,
+        1668144,
+        596830
+      ],
+      "text_preview": "签署资金\n托管合同",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 24,
+      "shape_name": "直接连接符 23",
+      "shape_type": 9,
+      "group_path": [
+        41
+      ],
+      "z_order_recursive": 27,
+      "local_bounds_emu": [
+        8554039,
+        4044864,
+        0,
+        682162
+      ]
+    },
+    {
+      "shape_id": 43,
+      "shape_name": "组合 42",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 28,
+      "local_bounds_emu": [
+        4889074,
+        1826273,
+        2413854,
+        1882823
+      ]
+    },
+    {
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "shape_type": 17,
+      "group_path": [
+        43
+      ],
+      "z_order_recursive": 29,
+      "local_bounds_emu": [
+        5627961,
+        1988208,
+        1668144,
+        596830
+      ],
+      "text_preview": "开启营销\n新征程",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "shape_type": 17,
+      "group_path": [
+        43
+      ],
+      "z_order_recursive": 30,
+      "local_bounds_emu": [
+        5255106,
+        2593940,
+        2413854,
+        400110
+      ],
+      "text_preview": "2024年6月",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 21,
+      "shape_name": "直接连接符 20",
+      "shape_type": 9,
+      "group_path": [
+        43
+      ],
+      "z_order_recursive": 31,
+      "local_bounds_emu": [
+        6462034,
+        3188869,
+        0,
+        682162
+      ]
+    },
+    {
+      "shape_id": 42,
+      "shape_name": "组合 41",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 32,
+      "local_bounds_emu": [
+        9215765,
+        1826273,
+        2413854,
+        1882823
+      ]
+    },
+    {
+      "shape_id": 27,
+      "shape_name": "直接连接符 26",
+      "shape_type": 9,
+      "group_path": [
+        42
+      ],
+      "z_order_recursive": 33,
+      "local_bounds_emu": [
+        10664456,
+        3068469,
+        0,
+        682162
+      ]
+    },
+    {
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "shape_type": 17,
+      "group_path": [
+        42
+      ],
+      "z_order_recursive": 34,
+      "local_bounds_emu": [
+        9457528,
+        2473540,
+        2413854,
+        400110
+      ],
+      "text_preview": "2026年1月",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "shape_type": 17,
+      "group_path": [
+        42
+      ],
+      "z_order_recursive": 35,
+      "local_bounds_emu": [
+        9830384,
+        1867808,
+        1668144,
+        596830
+      ],
+      "text_preview": "合作规模20.17亿\n最高规模421亿",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 46,
+      "shape_name": "组合 45",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 36,
+      "local_bounds_emu": [
+        562382,
+        1826273,
+        2413854,
+        1882823
+      ]
+    },
+    {
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "shape_type": 17,
+      "group_path": [
+        46
+      ],
+      "z_order_recursive": 37,
+      "local_bounds_emu": [
+        5627961,
+        1988208,
+        1668144,
+        596830
+      ],
+      "text_preview": "建立\n高层互信",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "shape_type": 17,
+      "group_path": [
+        46
+      ],
+      "z_order_recursive": 38,
+      "local_bounds_emu": [
+        5255106,
+        2593940,
+        2413854,
+        400110
+      ],
+      "text_preview": "2020年1月",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 50,
+      "shape_name": "直接连接符 49",
+      "shape_type": 9,
+      "group_path": [
+        46
+      ],
+      "z_order_recursive": 39,
+      "local_bounds_emu": [
+        6462034,
+        3188869,
+        0,
+        682162
+      ]
+    },
+    {
+      "shape_id": 9,
+      "shape_name": "任意多边形: 形状 8",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 40,
+      "local_bounds_emu": [
+        -55302,
+        3419135,
+        12262878,
+        657900
+      ]
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "图片 2",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 41,
+      "local_bounds_emu": [
+        11057890,
+        6476365,
+        893445,
+        191770
+      ],
+      "image_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_role": "brand_logo_locked"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

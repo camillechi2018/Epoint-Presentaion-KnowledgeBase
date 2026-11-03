@@ -1,17 +1,18 @@
 {
   "status": "pass",
-  "physical_pages": 611,
-  "component_entries": 324,
+  "physical_pages": 696,
+  "component_entries": 409,
   "exact_pair_candidates": 287,
-  "source_logo_entries": 288,
+  "source_logo_entries": 359,
   "visual_reviewed_entries": 14,
   "motion_prototype_entries": 1,
   "source_counts": {
     "blue": 295,
     "red": 296,
-    "cover": 20
+    "cover": 20,
+    "tech": 85
   },
-  "manifest_files": 2248,
+  "manifest_files": 2862,
   "issues": [],
   "issue_count": 0,
   "limits": [

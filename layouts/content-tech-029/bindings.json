@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "Oval 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "母婴\n人群",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5884862,
+        2166180,
+        2160588,
+        2160000
+      ]
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "Oval 5",
+      "type": "text",
+      "group_path": [],
+      "source_text": "新时代\n年轻人群",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4117975,
+        2166180,
+        2160588,
+        2160000
+      ]
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "group_path": [
+        3
+      ],
+      "source_text": "目标人群画像对比",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "group_path": [],
+      "source_text": "更注重品质优先与产品\n适用性，孕妇产期口腔脆弱敏感，更需要呵护对待护理",
+      "source_sample_chars": 35,
+      "max_chars": 52,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8618935,
+        2884161,
+        2615034,
+        797206
+      ]
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "group_path": [],
+      "source_text": "颜值的首要保证，注重牙齿护理、美白清洁最为关键，敢于尝鲜新品牌，品质力与设计感有着首要吸引力",
+      "source_sample_chars": 46,
+      "max_chars": 69,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        958031,
+        2764128,
+        2674330,
+        797206
+      ]
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "group_path": [],
+      "source_text": "这两个群体既有明显的代际分野\n又在追求“长期主义”与“情绪价值”上呈现出惊人的内核同源性",
+      "source_sample_chars": 44,
+      "max_chars": 66,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1391920,
+        4863027,
+        9408160,
+        774636
+      ]
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "矩形 3",
+      "type": "text",
+      "group_path": [],
+      "source_text": "对比年轻人群与母婴人群的消费特征、情绪价值与产品诉求",
+      "source_sample_chars": 26,
+      "max_chars": 39,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 15,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          3,
+          8
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 18,
+        "shape_name": "图片 17",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          3,
+          8
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 28,
+        "shape_name": "图片 27",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

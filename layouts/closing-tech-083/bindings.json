@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_338",
+      "shape_id": 338,
+      "shape_name": "文本框 337",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Thanks",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4606058,
+        1862182,
+        2979886,
+        639497
+      ]
+    },
+    {
+      "field": "text_339",
+      "shape_id": 339,
+      "shape_name": "文本框 338",
+      "type": "text",
+      "group_path": [],
+      "source_text": "谢谢观看",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_display",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3963202,
+        2783761,
+        4265598,
+        1432059
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "visual index only; field semantics provisional"
+}

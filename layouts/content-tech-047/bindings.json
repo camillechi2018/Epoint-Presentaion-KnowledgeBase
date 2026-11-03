@@ -1,0 +1,321 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "group_path": [
+        69
+      ],
+      "source_text": "生态终端能力矩阵",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "ïŝ1ïďê",
+      "type": "text",
+      "group_path": [],
+      "source_text": "购物助手\n评论卡片",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8400903,
+        3905368,
+        1487284,
+        524824
+      ]
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "ï$ľiḍê",
+      "type": "text",
+      "group_path": [],
+      "source_text": "零屏种草\n好物热搜榜",
+      "source_sample_chars": 10,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2303813,
+        3905368,
+        1487284,
+        524824
+      ]
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "ïSḻïḋè",
+      "type": "text",
+      "group_path": [],
+      "source_text": "购物助手\n物流卡片",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7118533,
+        2963063,
+        1556609,
+        524824
+      ]
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "ï$ľiḍê",
+      "type": "text",
+      "group_path": [],
+      "source_text": "搜索暗词\n淘宝 Tab",
+      "source_sample_chars": 11,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3516858,
+        2963063,
+        1556609,
+        524824
+      ]
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "îṡľïḑe",
+      "type": "text",
+      "group_path": [],
+      "source_text": "端内预约\n终端全场景预约",
+      "source_sample_chars": 12,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5374229,
+        2426843,
+        1443543,
+        524824
+      ]
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "矩形 16",
+      "type": "text",
+      "group_path": [],
+      "source_text": "购物生态",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4889538,
+        4591465,
+        2412962,
+        584775
+      ]
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "group_path": [],
+      "source_text": "终端赋能+打破壁垒",
+      "source_sample_chars": 9,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4073340,
+        5207957,
+        4045364,
+        369332
+      ]
+    },
+    {
+      "field": "text_147",
+      "shape_id": 147,
+      "shape_name": "文本框 146",
+      "type": "text",
+      "group_path": [
+        144
+      ],
+      "source_text": "查",
+      "source_sample_chars": 1,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9955662,
+        4133698,
+        543739,
+        523220
+      ]
+    },
+    {
+      "field": "text_160",
+      "shape_id": 160,
+      "shape_name": "文本框 159",
+      "type": "text",
+      "group_path": [
+        157
+      ],
+      "source_text": "搜",
+      "source_sample_chars": 1,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9955662,
+        4133698,
+        543739,
+        523220
+      ]
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "group_path": [
+        139
+      ],
+      "source_text": "评",
+      "source_sample_chars": 1,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9955662,
+        4133698,
+        543739,
+        523220
+      ]
+    },
+    {
+      "field": "text_173",
+      "shape_id": 173,
+      "shape_name": "文本框 172",
+      "type": "text",
+      "group_path": [
+        170
+      ],
+      "source_text": "逛",
+      "source_sample_chars": 1,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9955662,
+        4133698,
+        543739,
+        523220
+      ]
+    },
+    {
+      "field": "text_186",
+      "shape_id": 186,
+      "shape_name": "文本框 185",
+      "type": "text",
+      "group_path": [
+        183
+      ],
+      "source_text": "购",
+      "source_sample_chars": 1,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9955662,
+        4133698,
+        543739,
+        523220
+      ]
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "矩形 7",
+      "type": "text",
+      "group_path": [],
+      "source_text": "展示购物生态中的搜索、评价、推荐、预约等终端触点能力",
+      "source_sample_chars": 26,
+      "max_chars": 39,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1285874,
+        1056165,
+        9620252,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 74,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          69,
+          70
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 77,
+        "shape_name": "图片 76",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          69,
+          70
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

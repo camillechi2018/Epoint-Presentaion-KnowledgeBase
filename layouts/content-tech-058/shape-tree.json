@@ -1,0 +1,1249 @@
+{
+  "source_page": 58,
+  "recursive_shapes": [
+    {
+      "shape_id": 203,
+      "shape_name": "组合 202",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        666810,
+        1643387,
+        10858379,
+        4766267
+      ]
+    },
+    {
+      "shape_id": 200,
+      "shape_name": "弧形 199",
+      "shape_type": 1,
+      "group_path": [
+        203
+      ],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        6363057,
+        2077959,
+        5384083,
+        4058422
+      ]
+    },
+    {
+      "shape_id": 202,
+      "shape_name": "弧形 201",
+      "shape_type": 1,
+      "group_path": [
+        203
+      ],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        559741,
+        2077959,
+        5384083,
+        4058422
+      ]
+    },
+    {
+      "shape_id": 29,
+      "shape_name": "组合 28",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1225804
+      ]
+    },
+    {
+      "shape_id": 30,
+      "shape_name": "组合 29",
+      "shape_type": 6,
+      "group_path": [
+        29
+      ],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12180884,
+        1084812
+      ]
+    },
+    {
+      "shape_id": 34,
+      "shape_name": "Freeform 3076",
+      "shape_type": 13,
+      "group_path": [
+        29,
+        30
+      ],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        5558,
+        131402,
+        12171817,
+        809426
+      ],
+      "image_sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 35,
+      "shape_name": "图形 70",
+      "shape_type": 5,
+      "group_path": [
+        29,
+        30
+      ],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        5558,
+        402332,
+        12180884,
+        532358
+      ]
+    },
+    {
+      "shape_id": 36,
+      "shape_name": "组合 35",
+      "shape_type": 6,
+      "group_path": [
+        29,
+        30
+      ],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        3190011,
+        837645,
+        5811979,
+        61114
+      ]
+    },
+    {
+      "shape_id": 38,
+      "shape_name": "组合 37",
+      "shape_type": 6,
+      "group_path": [
+        29,
+        30,
+        36
+      ],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 43,
+      "shape_name": "任意多边形: 形状 42",
+      "shape_type": 5,
+      "group_path": [
+        29,
+        30,
+        36,
+        38
+      ],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 44,
+      "shape_name": "任意多边形: 形状 43",
+      "shape_type": 5,
+      "group_path": [
+        29,
+        30,
+        36,
+        38
+      ],
+      "z_order_recursive": 10,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 45,
+      "shape_name": "任意多边形: 形状 44",
+      "shape_type": 5,
+      "group_path": [
+        29,
+        30,
+        36,
+        38
+      ],
+      "z_order_recursive": 11,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 39,
+      "shape_name": "组合 38",
+      "shape_type": 6,
+      "group_path": [
+        29,
+        30,
+        36
+      ],
+      "z_order_recursive": 12,
+      "local_bounds_emu": [
+        8435884,
+        837645,
+        584173,
+        61114
+      ]
+    },
+    {
+      "shape_id": 40,
+      "shape_name": "任意多边形: 形状 39",
+      "shape_type": 5,
+      "group_path": [
+        29,
+        30,
+        36,
+        39
+      ],
+      "z_order_recursive": 13,
+      "local_bounds_emu": [
+        3644504,
+        849439,
+        147747,
+        49320
+      ]
+    },
+    {
+      "shape_id": 41,
+      "shape_name": "任意多边形: 形状 40",
+      "shape_type": 5,
+      "group_path": [
+        29,
+        30,
+        36,
+        39
+      ],
+      "z_order_recursive": 14,
+      "local_bounds_emu": [
+        3426241,
+        843685,
+        147824,
+        49444
+      ]
+    },
+    {
+      "shape_id": 42,
+      "shape_name": "任意多边形: 形状 41",
+      "shape_type": 5,
+      "group_path": [
+        29,
+        30,
+        36,
+        39
+      ],
+      "z_order_recursive": 15,
+      "local_bounds_emu": [
+        3208078,
+        837645,
+        147812,
+        49445
+      ]
+    },
+    {
+      "shape_id": 37,
+      "shape_name": "图片 36",
+      "shape_type": 13,
+      "group_path": [
+        29,
+        30
+      ],
+      "z_order_recursive": 16,
+      "local_bounds_emu": [
+        3686833,
+        651534,
+        4811984,
+        564680
+      ],
+      "image_sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+      "semantic_role": "source_media_unclassified"
+    },
+    {
+      "shape_id": 31,
+      "shape_name": "组合 30",
+      "shape_type": 6,
+      "group_path": [
+        29
+      ],
+      "z_order_recursive": 17,
+      "local_bounds_emu": [
+        1815439,
+        416934,
+        8561121,
+        940272
+      ]
+    },
+    {
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "shape_type": 17,
+      "group_path": [
+        29,
+        31
+      ],
+      "z_order_recursive": 18,
+      "local_bounds_emu": [
+        1815442,
+        416934,
+        8561118,
+        430887
+      ],
+      "text_preview": "开放生态合作框架",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 33,
+      "shape_name": "矩形 32",
+      "shape_type": 1,
+      "group_path": [
+        29,
+        31
+      ],
+      "z_order_recursive": 19,
+      "local_bounds_emu": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ],
+      "text_preview": "围绕合作伙伴、平台能力与行业资源构建生态共创体系",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 8,
+      "shape_name": "任意多边形: 形状 7",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 20,
+      "local_bounds_emu": [
+        4900017,
+        1730255,
+        2416662,
+        2296265
+      ]
+    },
+    {
+      "shape_id": 47,
+      "shape_name": "任意多边形: 形状 46",
+      "shape_type": 5,
+      "group_path": [],
+      "z_order_recursive": 21,
+      "local_bounds_emu": [
+        4851020,
+        1934861,
+        2514654,
+        2389377
+      ]
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "矩形 12",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 22,
+      "local_bounds_emu": [
+        4647637,
+        2078466,
+        2896726,
+        1077218
+      ],
+      "text_preview": "生态\n开放计划",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 4,
+      "shape_name": "椭圆 3",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 23,
+      "local_bounds_emu": [
+        3954030,
+        3205072,
+        4308634,
+        1396721
+      ]
+    },
+    {
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 24,
+      "local_bounds_emu": [
+        4373520,
+        2461900,
+        3469654,
+        2613744
+      ],
+      "text_preview": "||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "椭圆 5",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 25,
+      "local_bounds_emu": [
+        4725287,
+        3298895,
+        2766119,
+        899454
+      ]
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "矩形 13",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 26,
+      "local_bounds_emu": [
+        4262704,
+        3162474,
+        3666592,
+        637205
+      ],
+      "text_preview": "欢迎合作伙伴愿意和\n我们一起生态共创",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 15,
+      "shape_name": "椭圆 14",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 27,
+      "local_bounds_emu": [
+        2917779,
+        3040449,
+        6362713,
+        1940689
+      ]
+    },
+    {
+      "shape_id": 107,
+      "shape_name": "组合 106",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 28,
+      "local_bounds_emu": [
+        8044597,
+        3112747,
+        286482,
+        313854
+      ]
+    },
+    {
+      "shape_id": 108,
+      "shape_name": "椭圆 107",
+      "shape_type": 1,
+      "group_path": [
+        107
+      ],
+      "z_order_recursive": 29,
+      "local_bounds_emu": [
+        5760142,
+        2794000,
+        115340,
+        115340
+      ]
+    },
+    {
+      "shape_id": 109,
+      "shape_name": "椭圆 108",
+      "shape_type": 1,
+      "group_path": [
+        107
+      ],
+      "z_order_recursive": 30,
+      "local_bounds_emu": [
+        5719503,
+        2753361,
+        196618,
+        196618
+      ]
+    },
+    {
+      "shape_id": 49,
+      "shape_name": "组合 48",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 31,
+      "local_bounds_emu": [
+        9136460,
+        3853866,
+        286482,
+        313854
+      ]
+    },
+    {
+      "shape_id": 50,
+      "shape_name": "椭圆 49",
+      "shape_type": 1,
+      "group_path": [
+        49
+      ],
+      "z_order_recursive": 32,
+      "local_bounds_emu": [
+        5760142,
+        2794000,
+        115340,
+        115340
+      ]
+    },
+    {
+      "shape_id": 51,
+      "shape_name": "椭圆 50",
+      "shape_type": 1,
+      "group_path": [
+        49
+      ],
+      "z_order_recursive": 33,
+      "local_bounds_emu": [
+        5719503,
+        2753361,
+        196618,
+        196618
+      ]
+    },
+    {
+      "shape_id": 52,
+      "shape_name": "组合 51",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 34,
+      "local_bounds_emu": [
+        8124024,
+        4585707,
+        286482,
+        313854
+      ]
+    },
+    {
+      "shape_id": 53,
+      "shape_name": "椭圆 52",
+      "shape_type": 1,
+      "group_path": [
+        52
+      ],
+      "z_order_recursive": 35,
+      "local_bounds_emu": [
+        5760142,
+        2794000,
+        115340,
+        115340
+      ]
+    },
+    {
+      "shape_id": 54,
+      "shape_name": "椭圆 53",
+      "shape_type": 1,
+      "group_path": [
+        52
+      ],
+      "z_order_recursive": 36,
+      "local_bounds_emu": [
+        5719503,
+        2753361,
+        196618,
+        196618
+      ]
+    },
+    {
+      "shape_id": 128,
+      "shape_name": "组合 127",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 37,
+      "local_bounds_emu": [
+        3873166,
+        3112747,
+        286482,
+        313854
+      ]
+    },
+    {
+      "shape_id": 135,
+      "shape_name": "椭圆 134",
+      "shape_type": 1,
+      "group_path": [
+        128
+      ],
+      "z_order_recursive": 38,
+      "local_bounds_emu": [
+        5760142,
+        2794000,
+        115340,
+        115340
+      ]
+    },
+    {
+      "shape_id": 136,
+      "shape_name": "椭圆 135",
+      "shape_type": 1,
+      "group_path": [
+        128
+      ],
+      "z_order_recursive": 39,
+      "local_bounds_emu": [
+        5719503,
+        2753361,
+        196618,
+        196618
+      ]
+    },
+    {
+      "shape_id": 129,
+      "shape_name": "组合 128",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 40,
+      "local_bounds_emu": [
+        2781303,
+        3853867,
+        286482,
+        313854
+      ]
+    },
+    {
+      "shape_id": 133,
+      "shape_name": "椭圆 132",
+      "shape_type": 1,
+      "group_path": [
+        129
+      ],
+      "z_order_recursive": 41,
+      "local_bounds_emu": [
+        5760142,
+        2794000,
+        115340,
+        115340
+      ]
+    },
+    {
+      "shape_id": 134,
+      "shape_name": "椭圆 133",
+      "shape_type": 1,
+      "group_path": [
+        129
+      ],
+      "z_order_recursive": 42,
+      "local_bounds_emu": [
+        5719503,
+        2753361,
+        196618,
+        196618
+      ]
+    },
+    {
+      "shape_id": 130,
+      "shape_name": "组合 129",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 43,
+      "local_bounds_emu": [
+        3793738,
+        4585708,
+        286482,
+        313854
+      ]
+    },
+    {
+      "shape_id": 131,
+      "shape_name": "椭圆 130",
+      "shape_type": 1,
+      "group_path": [
+        130
+      ],
+      "z_order_recursive": 44,
+      "local_bounds_emu": [
+        5760142,
+        2794000,
+        115340,
+        115340
+      ]
+    },
+    {
+      "shape_id": 132,
+      "shape_name": "椭圆 131",
+      "shape_type": 1,
+      "group_path": [
+        130
+      ],
+      "z_order_recursive": 45,
+      "local_bounds_emu": [
+        5719503,
+        2753361,
+        196618,
+        196618
+      ]
+    },
+    {
+      "shape_id": 66,
+      "shape_name": "矩形 65",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 46,
+      "local_bounds_emu": [
+        8713501,
+        2262715,
+        1174986,
+        427177
+      ],
+      "text_preview": "区域推广",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 67,
+      "shape_name": "组合 66",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 47,
+      "local_bounds_emu": [
+        8501148,
+        2522875,
+        1599691,
+        484745
+      ]
+    },
+    {
+      "shape_id": 68,
+      "shape_name": "椭圆 67",
+      "shape_type": 1,
+      "group_path": [
+        67
+      ],
+      "z_order_recursive": 48,
+      "local_bounds_emu": [
+        13273457,
+        1425671,
+        1663989,
+        376979
+      ]
+    },
+    {
+      "shape_id": 69,
+      "shape_name": "弧形 68",
+      "shape_type": 1,
+      "group_path": [
+        67
+      ],
+      "z_order_recursive": 49,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 70,
+      "shape_name": "弧形 69",
+      "shape_type": 1,
+      "group_path": [
+        67
+      ],
+      "z_order_recursive": 50,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 71,
+      "shape_name": "弧形 70",
+      "shape_type": 1,
+      "group_path": [
+        67
+      ],
+      "z_order_recursive": 51,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 162,
+      "shape_name": "矩形 161",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 52,
+      "local_bounds_emu": [
+        8991203,
+        4777584,
+        1111194,
+        427177
+      ],
+      "text_preview": "C端链接",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 163,
+      "shape_name": "组合 162",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 53,
+      "local_bounds_emu": [
+        8746954,
+        5037744,
+        1599691,
+        484745
+      ]
+    },
+    {
+      "shape_id": 164,
+      "shape_name": "椭圆 163",
+      "shape_type": 1,
+      "group_path": [
+        163
+      ],
+      "z_order_recursive": 54,
+      "local_bounds_emu": [
+        13273457,
+        1425671,
+        1663989,
+        376979
+      ]
+    },
+    {
+      "shape_id": 165,
+      "shape_name": "弧形 164",
+      "shape_type": 1,
+      "group_path": [
+        163
+      ],
+      "z_order_recursive": 55,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 166,
+      "shape_name": "弧形 165",
+      "shape_type": 1,
+      "group_path": [
+        163
+      ],
+      "z_order_recursive": 56,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 167,
+      "shape_name": "弧形 166",
+      "shape_type": 1,
+      "group_path": [
+        163
+      ],
+      "z_order_recursive": 57,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 169,
+      "shape_name": "矩形 168",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 58,
+      "local_bounds_emu": [
+        9923097,
+        3520149,
+        1174986,
+        427177
+      ],
+      "text_preview": "平台支持",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 170,
+      "shape_name": "组合 169",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 59,
+      "local_bounds_emu": [
+        9710744,
+        3780309,
+        1599691,
+        484745
+      ]
+    },
+    {
+      "shape_id": 171,
+      "shape_name": "椭圆 170",
+      "shape_type": 1,
+      "group_path": [
+        170
+      ],
+      "z_order_recursive": 60,
+      "local_bounds_emu": [
+        13273457,
+        1425671,
+        1663989,
+        376979
+      ]
+    },
+    {
+      "shape_id": 172,
+      "shape_name": "弧形 171",
+      "shape_type": 1,
+      "group_path": [
+        170
+      ],
+      "z_order_recursive": 61,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 173,
+      "shape_name": "弧形 172",
+      "shape_type": 1,
+      "group_path": [
+        170
+      ],
+      "z_order_recursive": 62,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 174,
+      "shape_name": "弧形 173",
+      "shape_type": 1,
+      "group_path": [
+        170
+      ],
+      "z_order_recursive": 63,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 141,
+      "shape_name": "矩形 140",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 64,
+      "local_bounds_emu": [
+        2303516,
+        2262715,
+        1174986,
+        427177
+      ],
+      "text_preview": "行业合作",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 142,
+      "shape_name": "组合 141",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 65,
+      "local_bounds_emu": [
+        2091163,
+        2522875,
+        1599691,
+        484745
+      ]
+    },
+    {
+      "shape_id": 143,
+      "shape_name": "椭圆 142",
+      "shape_type": 1,
+      "group_path": [
+        142
+      ],
+      "z_order_recursive": 66,
+      "local_bounds_emu": [
+        13273457,
+        1425671,
+        1663989,
+        376979
+      ]
+    },
+    {
+      "shape_id": 144,
+      "shape_name": "弧形 143",
+      "shape_type": 1,
+      "group_path": [
+        142
+      ],
+      "z_order_recursive": 67,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 145,
+      "shape_name": "弧形 144",
+      "shape_type": 1,
+      "group_path": [
+        142
+      ],
+      "z_order_recursive": 68,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 146,
+      "shape_name": "弧形 145",
+      "shape_type": 1,
+      "group_path": [
+        142
+      ],
+      "z_order_recursive": 69,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 155,
+      "shape_name": "矩形 154",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 70,
+      "local_bounds_emu": [
+        2057710,
+        4777584,
+        1174986,
+        427177
+      ],
+      "text_preview": "技术支持",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 156,
+      "shape_name": "组合 155",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 71,
+      "local_bounds_emu": [
+        1845357,
+        5037744,
+        1599691,
+        484745
+      ]
+    },
+    {
+      "shape_id": 157,
+      "shape_name": "椭圆 156",
+      "shape_type": 1,
+      "group_path": [
+        156
+      ],
+      "z_order_recursive": 72,
+      "local_bounds_emu": [
+        13273457,
+        1425671,
+        1663989,
+        376979
+      ]
+    },
+    {
+      "shape_id": 158,
+      "shape_name": "弧形 157",
+      "shape_type": 1,
+      "group_path": [
+        156
+      ],
+      "z_order_recursive": 73,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 159,
+      "shape_name": "弧形 158",
+      "shape_type": 1,
+      "group_path": [
+        156
+      ],
+      "z_order_recursive": 74,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 160,
+      "shape_name": "弧形 159",
+      "shape_type": 1,
+      "group_path": [
+        156
+      ],
+      "z_order_recursive": 75,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 148,
+      "shape_name": "矩形 147",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 76,
+      "local_bounds_emu": [
+        1093920,
+        3520149,
+        1174986,
+        427177
+      ],
+      "text_preview": "产品合作",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 149,
+      "shape_name": "组合 148",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 77,
+      "local_bounds_emu": [
+        881567,
+        3780309,
+        1599691,
+        484745
+      ]
+    },
+    {
+      "shape_id": 150,
+      "shape_name": "椭圆 149",
+      "shape_type": 1,
+      "group_path": [
+        149
+      ],
+      "z_order_recursive": 78,
+      "local_bounds_emu": [
+        13273457,
+        1425671,
+        1663989,
+        376979
+      ]
+    },
+    {
+      "shape_id": 151,
+      "shape_name": "弧形 150",
+      "shape_type": 1,
+      "group_path": [
+        149
+      ],
+      "z_order_recursive": 79,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 152,
+      "shape_name": "弧形 151",
+      "shape_type": 1,
+      "group_path": [
+        149
+      ],
+      "z_order_recursive": 80,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 153,
+      "shape_name": "弧形 152",
+      "shape_type": 1,
+      "group_path": [
+        149
+      ],
+      "z_order_recursive": 81,
+      "local_bounds_emu": [
+        13045183,
+        1415219,
+        2120536,
+        520037
+      ]
+    },
+    {
+      "shape_id": 3,
+      "shape_name": "图片 2",
+      "shape_type": 13,
+      "group_path": [],
+      "z_order_recursive": 82,
+      "local_bounds_emu": [
+        11057890,
+        6476365,
+        893445,
+        191770
+      ],
+      "image_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "semantic_role": "brand_logo_locked"
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

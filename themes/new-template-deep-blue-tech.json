@@ -1,0 +1,26 @@
+{
+  "id": "deep-blue-tech",
+  "status": "provisional",
+  "source_theme": "ppt/theme/theme1.xml",
+  "color_slots": {
+    "dk1": "000000",
+    "lt1": "FFFFFF",
+    "dk2": "44546A",
+    "lt2": "E7E6E6",
+    "accent1": "0F96FF",
+    "accent2": "70D9FF",
+    "accent3": "0FFFE8",
+    "accent4": "026DCE",
+    "accent5": "E25B2F",
+    "accent6": "70AD47"
+  },
+  "semantic_roles": {
+    "brand_primary": "accent1",
+    "tech_cyan": "accent2",
+    "tech_teal": "accent3",
+    "tech_blue": "accent4",
+    "canvas_deep": "requires_background_media_audit"
+  },
+  "logo_color_policy": "locked; never recolor logo",
+  "gradients_svg_charts": "per-object mapping pending"
+}

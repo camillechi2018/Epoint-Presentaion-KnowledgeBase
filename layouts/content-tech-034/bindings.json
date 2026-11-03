@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "group_path": [],
+      "source_text": "明确团队的核心价值观和行为准则，营造积极向上的工作氛围。\n通过团建活动、内部沟通等方式，强化团队文化的认同感。\n核心价值观引领团队前行",
+      "source_sample_chars": 67,
+      "max_chars": 100,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1200452,
+        3212706,
+        1646523,
+        2101153
+      ]
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "group_path": [],
+      "source_text": "团队文化塑造",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1028460,
+        2782913,
+        1990506,
+        369332
+      ]
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "group_path": [],
+      "source_text": "各司其职，协同作战\n根据团队成员的能力和兴趣，合理分配角色和任务，确保团队整体效能最大化。\n建立有效的协同机制，如定期会议、项目进度跟踪等，确保信息流通和资源共享。",
+      "source_sample_chars": 82,
+      "max_chars": 123,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3229708,
+        3212706,
+        1646523,
+        2355068
+      ]
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "group_path": [],
+      "source_text": "角色分工与协同",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2999566,
+        2782913,
+        2106806,
+        369332
+      ]
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "group_path": [],
+      "source_text": "化解冲突，促进和谐\n面对团队内部的冲突，采取积极沟通、公正调解的方式，寻求双方都能接受的解决方案。\n培养团队成员的沟通技巧和情绪管理能力，减少冲突的发生。",
+      "source_sample_chars": 77,
+      "max_chars": 115,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5263056,
+        3212706,
+        1666971,
+        2101153
+      ]
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "group_path": [],
+      "source_text": "冲突解决与沟通",
+      "source_sample_chars": 7,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4983110,
+        2782913,
+        2206415,
+        369332
+      ]
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "group_path": [],
+      "source_text": "激发潜能，肯定贡献\n通过奖励机制、晋升机会等方式，激励团队成员不断超越自我，认可他们的努力和贡献。\n建立公平、透明的评价体系，确保激励措施的有效性。",
+      "source_sample_chars": 74,
+      "max_chars": 111,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7299867,
+        3212706,
+        1646523,
+        2101153
+      ]
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "group_path": [],
+      "source_text": "激励与认可",
+      "source_sample_chars": 5,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7276723,
+        2782913,
+        1692810,
+        369332
+      ]
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "group_path": [],
+      "source_text": "共同成长，持续进步\n鼓励团队成员不断学习和提升自我，为团队注入新的活力和创意。\n定期评估团队整体能力，制定针对性的培训和发展计划。",
+      "source_sample_chars": 65,
+      "max_chars": 97,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9331845,
+        3212706,
+        1646523,
+        1847237
+      ]
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "group_path": [],
+      "source_text": "持续学习",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9308701,
+        2782913,
+        1692810,
+        369332
+      ]
+    },
+    {
+      "field": "text_3088",
+      "shape_id": 3088,
+      "shape_name": "文本框 3087",
+      "type": "text",
+      "group_path": [
+        3090,
+        3087
+      ],
+      "source_text": "团队治理机制",
+      "source_sample_chars": 6,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_3089",
+      "shape_id": 3089,
+      "shape_name": "矩形 3088",
+      "type": "text",
+      "group_path": [
+        3090,
+        3087
+      ],
+      "source_text": "从文化塑造、角色分工到激励与学习，构建团队高效运作体系",
+      "source_sample_chars": 27,
+      "max_chars": 40,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3080,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          3090,
+          3086
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 3085,
+        "shape_name": "图片 3084",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          3090,
+          3086
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

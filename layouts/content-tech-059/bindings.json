@@ -1,0 +1,297 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "group_path": [
+        20,
+        22
+      ],
+      "source_text": "AI芯片能力图谱",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815442,
+        416934,
+        8561118,
+        430887
+      ]
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "矩形 23",
+      "type": "text",
+      "group_path": [
+        20,
+        22
+      ],
+      "source_text": "围绕SoC架构、应用场景、软件生态与竞争优势展示芯片能力",
+      "source_sample_chars": 28,
+      "max_chars": 42,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ]
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "TextBox 53",
+      "type": "text",
+      "group_path": [],
+      "source_text": "SoC",
+      "source_sample_chars": 3,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        2709692,
+        3838220,
+        1492483,
+        373025
+      ]
+    },
+    {
+      "field": "text_110",
+      "shape_id": 110,
+      "shape_name": "文本框 109",
+      "type": "text",
+      "group_path": [],
+      "source_text": "IPU SoC\n解决方案",
+      "source_sample_chars": 12,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6547571,
+        1906738,
+        1128822,
+        435196
+      ]
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "文本框 111",
+      "type": "text",
+      "group_path": [],
+      "source_text": "采用台积电7nm工艺，集成594亿个晶体管，包含1472个独立处理器核和超过900MB的片上存储，支持大规模并行处理",
+      "source_sample_chars": 58,
+      "max_chars": 87,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7809612,
+        1914768,
+        3371674,
+        419135
+      ]
+    },
+    {
+      "field": "text_270",
+      "shape_id": 270,
+      "shape_name": "文本框 269",
+      "type": "text",
+      "group_path": [],
+      "source_text": "FPGA的\nIPU SoC",
+      "source_sample_chars": 13,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6547571,
+        2790201,
+        1128822,
+        435196
+      ]
+    },
+    {
+      "field": "text_271",
+      "shape_id": 271,
+      "shape_name": "文本框 270",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Intel推出的IPU（基础设施处理单元）主要用于数据中心和云计算，旨在优化网络和存储负载",
+      "source_sample_chars": 45,
+      "max_chars": 67,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7809613,
+        2798231,
+        3194739,
+        419135
+      ]
+    },
+    {
+      "field": "text_287",
+      "shape_id": 287,
+      "shape_name": "文本框 286",
+      "type": "text",
+      "group_path": [],
+      "source_text": "自动驾驶和\n汽车电子应用",
+      "source_sample_chars": 12,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6547571,
+        3673664,
+        1128822,
+        435196
+      ]
+    },
+    {
+      "field": "text_288",
+      "shape_id": 288,
+      "shape_name": "文本框 287",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Apollo ACU：采用Xilinx（赛灵思）Zynq UltraScale+ MPSoC，支持多传感器融合用于自主泊车（AVP）系统。",
+      "source_sample_chars": 69,
+      "max_chars": 103,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7809612,
+        3681694,
+        3371674,
+        419135
+      ]
+    },
+    {
+      "field": "text_304",
+      "shape_id": 304,
+      "shape_name": "文本框 303",
+      "type": "text",
+      "group_path": [],
+      "source_text": "IPU的软件\n生态与工具链",
+      "source_sample_chars": 13,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6547571,
+        4557126,
+        1128822,
+        435196
+      ]
+    },
+    {
+      "field": "text_305",
+      "shape_id": 305,
+      "shape_name": "文本框 304",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Graphcore Poplar SDK：支持TensorFlow、PyTorch、ONNX等主流AI框架，并提供BSP编程模型，简化并行计算开发",
+      "source_sample_chars": 73,
+      "max_chars": 109,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7809612,
+        4566397,
+        3371674,
+        416653
+      ]
+    },
+    {
+      "field": "text_321",
+      "shape_id": 321,
+      "shape_name": "文本框 320",
+      "type": "text",
+      "group_path": [],
+      "source_text": "IPU的定位\n与竞争优势",
+      "source_sample_chars": 12,
+      "max_chars": 24,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6547571,
+        5440587,
+        1128822,
+        435196
+      ]
+    },
+    {
+      "field": "text_322",
+      "shape_id": 322,
+      "shape_name": "文本框 321",
+      "type": "text",
+      "group_path": [],
+      "source_text": "AI训练与推理：IPU在稀疏数据处理（如NLP、推荐系统）上比GPU更具优势，例如在BERT模型训练中比NVIDIA V100快25%",
+      "source_sample_chars": 67,
+      "max_chars": 100,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        7809612,
+        5449858,
+        3371674,
+        416653
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 25,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          20,
+          21
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 28,
+        "shape_name": "图片 27",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          20,
+          21
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}

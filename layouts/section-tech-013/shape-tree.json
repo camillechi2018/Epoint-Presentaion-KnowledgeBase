@@ -1,0 +1,154 @@
+{
+  "source_page": 13,
+  "recursive_shapes": [
+    {
+      "shape_id": 7,
+      "shape_name": "椭圆 6",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 0,
+      "local_bounds_emu": [
+        -1643063,
+        -3093120,
+        15478125,
+        8291265
+      ]
+    },
+    {
+      "shape_id": 8,
+      "shape_name": "椭圆 7",
+      "shape_type": 1,
+      "group_path": [],
+      "z_order_recursive": 1,
+      "local_bounds_emu": [
+        -1643063,
+        3111408,
+        15478125,
+        8291265
+      ]
+    },
+    {
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 2,
+      "local_bounds_emu": [
+        2925900,
+        2292127,
+        6340197,
+        1938992
+      ],
+      "text_preview": "边缘计算",
+      "typography_role": "chinese_heading"
+    },
+    {
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "shape_type": 17,
+      "group_path": [],
+      "z_order_recursive": 3,
+      "local_bounds_emu": [
+        4273224,
+        4284208,
+        3645550,
+        369332
+      ],
+      "text_preview": "降低延迟（如自动驾驶、AR/VR）",
+      "typography_role": "chinese_body"
+    },
+    {
+      "shape_id": 14,
+      "shape_name": "组合 13",
+      "shape_type": 6,
+      "group_path": [],
+      "z_order_recursive": 4,
+      "local_bounds_emu": [
+        4574666,
+        1524359,
+        3042668,
+        576046
+      ]
+    },
+    {
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "shape_type": 17,
+      "group_path": [
+        14
+      ],
+      "z_order_recursive": 5,
+      "local_bounds_emu": [
+        5002530,
+        1650547,
+        2186940,
+        476071
+      ],
+      "text_preview": "Part 01",
+      "typography_role": "latin_numeric"
+    },
+    {
+      "shape_id": 6,
+      "shape_name": "组合 5",
+      "shape_type": 6,
+      "group_path": [
+        14
+      ],
+      "z_order_recursive": 6,
+      "local_bounds_emu": [
+        4838699,
+        1714532,
+        2514602,
+        348101
+      ]
+    },
+    {
+      "shape_id": 4,
+      "shape_name": "箭头: V 形 3",
+      "shape_type": 1,
+      "group_path": [
+        14,
+        6
+      ],
+      "z_order_recursive": 7,
+      "local_bounds_emu": [
+        7141368,
+        1714532,
+        211933,
+        348101
+      ]
+    },
+    {
+      "shape_id": 5,
+      "shape_name": "箭头: V 形 4",
+      "shape_type": 1,
+      "group_path": [
+        14,
+        6
+      ],
+      "z_order_recursive": 8,
+      "local_bounds_emu": [
+        4838699,
+        1714532,
+        211933,
+        348101
+      ]
+    },
+    {
+      "shape_id": 12,
+      "shape_name": "直接连接符 11",
+      "shape_type": 9,
+      "group_path": [
+        14
+      ],
+      "z_order_recursive": 9,
+      "local_bounds_emu": [
+        5238836,
+        1650547,
+        1714328,
+        0
+      ]
+    }
+  ],
+  "all_bounds_are_group_local": true
+}

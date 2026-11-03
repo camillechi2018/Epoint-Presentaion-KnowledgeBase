@@ -1,0 +1,387 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "group_path": [],
+      "source_text": "M",
+      "source_sample_chars": 1,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        356856,
+        1473951,
+        1661957,
+        2646878
+      ]
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "group_path": [],
+      "source_text": "B",
+      "source_sample_chars": 1,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        356856,
+        4066118,
+        1661957,
+        2700080
+      ]
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Q",
+      "source_sample_chars": 1,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9884533,
+        1473951,
+        1661957,
+        2700080
+      ]
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "group_path": [],
+      "source_text": "机器学习",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4355316,
+        3186342,
+        1902374,
+        461665
+      ]
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "group_path": [],
+      "source_text": "G",
+      "source_sample_chars": 1,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        9884533,
+        4066118,
+        1661957,
+        2700080
+      ]
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "group_path": [],
+      "source_text": "量子计算",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5953546,
+        3186342,
+        1785702,
+        461665
+      ]
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "group_path": [],
+      "source_text": "生物科技",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4369116,
+        4515736,
+        1874774,
+        461665
+      ]
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "group_path": [],
+      "source_text": "绿色科技",
+      "source_sample_chars": 4,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6065847,
+        4515736,
+        1561101,
+        461665
+      ]
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "group_path": [],
+      "source_text": "machine learning",
+      "source_sample_chars": 16,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4355316,
+        2992669,
+        1902374,
+        230832
+      ]
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "group_path": [],
+      "source_text": "quantum computing",
+      "source_sample_chars": 17,
+      "max_chars": 25,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        5953546,
+        2992669,
+        1785702,
+        230832
+      ]
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "group_path": [],
+      "source_text": "Biotechnology",
+      "source_sample_chars": 13,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        4369116,
+        4303033,
+        1874774,
+        230832
+      ]
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "group_path": [],
+      "source_text": "green technology",
+      "source_sample_chars": 16,
+      "max_chars": 24,
+      "typography_role": "latin_numeric",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        6065847,
+        4303033,
+        1561101,
+        230832
+      ]
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "group_path": [],
+      "source_text": "GPT-5多模态能力突破\n（文本/图像/代码生成一体化）\n全球AI算力需求年增300%",
+      "source_sample_chars": 43,
+      "max_chars": 64,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1386786,
+        2467168,
+        2339164,
+        831574
+      ]
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "group_path": [],
+      "source_text": "谷歌72量子比特处理器 vs 传统超算能耗比\n量子纠缠原理简图转折点：\"当解密RSA\n算法成为可能，整个加密体系需要重构\"",
+      "source_sample_chars": 61,
+      "max_chars": 91,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8215928,
+        2467168,
+        2866824,
+        831574
+      ]
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "group_path": [],
+      "source_text": "合成生物学创造人工细胞\n伦理争议：基因定制婴儿的\n\"设计权\"归属问题",
+      "source_sample_chars": 34,
+      "max_chars": 51,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1386785,
+        4816992,
+        2467067,
+        898772
+      ]
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "group_path": [],
+      "source_text": "对比传统环保 vs 绿色科技\n关键差异：技术驱动型解决方案\n（如碳捕捉）vs 行为倡导型",
+      "source_sample_chars": 44,
+      "max_chars": 66,
+      "typography_role": "chinese_body",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        8145047,
+        4816992,
+        2937705,
+        898772
+      ]
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "group_path": [
+        47,
+        49
+      ],
+      "source_text": "前沿技术趋势矩阵",
+      "source_sample_chars": 8,
+      "max_chars": 24,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        3637963,
+        416934,
+        4916076,
+        430887
+      ]
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "矩形 50",
+      "type": "text",
+      "group_path": [
+        47,
+        49
+      ],
+      "source_text": "从关键技术方向拆解创新机会、应用挑战与发展逻辑",
+      "source_sample_chars": 23,
+      "max_chars": 34,
+      "typography_role": "chinese_heading",
+      "semantic_role": "provisional",
+      "bounds_emu_local": [
+        1815439,
+        1056165,
+        8561121,
+        301041
+      ]
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 52,
+        "shape_name": "Freeform 3076",
+        "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          47,
+          48
+        ],
+        "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ]
+      },
+      {
+        "shape_id": 55,
+        "shape_name": "图片 54",
+        "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
+        "semantic_role": "source_media_unclassified",
+        "group_path": [
+          47,
+          48
+        ],
+        "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ]
+      },
+      {
+        "shape_id": 14,
+        "shape_name": "图片 13",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "semantic_role": "brand_logo_locked",
+        "group_path": [],
+        "bounds_emu_local": [
+          11057890,
+          6476365,
+          893445,
+          191770
+        ]
+      }
+    ]
+  },
+  "review": "visual index only; field semantics provisional"
+}
