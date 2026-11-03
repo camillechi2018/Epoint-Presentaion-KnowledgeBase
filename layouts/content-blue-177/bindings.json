@@ -1,0 +1,551 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "任意形状 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "年度规划与目标分解",
+      "bounds_pt": [
+        54.3,
+        82.3,
+        188.6,
+        35.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "任意形状 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "业务拓展与市场开发",
+      "bounds_pt": [
+        256.7,
+        82.3,
+        188.6,
+        35.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "任意形状 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "重点项目取得进展",
+      "bounds_pt": [
+        459.1,
+        82.3,
+        188.6,
+        35.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "任意形状 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "全年指标超额完成",
+      "bounds_pt": [
+        661.5,
+        82.3,
+        188.6,
+        35.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "任意形状 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "重点项目启动推进",
+      "bounds_pt": [
+        54.3,
+        468.2,
+        188.6,
+        35.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "任意形状 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "团队能力建设提升",
+      "bounds_pt": [
+        256.7,
+        468.2,
+        188.6,
+        35.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "任意形状 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "流程优化成效显著",
+      "bounds_pt": [
+        459.1,
+        468.2,
+        188.6,
+        35.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "任意形状 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "总结复盘与经验沉淀",
+      "bounds_pt": [
+        661.5,
+        468.2,
+        188.6,
+        35.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Q1：开局起步",
+      "bounds_pt": [
+        78.6,
+        269.7,
+        153.8,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Q2：稳步推进",
+      "bounds_pt": [
+        281.3,
+        269.7,
+        153.8,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Q3：攻坚突破",
+      "bounds_pt": [
+        484.0,
+        269.7,
+        153.8,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Q4：圆满收官",
+      "bounds_pt": [
+        686.6,
+        269.7,
+        153.8,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "全面完成年度战略规划制定，清晰明确各项关键绩效指标。",
+      "bounds_pt": [
+        65.4,
+        131.8,
+        177.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "将部门目标逐层分解至个人，并建立动态跟踪评估机制。",
+      "bounds_pt": [
+        65.4,
+        186.4,
+        177.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "已按时圆满完成重点项目的立项审批和核心团队组建工作。",
+      "bounds_pt": [
+        65.4,
+        357.9,
+        177.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "全面落实各项项目资源配置方案，确保项目按期启动实施。",
+      "bounds_pt": [
+        65.4,
+        412.4,
+        177.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "成功开拓2个新市场区域，实现客户数量同比增长25%以上。",
+      "bounds_pt": [
+        267.9,
+        131.8,
+        177.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "新产品顺利完成市场测试验证，获得客户广泛积极反馈。",
+      "bounds_pt": [
+        267.9,
+        186.4,
+        177.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "精心组织策划3场专业技能培训，员工全面参训率达100%。",
+      "bounds_pt": [
+        267.9,
+        357.9,
+        177.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "已成功建立并有效运行内部导师机制新人培养周期显著缩短30%。",
+      "bounds_pt": [
+        267.9,
+        412.4,
+        177.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "核心项目已顺利完成关键节点验收，获得客户高度一致好评。",
+      "bounds_pt": [
+        470.4,
+        131.8,
+        177.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "项目成果提前全面落地应用，顺利实现预期经济效益。",
+      "bounds_pt": [
+        470.4,
+        186.4,
+        177.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "已全面完成业务流程再造优化，工作效率大幅提升35%。",
+      "bounds_pt": [
+        470.4,
+        357.9,
+        177.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "成功引入先进智能化自动化工具，核心人工操作环节显著减少40%。",
+      "bounds_pt": [
+        470.4,
+        412.4,
+        177.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "公司年度营收目标完成率高达128%关键利润指标超额达成135%。",
+      "bounds_pt": [
+        672.5,
+        131.8,
+        177.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "核心产品市场份额提升至28%，成功创下历史新高记录。",
+      "bounds_pt": [
+        672.5,
+        186.4,
+        177.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "已全面完成年度工作总结复盘，成功提炼出15项最佳实践。",
+      "bounds_pt": [
+        672.5,
+        357.9,
+        177.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "科学制定下一年度战略规划，为持续发展奠定坚实基础。",
+      "bounds_pt": [
+        672.5,
+        412.4,
+        177.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "Initiation and Foundation",
+      "bounds_pt": [
+        70.0,
+        300.6,
+        171.6,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "Steady Progress",
+      "bounds_pt": [
+        272.3,
+        300.6,
+        171.6,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "Breakthrough",
+      "bounds_pt": [
+        474.6,
+        300.6,
+        171.6,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "Successful Conclusion",
+      "bounds_pt": [
+        676.8,
+        300.6,
+        172.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜工作任务完成情况",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

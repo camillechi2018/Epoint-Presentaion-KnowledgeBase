@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜工作成果数据可视化",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "企业在职人数：66人",
+      "bounds_pt": [
+        97.8,
+        92.3,
+        154.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "整体营业收入：666万",
+      "bounds_pt": [
+        318.8,
+        92.3,
+        156.5,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "人力成本金额：222万",
+      "bounds_pt": [
+        538.2,
+        92.3,
+        157.9,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "人力成本占比：33.3%",
+      "bounds_pt": [
+        759.1,
+        92.3,
+        157.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "各部门原有及现有人数对比",
+      "bounds_pt": [
+        54.1,
+        139.0,
+        257.4,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "现有",
+      "bounds_pt": [
+        839.6,
+        183.6,
+        32.9,
+        15.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "原有",
+      "bounds_pt": [
+        798.8,
+        183.6,
+        30.5,
+        15.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "各部门应聘情况",
+      "bounds_pt": [
+        54.1,
+        333.6,
+        257.4,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "应聘人数",
+      "bounds_pt": [
+        794.6,
+        182.9,
+        47.3,
+        15.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "转正人数",
+      "bounds_pt": [
+        833.9,
+        182.9,
+        51.5,
+        15.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_141",
+      "shape_id": 141,
+      "shape_name": "文本框 140",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "在职＆离职数据分布图",
+      "bounds_pt": [
+        488.4,
+        138.6,
+        141.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_150",
+      "shape_id": 150,
+      "shape_name": "文本框 149",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "离职人数",
+      "bounds_pt": [
+        251.9,
+        172.6,
+        67.6,
+        15.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_146",
+      "shape_id": 146,
+      "shape_name": "文本框 145",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "总人数",
+      "bounds_pt": [
+        269.2,
+        153.9,
+        67.6,
+        15.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_152",
+      "shape_id": 152,
+      "shape_name": "文本框 151",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "公司新入职数据图表",
+      "bounds_pt": [
+        523.3,
+        331.6,
+        133.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_158",
+      "shape_id": 158,
+      "shape_name": "文本框 124",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "销售部：6人",
+      "bounds_pt": [
+        34.2,
+        379.9,
+        72.7,
+        26.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_159",
+      "shape_id": 159,
+      "shape_name": "文本框 124",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "财务部：4人",
+      "bounds_pt": [
+        34.2,
+        419.7,
+        72.7,
+        26.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_160",
+      "shape_id": 160,
+      "shape_name": "文本框 124",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "人事部：5人",
+      "bounds_pt": [
+        34.2,
+        459.5,
+        72.7,
+        26.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_161",
+      "shape_id": 161,
+      "shape_name": "文本框 124",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "管理部：5人",
+      "bounds_pt": [
+        159.7,
+        478.6,
+        72.7,
+        26.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_168",
+      "shape_id": 168,
+      "shape_name": "文本框 124",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "宣传部：4人",
+      "bounds_pt": [
+        249.9,
+        378.9,
+        72.7,
+        26.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_169",
+      "shape_id": 169,
+      "shape_name": "文本框 124",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "技术部：5人",
+      "bounds_pt": [
+        249.9,
+        420.1,
+        72.7,
+        26.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_170",
+      "shape_id": 170,
+      "shape_name": "文本框 124",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "行政部：4人",
+      "bounds_pt": [
+        249.9,
+        459.8,
+        72.7,
+        26.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_204",
+      "shape_id": 204,
+      "shape_name": "文本框 203",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "本年度人力成本占比分析",
+      "bounds_pt": [
+        737.6,
+        139.9,
+        147.8,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_212",
+      "shape_id": 212,
+      "shape_name": "矩形 211",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "人力成本",
+      "bounds_pt": [
+        593.1,
+        330.7,
+        80.5,
+        13.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_210",
+      "shape_id": 210,
+      "shape_name": "矩形 209",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "60%",
+      "bounds_pt": [
+        35.1,
+        125.4,
+        75.0,
+        19.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_218",
+      "shape_id": 218,
+      "shape_name": "文本框 217",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "部门人力成本TOP 5",
+      "bounds_pt": [
+        740.5,
+        331.1,
+        143.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_222",
+      "shape_id": 222,
+      "shape_name": "矩形: 圆角 221",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "TOP 1",
+      "bounds_pt": [
+        715.8,
+        371.8,
+        36.6,
+        15.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_223",
+      "shape_id": 223,
+      "shape_name": "矩形: 圆角 222",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "TOP 2",
+      "bounds_pt": [
+        715.8,
+        396.3,
+        36.6,
+        15.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_224",
+      "shape_id": 224,
+      "shape_name": "矩形: 圆角 223",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "TOP 3",
+      "bounds_pt": [
+        715.8,
+        420.8,
+        36.6,
+        15.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_226",
+      "shape_id": 226,
+      "shape_name": "矩形: 圆角 225",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "TOP 4",
+      "bounds_pt": [
+        715.8,
+        445.4,
+        36.6,
+        15.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_227",
+      "shape_id": 227,
+      "shape_name": "矩形: 圆角 226",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "TOP 5",
+      "bounds_pt": [
+        715.8,
+        469.9,
+        36.6,
+        15.6
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 74,
+        "shape_name": "图表 9",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 85,
+        "shape_name": "图表 84",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 143,
+        "shape_name": "Chart 3",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 155,
+        "shape_name": "图表 123",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 207,
+        "shape_name": "图表 206",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 220,
+        "shape_name": "图表 219",
+        "categories_max": 8,
+        "series_max": 4
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

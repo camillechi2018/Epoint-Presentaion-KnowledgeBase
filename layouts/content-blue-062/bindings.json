@@ -1,0 +1,439 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "述职汇报｜明年工作计划完成指标（重点月份）",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "椭圆 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        91.2,
+        269.9,
+        50.2,
+        50.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "椭圆 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        800.0,
+        269.9,
+        50.2,
+        50.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "椭圆 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        268.4,
+        269.9,
+        50.2,
+        50.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "椭圆 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        445.6,
+        269.9,
+        50.2,
+        50.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "椭圆 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        622.8,
+        269.9,
+        50.2,
+        50.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "计划完成进度",
+      "bounds_pt": [
+        52.7,
+        86.5,
+        257.1,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "指标：按计划进度完成关键任务的比例，确保项目按期推进。",
+      "bounds_pt": [
+        52.7,
+        144.4,
+        257.1,
+        45.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "时间规划：1月-2月",
+      "bounds_pt": [
+        53.5,
+        110.0,
+        257.1,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "量化标准：确保每项任务按时完成，达到80%以上按时完成的任务。",
+      "bounds_pt": [
+        52.7,
+        191.0,
+        257.1,
+        45.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "资源利用效率",
+      "bounds_pt": [
+        351.4,
+        86.5,
+        257.1,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "指标：合理分配和高效利用项目所需的人力，物力资源。",
+      "bounds_pt": [
+        351.4,
+        144.4,
+        257.1,
+        45.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "时间规划：5月-7月",
+      "bounds_pt": [
+        352.2,
+        110.0,
+        257.1,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "量化标准：资源使用不超预算，成本控制在计划范围内，资源利用效率达到90%以上。",
+      "bounds_pt": [
+        351.4,
+        191.0,
+        257.1,
+        45.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "客户反馈与收集",
+      "bounds_pt": [
+        650.1,
+        86.5,
+        257.1,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 50,
+      "source_sample_chars": 25,
+      "source_text": "指标：确保任务完成后的客户或相关方对结果的满意度。",
+      "bounds_pt": [
+        650.1,
+        144.4,
+        257.1,
+        45.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "时间规划：11月-12月",
+      "bounds_pt": [
+        650.9,
+        110.0,
+        257.1,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "量化标准：客户相关方的满意度达到90%以上，通过调查反馈和后续评估来评定。",
+      "bounds_pt": [
+        650.1,
+        191.0,
+        257.1,
+        45.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "质量控制与验收",
+      "bounds_pt": [
+        164.9,
+        353.3,
+        257.1,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "指标：任务完成后的质量符合预期标准，且验收合格率高。",
+      "bounds_pt": [
+        164.9,
+        411.2,
+        257.1,
+        45.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "时间规划：3月-4月",
+      "bounds_pt": [
+        165.7,
+        376.8,
+        257.1,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "量化标准：项目验收通过率必须达到95%以上，确保工作质量达到预期的标准。",
+      "bounds_pt": [
+        164.9,
+        457.8,
+        257.1,
+        45.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "团队协作与沟通",
+      "bounds_pt": [
+        519.3,
+        353.3,
+        257.1,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "指标：团队成员之间的协作效率和沟通效果，确保信息流畅传递。",
+      "bounds_pt": [
+        519.3,
+        411.2,
+        257.1,
+        45.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "时间规划：8月-10月",
+      "bounds_pt": [
+        520.1,
+        376.8,
+        257.1,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "量化标准：团队成员之间的协作满意度达到85%以上，问题反馈和解决时间不超过24小时。",
+      "bounds_pt": [
+        519.3,
+        457.8,
+        257.1,
+        45.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

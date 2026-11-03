@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜阶段工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "STEP 01：调研与诊断",
+      "bounds_pt": [
+        55.4,
+        231.3,
+        186.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "步骤二：策略与定位",
+      "bounds_pt": [
+        276.9,
+        231.3,
+        186.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "步骤三：视觉与形象",
+      "bounds_pt": [
+        498.3,
+        231.3,
+        186.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "步骤四：落地与推广",
+      "bounds_pt": [
+        719.8,
+        231.3,
+        186.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "内部现状梳理",
+      "bounds_pt": [
+        85.1,
+        277.6,
+        127.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "全面盘点现有品牌资产、视觉形象核心定位，访谈内部关键人员，了解品牌现状和问题。",
+      "bounds_pt": [
+        65.0,
+        301.8,
+        167.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "外部市场洞察",
+      "bounds_pt": [
+        85.1,
+        397.7,
+        127.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "开展用户调研和竞品分析，收集目标受众对品牌的认知和评价，发现品牌优势和差距。",
+      "bounds_pt": [
+        65.0,
+        421.9,
+        167.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "品牌定位明确",
+      "bounds_pt": [
+        306.5,
+        277.6,
+        127.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "基于调研结果，重新定义品牌核心价值、目标客群和差异化卖点，形成品牌定位报告。",
+      "bounds_pt": [
+        286.4,
+        301.8,
+        167.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "品牌体系梳理",
+      "bounds_pt": [
+        306.5,
+        397.7,
+        127.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "完善品牌故事、品牌口号、品牌调性等核心元素，构建统一的品牌话语体系。",
+      "bounds_pt": [
+        286.4,
+        421.9,
+        167.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "视觉系统设计",
+      "bounds_pt": [
+        528.0,
+        277.6,
+        127.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "升级品牌LOGO、标准色、辅助图形等核心视觉元素，形成全新VI视觉识别系统。",
+      "bounds_pt": [
+        507.9,
+        301.8,
+        167.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "触点应用延展",
+      "bounds_pt": [
+        528.0,
+        397.7,
+        127.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "将新视觉应用于官网、宣传册、包装、办公环境等各品牌接触点，确保统一呈现。",
+      "bounds_pt": [
+        507.9,
+        421.9,
+        167.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "内部宣贯培训",
+      "bounds_pt": [
+        749.4,
+        277.6,
+        127.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "组织全员进行品牌培训，解读新品牌理念和视觉规范，确保内部理解和认同。",
+      "bounds_pt": [
+        729.3,
+        301.8,
+        167.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "外部发布传播",
+      "bounds_pt": [
+        749.4,
+        397.7,
+        127.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "策划品牌焕新发布会，通过媒体社交平台等渠道对外传播，扩大品牌影响力。",
+      "bounds_pt": [
+        729.3,
+        421.9,
+        167.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 10,
+        "shape_name": "图片 9",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

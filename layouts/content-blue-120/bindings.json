@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 18,
+      "source_text": "述职汇报｜工作中解决问题的思路与方法",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "分析根源",
+      "bounds_pt": [
+        102.4,
+        141.3,
+        95.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "团队协作",
+      "bounds_pt": [
+        102.2,
+        250.2,
+        95.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "制定方案",
+      "bounds_pt": [
+        102.1,
+        359.1,
+        95.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "执行方案",
+      "bounds_pt": [
+        101.9,
+        468.0,
+        95.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "反馈调整",
+      "bounds_pt": [
+        761.7,
+        141.3,
+        95.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "优化配置",
+      "bounds_pt": [
+        761.5,
+        250.2,
+        95.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "持续改进",
+      "bounds_pt": [
+        761.3,
+        359.1,
+        95.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "总结分享",
+      "bounds_pt": [
+        761.2,
+        468.0,
+        95.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 158,
+      "source_sample_chars": 79,
+      "source_text": "收集信息：获取多方面的可靠信息，帮助全面了解问题的各个角度，为解决方案打下基础。\n挖掘原因：深入分析问题的内在原因，避免局限于表面现象确保找到问题的根本所在。",
+      "bounds_pt": [
+        202.9,
+        94.0,
+        255.6,
+        74.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 168,
+      "source_sample_chars": 84,
+      "source_text": "集思广益：鼓励团队成员提出多样的意见和方案，确保每个视角都被考虑，推动创新与优化。\n任务分工：合理分配任务，充分利用团队成员的专长，避免资源浪费，提升整体效率和协作性。",
+      "bounds_pt": [
+        202.9,
+        203.1,
+        255.6,
+        74.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "设定目标：设定明确具且可衡量的目标，确保目标切实可行避免目标过于模糊或难以实现。\n评估风险：全面评估项目可能面临的各类风险，提前制定应对方案，降低不确定性带来的负面影响。",
+      "bounds_pt": [
+        202.9,
+        311.2,
+        255.6,
+        74.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 166,
+      "source_sample_chars": 83,
+      "source_text": "优先解决：根据任务的紧急程度，优先处理关键问题，避免低优先级任务拖慢整体进度。\n跟踪调整：在执行过程中持续跟踪进展，发现偏差及时调整确保工作按计划推进并达成预期目标。",
+      "bounds_pt": [
+        203.0,
+        419.8,
+        255.6,
+        74.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 154,
+      "source_sample_chars": 77,
+      "source_text": "建立反馈：通过多渠道收集反馈，包括团队成员和相关方，帮助发现潜在问题或改进点。\n灵活调整：根据反馈结果灵活调整计划或策略，确保项目能够适应变化并顺利完成。",
+      "bounds_pt": [
+        501.4,
+        94.0,
+        255.6,
+        74.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "合理分配：根据实际需求，合理配置人力、物力和财力，确保资源用在最需要的地方。\n提升利用率：通过优化资源配置和利用方式，提升资源的使用效率，确保每一项投入都能创造最大价值。",
+      "bounds_pt": [
+        501.4,
+        203.0,
+        255.6,
+        74.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 178,
+      "source_sample_chars": 89,
+      "source_text": "自我反思：项目结束后进行团队的反思，识别存在的不足，并讨论改进措施，提升工作效率。\n学习进步：在每个项目中吸取经验，优化工作流程，借鉴其他团队的优秀做法，不断提升执行力和适应性。",
+      "bounds_pt": [
+        501.4,
+        311.2,
+        255.6,
+        74.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "记录过程：详细记录项目实施过程中关键决策和遇到的挑战为未来类似项目提供参考资料。\n分享经验：定期分享项目中的成功经验和失败教训，帮助团队成员从中学习和成长，提升整体能力。",
+      "bounds_pt": [
+        501.5,
+        419.8,
+        255.6,
+        74.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "工\n作\n中\n解\n决\n问\n题\n的\n思\n路",
+      "bounds_pt": [
+        53.9,
+        181.2,
+        36.9,
+        225.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 18,
+      "source_text": "工\n作\n中\n解\n决\n问\n题\n的\n方法",
+      "bounds_pt": [
+        870.0,
+        181.2,
+        36.9,
+        225.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

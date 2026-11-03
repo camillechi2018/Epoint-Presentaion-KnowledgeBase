@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "椭圆 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "1",
+      "bounds_pt": [
+        49.6,
+        88.1,
+        20.8,
+        20.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "椭圆 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "2",
+      "bounds_pt": [
+        49.6,
+        232.6,
+        20.8,
+        20.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "椭圆 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "3",
+      "bounds_pt": [
+        49.6,
+        377.1,
+        20.8,
+        20.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "椭圆 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "1",
+      "bounds_pt": [
+        889.7,
+        88.1,
+        20.8,
+        20.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "椭圆 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "2",
+      "bounds_pt": [
+        889.7,
+        232.6,
+        20.8,
+        20.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "椭圆 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "3",
+      "bounds_pt": [
+        889.7,
+        377.1,
+        20.8,
+        20.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "工\n作\n管\n理",
+      "bounds_pt": [
+        404.5,
+        241.4,
+        40.8,
+        162.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "生活\n管\n理",
+      "bounds_pt": [
+        515.0,
+        241.4,
+        40.8,
+        162.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "合理设定工作时间",
+      "bounds_pt": [
+        70.3,
+        87.5,
+        133.2,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "管理压力与情绪",
+      "bounds_pt": [
+        70.3,
+        232.6,
+        133.2,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 148,
+      "source_sample_chars": 74,
+      "source_text": "采用“时间块”技术，将时间分段安排，避免工作时间过长导致精力消耗殆尽。\n定期评估自己的工作效率，必要时调整工作安排，避免因低效率导致无谓的工作堆积。",
+      "bounds_pt": [
+        43.2,
+        130.7,
+        320.6,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "培养兴趣爱好",
+      "bounds_pt": [
+        756.5,
+        87.5,
+        133.2,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "保持健康生活方式",
+      "bounds_pt": [
+        756.4,
+        232.6,
+        133.2,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "实践正念和冥想",
+      "bounds_pt": [
+        756.5,
+        377.1,
+        133.2,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 148,
+      "source_sample_chars": 74,
+      "source_text": "在工作中出现压力时，学会深呼吸、短暂散步等放松身心技巧，及时缓解压力。\n定期进行自我反思，检视自己在工作中是否存在情绪积压，并采取有效方法进行调整。",
+      "bounds_pt": [
+        42.8,
+        275.4,
+        320.6,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 152,
+      "source_sample_chars": 76,
+      "source_text": "制定个人职业发展规划，设定学习目标，不断提升自己的专业能力，提升工作能力。\n及时评估自己职业发展的进展，遇到问题时进行必要的调整，避免工作进度停滞不前。",
+      "bounds_pt": [
+        42.4,
+        420.1,
+        320.6,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 154,
+      "source_sample_chars": 77,
+      "source_text": "挑选自己感兴趣的活动，如运动、摄影、写作等，确保工作之余有充实的个人时间。\n利用周末或假期时间去探索新兴趣，拓宽个人的兴趣范围，减轻工作压力，提升幸福感。",
+      "bounds_pt": [
+        597.1,
+        130.7,
+        320.6,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 154,
+      "source_sample_chars": 77,
+      "source_text": "通过定期进行运动，如跑步、瑜伽、游泳等，增强体质，缓解工作压力，提升身心健康。\n做好身体健康检查，定期监测身体状况，预防潜在健康问题，保持积极乐观的心态。",
+      "bounds_pt": [
+        596.8,
+        275.4,
+        320.6,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 160,
+      "source_sample_chars": 80,
+      "source_text": "在生活中注重自己的情绪变化，并通过冥想或深呼吸调整心情，提升自己的专注度。\n通过正念训练提高自我意识，增强对压力源的理解，培养更积极健康的心态，缓解自己的压力。",
+      "bounds_pt": [
+        596.4,
+        420.1,
+        320.6,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "持续学习和提升",
+      "bounds_pt": [
+        70.3,
+        377.1,
+        133.2,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "述职汇报｜工作与生活的平衡管理",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

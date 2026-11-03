@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "sources": {
+    "blue": {
+      "filename": "01蓝色系.pptx",
+      "sha256": "60b070f28ab13c649591e813ed29b01920fdd29b678dcad21b0ff990f6e89e6e",
+      "page_count": 295
+    },
+    "red": {
+      "filename": "02红色系.pptx",
+      "sha256": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104",
+      "page_count": 296
+    },
+    "cover": {
+      "filename": "20页封面（比例16-9）.pptx",
+      "sha256": "3750c02ed665da3340d698acb2213d88d6faeb0e2f7202b84fb70159f92a04ab",
+      "page_count": 20
+    }
+  },
+  "exact_top_level_pairs": 287,
+  "pair_status": "provisional; media and deep group review pending"
+}

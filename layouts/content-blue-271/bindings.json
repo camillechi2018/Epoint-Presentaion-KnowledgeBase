@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "数据图｜年度数据分析",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "TextBox 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "2480W",
+      "bounds_pt": [
+        451.9,
+        132.9,
+        125.9,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "TextBox 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "年度总营业额",
+      "bounds_pt": [
+        451.9,
+        174.7,
+        125.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "TextBox 76",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "510W",
+      "bounds_pt": [
+        451.9,
+        273.1,
+        125.9,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "TextBox 77",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "年度成本数据",
+      "bounds_pt": [
+        451.9,
+        314.9,
+        125.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "TextBox 83",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "1970W",
+      "bounds_pt": [
+        451.9,
+        413.3,
+        125.9,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "TextBox 84",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "年度利润数据",
+      "bounds_pt": [
+        451.9,
+        455.1,
+        125.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "TextBox 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "成本分析",
+      "bounds_pt": [
+        637.8,
+        244.4,
+        125.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "TextBox 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "利润分析",
+      "bounds_pt": [
+        635.8,
+        381.4,
+        125.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "TextBox 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "营收分析",
+      "bounds_pt": [
+        637.8,
+        107.5,
+        125.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "全年营收呈现“前高后低再回升”态势，4月、6月和12月为三大峰值，全年总营业额2480万元，月均约207万元。",
+      "bounds_pt": [
+        638.5,
+        139.4,
+        253.9,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "全年成本支出510万元，占总营收20.6%。成本波动与营收基本同步，4月成本最高（60万元），对应营收次高峰，成本控制整体稳健。",
+      "bounds_pt": [
+        638.5,
+        275.7,
+        253.9,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 148,
+      "source_sample_chars": 74,
+      "source_text": "全年总利润1970万元，利润率高达79.4%。利润曲线与营收高度重合，6月利润峰值达220万元，1月利润低谷仅110万元，盈利能力与营收规模强相关。",
+      "bounds_pt": [
+        638.5,
+        412.3,
+        253.9,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 6,
+        "shape_name": "Chart 68",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 10,
+        "shape_name": "Chart 68",
+        "categories_max": 8,
+        "series_max": 4
+      },
+      {
+        "shape_id": 11,
+        "shape_name": "Chart 68",
+        "categories_max": 8,
+        "series_max": 4
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "图片 6",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

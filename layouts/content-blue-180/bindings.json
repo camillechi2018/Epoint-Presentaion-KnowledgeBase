@@ -1,0 +1,423 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜工作亮点展示",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "任意形状 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "团队效率提升",
+      "bounds_pt": [
+        53.3,
+        92.5,
+        189.8,
+        34.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "任意形状 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "创新产品开发",
+      "bounds_pt": [
+        274.5,
+        92.5,
+        189.8,
+        34.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "任意形状 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "优化成本控制",
+      "bounds_pt": [
+        495.7,
+        92.5,
+        189.8,
+        34.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "任意形状 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "员工成长发展",
+      "bounds_pt": [
+        716.9,
+        92.5,
+        189.8,
+        34.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "任意形状 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点01",
+      "bounds_pt": [
+        88.3,
+        312.0,
+        119.9,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "任意形状 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点02",
+      "bounds_pt": [
+        309.5,
+        312.1,
+        119.9,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "任意形状 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点03",
+      "bounds_pt": [
+        530.7,
+        312.1,
+        119.9,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "任意形状 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点04",
+      "bounds_pt": [
+        751.8,
+        312.4,
+        119.9,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "引入高效管理工具",
+      "bounds_pt": [
+        58.9,
+        168.6,
+        178.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "引入推广了新的项目管理工具，确保任务分配清晰。\n避免了信息漏失和重复工作提高了项目的透明度。",
+      "bounds_pt": [
+        58.9,
+        190.4,
+        178.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "市场调研与分析",
+      "bounds_pt": [
+        280.1,
+        168.6,
+        178.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "通过市场调研和用户访谈精准掌握用户需求。\n根据反馈调整设计，确保新产品能够满足客户期望。",
+      "bounds_pt": [
+        280.1,
+        190.4,
+        178.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "供应链管理优化",
+      "bounds_pt": [
+        501.3,
+        168.6,
+        178.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 92,
+      "source_sample_chars": 46,
+      "source_text": "与供应商进行长期战略合作，重新评估供应链的环节。\n减少不必要的库存和运输成本降低了运营成本。",
+      "bounds_pt": [
+        501.3,
+        190.4,
+        178.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "定期技能提升课程",
+      "bounds_pt": [
+        722.5,
+        168.6,
+        178.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "组织培训课程，邀请专家讲解前沿技术和行业趋势。\n帮助员工适应快速变化的工作环境，提升效率。",
+      "bounds_pt": [
+        722.5,
+        190.4,
+        178.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "优化部门沟通机制",
+      "bounds_pt": [
+        58.9,
+        381.4,
+        178.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "定期跨部门会议，加强了不同部门间的沟通与协作。\n确保各部门在项目执行过程中保持同步。",
+      "bounds_pt": [
+        58.9,
+        403.2,
+        178.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "技术研发与突破",
+      "bounds_pt": [
+        280.1,
+        381.4,
+        178.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "加强与技术团队的合作，提高产品的智能化水平。\n新产品在性能和用户体验上都有显著提升。",
+      "bounds_pt": [
+        280.1,
+        403.2,
+        178.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "流程数字化转型",
+      "bounds_pt": [
+        501.3,
+        381.4,
+        178.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "引入了流程自动化技术，减少了人工干预的错误。\n通过数字化管理，提升了工作效率和准确性。",
+      "bounds_pt": [
+        501.3,
+        403.2,
+        178.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "职业规划与晋升机制",
+      "bounds_pt": [
+        722.5,
+        381.4,
+        178.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "推行了规划晋升机制，根据员工的表现和职业兴趣。\n制定个性化的职业发展路径并为员工提供晋升机会。",
+      "bounds_pt": [
+        722.5,
+        403.2,
+        178.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

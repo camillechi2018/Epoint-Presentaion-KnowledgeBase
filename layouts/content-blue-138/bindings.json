@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "矩形 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "遵守时间",
+      "bounds_pt": [
+        58.3,
+        235.5,
+        100.8,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "矩形 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "遵守时间",
+      "bounds_pt": [
+        174.4,
+        235.5,
+        100.8,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "矩形 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "合理安排",
+      "bounds_pt": [
+        684.8,
+        235.5,
+        100.8,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "矩形 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "工作优先级",
+      "bounds_pt": [
+        800.9,
+        235.5,
+        100.8,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "矩形 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亲密关系",
+      "bounds_pt": [
+        58.3,
+        464.5,
+        100.8,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "矩形 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "遵守时间",
+      "bounds_pt": [
+        174.4,
+        464.5,
+        100.8,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "矩形 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "饮食健康",
+      "bounds_pt": [
+        684.8,
+        464.5,
+        100.8,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "矩形 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "身体状况",
+      "bounds_pt": [
+        800.9,
+        464.5,
+        100.8,
+        26.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "工作管理",
+      "bounds_pt": [
+        409.2,
+        228.5,
+        141.6,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "生活管理",
+      "bounds_pt": [
+        409.2,
+        316.6,
+        141.6,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 156,
+      "source_sample_chars": 78,
+      "source_text": "确保每天有固定的工作时段，并遵守工作时间，这样可以帮助我更好地管理工作负担。\n\n定期评估自己的工作效率，必要时调整工作安排，避免因低效率导致无谓的工作堆积。",
+      "bounds_pt": [
+        55.2,
+        128.7,
+        296.9,
+        90.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "01.合理设定工作时间",
+      "bounds_pt": [
+        55.2,
+        96.0,
+        203.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 148,
+      "source_sample_chars": 74,
+      "source_text": "定期进行家庭活动或短途旅行，增进亲密关系并创造美好的共同回忆。\n\n保持与朋友的联系，通过聊天和聚会等方式与保持联络，维持良好的社交关系。避免孤独感。",
+      "bounds_pt": [
+        55.2,
+        357.9,
+        296.9,
+        90.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "01.保持社交和家庭时间",
+      "bounds_pt": [
+        55.2,
+        327.0,
+        278.8,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 168,
+      "source_sample_chars": 84,
+      "source_text": "根据任务的重要性和紧急性，设定每日、每周、每月的工作优先级，并合理安排工作任务。\n\n使用工具，如待办事项清单、日程管理应用等帮助自己跟踪任务进度，并实时调整工作优先级。",
+      "bounds_pt": [
+        607.9,
+        128.7,
+        296.9,
+        90.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "02.设立优先级和边界",
+      "bounds_pt": [
+        701.8,
+        99.6,
+        203.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 174,
+      "source_sample_chars": 87,
+      "source_text": "注意饮食健康，避免快餐和不规律饮食，确保每天摄取足够的营养，并且定期进行运动缓解工作压力。\n\n保证充足的睡眠，确保精力充沛，做好健康检查，定期监测身体状况，预防潜在健康问题。",
+      "bounds_pt": [
+        607.9,
+        357.9,
+        296.9,
+        90.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "02.保持健康的生活方式",
+      "bounds_pt": [
+        625.9,
+        327.0,
+        278.9,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "述职汇报｜工作与生活的平衡管理",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

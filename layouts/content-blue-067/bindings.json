@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "述职汇报｜明年工作计划（季度）",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "流程图: 手动输入 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "规划与准备",
+      "bounds_pt": [
+        43.2,
+        304.3,
+        219.7,
+        43.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "流程图: 手动输入 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "总结与反馈",
+      "bounds_pt": [
+        697.1,
+        304.3,
+        219.7,
+        43.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "流程图: 手动输入 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "执行与跟进",
+      "bounds_pt": [
+        230.5,
+        82.2,
+        219.7,
+        42.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "流程图: 手动输入 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "优化与调整",
+      "bounds_pt": [
+        509.8,
+        82.2,
+        219.7,
+        42.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "月度核心工作任务",
+      "bounds_pt": [
+        378.5,
+        439.6,
+        204.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q1",
+      "bounds_pt": [
+        285.6,
+        426.6,
+        54.7,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q2",
+      "bounds_pt": [
+        377.9,
+        316.9,
+        54.7,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q3",
+      "bounds_pt": [
+        527.4,
+        316.5,
+        54.7,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q4",
+      "bounds_pt": [
+        619.7,
+        428.1,
+        54.7,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 160,
+      "source_sample_chars": 80,
+      "source_text": "目标设定：与团队讨论并明确本月工作目标，分配责任人。\n资源准备：确保所需各类资源到位完成团队成员资源分发。\n沟通协调：与相关部门进行沟通，确保工作中信息流通畅。",
+      "bounds_pt": [
+        54.3,
+        363.8,
+        198.3,
+        128.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 168,
+      "source_sample_chars": 84,
+      "source_text": "任务实施：按计划开展工作，定期检查与跟进，确保任务按时进行。\n问题解决：在工作中提供技术支持帮助团队成员克服困难。\n反馈收集：收集客户的意见与建议调整工作方向或优先级。",
+      "bounds_pt": [
+        241.2,
+        139.4,
+        198.3,
+        128.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 180,
+      "source_sample_chars": 90,
+      "source_text": "分析报告：进行分析并形成报告，评估工作效果，提出优化方案。\n团队讨论：讨论进展与问题，做出必要的调整，确保项目顺利推进。\n资源分配：根据工作进展重新分配资源，确保重要任务优先处理。",
+      "bounds_pt": [
+        520.5,
+        138.6,
+        198.3,
+        128.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "任务总结：形成工作成果报告，明确本月工作达成的目标。\n问题总结：总结本月工作中遇到的困难与挑战，制定改进措施。\n团队激励：对团队的表现进行评价表扬优秀表现，激励团队成员。",
+      "bounds_pt": [
+        707.8,
+        364.2,
+        198.3,
+        128.8
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "述职汇报｜重点项目工作成果展示",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "重点项目\n工作成果展示",
+      "bounds_pt": [
+        378.6,
+        293.6,
+        202.8,
+        75.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        51.3,
+        90.2,
+        40.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "文本框 84",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        51.3,
+        308.3,
+        40.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_86",
+      "shape_id": 86,
+      "shape_name": "文本框 85",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        868.3,
+        308.3,
+        40.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "部门协作与流程优化",
+      "bounds_pt": [
+        96.8,
+        87.8,
+        227.3,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "品牌推广与市场拓展",
+      "bounds_pt": [
+        96.8,
+        307.1,
+        227.3,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "客户关系管理与服务",
+      "bounds_pt": [
+        646.1,
+        307.1,
+        227.3,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 248,
+      "source_sample_chars": 124,
+      "source_text": "跨部门沟通：通过组建跨部门小组，打破沟通壁垒，提高信息流通和协作效率，促进团队合作。\n流程精简：简化工作流程，减少不必要的环节，提升决策和执行效率，确保高效运作。\n智能协作工具：引入智能化协作工具，优化任务管理，提升团队协作效率和项目按时交付能力。",
+      "bounds_pt": [
+        56.3,
+        138.0,
+        301.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 160,
+      "source_sample_chars": 80,
+      "source_text": "精准市场定位：深入分析市场数据，精准识别客户需求，制定个性化和差异化的推广策略。\n多渠道营销：线上线下多渠道结合，设计灵活的营销活动，增强品牌曝光和市场竞争力。",
+      "bounds_pt": [
+        56.3,
+        361.1,
+        186.5,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 158,
+      "source_sample_chars": 79,
+      "source_text": "定制化服务：为客户提供个性化定制服务，增强客户的满意度和忠诚度，提升客户体验。\n实时反馈机制：建立实时反馈机制，及时了解客户实际需求和服务问题，优化客户体验。",
+      "bounds_pt": [
+        717.1,
+        361.1,
+        186.5,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "客户满意度",
+      "bounds_pt": [
+        583.2,
+        242.1,
+        103.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "66%",
+      "bounds_pt": [
+        568.7,
+        135.6,
+        115.7,
+        48.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "销售同比增长",
+      "bounds_pt": [
+        685.7,
+        242.1,
+        122.8,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "50%",
+      "bounds_pt": [
+        568.7,
+        135.6,
+        115.7,
+        48.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "客户增长率",
+      "bounds_pt": [
+        807.2,
+        242.1,
+        103.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "20%",
+      "bounds_pt": [
+        568.7,
+        135.6,
+        115.7,
+        48.8
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

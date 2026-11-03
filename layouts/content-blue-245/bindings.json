@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜阶段工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "圆角矩形 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "STEP 04：执行推进",
+      "bounds_pt": [
+        58.3,
+        298.1,
+        204.9,
+        56.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "圆角矩形 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "STEP 03：资源准备",
+      "bounds_pt": [
+        58.3,
+        230.8,
+        204.9,
+        56.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "圆角矩形 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "STEP 02：方案规划",
+      "bounds_pt": [
+        58.3,
+        163.6,
+        204.9,
+        56.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "圆角矩形 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "STEP 01：项目启动",
+      "bounds_pt": [
+        58.3,
+        96.4,
+        204.9,
+        56.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "圆角矩形 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "STEP 05：过程监控",
+      "bounds_pt": [
+        58.3,
+        365.3,
+        204.9,
+        56.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "圆角矩形 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "STEP 06：总结收尾",
+      "bounds_pt": [
+        58.3,
+        432.6,
+        204.9,
+        56.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "STEP 01：项目启动",
+      "bounds_pt": [
+        293.7,
+        95.8,
+        184.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "目标明确：确定项目核心目标和关键成果指标，确保方向清晰。\n团队组建：选拔项目成员，明确职责分工，完成团队搭建。",
+      "bounds_pt": [
+        293.7,
+        127.4,
+        184.7,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "STEP 03：资源准备",
+      "bounds_pt": [
+        505.3,
+        95.8,
+        184.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "目标明确：确定项目核心目标和关键成果指标，确保方向清晰。\n团队组建：选拔项目成员，明确职责分工，完成团队搭建。",
+      "bounds_pt": [
+        505.3,
+        127.4,
+        184.7,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "STEP 05：过程监控",
+      "bounds_pt": [
+        720.9,
+        95.8,
+        184.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "目标明确：确定项目核心目标和关键成果指标，确保方向清晰。\n团队组建：选拔项目成员，明确职责分工，完成团队搭建。",
+      "bounds_pt": [
+        720.9,
+        127.4,
+        184.7,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "STEP 02：方案规划",
+      "bounds_pt": [
+        293.7,
+        370.1,
+        184.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "目标明确：确定项目核心目标和关键成果指标，确保方向清晰。\n团队组建：选拔项目成员，明确职责分工，完成团队搭建。",
+      "bounds_pt": [
+        293.7,
+        401.7,
+        184.7,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "文本框 81",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "STEP 04：执行推进",
+      "bounds_pt": [
+        505.3,
+        370.1,
+        184.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "目标明确：确定项目核心目标和关键成果指标，确保方向清晰。\n团队组建：选拔项目成员，明确职责分工，完成团队搭建。",
+      "bounds_pt": [
+        505.3,
+        401.7,
+        184.7,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "文本框 84",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "STEP 06：总结收尾",
+      "bounds_pt": [
+        720.9,
+        370.1,
+        184.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_86",
+      "shape_id": 86,
+      "shape_name": "文本框 85",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "目标明确：确定项目核心目标和关键成果指标，确保方向清晰。\n团队组建：选拔项目成员，明确职责分工，完成团队搭建。",
+      "bounds_pt": [
+        720.9,
+        401.7,
+        184.7,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

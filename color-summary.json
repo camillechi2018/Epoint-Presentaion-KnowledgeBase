@@ -1,0 +1,525 @@
+{
+  "blue": {
+    "pages": 295,
+    "references": 48698,
+    "top_colors": [
+      {
+        "kind": "schemeClr",
+        "value": "accent1",
+        "count": 18962
+      },
+      {
+        "kind": "schemeClr",
+        "value": "bg1",
+        "count": 8926
+      },
+      {
+        "kind": "schemeClr",
+        "value": "tx1",
+        "count": 5957
+      },
+      {
+        "kind": "schemeClr",
+        "value": "lt1",
+        "count": 3696
+      },
+      {
+        "kind": "schemeClr",
+        "value": "bg2",
+        "count": 2764
+      },
+      {
+        "kind": "srgbClr",
+        "value": "000000",
+        "count": 2173
+      },
+      {
+        "kind": "schemeClr",
+        "value": "accent3",
+        "count": 1791
+      },
+      {
+        "kind": "schemeClr",
+        "value": "accent2",
+        "count": 1718
+      },
+      {
+        "kind": "schemeClr",
+        "value": "accent4",
+        "count": 1140
+      },
+      {
+        "kind": "srgbClr",
+        "value": "FFFFFF",
+        "count": 368
+      },
+      {
+        "kind": "srgbClr",
+        "value": "24292F",
+        "count": 235
+      },
+      {
+        "kind": "srgbClr",
+        "value": "0F1115",
+        "count": 174
+      },
+      {
+        "kind": "srgbClr",
+        "value": "FEFFFF",
+        "count": 93
+      },
+      {
+        "kind": "schemeClr",
+        "value": "tx2",
+        "count": 78
+      },
+      {
+        "kind": "prstClr",
+        "value": "white",
+        "count": 67
+      },
+      {
+        "kind": "srgbClr",
+        "value": "383535",
+        "count": 63
+      },
+      {
+        "kind": "srgbClr",
+        "value": "525455",
+        "count": 61
+      },
+      {
+        "kind": "srgbClr",
+        "value": "435D74",
+        "count": 56
+      },
+      {
+        "kind": "srgbClr",
+        "value": "1A1A1A",
+        "count": 52
+      },
+      {
+        "kind": "sysClr",
+        "value": "windowText",
+        "count": 45
+      },
+      {
+        "kind": "scrgbClr",
+        "value": "",
+        "count": 39
+      },
+      {
+        "kind": "schemeClr",
+        "value": "accent5",
+        "count": 35
+      },
+      {
+        "kind": "schemeClr",
+        "value": "dk1",
+        "count": 26
+      },
+      {
+        "kind": "schemeClr",
+        "value": "accent6",
+        "count": 25
+      },
+      {
+        "kind": "srgbClr",
+        "value": "3F3F3F",
+        "count": 22
+      },
+      {
+        "kind": "prstClr",
+        "value": "black",
+        "count": 21
+      },
+      {
+        "kind": "srgbClr",
+        "value": "7F7F7F",
+        "count": 20
+      },
+      {
+        "kind": "srgbClr",
+        "value": "F2F2F2",
+        "count": 19
+      },
+      {
+        "kind": "srgbClr",
+        "value": "404040",
+        "count": 16
+      },
+      {
+        "kind": "srgbClr",
+        "value": "E4E4E8",
+        "count": 13
+      },
+      {
+        "kind": "srgbClr",
+        "value": "222222",
+        "count": 10
+      },
+      {
+        "kind": "srgbClr",
+        "value": "E7E6E6",
+        "count": 5
+      },
+      {
+        "kind": "srgbClr",
+        "value": "2C2C2C",
+        "count": 5
+      },
+      {
+        "kind": "schemeClr",
+        "value": "dk2",
+        "count": 4
+      },
+      {
+        "kind": "srgbClr",
+        "value": "535353",
+        "count": 4
+      },
+      {
+        "kind": "srgbClr",
+        "value": "A7A7A7",
+        "count": 4
+      },
+      {
+        "kind": "srgbClr",
+        "value": "F7F5F6",
+        "count": 4
+      },
+      {
+        "kind": "srgbClr",
+        "value": "0071BB",
+        "count": 2
+      },
+      {
+        "kind": "srgbClr",
+        "value": "FF7B7B",
+        "count": 2
+      },
+      {
+        "kind": "srgbClr",
+        "value": "4D6ED6",
+        "count": 1
+      },
+      {
+        "kind": "srgbClr",
+        "value": "CCCCCC",
+        "count": 1
+      },
+      {
+        "kind": "srgbClr",
+        "value": "F1F1F1",
+        "count": 1
+      }
+    ]
+  },
+  "red": {
+    "pages": 296,
+    "references": 48827,
+    "top_colors": [
+      {
+        "kind": "schemeClr",
+        "value": "accent1",
+        "count": 18984
+      },
+      {
+        "kind": "schemeClr",
+        "value": "bg1",
+        "count": 8823
+      },
+      {
+        "kind": "schemeClr",
+        "value": "tx1",
+        "count": 5967
+      },
+      {
+        "kind": "schemeClr",
+        "value": "lt1",
+        "count": 3704
+      },
+      {
+        "kind": "schemeClr",
+        "value": "bg2",
+        "count": 2710
+      },
+      {
+        "kind": "srgbClr",
+        "value": "000000",
+        "count": 2178
+      },
+      {
+        "kind": "schemeClr",
+        "value": "accent3",
+        "count": 1798
+      },
+      {
+        "kind": "schemeClr",
+        "value": "accent2",
+        "count": 1726
+      },
+      {
+        "kind": "schemeClr",
+        "value": "accent4",
+        "count": 1168
+      },
+      {
+        "kind": "srgbClr",
+        "value": "FFFFFF",
+        "count": 367
+      },
+      {
+        "kind": "srgbClr",
+        "value": "24292F",
+        "count": 235
+      },
+      {
+        "kind": "srgbClr",
+        "value": "0F1115",
+        "count": 174
+      },
+      {
+        "kind": "schemeClr",
+        "value": "accent5",
+        "count": 160
+      },
+      {
+        "kind": "srgbClr",
+        "value": "FEFFFF",
+        "count": 93
+      },
+      {
+        "kind": "schemeClr",
+        "value": "tx2",
+        "count": 88
+      },
+      {
+        "kind": "prstClr",
+        "value": "white",
+        "count": 67
+      },
+      {
+        "kind": "srgbClr",
+        "value": "383535",
+        "count": 63
+      },
+      {
+        "kind": "srgbClr",
+        "value": "525455",
+        "count": 61
+      },
+      {
+        "kind": "srgbClr",
+        "value": "F4E5E5",
+        "count": 59
+      },
+      {
+        "kind": "srgbClr",
+        "value": "435D74",
+        "count": 56
+      },
+      {
+        "kind": "srgbClr",
+        "value": "1A1A1A",
+        "count": 52
+      },
+      {
+        "kind": "sysClr",
+        "value": "windowText",
+        "count": 45
+      },
+      {
+        "kind": "scrgbClr",
+        "value": "",
+        "count": 39
+      },
+      {
+        "kind": "schemeClr",
+        "value": "dk1",
+        "count": 26
+      },
+      {
+        "kind": "schemeClr",
+        "value": "accent6",
+        "count": 25
+      },
+      {
+        "kind": "srgbClr",
+        "value": "3F3F3F",
+        "count": 22
+      },
+      {
+        "kind": "prstClr",
+        "value": "black",
+        "count": 21
+      },
+      {
+        "kind": "srgbClr",
+        "value": "7F7F7F",
+        "count": 20
+      },
+      {
+        "kind": "srgbClr",
+        "value": "F2F2F2",
+        "count": 19
+      },
+      {
+        "kind": "srgbClr",
+        "value": "404040",
+        "count": 16
+      },
+      {
+        "kind": "srgbClr",
+        "value": "E4E4E8",
+        "count": 13
+      },
+      {
+        "kind": "srgbClr",
+        "value": "222222",
+        "count": 10
+      },
+      {
+        "kind": "srgbClr",
+        "value": "FEE3CF",
+        "count": 6
+      },
+      {
+        "kind": "srgbClr",
+        "value": "E7E6E6",
+        "count": 5
+      },
+      {
+        "kind": "srgbClr",
+        "value": "2C2C2C",
+        "count": 5
+      },
+      {
+        "kind": "schemeClr",
+        "value": "dk2",
+        "count": 4
+      },
+      {
+        "kind": "srgbClr",
+        "value": "535353",
+        "count": 4
+      },
+      {
+        "kind": "srgbClr",
+        "value": "A7A7A7",
+        "count": 4
+      },
+      {
+        "kind": "srgbClr",
+        "value": "F7F5F6",
+        "count": 4
+      },
+      {
+        "kind": "srgbClr",
+        "value": "0071BB",
+        "count": 2
+      },
+      {
+        "kind": "srgbClr",
+        "value": "FF7B7B",
+        "count": 2
+      },
+      {
+        "kind": "srgbClr",
+        "value": "4D6ED6",
+        "count": 1
+      },
+      {
+        "kind": "srgbClr",
+        "value": "CCCCCC",
+        "count": 1
+      }
+    ]
+  },
+  "cover": {
+    "pages": 20,
+    "references": 720,
+    "top_colors": [
+      {
+        "kind": "schemeClr",
+        "value": "bg1",
+        "count": 297
+      },
+      {
+        "kind": "schemeClr",
+        "value": "accent1",
+        "count": 200
+      },
+      {
+        "kind": "schemeClr",
+        "value": "tx1",
+        "count": 68
+      },
+      {
+        "kind": "srgbClr",
+        "value": "215391",
+        "count": 25
+      },
+      {
+        "kind": "srgbClr",
+        "value": "4B2411",
+        "count": 25
+      },
+      {
+        "kind": "schemeClr",
+        "value": "lt1",
+        "count": 24
+      },
+      {
+        "kind": "srgbClr",
+        "value": "42CFFD",
+        "count": 21
+      },
+      {
+        "kind": "srgbClr",
+        "value": "2557C5",
+        "count": 15
+      },
+      {
+        "kind": "srgbClr",
+        "value": "0055EE",
+        "count": 13
+      },
+      {
+        "kind": "srgbClr",
+        "value": "A68E69",
+        "count": 13
+      },
+      {
+        "kind": "srgbClr",
+        "value": "2D90F2",
+        "count": 6
+      },
+      {
+        "kind": "srgbClr",
+        "value": "004175",
+        "count": 4
+      },
+      {
+        "kind": "srgbClr",
+        "value": "2C70C2",
+        "count": 3
+      },
+      {
+        "kind": "srgbClr",
+        "value": "001226",
+        "count": 2
+      },
+      {
+        "kind": "srgbClr",
+        "value": "1B4579",
+        "count": 2
+      },
+      {
+        "kind": "prstClr",
+        "value": "black",
+        "count": 2
+      }
+    ]
+  }
+}

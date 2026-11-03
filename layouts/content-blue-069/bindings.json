@@ -1,0 +1,759 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜明年工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "任意形状 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "02.启动实施期",
+      "bounds_pt": [
+        217.1,
+        342.9,
+        204.9,
+        85.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "任意形状 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "01.规划准备期",
+      "bounds_pt": [
+        42.3,
+        342.9,
+        204.9,
+        85.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "任意形状 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "03.全面推进期",
+      "bounds_pt": [
+        391.9,
+        342.9,
+        204.9,
+        85.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "任意形状 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "04.深化提升期",
+      "bounds_pt": [
+        566.8,
+        342.9,
+        204.9,
+        85.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "任意形状 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "05.总结规划期",
+      "bounds_pt": [
+        741.6,
+        342.9,
+        204.9,
+        85.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "1.目标制定",
+      "bounds_pt": [
+        49.8,
+        81.7,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "明确年度各项关键业绩指标具体目标要求。",
+      "bounds_pt": [
+        49.8,
+        111.3,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "2.资源规划",
+      "bounds_pt": [
+        49.8,
+        168.0,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "配置必要的人力物力及预算资源支持保障。",
+      "bounds_pt": [
+        49.8,
+        197.6,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "3.方案设计",
+      "bounds_pt": [
+        49.8,
+        254.3,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "制定详细可行的具体实施路径和行动方案。",
+      "bounds_pt": [
+        49.8,
+        283.9,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "1.团队组建",
+      "bounds_pt": [
+        225.4,
+        81.7,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "完成各岗位专业人员配置和职责明确。",
+      "bounds_pt": [
+        225.4,
+        111.3,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "2.流程建立",
+      "bounds_pt": [
+        225.4,
+        168.0,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "制定标准化工作流程和管理规范制度。",
+      "bounds_pt": [
+        225.4,
+        197.6,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "3.培训开展",
+      "bounds_pt": [
+        225.4,
+        254.3,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "组织专业技能培训和制度规范学习，提升工作能力。",
+      "bounds_pt": [
+        225.4,
+        283.9,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "1.业务拓展",
+      "bounds_pt": [
+        400.9,
+        81.7,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 18,
+      "source_text": "全面推进市场开发和客户关系维护工作。",
+      "bounds_pt": [
+        400.9,
+        111.3,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "2.产品优化",
+      "bounds_pt": [
+        400.9,
+        168.0,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "持续迭代升级产品的功能和服务体验。",
+      "bounds_pt": [
+        400.9,
+        197.6,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "3.渠道建设",
+      "bounds_pt": [
+        400.9,
+        254.3,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "完善销售渠道网络和合作伙伴体系，扩展渠道。",
+      "bounds_pt": [
+        400.9,
+        283.9,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "1.效能提升",
+      "bounds_pt": [
+        576.4,
+        81.7,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "优化业务流程提升整体运营工作效率。",
+      "bounds_pt": [
+        576.4,
+        111.3,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "2.质量管控",
+      "bounds_pt": [
+        576.4,
+        168.0,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "强化服务质量管控和监督体系建设，提升质量。",
+      "bounds_pt": [
+        576.4,
+        197.6,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "文本框 81",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "3.成本控制",
+      "bounds_pt": [
+        576.4,
+        254.3,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "实施精细化成本管控和优化措施，减少运营成本。",
+      "bounds_pt": [
+        576.4,
+        283.9,
+        159.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "1.成果评估",
+      "bounds_pt": [
+        751.9,
+        81.7,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "文本框 84",
+      "type": "text",
+      "max_chars": 52,
+      "source_sample_chars": 26,
+      "source_text": "全面分析评估年度目标达成情况为后续分析提供数据支撑。",
+      "bounds_pt": [
+        751.9,
+        111.3,
+        159.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_86",
+      "shape_id": 86,
+      "shape_name": "文本框 85",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "2.经验总结",
+      "bounds_pt": [
+        751.9,
+        168.0,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "文本框 86",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "系统提炼总结最佳实践和经验教训，规避后续风险。",
+      "bounds_pt": [
+        751.9,
+        197.6,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "3.规划制定",
+      "bounds_pt": [
+        751.9,
+        254.3,
+        159.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "制定下一年度的详细工作计划和目标。",
+      "bounds_pt": [
+        751.9,
+        283.9,
+        159.6,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_109",
+      "shape_id": 109,
+      "shape_name": "文本框 108",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "目标可行性达100%",
+      "bounds_pt": [
+        70.3,
+        453.9,
+        119.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_110",
+      "shape_id": 110,
+      "shape_name": "文本框 109",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "业务处理时长缩短20%",
+      "bounds_pt": [
+        236.7,
+        453.9,
+        136.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_111",
+      "shape_id": 111,
+      "shape_name": "文本框 110",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "拓展新兴市场3个",
+      "bounds_pt": [
+        426.1,
+        453.9,
+        107.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "文本框 111",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "运营成本降低20%",
+      "bounds_pt": [
+        598.7,
+        453.9,
+        111.9,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_113",
+      "shape_id": 113,
+      "shape_name": "文本框 112",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "关键数据准确率100%",
+      "bounds_pt": [
+        764.0,
+        453.9,
+        131.2,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_115",
+      "shape_id": 115,
+      "shape_name": "文本框 114",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "The target feasibility reaches 100%",
+      "bounds_pt": [
+        57.5,
+        476.6,
+        144.7,
+        15.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_116",
+      "shape_id": 116,
+      "shape_name": "文本框 115",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "Reduce business processing time by 20%",
+      "bounds_pt": [
+        226.7,
+        476.6,
+        157.5,
+        15.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_117",
+      "shape_id": 117,
+      "shape_name": "文本框 116",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "Expand into three emerging markets",
+      "bounds_pt": [
+        407.4,
+        476.6,
+        144.7,
+        15.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_118",
+      "shape_id": 118,
+      "shape_name": "文本框 117",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "Reduce operating costs by 20%",
+      "bounds_pt": [
+        582.3,
+        476.6,
+        144.7,
+        15.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_119",
+      "shape_id": 119,
+      "shape_name": "文本框 118",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "Key data accuracy rate of 100%",
+      "bounds_pt": [
+        757.2,
+        476.6,
+        144.7,
+        15.8
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "图片 6",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

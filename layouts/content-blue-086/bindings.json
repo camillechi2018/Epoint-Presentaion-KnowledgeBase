@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 16,
+      "source_text": "述职汇报｜上半年我完成了多少项目",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "矩形: 圆角 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "上半年我完成的项目",
+      "bounds_pt": [
+        43.5,
+        271.9,
+        873.0,
+        37.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "任意多边形: 形状 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        162.4,
+        224.8,
+        35.3,
+        35.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "任意多边形: 形状 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        462.1,
+        224.8,
+        35.3,
+        35.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "任意多边形: 形状 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        761.8,
+        225.8,
+        35.3,
+        35.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "任意多边形: 形状 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "06",
+      "bounds_pt": [
+        761.8,
+        322.9,
+        35.3,
+        35.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "任意多边形: 形状 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        462.1,
+        322.9,
+        35.3,
+        35.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "任意多边形: 形状 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        162.4,
+        322.9,
+        35.3,
+        35.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 156,
+      "source_sample_chars": 78,
+      "source_text": "性能提升：完成核心模块重构，系统响应速度提升40%，并发处理能力提高50%。\n应用推广：组织3场培训覆盖80人，建立操作手册和答疑机制，用户通过率100%。",
+      "bounds_pt": [
+        56.1,
+        125.5,
+        248.3,
+        95.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "系统升级项目",
+      "bounds_pt": [
+        56.1,
+        85.8,
+        143.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 142,
+      "source_sample_chars": 71,
+      "source_text": "数据收集:完成200+客户问卷和20家VIP深度访谈获取有效建议28条。\n成果转化:输出专业分析报告，推动建立48小时响应机制等5项改进措施。",
+      "bounds_pt": [
+        355.6,
+        125.5,
+        248.3,
+        95.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "客户满意度调研",
+      "bounds_pt": [
+        355.6,
+        85.8,
+        143.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 146,
+      "source_sample_chars": 73,
+      "source_text": "活动执行:举办4场线下推介会吸引200+客户，线上直播观看突破5000人次。\n业绩达成:新增意向客户85家，实现销售额1200万，超额完成30%。",
+      "bounds_pt": [
+        655.1,
+        125.5,
+        248.3,
+        95.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "新产品市场推广",
+      "bounds_pt": [
+        655.1,
+        85.8,
+        143.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 148,
+      "source_sample_chars": 74,
+      "source_text": "系统建设:开发3个高频流程自动化，单流程处理时间从45分钟缩短至8分钟。\n实施效果:试点部门月省320人工时，错误率从8%降至2%，准确率显著提升。",
+      "bounds_pt": [
+        56.1,
+        365.3,
+        248.3,
+        95.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "业务流程自动化",
+      "bounds_pt": [
+        56.1,
+        472.3,
+        143.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "培训开展:组织专业技能培训，参训156人次，考核优秀率85%。\n新人培养:实施导师制，10名新人上岗时间缩短50%，快速补充一线力量。",
+      "bounds_pt": [
+        355.6,
+        365.3,
+        248.3,
+        95.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "团队能力提升",
+      "bounds_pt": [
+        355.6,
+        472.3,
+        143.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "采购优化：重新评估供应商，通过集中采购降低常用物料成本12%。\n库存管理：建立动态监控机制，处理呆滞物料83万，周转率提升0.6次。",
+      "bounds_pt": [
+        655.1,
+        365.3,
+        248.3,
+        95.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "成本优化专项",
+      "bounds_pt": [
+        655.1,
+        472.3,
+        143.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

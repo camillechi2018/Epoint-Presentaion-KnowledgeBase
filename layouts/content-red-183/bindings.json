@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        28.4,
+        173.2,
+        387.8,
+        355.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "战略规划",
+      "bounds_pt": [
+        442.8,
+        235.8,
+        421.4,
+        128.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 18,
+      "source_text": "Strategic planning",
+      "bounds_pt": [
+        455.9,
+        364.1,
+        408.4,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 112,
+      "source_sample_chars": 56,
+      "source_text": "这里可以放入一段描述的文案，这里可以放入一段描述的文案。这里可以放入一段描述的文案，这里可以放入一段描述的文案。",
+      "bounds_pt": [
+        451.4,
+        412.7,
+        412.9,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "PART FOUR",
+      "bounds_pt": [
+        34.1,
+        14.8,
+        548.5,
+        123.6
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+        "bounds_pt": [
+          831.1,
+          38.9,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

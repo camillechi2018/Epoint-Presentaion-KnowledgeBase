@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜不足之处与改进方案",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "不足\n之处",
+      "bounds_pt": [
+        344.7,
+        257.7,
+        77.6,
+        75.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "改进方案",
+      "bounds_pt": [
+        538.5,
+        257.7,
+        77.6,
+        75.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "01.任务优先级不明确",
+      "bounds_pt": [
+        75.7,
+        88.8,
+        193.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "多任务并行时，未合理安排任务优先级，导致部分任务推迟或遗漏。\n工作量大的时候，缺乏清晰的时间规划，可能造成效率低下，甚至工作中的错误。",
+      "bounds_pt": [
+        43.2,
+        132.0,
+        225.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 130,
+      "source_sample_chars": 65,
+      "source_text": "跨部门协作时，由于沟通不够及时或信息传递不全，常常导致进度延误或责任模糊。\n沟通障碍使得团队间的配合出现误解，影响项目的整体效率。",
+      "bounds_pt": [
+        43.3,
+        274.9,
+        225.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "专业知识更新不足，导致解决问题时缺乏有效的技术方案，影响工作质量及效率。\n在快速发展的行业中，若不跟进新趋势，可能错失创新机会。",
+      "bounds_pt": [
+        43.2,
+        417.9,
+        225.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 138,
+      "source_sample_chars": 69,
+      "source_text": "通过使用日程表、番茄工作法等工具，清晰列出每日任务并设定优先级。\n每周进行回顾，提前规划处理紧急任务，确保工作井井有条，提升整体工作效率。",
+      "bounds_pt": [
+        691.0,
+        132.0,
+        225.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 136,
+      "source_sample_chars": 68,
+      "source_text": "加强沟通与反馈，确保信息准确传递，使用共享工作表来跟踪进度。\n通过优化会议和邮件内容，确保每个成员都能及时了解项目情况，减少误解和返工。",
+      "bounds_pt": [
+        691.9,
+        274.9,
+        225.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "设定明确的学习目标，通过参加培训、技术分享会等途径持续更新知识。\n主动向同事请教并实践新技术，不断提升自己的专业能力，以适应行业变化。",
+      "bounds_pt": [
+        691.9,
+        417.9,
+        225.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "02.沟通与协调不顺畅",
+      "bounds_pt": [
+        75.4,
+        231.5,
+        193.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "03.专业技能更新滞后",
+      "bounds_pt": [
+        75.4,
+        374.2,
+        193.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.明确好优先级",
+      "bounds_pt": [
+        722.2,
+        88.8,
+        193.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.加强沟通交流",
+      "bounds_pt": [
+        722.2,
+        231.5,
+        193.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.学习专业技能",
+      "bounds_pt": [
+        722.2,
+        374.2,
+        193.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "自我认知，找出不足",
+      "bounds_pt": [
+        356.0,
+        88.5,
+        247.0,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "制定方案，改进不足",
+      "bounds_pt": [
+        356.7,
+        471.6,
+        247.0,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

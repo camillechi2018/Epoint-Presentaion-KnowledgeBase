@@ -1,0 +1,519 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "矩形: 圆角 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.增强沟通能力",
+      "bounds_pt": [
+        43.2,
+        82.2,
+        166.0,
+        57.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "矩形: 圆角 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.培养合作能力",
+      "bounds_pt": [
+        220.2,
+        82.2,
+        166.0,
+        57.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "矩形: 圆角 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.提升决策能力",
+      "bounds_pt": [
+        397.2,
+        82.2,
+        166.0,
+        57.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "矩形: 圆角 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.加强情绪管理",
+      "bounds_pt": [
+        574.2,
+        82.2,
+        166.0,
+        57.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "矩形: 圆角 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "05.增强时间管理",
+      "bounds_pt": [
+        751.1,
+        82.2,
+        166.0,
+        57.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "任意多边形: 形状 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "学会倾听和反馈",
+      "bounds_pt": [
+        56.8,
+        262.5,
+        139.6,
+        26.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "任意多边形: 形状 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升表达技巧",
+      "bounds_pt": [
+        56.8,
+        344.6,
+        139.6,
+        26.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "任意多边形: 形状 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "建立团队信任",
+      "bounds_pt": [
+        233.8,
+        262.5,
+        139.6,
+        26.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "任意多边形: 形状 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "提升团队协作意识",
+      "bounds_pt": [
+        233.8,
+        344.6,
+        139.6,
+        26.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "任意多边形: 形状 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "学会权衡利弊",
+      "bounds_pt": [
+        410.8,
+        262.5,
+        139.6,
+        26.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "任意多边形: 形状 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "改善决策框架",
+      "bounds_pt": [
+        410.8,
+        344.6,
+        139.6,
+        26.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "任意多边形: 形状 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "学会自我反思",
+      "bounds_pt": [
+        587.8,
+        262.5,
+        139.6,
+        26.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "任意多边形: 形状 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "练习情绪调节",
+      "bounds_pt": [
+        587.8,
+        344.6,
+        139.6,
+        26.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "任意多边形: 形状 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "优化工作时间",
+      "bounds_pt": [
+        764.8,
+        262.5,
+        139.6,
+        26.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "任意多边形: 形状 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "培养高效工作习惯",
+      "bounds_pt": [
+        764.8,
+        344.6,
+        139.6,
+        26.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "定期与团队进行一对一的交流，帮助发现问题并解决。",
+      "bounds_pt": [
+        55.6,
+        296.0,
+        140.4,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "通过演讲和会议时的表达训练，学习如何清晰的传达自己的想法，增强影响力。",
+      "bounds_pt": [
+        56.4,
+        376.5,
+        140.4,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "创建一个开放透明的工作环境，增强团队成员信任感。",
+      "bounds_pt": [
+        232.7,
+        296.0,
+        140.4,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "通过激励与支持，确保团队成员在共同目标的指引下相互协作，提升效率。",
+      "bounds_pt": [
+        233.5,
+        376.5,
+        140.4,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "决策时学会权衡不同的利弊和风险，并迅速作出反应。",
+      "bounds_pt": [
+        409.8,
+        296.0,
+        140.4,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "在面对复杂问题时，通过清晰的分析框架来帮助自己做出更加理性和科学的决策。",
+      "bounds_pt": [
+        410.6,
+        376.5,
+        140.4,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "评估自己管理行为，识别改进的地方并持续成长。",
+      "bounds_pt": [
+        586.9,
+        296.0,
+        140.4,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "需要保持情绪稳定，以积极的心态面对压力和挑战，避免情绪波动影响决策。",
+      "bounds_pt": [
+        587.7,
+        376.5,
+        140.4,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "通过使用时间管理工具确保任务优先级清晰。",
+      "bounds_pt": [
+        764.0,
+        296.0,
+        140.4,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "养成专注工作的习惯，提升工作效率，并确保为团队提供足够的支持和关注。",
+      "bounds_pt": [
+        764.8,
+        376.5,
+        140.4,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "箭头: V 形 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "1月-3月",
+      "bounds_pt": [
+        43.2,
+        458.1,
+        175.9,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "箭头: V 形 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "4月-5月",
+      "bounds_pt": [
+        221.4,
+        458.1,
+        175.9,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "箭头: V 形 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "6月-8月",
+      "bounds_pt": [
+        399.5,
+        458.1,
+        175.9,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "箭头: V 形 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "9月-10月",
+      "bounds_pt": [
+        577.7,
+        458.1,
+        175.9,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "箭头: V 形 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "11月-12月",
+      "bounds_pt": [
+        755.9,
+        458.1,
+        175.9,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "述职汇报｜个人决策力与管理能力提升计划",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

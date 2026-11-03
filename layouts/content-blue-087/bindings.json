@@ -1,0 +1,679 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 16,
+      "source_text": "述职汇报｜上半年我完成了多少工作",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_133",
+      "shape_id": 133,
+      "shape_name": "文本框 132",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "IT基础设施升级",
+      "bounds_pt": [
+        60.4,
+        93.3,
+        145.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_134",
+      "shape_id": 134,
+      "shape_name": "文本框 133",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "敏捷开发管理",
+      "bounds_pt": [
+        238.4,
+        93.3,
+        145.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_135",
+      "shape_id": 135,
+      "shape_name": "文本框 134",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "数据分析平台",
+      "bounds_pt": [
+        416.4,
+        93.3,
+        145.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_136",
+      "shape_id": 136,
+      "shape_name": "文本框 135",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升团队技术",
+      "bounds_pt": [
+        594.5,
+        93.3,
+        145.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_137",
+      "shape_id": 137,
+      "shape_name": "文本框 136",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "信息安全策略",
+      "bounds_pt": [
+        772.5,
+        93.3,
+        145.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_138",
+      "shape_id": 138,
+      "shape_name": "文本框 137",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "1.网络设备更新",
+      "bounds_pt": [
+        52.7,
+        138.9,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_139",
+      "shape_id": 139,
+      "shape_name": "文本框 138",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "更换了老旧的路由器，提高了网络稳定性和传输速度，减少了业务中断风险。",
+      "bounds_pt": [
+        52.7,
+        169.4,
+        156.1,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_140",
+      "shape_id": 140,
+      "shape_name": "文本框 139",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2.服务器虚拟化",
+      "bounds_pt": [
+        52.7,
+        248.9,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_141",
+      "shape_id": 141,
+      "shape_name": "文本框 140",
+      "type": "text",
+      "max_chars": 62,
+      "source_sample_chars": 31,
+      "source_text": "引入虚拟化技术，提高了服务器资源使用效率，减少了硬件采购成本。",
+      "bounds_pt": [
+        52.7,
+        279.4,
+        156.1,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_142",
+      "shape_id": 142,
+      "shape_name": "文本框 141",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "3.备份系统完善",
+      "bounds_pt": [
+        52.7,
+        359.0,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_143",
+      "shape_id": 143,
+      "shape_name": "文本框 142",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "更新了数据备份策略，安装了自动化备份系统，确保了数据安全与恢复能力。",
+      "bounds_pt": [
+        52.7,
+        391.9,
+        156.1,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_144",
+      "shape_id": 144,
+      "shape_name": "文本框 143",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "1.实施Scrum框架",
+      "bounds_pt": [
+        228.0,
+        139.3,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_145",
+      "shape_id": 145,
+      "shape_name": "文本框 144",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "组织团队参与Scrum培训，引入短周期的Sprint，提升了团队响应速度。",
+      "bounds_pt": [
+        228.0,
+        169.8,
+        156.1,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_146",
+      "shape_id": 146,
+      "shape_name": "文本框 145",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2.任务管理更新",
+      "bounds_pt": [
+        228.0,
+        249.3,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_147",
+      "shape_id": 147,
+      "shape_name": "文本框 146",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "部署了新的任务管理工具，改进了任务分配与跟踪，确保项目按时交付。",
+      "bounds_pt": [
+        228.0,
+        279.8,
+        156.1,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_148",
+      "shape_id": 148,
+      "shape_name": "文本框 147",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "3.定期回顾改进",
+      "bounds_pt": [
+        228.0,
+        359.4,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_149",
+      "shape_id": 149,
+      "shape_name": "文本框 148",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "每两周进行回顾会议，评估团队表现并优化工作方式，提升整体的工作效率。",
+      "bounds_pt": [
+        228.0,
+        392.3,
+        156.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_150",
+      "shape_id": 150,
+      "shape_name": "文本框 149",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "1.整合数据源",
+      "bounds_pt": [
+        403.2,
+        139.7,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_151",
+      "shape_id": 151,
+      "shape_name": "文本框 150",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "成功整合了销售、财务、运营等部门的数据，为决策提供了全面的视角。",
+      "bounds_pt": [
+        403.2,
+        170.2,
+        156.1,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_152",
+      "shape_id": 152,
+      "shape_name": "文本框 151",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2.提升处理速度",
+      "bounds_pt": [
+        403.2,
+        249.8,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_153",
+      "shape_id": 153,
+      "shape_name": "文本框 152",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "通过数据库优化与分布式计算提高了数据处理和查询速度，缩短报告生成时间。",
+      "bounds_pt": [
+        403.2,
+        280.2,
+        156.1,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_154",
+      "shape_id": 154,
+      "shape_name": "文本框 153",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "3.员工培训工具",
+      "bounds_pt": [
+        403.2,
+        359.8,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_155",
+      "shape_id": 155,
+      "shape_name": "文本框 154",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "为员工提供数据分析培训，提升自助分析能力，减少对新兴技术支持的依赖。",
+      "bounds_pt": [
+        403.2,
+        392.7,
+        156.1,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_156",
+      "shape_id": 156,
+      "shape_name": "文本框 155",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "1.培训计划制定",
+      "bounds_pt": [
+        578.4,
+        140.1,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_157",
+      "shape_id": 157,
+      "shape_name": "文本框 156",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "制定并实施了技术培训计划，提升了团队技术水平，促进了跨部门协作。",
+      "bounds_pt": [
+        578.4,
+        170.6,
+        156.1,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_158",
+      "shape_id": 158,
+      "shape_name": "文本框 157",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2.引入代码审查",
+      "bounds_pt": [
+        578.4,
+        250.2,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_159",
+      "shape_id": 159,
+      "shape_name": "文本框 158",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "实施了代码审查制度，确保开发质量的稳定，增强了团队知识共享，提升安全性。",
+      "bounds_pt": [
+        578.4,
+        280.7,
+        156.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_160",
+      "shape_id": 160,
+      "shape_name": "文本框 159",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "3.优化开发环境",
+      "bounds_pt": [
+        578.4,
+        360.2,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_161",
+      "shape_id": 161,
+      "shape_name": "文本框 160",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "提供了高效的开发工具，包括最新的IDE、测试工具和版本控制系统，提升开发效率。",
+      "bounds_pt": [
+        578.4,
+        393.1,
+        156.1,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_162",
+      "shape_id": 162,
+      "shape_name": "文本框 161",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "1.网络防护升级",
+      "bounds_pt": [
+        753.6,
+        140.5,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_163",
+      "shape_id": 163,
+      "shape_name": "文本框 162",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "加强了防火墙和防病毒系统，减少了网络安全威胁，大幅提升了网络安全。",
+      "bounds_pt": [
+        753.6,
+        171.0,
+        156.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_164",
+      "shape_id": 164,
+      "shape_name": "文本框 163",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2.安全培训普及",
+      "bounds_pt": [
+        753.6,
+        250.6,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_165",
+      "shape_id": 165,
+      "shape_name": "文本框 164",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "开展了员工信息安全培训，提高了员工识别钓鱼邮件、恶意软件等威胁的能力。",
+      "bounds_pt": [
+        753.6,
+        281.1,
+        156.1,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_166",
+      "shape_id": 166,
+      "shape_name": "文本框 165",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "3.定期安全审计",
+      "bounds_pt": [
+        753.6,
+        360.6,
+        156.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_167",
+      "shape_id": 167,
+      "shape_name": "文本框 166",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "定期进行安全审计，评估系统漏洞，及时修补，确保数据和应用的安全。",
+      "bounds_pt": [
+        753.6,
+        393.6,
+        156.1,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_169",
+      "shape_id": 169,
+      "shape_name": "文本框 168",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作内容01",
+      "bounds_pt": [
+        58.3,
+        479.9,
+        147.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_170",
+      "shape_id": 170,
+      "shape_name": "文本框 169",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作内容02",
+      "bounds_pt": [
+        232.5,
+        479.9,
+        147.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_171",
+      "shape_id": 171,
+      "shape_name": "文本框 170",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作内容03",
+      "bounds_pt": [
+        406.6,
+        479.9,
+        147.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_172",
+      "shape_id": 172,
+      "shape_name": "文本框 171",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作内容04",
+      "bounds_pt": [
+        580.7,
+        479.9,
+        147.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_173",
+      "shape_id": 173,
+      "shape_name": "文本框 172",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作内容05",
+      "bounds_pt": [
+        754.8,
+        479.9,
+        147.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

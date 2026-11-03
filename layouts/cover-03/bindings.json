@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 12,
+      "source_text": "战略定位与营销赋能分享会",
+      "bounds_pt": [
+        226.5,
+        283.9,
+        240.1,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "新点软件产品发布会",
+      "bounds_pt": [
+        102.3,
+        171.0,
+        366.5,
+        50.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 27,
+      "source_sample_chars": 27,
+      "source_text": "EPOINT PRODUCT LAUNCH EVENT",
+      "bounds_pt": [
+        127.8,
+        226.9,
+        340.9,
+        26.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "2026",
+      "bounds_pt": [
+        730.4,
+        454.9,
+        174.0,
+        21.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "演讲人：新点软件",
+      "bounds_pt": [
+        730.4,
+        474.1,
+        174.0,
+        19.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "股票代码 688232",
+      "bounds_pt": [
+        1.2,
+        0.0,
+        0.3,
+        0.0
+      ],
+      "semantic_role": "brand_locked"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "成为行业数字化领航者",
+      "bounds_pt": [
+        140.7,
+        418.3,
+        174.0,
+        21.7
+      ],
+      "semantic_role": "brand_locked"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 39,
+      "source_sample_chars": 39,
+      "source_text": "Become a digital leader in the industry",
+      "bounds_pt": [
+        140.7,
+        437.6,
+        315.6,
+        19.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 39,
+        "shape_name": "图片 38",
+        "sha256": "48e8baadd1b8c3823f3f8297dded66425ddb55c4751ab1322b37f042d8765230",
+        "bounds_pt": [
+          -0.0,
+          0.0,
+          960.0,
+          540.0
+        ]
+      },
+      {
+        "shape_id": 20,
+        "shape_name": "图片 19",
+        "sha256": "16a69d516122d56ba6bedea6610cbce1fc0d92becfb9a7fa737ac2f3e441b7e3",
+        "bounds_pt": [
+          0.0,
+          0.0,
+          0.1,
+          0.0
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

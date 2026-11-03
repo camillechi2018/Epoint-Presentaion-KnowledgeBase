@@ -1,0 +1,5 @@
+# Legacy expanded page files from the first extraction attempt; the compact
+# knowledge base stores three original PPTX files and materializes pages on use.
+source-pages/
+layouts/**/blank.pptx
+layouts/**/blank-red.pptx

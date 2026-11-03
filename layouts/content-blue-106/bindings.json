@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜上半年工作成果展示",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "团队协作与建设",
+      "bounds_pt": [
+        120.1,
+        105.4,
+        214.8,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "工作效率的提升",
+      "bounds_pt": [
+        120.1,
+        191.5,
+        214.8,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "客户服务与维护",
+      "bounds_pt": [
+        120.1,
+        277.7,
+        214.8,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "品牌宣传与推广",
+      "bounds_pt": [
+        120.1,
+        363.9,
+        214.8,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "销售业绩与达成",
+      "bounds_pt": [
+        120.1,
+        450.2,
+        214.8,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 138,
+      "source_sample_chars": 69,
+      "source_text": "跨部门合作：推动了跨部门小组的成立，促进了信息共享，提升了工作效率。\n员工提升：定期开展员工培训，帮助提升团队成员的专业能力和工作积极性。",
+      "bounds_pt": [
+        419.3,
+        97.7,
+        410.9,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 158,
+      "source_sample_chars": 79,
+      "source_text": "流程优化：简化了冗余工作流程，减少了不必要的环节，提高了整体工作效率和响应速度。\n跨部门整合：优化了跨部门的协作流程，提升了各部门之间的沟通效率和项目执行力。",
+      "bounds_pt": [
+        419.3,
+        183.9,
+        409.0,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 154,
+      "source_sample_chars": 77,
+      "source_text": "客户满意度提升：通过满意度调查，及时了解客户并优化服务流程，提高了客户满意度。\n定制化服务：根据客户需求推出个性化服务方案，增强了客户忠诚度和市场竞争力。",
+      "bounds_pt": [
+        419.3,
+        270.1,
+        409.0,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 154,
+      "source_sample_chars": 77,
+      "source_text": "品牌升级：全面升级了品牌形象，强化了品牌的影响力，并提升了客户的品牌认知度。\n线上线下推广：结合线上广告与线下活动，提升了品牌曝光率，吸引了更多潜在客户。",
+      "bounds_pt": [
+        419.3,
+        356.3,
+        410.9,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 162,
+      "source_sample_chars": 81,
+      "source_text": "新市场拓展：成功开辟了新兴市场，取得了显著的销售增长，并增强了品牌的市场渗透力。\n销售策略优化：优化了销售策略，提高了客户转化率，促进了客户的长期合作与购买频率。",
+      "bounds_pt": [
+        419.3,
+        442.4,
+        410.9,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "任意多边形: 形状 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        43.5,
+        82.9,
+        76.6,
+        76.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "任意多边形: 形状 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        43.5,
+        427.6,
+        76.6,
+        76.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "任意多边形: 形状 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        43.5,
+        169.1,
+        76.6,
+        76.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "任意多边形: 形状 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        43.5,
+        341.5,
+        76.6,
+        76.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "任意多边形: 形状 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        43.5,
+        255.4,
+        76.6,
+        76.6
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

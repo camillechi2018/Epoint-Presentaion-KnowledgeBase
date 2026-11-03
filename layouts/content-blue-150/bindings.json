@@ -1,0 +1,375 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "文本框 94",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "参加行业培训：报名参加相关的在线课程,持续提升自己的能力。",
+      "bounds_pt": [
+        70.2,
+        241.6,
+        125.2,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升专业知识",
+      "bounds_pt": [
+        70.2,
+        213.6,
+        125.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_107",
+      "shape_id": 107,
+      "shape_name": "文本框 106",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "定期阅读文章：定期阅读最新的研究，保持对行业变化的敏锐度。",
+      "bounds_pt": [
+        70.2,
+        302.1,
+        125.2,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_111",
+      "shape_id": 111,
+      "shape_name": "文本框 110",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "进行演讲训练：通过参加演讲课程，提升在公开场合表达的自信。",
+      "bounds_pt": [
+        243.6,
+        241.6,
+        125.9,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "文本框 111",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升沟通能力",
+      "bounds_pt": [
+        243.6,
+        213.6,
+        125.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_113",
+      "shape_id": 113,
+      "shape_name": "文本框 112",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "加强书面表达能力：定期进行写作练习，提升自己的表达能力。",
+      "bounds_pt": [
+        243.6,
+        302.1,
+        125.9,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_115",
+      "shape_id": 115,
+      "shape_name": "文本框 114",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "时间管理工具：使用时间管理工具，更清晰地规划每日任务。",
+      "bounds_pt": [
+        417.0,
+        241.6,
+        125.9,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_116",
+      "shape_id": 116,
+      "shape_name": "文本框 115",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "增强时间管理",
+      "bounds_pt": [
+        417.0,
+        213.6,
+        125.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_117",
+      "shape_id": 117,
+      "shape_name": "文本框 116",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "定期阅读文章：定期阅读最新的研究，保持对行业变化的敏锐度。",
+      "bounds_pt": [
+        417.0,
+        302.1,
+        125.9,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_119",
+      "shape_id": 119,
+      "shape_name": "文本框 118",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "担任负责人：争取在项目中担任负责人，提升协调和决策能力。",
+      "bounds_pt": [
+        590.4,
+        241.6,
+        125.9,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_120",
+      "shape_id": 120,
+      "shape_name": "文本框 119",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升决策能力",
+      "bounds_pt": [
+        590.4,
+        213.6,
+        125.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_121",
+      "shape_id": 121,
+      "shape_name": "文本框 120",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "参与团队活动：积极参与团队活动，增强团队凝聚力和合作氛围。",
+      "bounds_pt": [
+        590.4,
+        302.1,
+        125.9,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_123",
+      "shape_id": 123,
+      "shape_name": "文本框 122",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "参加行业活动：定期参加行业展会和讲座，结识潜在的合作伙伴。",
+      "bounds_pt": [
+        763.8,
+        241.6,
+        125.9,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_124",
+      "shape_id": 124,
+      "shape_name": "文本框 123",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "拓宽人脉关系",
+      "bounds_pt": [
+        763.8,
+        213.6,
+        125.9,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_125",
+      "shape_id": 125,
+      "shape_name": "文本框 124",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "利用社交平台：通过社交平台建立与业内人士的联系。",
+      "bounds_pt": [
+        763.8,
+        302.1,
+        125.9,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_127",
+      "shape_id": 127,
+      "shape_name": "文本框 126",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升计划01",
+      "bounds_pt": [
+        58.2,
+        482.2,
+        148.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_129",
+      "shape_id": 129,
+      "shape_name": "文本框 128",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升计划02",
+      "bounds_pt": [
+        231.9,
+        482.2,
+        148.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_130",
+      "shape_id": 130,
+      "shape_name": "文本框 129",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升计划03",
+      "bounds_pt": [
+        405.7,
+        482.2,
+        148.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_131",
+      "shape_id": 131,
+      "shape_name": "文本框 130",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升计划04",
+      "bounds_pt": [
+        579.5,
+        482.2,
+        148.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_132",
+      "shape_id": 132,
+      "shape_name": "文本框 131",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升计划05",
+      "bounds_pt": [
+        753.3,
+        482.2,
+        148.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "述职汇报｜个人职业技能提升计划",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "TextBox 47",
+      "type": "text",
+      "max_chars": 220,
+      "source_sample_chars": 110,
+      "source_text": "2026年个人职业技能提升计划重点在于设定清晰的发展目标和详细的执行计划。我将注重技能提升和专业知识学习，参与行业培训和项目管理，同时加强人际关系和团队合作能力。此外我也将重视自我管理与健康保持，努力实现个人和职业目标。",
+      "bounds_pt": [
+        70.2,
+        101.1,
+        819.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

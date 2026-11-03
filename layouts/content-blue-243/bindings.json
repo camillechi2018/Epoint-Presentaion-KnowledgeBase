@@ -1,0 +1,567 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "圆角矩形 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "新产品研发与上市",
+      "bounds_pt": [
+        125.4,
+        91.4,
+        139.4,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "圆角矩形 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "项目01",
+      "bounds_pt": [
+        54.5,
+        91.4,
+        60.4,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "圆角矩形 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "客户服务体系优化",
+      "bounds_pt": [
+        125.4,
+        238.3,
+        139.4,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "圆角矩形 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "项目02",
+      "bounds_pt": [
+        54.5,
+        238.3,
+        60.4,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "圆角矩形 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "年度市场营销活动",
+      "bounds_pt": [
+        125.4,
+        385.1,
+        139.4,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "圆角矩形 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "项目03",
+      "bounds_pt": [
+        54.5,
+        385.1,
+        60.4,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "五边形 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 01",
+      "bounds_pt": [
+        308.6,
+        82.3,
+        159.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "燕尾形 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 02",
+      "bounds_pt": [
+        462.9,
+        82.3,
+        159.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "燕尾形 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 03",
+      "bounds_pt": [
+        617.3,
+        82.3,
+        159.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "燕尾形 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 04",
+      "bounds_pt": [
+        771.6,
+        82.3,
+        159.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "五边形 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 01",
+      "bounds_pt": [
+        308.6,
+        229.2,
+        159.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "燕尾形 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 02",
+      "bounds_pt": [
+        462.9,
+        229.2,
+        159.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "燕尾形 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 03",
+      "bounds_pt": [
+        617.3,
+        229.2,
+        159.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "燕尾形 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 04",
+      "bounds_pt": [
+        771.6,
+        229.2,
+        159.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "五边形 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 01",
+      "bounds_pt": [
+        308.6,
+        376.1,
+        159.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "燕尾形 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 02",
+      "bounds_pt": [
+        462.9,
+        376.1,
+        159.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "燕尾形 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 03",
+      "bounds_pt": [
+        617.3,
+        376.1,
+        159.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "燕尾形 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 04",
+      "bounds_pt": [
+        771.6,
+        376.1,
+        159.7,
+        28.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜项目工作流程",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "市场调研：收集客户需求，分析竞品，输出报告。\n概念定义：明确定位，完成功能定义和方案。",
+      "bounds_pt": [
+        308.6,
+        120.5,
+        146.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "样品开发：完成打样，进行内部测试。\n用户试用：组织试用，收集反馈并进行优化。",
+      "bounds_pt": [
+        463.8,
+        120.5,
+        146.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "包装设计：完成包装、说明书的设计。\n销售工具：制作营销手册，完成员工培训。",
+      "bounds_pt": [
+        619.0,
+        120.5,
+        146.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "文本框 84",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "活动执行：策划发布会，并正式发布新品。\n数据跟踪：跟进销售数据，调整策略。",
+      "bounds_pt": [
+        774.2,
+        120.5,
+        146.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_86",
+      "shape_id": 86,
+      "shape_name": "文本框 85",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "流程梳理：调研各工作环节绘制项目精度流程图。\n痛点识别：分析客户投诉，梳理服务瓶颈。",
+      "bounds_pt": [
+        308.6,
+        268.2,
+        146.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "文本框 86",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "新流程设计：优化工作流程明确项目标准。\n方案评审：组织专家评审，确认项目方案。",
+      "bounds_pt": [
+        463.8,
+        268.2,
+        146.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "试点选择：选取对应部门进行试运行。\n效果评估：收集运行反馈，进行优化调整。",
+      "bounds_pt": [
+        619.0,
+        268.2,
+        146.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "文本框 88",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "全员培训：组织专业培训，确保顾客服务体验。\n持续监控：建立监控机制，后续评估改进。",
+      "bounds_pt": [
+        774.2,
+        268.2,
+        146.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "文本框 89",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "目标定位：确定产品的目标和受众人群。\n方案设计：策划营销形式，完成营销方案。",
+      "bounds_pt": [
+        308.6,
+        411.5,
+        146.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_91",
+      "shape_id": 91,
+      "shape_name": "文本框 90",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "物料制作：完成营销物料的设计与制作。\n预热宣传：多渠道预热，提升宣传效果。",
+      "bounds_pt": [
+        463.8,
+        411.5,
+        146.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "文本框 91",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "现场组织：完成布置分工，确保物料准备到位。\n应急处理：建立应急预案，及时处理突发事件。",
+      "bounds_pt": [
+        619.0,
+        411.5,
+        146.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "文本框 92",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "数据分析：统计营销效果，分析产出。\n复盘输出：总结经验，形成项目报告。",
+      "bounds_pt": [
+        774.2,
+        411.5,
+        146.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_107",
+      "shape_id": 107,
+      "shape_name": "文本框 106",
+      "type": "text",
+      "max_chars": 108,
+      "source_sample_chars": 54,
+      "source_text": "完成从调研到新品上市的全流程工作，通过精准定位和有效推广，确保新产品成功推向市场，为公司打造新的业绩增长点。",
+      "bounds_pt": [
+        54.1,
+        131.0,
+        210.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_108",
+      "shape_id": 108,
+      "shape_name": "文本框 107",
+      "type": "text",
+      "max_chars": 104,
+      "source_sample_chars": 52,
+      "source_text": "全面诊断现有服务流程，针对痛点和瓶颈设计优化方案，通过试点验证后全面推广，有效提升服务效率和客户满意度。",
+      "bounds_pt": [
+        54.0,
+        277.5,
+        210.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_109",
+      "shape_id": 109,
+      "shape_name": "文本框 108",
+      "type": "text",
+      "max_chars": 98,
+      "source_sample_chars": 49,
+      "source_text": "围绕年度品牌推广目标，策划并执行系列营销活动，通过数据复盘持续优化，提升品牌影响力和销售转化效果。",
+      "bounds_pt": [
+        53.8,
+        424.0,
+        210.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

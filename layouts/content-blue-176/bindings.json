@@ -1,0 +1,951 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜工作任务完成情况",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "五边形 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "01.体系搭建与基础夯实",
+      "bounds_pt": [
+        42.5,
+        241.3,
+        219.8,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "1月",
+      "bounds_pt": [
+        58.2,
+        194.7,
+        39.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "2月",
+      "bounds_pt": [
+        131.2,
+        194.7,
+        39.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3月",
+      "bounds_pt": [
+        204.1,
+        194.7,
+        39.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "4月",
+      "bounds_pt": [
+        277.1,
+        194.7,
+        39.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "5月",
+      "bounds_pt": [
+        350.1,
+        194.7,
+        39.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "6月",
+      "bounds_pt": [
+        423.0,
+        194.7,
+        39.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "7月",
+      "bounds_pt": [
+        496.0,
+        194.7,
+        39.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "8月",
+      "bounds_pt": [
+        569.0,
+        194.7,
+        39.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "9月",
+      "bounds_pt": [
+        641.9,
+        195.4,
+        39.8,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "10月",
+      "bounds_pt": [
+        710.5,
+        195.4,
+        49.1,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "文本框 81",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "11月",
+      "bounds_pt": [
+        781.8,
+        195.4,
+        49.1,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "12月",
+      "bounds_pt": [
+        856.4,
+        194.7,
+        49.1,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_106",
+      "shape_id": 106,
+      "shape_name": "燕尾形 105",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "02.效率提升与流程优化",
+      "bounds_pt": [
+        262.3,
+        241.3,
+        217.7,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_124",
+      "shape_id": 124,
+      "shape_name": "燕尾形 123",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "03.精细化运营深化",
+      "bounds_pt": [
+        480.6,
+        241.3,
+        217.7,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_125",
+      "shape_id": 125,
+      "shape_name": "燕尾形 124",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "04.价值创造与突破",
+      "bounds_pt": [
+        699.0,
+        241.3,
+        217.7,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_250",
+      "shape_id": 250,
+      "shape_name": "任意形状 249",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "复购率提升",
+      "bounds_pt": [
+        494.4,
+        457.2,
+        57.1,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_249",
+      "shape_id": 249,
+      "shape_name": "任意形状 248",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "运营成本降低",
+      "bounds_pt": [
+        560.6,
+        457.2,
+        57.1,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_248",
+      "shape_id": 248,
+      "shape_name": "任意形状 247",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "预测准确率",
+      "bounds_pt": [
+        626.7,
+        457.2,
+        57.1,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_247",
+      "shape_id": 247,
+      "shape_name": "任意形状 246",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "客户满意度",
+      "bounds_pt": [
+        712.8,
+        457.2,
+        57.1,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_246",
+      "shape_id": 246,
+      "shape_name": "任意形状 245",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "处理工单量提升",
+      "bounds_pt": [
+        778.9,
+        457.2,
+        57.1,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_245",
+      "shape_id": 245,
+      "shape_name": "任意形状 244",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "运营业务增长",
+      "bounds_pt": [
+        845.1,
+        457.2,
+        57.1,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_254",
+      "shape_id": 254,
+      "shape_name": "任意形状 253",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "处理时效提升",
+      "bounds_pt": [
+        57.7,
+        457.2,
+        57.1,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_255",
+      "shape_id": 255,
+      "shape_name": "任意形状 254",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "关键指标数",
+      "bounds_pt": [
+        123.8,
+        457.2,
+        57.1,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_256",
+      "shape_id": 256,
+      "shape_name": "任意形状 255",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "客服满意度",
+      "bounds_pt": [
+        190.0,
+        457.2,
+        57.1,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "工作任务完成情况",
+      "bounds_pt": [
+        58.2,
+        115.2,
+        156.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "任务总数",
+      "bounds_pt": [
+        239.6,
+        133.0,
+        62.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "已完成",
+      "bounds_pt": [
+        346.8,
+        133.0,
+        50.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "进行中",
+      "bounds_pt": [
+        448.1,
+        133.0,
+        50.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "未完成",
+      "bounds_pt": [
+        549.4,
+        133.0,
+        50.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "工作任务完成率",
+      "bounds_pt": [
+        643.7,
+        113.4,
+        156.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 190,
+      "source_sample_chars": 95,
+      "source_text": "流程标准化建设：完成5大核心业务流程标准化，平均处理时效提升40%。\n数据体系建立：搭建运营数据看板，实现50+关键指标实时监控。\n客服团队培训：开展专业技能培训8场客服满意度提升至90%。",
+      "bounds_pt": [
+        49.0,
+        279.0,
+        207.6,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 118,
+      "source_sample_chars": 59,
+      "source_text": "自动化工具引入：实施流程自动化，每月节省人工工时1200小时。\n供应链优化：优化库存管理，库存周转率从5次提升至7次。",
+      "bounds_pt": [
+        267.2,
+        279.0,
+        207.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "用户分层运营：实施用户分级管理，高价值用户复购率提升25%。\n成本管控优化：通过精细化运营，运营成本降低15%。\n运营数据分析：建立预测模型，业务预测准确率提升至85%。",
+      "bounds_pt": [
+        485.4,
+        279.0,
+        207.6,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 106,
+      "source_sample_chars": 53,
+      "source_text": "客户体验升级：完成服务流程再造，客户满意度达96%。\n运营效率突破：人均处理工单量提升50%，创历史新高。",
+      "bounds_pt": [
+        703.6,
+        279.0,
+        207.6,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "12项",
+      "bounds_pt": [
+        236.8,
+        100.8,
+        67.7,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "10项",
+      "bounds_pt": [
+        338.1,
+        100.8,
+        67.7,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "1项",
+      "bounds_pt": [
+        446.6,
+        100.8,
+        53.3,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "1项",
+      "bounds_pt": [
+        547.8,
+        100.8,
+        53.3,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "83%",
+      "bounds_pt": [
+        823.9,
+        108.9,
+        63.6,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "40%",
+      "bounds_pt": [
+        60.5,
+        425.7,
+        51.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "50+",
+      "bounds_pt": [
+        129.1,
+        425.7,
+        46.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "90%",
+      "bounds_pt": [
+        192.8,
+        425.7,
+        51.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "25%",
+      "bounds_pt": [
+        496.8,
+        425.7,
+        51.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "15%",
+      "bounds_pt": [
+        562.9,
+        425.7,
+        51.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "85%",
+      "bounds_pt": [
+        629.1,
+        425.7,
+        51.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "96%",
+      "bounds_pt": [
+        715.7,
+        425.7,
+        51.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "50%",
+      "bounds_pt": [
+        781.9,
+        425.7,
+        51.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "30%",
+      "bounds_pt": [
+        848.0,
+        425.7,
+        51.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "流程优化实施过程",
+      "bounds_pt": [
+        292.2,
+        420.2,
+        159.5,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "圆角矩形 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "现状梳理",
+      "bounds_pt": [
+        282.8,
+        444.9,
+        54.8,
+        31.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "圆角矩形 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "问题定位",
+      "bounds_pt": [
+        343.2,
+        444.9,
+        54.8,
+        31.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "圆角矩形 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "目标设定",
+      "bounds_pt": [
+        403.5,
+        444.9,
+        54.8,
+        31.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一季度",
+      "bounds_pt": [
+        119.0,
+        504.5,
+        62.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二季度",
+      "bounds_pt": [
+        340.9,
+        504.5,
+        61.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第三季度",
+      "bounds_pt": [
+        562.9,
+        504.5,
+        62.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第四季度",
+      "bounds_pt": [
+        784.8,
+        504.5,
+        62.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

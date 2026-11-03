@@ -1,0 +1,407 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 18,
+      "source_text": "述职汇报｜工作中解决问题的思路与方法",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "任意多边形: 形状 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        43.5,
+        82.7,
+        38.9,
+        127.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "任意多边形: 形状 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        43.5,
+        229.6,
+        38.9,
+        127.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "任意多边形: 形状 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        43.5,
+        376.4,
+        38.9,
+        127.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "任意多边形: 形状 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        877.6,
+        82.7,
+        38.9,
+        127.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "任意多边形: 形状 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        877.6,
+        229.6,
+        38.9,
+        127.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "任意多边形: 形状 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "06",
+      "bounds_pt": [
+        877.6,
+        376.4,
+        38.9,
+        127.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "矩形: 圆角 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "问题根源",
+      "bounds_pt": [
+        415.6,
+        82.7,
+        128.8,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "矩形: 圆角 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "分析问题",
+      "bounds_pt": [
+        416.1,
+        174.1,
+        128.8,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "矩形: 圆角 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "信息反馈",
+      "bounds_pt": [
+        415.6,
+        467.8,
+        128.8,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "矩形: 圆角 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "总结分享",
+      "bounds_pt": [
+        415.6,
+        376.4,
+        128.8,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "解决问题的思路与方法",
+      "bounds_pt": [
+        423.5,
+        265.6,
+        114.0,
+        50.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "分析问题根源",
+      "bounds_pt": [
+        88.6,
+        92.5,
+        216.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 104,
+      "source_sample_chars": 52,
+      "source_text": "收集信息：全面收集相关信息，确保了解问题的各个方面。\n挖掘原因：深入分析问题的深层次原因，避免只看表面。",
+      "bounds_pt": [
+        88.6,
+        118.0,
+        203.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "团队交流协作",
+      "bounds_pt": [
+        88.6,
+        239.4,
+        216.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 106,
+      "source_sample_chars": 53,
+      "source_text": "集思广益：鼓励多方参与，激发团队成员的创新思维。\n任务分工：合理分配任务，避免重复性的劳动，提高团队效率。",
+      "bounds_pt": [
+        88.6,
+        264.8,
+        203.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "制定解决方案",
+      "bounds_pt": [
+        88.6,
+        386.2,
+        216.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 118,
+      "source_sample_chars": 59,
+      "source_text": "设定目标：制定清晰可行的目标，确保每个目标都具备实际操作性。\n评估风险：提前识别风险，制定相应对的策略，避免突发状况。",
+      "bounds_pt": [
+        88.6,
+        411.7,
+        203.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "具体执行解决",
+      "bounds_pt": [
+        667.8,
+        92.5,
+        203.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "优先解决：优先处理最为紧急且影响最大的事项，确保及时解决关键问题。\n跟踪调整：实时监控实施过程，确保与计划一致，必要时做出调整。",
+      "bounds_pt": [
+        667.8,
+        118.0,
+        203.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "信息反馈调整",
+      "bounds_pt": [
+        667.8,
+        239.4,
+        203.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "建立反馈：设立反馈渠道，确保在执行过程中发现并解决潜在问题。\n灵活调整：根据反馈信息灵活调整策略，确保方案能够达到预期效果。",
+      "bounds_pt": [
+        667.8,
+        264.8,
+        203.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "问题总结分享",
+      "bounds_pt": [
+        667.8,
+        386.2,
+        203.8,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 122,
+      "source_sample_chars": 61,
+      "source_text": "记录过程：详细记录过程中的关键步骤和成果，为今后的决策提供支持。\n分享经验：总结经验，分享成功与失败，促进团队的共同进步。",
+      "bounds_pt": [
+        667.8,
+        411.7,
+        203.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

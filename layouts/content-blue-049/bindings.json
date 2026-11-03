@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜工作挑战与解决方案",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "矩形: 圆角 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目延期风险",
+      "bounds_pt": [
+        77.5,
+        112.1,
+        152.6,
+        29.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "项目进度可能因为资源不足、人员变动或外部因素等原因导致延期。",
+      "bounds_pt": [
+        77.5,
+        144.6,
+        222.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "团队成员之间的沟通不畅或协调问题可能导致工作效率低下或任务完成质量不达标。",
+      "bounds_pt": [
+        79.8,
+        250.8,
+        222.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "工作中可能会遇到技术问题，如系统崩溃、软件故障或网络中断，影响工作正常开展。",
+      "bounds_pt": [
+        79.8,
+        353.6,
+        222.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "制定详细的项目计划和时间表，并且合理分配资源，确保关键任务有充足的时间。",
+      "bounds_pt": [
+        664.1,
+        145.1,
+        222.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "定期召开团队会议，鼓励成员之间进行开放式沟通，解决冲突并优化工作流程。",
+      "bounds_pt": [
+        664.1,
+        250.8,
+        222.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "建立专门的技术支持团队，确保在遇到问题时能够迅速响应并解决。",
+      "bounds_pt": [
+        664.1,
+        353.6,
+        222.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "矩形: 圆角 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "团队协作风险",
+      "bounds_pt": [
+        77.5,
+        214.9,
+        152.6,
+        29.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "矩形: 圆角 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "技术故障风险",
+      "bounds_pt": [
+        77.5,
+        317.7,
+        152.6,
+        29.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "矩形: 圆角 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "制定详细计划",
+      "bounds_pt": [
+        733.8,
+        112.1,
+        152.6,
+        29.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "矩形: 圆角 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "促进交流沟通",
+      "bounds_pt": [
+        733.8,
+        214.5,
+        152.6,
+        29.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "矩形: 圆角 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "技术支持团队",
+      "bounds_pt": [
+        734.1,
+        317.7,
+        152.6,
+        29.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "椭圆 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "VS",
+      "bounds_pt": [
+        444.4,
+        217.8,
+        82.5,
+        82.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "工作挑战",
+      "bounds_pt": [
+        340.0,
+        216.7,
+        107.5,
+        84.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "解决方案",
+      "bounds_pt": [
+        523.9,
+        216.7,
+        107.5,
+        84.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 220,
+      "source_sample_chars": 110,
+      "source_text": "风险管理是确保工作或项目成功的关键。在任何工作中，风险无处不在。通过有效的风险管理，能够预见、识别和处理可能出现的问题，最大程度地减少其对工作的负面影响。不仅能确保项目按时、按预算完成，还能提升团队的应变能力和工作效率。",
+      "bounds_pt": [
+        76.9,
+        445.6,
+        808.9,
+        45.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "矩形 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "技能发展 · 团队合作",
+      "bounds_pt": [
+        396.7,
+        83.1,
+        160.0,
+        35.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "矩形 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "持续学习 · 协作沟通",
+      "bounds_pt": [
+        399.9,
+        382.3,
+        160.0,
+        35.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

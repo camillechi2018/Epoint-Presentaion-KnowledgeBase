@@ -1,0 +1,407 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜上半年工作亮点展示",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "任意多边形: 形状 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "工作\n亮点",
+      "bounds_pt": [
+        421.9,
+        231.8,
+        116.2,
+        134.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "任意多边形: 形状 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "目标明确",
+      "bounds_pt": [
+        350.3,
+        82.9,
+        121.6,
+        39.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "任意多边形: 形状 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "流程优化",
+      "bounds_pt": [
+        488.1,
+        82.9,
+        121.6,
+        39.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "任意多边形: 形状 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "团队建设",
+      "bounds_pt": [
+        350.3,
+        464.8,
+        121.6,
+        39.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "任意多边形: 形状 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "客户拓展",
+      "bounds_pt": [
+        488.1,
+        464.8,
+        121.6,
+        39.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "目标任务的完成情况",
+      "bounds_pt": [
+        89.0,
+        88.1,
+        245.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "流程优化与效率提升",
+      "bounds_pt": [
+        89.0,
+        234.3,
+        245.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "团队协作与人才发展",
+      "bounds_pt": [
+        89.0,
+        380.5,
+        245.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "客户拓展与关系维护",
+      "bounds_pt": [
+        625.9,
+        87.1,
+        245.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "创新项目实施与成果",
+      "bounds_pt": [
+        625.9,
+        233.3,
+        245.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "跨部门协作与资源整合",
+      "bounds_pt": [
+        625.9,
+        379.5,
+        245.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        57.4,
+        90.3,
+        33.5,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        57.4,
+        236.2,
+        33.5,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        57.4,
+        382.1,
+        33.5,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        869.3,
+        90.3,
+        33.5,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        869.3,
+        236.2,
+        33.5,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "06",
+      "bounds_pt": [
+        869.3,
+        382.1,
+        33.5,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 166,
+      "source_sample_chars": 83,
+      "source_text": "计划制定与目标明确：精准制定执行计划，确保团队明确目标，确保按时完成各项目标。\n进度追踪与调整：通过定期评估项目进度，及时调整战略方向，确保任务按预期进展并达成目标。",
+      "bounds_pt": [
+        50.5,
+        125.9,
+        276.7,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 174,
+      "source_sample_chars": 87,
+      "source_text": "自动化工具引入：引入自动化工具，减少人工操作，提高工作效率和准确性，提升整体工作效能。\n流程精简与优化：对工作流程进行精简与优化，消除不必要的环节，提升团队执行力和反应速度。",
+      "bounds_pt": [
+        50.5,
+        271.8,
+        276.7,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 180,
+      "source_sample_chars": 90,
+      "source_text": "培训与技能提升：组织定期的培训活动，提升团队成员的专业知识与技能，增强团队的整体素质。\n激励与团队文化建设：通过激励机制与团队文化建设，增强团队凝聚力和成员归属感，提升工作积极性。",
+      "bounds_pt": [
+        50.5,
+        417.6,
+        276.7,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 158,
+      "source_sample_chars": 79,
+      "source_text": "定制化服务：根据客户的具体需求，提供个性化的定制服务，提升客户满意度与合作深度。\n客户反馈与优化：定期收集客户反馈，分析客户需求，不断优化服务流程和产品质量。",
+      "bounds_pt": [
+        632.8,
+        125.9,
+        276.7,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 166,
+      "source_sample_chars": 83,
+      "source_text": "技术应用与创新：引入前沿技术应用，推动项目创新，提升项目的技术含量与市场竞争力。\n市场推广与扩展：将创新成果推广到市场，拓展产品市场份额，提高品牌知名度与行业影响力。",
+      "bounds_pt": [
+        632.8,
+        271.8,
+        276.7,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 166,
+      "source_sample_chars": 83,
+      "source_text": "信息共享平台：建立跨部门的信息共享平台，促进部门之间的沟通与协作，提高工作效率。\n资源优化与协作提升：优化资源配置，提升跨部门的资源整合和协同工作能力，提高整体效能。",
+      "bounds_pt": [
+        632.8,
+        417.6,
+        276.7,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

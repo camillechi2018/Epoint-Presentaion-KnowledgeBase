@@ -1,0 +1,423 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "椭圆 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q1",
+      "bounds_pt": [
+        251.0,
+        103.0,
+        60.0,
+        60.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "椭圆 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q2",
+      "bounds_pt": [
+        251.0,
+        209.7,
+        60.0,
+        60.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "椭圆 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q3",
+      "bounds_pt": [
+        251.0,
+        316.5,
+        60.0,
+        60.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "椭圆 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q4",
+      "bounds_pt": [
+        251.0,
+        423.2,
+        60.0,
+        60.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一季度",
+      "bounds_pt": [
+        43.2,
+        101.4,
+        227.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "规划与启动",
+      "bounds_pt": [
+        43.2,
+        136.5,
+        227.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二季度",
+      "bounds_pt": [
+        43.2,
+        208.8,
+        227.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "执行与优化",
+      "bounds_pt": [
+        43.2,
+        244.0,
+        227.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第三季度",
+      "bounds_pt": [
+        43.2,
+        316.3,
+        227.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "增长与创新",
+      "bounds_pt": [
+        43.2,
+        351.4,
+        227.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第四季度",
+      "bounds_pt": [
+        43.2,
+        423.8,
+        227.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "总结与调整",
+      "bounds_pt": [
+        43.2,
+        458.9,
+        227.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "文本框 86",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "核心工作任务",
+      "bounds_pt": [
+        317.9,
+        108.5,
+        168.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "文本框 91",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "核心工作任务",
+      "bounds_pt": [
+        317.6,
+        216.1,
+        168.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "文本框 92",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "核心工作任务",
+      "bounds_pt": [
+        317.3,
+        323.7,
+        168.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "核心工作任务",
+      "bounds_pt": [
+        317.0,
+        431.2,
+        168.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "文本框 94",
+      "type": "text",
+      "max_chars": 126,
+      "source_sample_chars": 63,
+      "source_text": "年度目标设定：根据公司的战略目标，制定本年度的详细计划和预算。\n市场分析与调研：深入了解市场趋势，分析竞争对手，调研客户需求。",
+      "bounds_pt": [
+        648.0,
+        89.1,
+        256.9,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "max_chars": 146,
+      "source_sample_chars": 73,
+      "source_text": "实施战略计划：按照季度目标，推动战略计划的落地执行，重点跟进关键项目。\n绩效评估与调整：评估第一个季度的项目执行情况对偏差进行调整，确保目标达成。",
+      "bounds_pt": [
+        648.0,
+        195.9,
+        256.9,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "新产品开发：推动创新，开发新产品或改进现有服务，以满足市场需求。\n优化运营流程：分析和优化公司运营流程，提高效率，降低成本。",
+      "bounds_pt": [
+        648.0,
+        302.7,
+        256.9,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "文本框 97",
+      "type": "text",
+      "max_chars": 154,
+      "source_sample_chars": 77,
+      "source_text": "年终总结与回顾：对全年工作进行总结，评估各项任务的完成情况，总结经验与教训。\n年度财务审计与预算调整：进行财务审计，确认年度财务状况，调整下一年度的预算。",
+      "bounds_pt": [
+        648.0,
+        409.5,
+        256.9,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "1月-3月",
+      "bounds_pt": [
+        317.6,
+        134.5,
+        168.4,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "4月-6月",
+      "bounds_pt": [
+        318.2,
+        242.1,
+        168.4,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "7月-9月",
+      "bounds_pt": [
+        318.8,
+        349.8,
+        168.4,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "10月-12月",
+      "bounds_pt": [
+        319.4,
+        457.4,
+        168.4,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜季度核心工作任务",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

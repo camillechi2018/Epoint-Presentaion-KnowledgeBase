@@ -1,0 +1,471 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "椭圆 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q1",
+      "bounds_pt": [
+        113.4,
+        153.7,
+        69.8,
+        69.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "椭圆 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q2",
+      "bounds_pt": [
+        334.5,
+        153.7,
+        69.8,
+        69.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "椭圆 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q3",
+      "bounds_pt": [
+        555.6,
+        153.7,
+        69.8,
+        69.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "椭圆 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "Q4",
+      "bounds_pt": [
+        776.8,
+        153.7,
+        69.8,
+        69.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "矩形: 圆角 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "促进信息共享",
+      "bounds_pt": [
+        70.6,
+        445.5,
+        162.0,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "矩形: 圆角 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "品牌曝光度",
+      "bounds_pt": [
+        70.6,
+        475.4,
+        162.0,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "矩形: 圆角 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "优化决策过程",
+      "bounds_pt": [
+        290.1,
+        445.5,
+        162.0,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "矩形: 圆角 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提高生产效率",
+      "bounds_pt": [
+        290.1,
+        475.4,
+        162.0,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "矩形: 圆角 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "大数据分析",
+      "bounds_pt": [
+        511.6,
+        446.5,
+        162.0,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "矩形: 圆角 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "市场占有率",
+      "bounds_pt": [
+        511.6,
+        476.4,
+        162.0,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "矩形: 圆角 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "行业中的影响力",
+      "bounds_pt": [
+        733.1,
+        447.5,
+        162.0,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "矩形: 圆角 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "绿色供应链建设",
+      "bounds_pt": [
+        733.1,
+        477.4,
+        162.0,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "2026上半年度核心工作任务",
+      "bounds_pt": [
+        43.2,
+        94.6,
+        436.8,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "2026下半年度核心工作任务",
+      "bounds_pt": [
+        480.0,
+        95.2,
+        436.8,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "提升核心竞争力",
+      "bounds_pt": [
+        43.2,
+        232.1,
+        210.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "优化运营效率",
+      "bounds_pt": [
+        264.3,
+        231.8,
+        210.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升服务质量",
+      "bounds_pt": [
+        485.4,
+        231.5,
+        210.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "绿色持续发展",
+      "bounds_pt": [
+        706.6,
+        231.2,
+        210.2,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "加强团队协作：定期召开会议，促进信息共享，确保成员都能了解项目进展提高协作效果。",
+      "bounds_pt": [
+        54.7,
+        290.9,
+        188.8,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "品牌建设与市场推广：增强品牌在行业中的影响力，通过广告、公共关系和社交媒体等手段提升品牌曝光度。",
+      "bounds_pt": [
+        54.7,
+        354.7,
+        188.8,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "实施智能化管理系统：引入智能化工具，通过数据分析优化决策过程，提升整体运营效能。",
+      "bounds_pt": [
+        279.3,
+        290.4,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "流程优化与精益生产：深入分析现有业务流程，减少冗余环节和浪费，提高生产效率和客户响应速度。",
+      "bounds_pt": [
+        279.3,
+        354.7,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "加强客户数据分析：通过大数据分析客户行为和需求，为不同客户群体定制个性化的服务。",
+      "bounds_pt": [
+        502.2,
+        290.4,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "拓展海外市场：积极开拓国际市场或新的垂直行业，进一步提升品牌的国际影响力和市场占有率。",
+      "bounds_pt": [
+        502.2,
+        354.7,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "环保措施与绿色供应链：推动绿色供应链建设，与供应商共同优化生产流程，确保产品的环境友好性。",
+      "bounds_pt": [
+        718.3,
+        354.7,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "品牌建设与市场推广：增强品牌在行业中的影响力，通过广告和社交媒体等手段提升品牌曝光度。",
+      "bounds_pt": [
+        718.3,
+        289.4,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "椭圆 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "核心任务",
+      "bounds_pt": [
+        443.7,
+        76.5,
+        72.6,
+        72.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜年度核心工作任务",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

@@ -1,0 +1,439 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "任意多边形: 形状 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "数字化与自动化的加速",
+      "bounds_pt": [
+        57.0,
+        245.9,
+        137.7,
+        30.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "任意多边形: 形状 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "灵活与远程工作的普及",
+      "bounds_pt": [
+        233.9,
+        245.9,
+        137.7,
+        30.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "任意多边形: 形状 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "跨学科的协作与创新",
+      "bounds_pt": [
+        410.8,
+        245.9,
+        137.7,
+        30.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "任意多边形: 形状 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "个性化与员工体验提升",
+      "bounds_pt": [
+        587.7,
+        245.9,
+        137.7,
+        30.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "任意多边形: 形状 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "可持续性与社会责任",
+      "bounds_pt": [
+        765.1,
+        245.9,
+        137.7,
+        30.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 108,
+      "source_sample_chars": 54,
+      "source_text": "技术更新带来的新职业需求：随着人工智能、区块链等技术的发展，要求人才具备跨学科的技能和快速适应新技术的能力。",
+      "bounds_pt": [
+        48.8,
+        289.7,
+        153.7,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "岗位优化与工作效率提升：通过自动化工具和人工智能应用，许多重复性、低技术含量的工作将被机器取代。",
+      "bounds_pt": [
+        48.8,
+        373.1,
+        153.7,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "多样化的工作方式：远程工作将不仅仅局限于完全在家办公，灵活的办公模式将成为常态，为员工提供更多自主选择的空间。",
+      "bounds_pt": [
+        225.8,
+        289.7,
+        153.7,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 110,
+      "source_sample_chars": 55,
+      "source_text": "虚拟协作工具的普及：随着远程工作的推进，各种虚拟协作平台和工具将不断发展和创新，以确保团队成员之间的高效沟通。",
+      "bounds_pt": [
+        225.8,
+        373.1,
+        153.7,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "多元团队的组建：未来的工作中项目通常会集结来自不同学科背景的专家，大家要共同解决复杂的行业问题。",
+      "bounds_pt": [
+        402.9,
+        289.7,
+        153.7,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 108,
+      "source_sample_chars": 54,
+      "source_text": "培养跨界能力的必要性：要具备自己专业领域的深度知识，还需要扩展对其他领域的理解，提升跨学科沟通与协作的能力。",
+      "bounds_pt": [
+        402.9,
+        373.1,
+        153.7,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 102,
+      "source_sample_chars": 51,
+      "source_text": "个性化职业发展路径：未来，企业将更注重根据员工的兴趣、技能和职业目标，定制个性化的发展计划和培训机会。",
+      "bounds_pt": [
+        580.0,
+        289.7,
+        153.7,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 104,
+      "source_sample_chars": 52,
+      "source_text": "健康与心理福利的关注：企业将更加重视员工的身心健康，提供更具人性化的福利项目，从而提高员工的工作积极性。",
+      "bounds_pt": [
+        580.0,
+        373.1,
+        153.7,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "绿色技术与环保创新：随着对环境问题的关注不断增加，企业将更多投资于绿色创新技术和环保科技创新。",
+      "bounds_pt": [
+        757.1,
+        289.7,
+        153.7,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "社会企业责任的实践：将更加注重对社会和环境的贡献。通过社会责任项目，企业能够创造更多社会价值。",
+      "bounds_pt": [
+        757.1,
+        373.1,
+        153.7,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "矩形: 圆角 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "快速适应",
+      "bounds_pt": [
+        60.3,
+        474.8,
+        59.7,
+        20.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "矩形: 圆角 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "效率提升",
+      "bounds_pt": [
+        132.0,
+        474.8,
+        59.7,
+        20.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "矩形: 圆角 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "灵活办公",
+      "bounds_pt": [
+        236.7,
+        474.8,
+        59.7,
+        20.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "矩形: 圆角 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "协作工具",
+      "bounds_pt": [
+        308.4,
+        474.8,
+        59.7,
+        20.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "矩形: 圆角 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "共同解决",
+      "bounds_pt": [
+        413.2,
+        474.8,
+        59.7,
+        20.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "矩形: 圆角 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "沟通协作",
+      "bounds_pt": [
+        484.9,
+        474.8,
+        59.7,
+        20.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "矩形: 圆角 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "发展计划",
+      "bounds_pt": [
+        589.7,
+        474.8,
+        59.7,
+        20.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "矩形: 圆角 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "身心健康",
+      "bounds_pt": [
+        661.4,
+        474.8,
+        59.7,
+        20.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "矩形: 圆角 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "绿色创新",
+      "bounds_pt": [
+        766.1,
+        474.8,
+        59.7,
+        20.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "矩形: 圆角 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "社会价值",
+      "bounds_pt": [
+        837.8,
+        474.8,
+        59.7,
+        20.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜对未来的展望",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

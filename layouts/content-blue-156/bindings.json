@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 32,
+      "source_sample_chars": 16,
+      "source_text": "述职汇报｜下半年重点项目工作计划",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "任意多边形: 形状 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "01.提升工作效率和质量",
+      "bounds_pt": [
+        43.5,
+        82.1,
+        268.4,
+        40.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "任意多边形: 形状 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "03.提升跨部门沟通合作",
+      "bounds_pt": [
+        43.5,
+        245.5,
+        268.4,
+        40.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "任意多边形: 形状 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "02.加强专业技能的学习",
+      "bounds_pt": [
+        648.7,
+        82.6,
+        268.4,
+        40.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "任意多边形: 形状 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "04.加强团队建设和发展",
+      "bounds_pt": [
+        648.7,
+        246.0,
+        268.4,
+        40.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 168,
+      "source_sample_chars": 84,
+      "source_text": "目标：通过优化工作流程，减少冗余步骤，提升团队协作效率，确保工作任务按时高质量完成。\n行动计划：每月召开一次工作总结与改进会议，定期评估工作进展，制定更高效的工作方法。",
+      "bounds_pt": [
+        52.8,
+        138.5,
+        249.9,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 152,
+      "source_sample_chars": 76,
+      "source_text": "目标：根据岗位要求或个人职业规划，增强专业知识与技能的掌握，尤其是新技术的学习。\n行动计划：参加行业内外的培训课程或讲座，并通过实际应用来巩固所学内容。",
+      "bounds_pt": [
+        657.9,
+        139.0,
+        249.9,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 158,
+      "source_sample_chars": 79,
+      "source_text": "目标：通过团队建设活动提升团队凝聚力，推动团队成员的个人成长与职业发展。\n行动计划：定期组织团队建设活动，设立“员工成长计划”，并定期跟踪成员的职业发展进展。",
+      "bounds_pt": [
+        657.9,
+        300.8,
+        249.9,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 142,
+      "source_sample_chars": 71,
+      "source_text": "目标：在公司内外扩大人脉资源，提高跨部门协作的效果，提升效率。\n行动计划：每季度与跨部门同事进行深入交流，了解不同部门需求，建立良好合作关系。",
+      "bounds_pt": [
+        52.8,
+        301.3,
+        249.9,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "下半年\n工作计划",
+      "bounds_pt": [
+        423.1,
+        208.2,
+        114.5,
+        65.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "下半年需\n优化的点",
+      "bounds_pt": [
+        43.2,
+        424.1,
+        170.0,
+        65.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "目前团队在跨部门沟通和协作方面存在一定障碍，决策效率较低。",
+      "bounds_pt": [
+        238.2,
+        451.3,
+        200.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "数据收集和分析流程还不够完善，缺乏及时有效的决策支持。",
+      "bounds_pt": [
+        470.4,
+        450.5,
+        200.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 66,
+      "source_sample_chars": 33,
+      "source_text": "客户反馈机制不够完善，部分客户的需求未能及时得到回应，满意度下降。",
+      "bounds_pt": [
+        701.2,
+        449.7,
+        200.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "矩形: 圆角 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "01.需要提升协作效率",
+      "bounds_pt": [
+        237.8,
+        422.0,
+        199.7,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "矩形: 圆角 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "02.需要加强数据分析",
+      "bounds_pt": [
+        470.4,
+        422.0,
+        200.2,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "矩形: 圆角 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "03.需要提升客户体验",
+      "bounds_pt": [
+        702.1,
+        422.0,
+        199.2,
+        24.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        389.6,
+        162.2,
+        47.9,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        524.3,
+        162.2,
+        47.9,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        389.6,
+        281.4,
+        47.9,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        524.3,
+        281.4,
+        47.9,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

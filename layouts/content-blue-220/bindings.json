@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "时间轴｜各季度重点工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "任意形状 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "战略规划与开局启动",
+      "bounds_pt": [
+        81.2,
+        82.3,
+        372.5,
+        39.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "任意形状 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "创新突破与质量攻坚",
+      "bounds_pt": [
+        506.3,
+        82.3,
+        372.5,
+        39.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "任意形状 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "业务拓展与效能提升",
+      "bounds_pt": [
+        81.2,
+        464.4,
+        372.5,
+        39.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "任意形状 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "年度收官与未来布局",
+      "bounds_pt": [
+        506.3,
+        464.4,
+        372.5,
+        39.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一季度",
+      "bounds_pt": [
+        81.2,
+        270.3,
+        190.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "First Quarter",
+      "bounds_pt": [
+        80.6,
+        298.6,
+        190.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二季度",
+      "bounds_pt": [
+        283.7,
+        270.3,
+        190.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "Second Quarter",
+      "bounds_pt": [
+        283.1,
+        298.6,
+        190.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第三季度",
+      "bounds_pt": [
+        486.3,
+        270.3,
+        190.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "Third Quarter",
+      "bounds_pt": [
+        485.7,
+        298.6,
+        190.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第四季度",
+      "bounds_pt": [
+        688.8,
+        270.3,
+        190.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "Fourth Quarter",
+      "bounds_pt": [
+        688.2,
+        298.6,
+        190.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "重点项目启动：按时完成第一季度重点项目的立项审批和核心团队组建工作，确保项目按计划如期启动推进。",
+      "bounds_pt": [
+        89.9,
+        192.4,
+        363.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 102,
+      "source_sample_chars": 51,
+      "source_text": "年度目标制定：全面完成年度战略规划制定，明确各项KPI指标并分解至各部门及个人，确保战略有效落地执行。",
+      "bounds_pt": [
+        89.9,
+        136.8,
+        363.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "服务品质升级：持续优化客户服务体系机制，提升问题响应速度和处理效率，不断提高客户满意度。",
+      "bounds_pt": [
+        515.3,
+        192.4,
+        363.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "产品创新推进：加快产品研发进度节奏，确保重点新品完成全面测试并做好上市前各项准备工作。",
+      "bounds_pt": [
+        515.3,
+        136.8,
+        363.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "流程优化落地：全面完成核心业务流程再造优化工作，引入先进自动化工具，显著提升整体运营效率水平。",
+      "bounds_pt": [
+        80.6,
+        410.3,
+        363.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "市场开拓发力：全力推进新产品市场测试验证工作，拓展2个新区域渠道资源实现客户数量稳定增长目标。",
+      "bounds_pt": [
+        80.6,
+        354.8,
+        363.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "复盘总结规划：深入完成年度复盘总结经验教训，科学制定下一年度战略方向和发展规划。",
+      "bounds_pt": [
+        506.0,
+        410.3,
+        363.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "业绩目标冲刺：全力推进重点项目收尾工作，确保全年各项业绩指标超额完成并创下新高。",
+      "bounds_pt": [
+        506.0,
+        354.8,
+        363.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

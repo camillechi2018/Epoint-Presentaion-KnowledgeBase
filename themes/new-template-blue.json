@@ -1,0 +1,22 @@
+{
+  "id": "new-template-blue",
+  "status": "provisional",
+  "color_slots": {
+    "dk2": "041D4B",
+    "lt2": "F6F9FF",
+    "accent1": "0154DD",
+    "accent2": "00BDDE",
+    "accent3": "24D3BA",
+    "accent4": "13A6E5",
+    "accent5": "79A6FF",
+    "accent6": "3277F4"
+  },
+  "semantic_roles": {
+    "primary": "accent1",
+    "secondary": "accent2",
+    "text_dark": "dk2",
+    "surface_light": "lt2"
+  },
+  "logo_color_policy": "locked; never recolor logo",
+  "object_binding_status": "pending per-object audit"
+}

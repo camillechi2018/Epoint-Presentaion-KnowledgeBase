@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜阶段工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "Text Box 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "半年度总结",
+      "bounds_pt": [
+        386.8,
+        305.5,
+        192.3,
+        50.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "Text Box 37",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "Semi-annual summary",
+      "bounds_pt": [
+        389.7,
+        351.3,
+        186.5,
+        26.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "TextBox 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "01.项目规划",
+      "bounds_pt": [
+        61.7,
+        98.5,
+        185.3,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "TextBox 71",
+      "type": "text",
+      "max_chars": 74,
+      "source_sample_chars": 37,
+      "source_text": "制定详细的项目计划，明确目标、时间表和预算，以确保项目方向和资源分配合理。",
+      "bounds_pt": [
+        61.7,
+        130.4,
+        217.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "TextBox 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "03.进度控制",
+      "bounds_pt": [
+        61.7,
+        238.7,
+        185.3,
+        38.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "TextBox 71",
+      "type": "text",
+      "max_chars": 68,
+      "source_sample_chars": 34,
+      "source_text": "持续监控项目进度，及时识别偏差并采取纠正措施，以确保项目按计划推进。",
+      "bounds_pt": [
+        61.7,
+        278.0,
+        194.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "TextBox 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "05.质量保证",
+      "bounds_pt": [
+        61.7,
+        387.5,
+        185.3,
+        38.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "TextBox 71",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "实施质量控制措施，确保项目成果符合预定标准和要求，满足客户期望。",
+      "bounds_pt": [
+        61.7,
+        426.8,
+        217.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "TextBox 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "02.资源管理",
+      "bounds_pt": [
+        717.5,
+        91.1,
+        185.3,
+        38.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_91",
+      "shape_id": 91,
+      "shape_name": "TextBox 71",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "有效分配和管理项目所需的资源，包括人员、资金和设备，确保各项资源得到充分利用。",
+      "bounds_pt": [
+        676.6,
+        130.4,
+        226.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "TextBox 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "04.风险管理",
+      "bounds_pt": [
+        717.5,
+        238.7,
+        185.3,
+        38.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "TextBox 71",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "识别潜在风险并评估其影响，制定应对策略以减轻风险带来的负面影响。",
+      "bounds_pt": [
+        700.6,
+        278.0,
+        201.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "TextBox 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "06.沟通协调",
+      "bounds_pt": [
+        717.5,
+        387.5,
+        185.3,
+        38.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "TextBox 71",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "保持与所有相关方的有效沟通，确保信息传递准确及时，促进项目团队的协调与合作。",
+      "bounds_pt": [
+        676.6,
+        426.8,
+        226.0,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

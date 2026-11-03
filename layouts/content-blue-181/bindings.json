@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜在工作中的个人进步",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "椭圆 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        506.7,
+        103.3,
+        54.8,
+        54.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "椭圆 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        506.7,
+        211.5,
+        54.8,
+        54.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "椭圆 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        506.7,
+        319.7,
+        54.8,
+        54.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "椭圆 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        506.7,
+        427.8,
+        54.8,
+        54.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 214,
+      "source_sample_chars": 107,
+      "source_text": "简洁表达：我学会了更加清晰和简洁地表达自己的意见，使团队成员能更容易理解并执行任务，避免了误解和重复工作。\n跨部门协作：通过提升与不同部门的协调能力，我能够有效调动资源，确保项目顺利推进，减少了跨部门合作中的摩擦。",
+      "bounds_pt": [
+        598.7,
+        89.0,
+        313.2,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 168,
+      "source_sample_chars": 84,
+      "source_text": "优先级安排：我合理安排任务的优先级，确保最关键的工作优先完成，避免了时间浪费。\n工具和方法应用：我使用时间管理工具帮助自己规划日常工作减少了拖延现象，确保按时完成任务。",
+      "bounds_pt": [
+        598.7,
+        197.2,
+        313.2,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 172,
+      "source_sample_chars": 86,
+      "source_text": "主动合作：我更注重与同事之间的合作，主动提供帮助，增强了团队成员之间的互动和信任。\n定期沟通反馈：通过定期沟通，确保每个成员都了解项目进展减少误解和延误，确保团队协同工作。",
+      "bounds_pt": [
+        598.7,
+        305.3,
+        313.2,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 174,
+      "source_sample_chars": 87,
+      "source_text": "独立解决问题：我学会了在面对突发问题时冷静分析并迅速反应不再依赖他人，而是主动寻找解决方案。\n总结经验：我从每次失败中总结经验，确保在遇到类似问题时能更加高效地找到解决办法。",
+      "bounds_pt": [
+        598.7,
+        413.5,
+        313.2,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "01.提升了沟通能力",
+      "bounds_pt": [
+        152.6,
+        212.2,
+        203.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "02.增强了管理能力",
+      "bounds_pt": [
+        152.6,
+        292.9,
+        203.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "03.提高了协作能力",
+      "bounds_pt": [
+        151.8,
+        368.9,
+        203.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "04.增强了问题解决能力",
+      "bounds_pt": [
+        151.0,
+        444.8,
+        203.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "任意多边形: 形状 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "任务目标完成指标",
+      "bounds_pt": [
+        213.1,
+        82.3,
+        163.6,
+        52.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "任意多边形: 形状 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "时间进度完成指标",
+      "bounds_pt": [
+        392.9,
+        82.3,
+        163.6,
+        52.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "任意多边形: 形状 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "资源调配完成指标",
+      "bounds_pt": [
+        572.7,
+        82.3,
+        163.6,
+        52.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "任意多边形: 形状 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "质量控制完成指标",
+      "bounds_pt": [
+        752.6,
+        82.3,
+        163.6,
+        52.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "完成\n指标",
+      "bounds_pt": [
+        43.1,
+        142.9,
+        152.9,
+        75.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "量化\n标准",
+      "bounds_pt": [
+        43.0,
+        343.9,
+        152.9,
+        75.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "矩形 64",
+      "type": "text",
+      "max_chars": 108,
+      "source_sample_chars": 54,
+      "source_text": "通过设置这些完成指标和量化标准，可以帮助团队清晰了解任务的完成情况，并通过数据化的方式更好地进行监控和管理。",
+      "bounds_pt": [
+        43.0,
+        462.2,
+        873.8,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 126,
+      "source_sample_chars": 63,
+      "source_text": "完成任务的百分比，任务完成度达到90%以上。\n项目成果与目标实现率需达到100%。\n可量化的成果，如生产力收益、客户满意度等。",
+      "bounds_pt": [
+        222.4,
+        286.9,
+        144.0,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 120,
+      "source_sample_chars": 60,
+      "source_text": "按时完成任务的比例达到95%以上。\n延期任务的解决时间，在48小时内采取措施。\n每个阶段任务进度的完成率达到80%以上。",
+      "bounds_pt": [
+        402.5,
+        286.9,
+        144.0,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "文本框 89",
+      "type": "text",
+      "max_chars": 118,
+      "source_sample_chars": 59,
+      "source_text": "95%以上的资源分配符合预定方案。\n资源利用率，人员使用率达到90%以上。\n任务资源调配问题的解决时间不超过24小时。",
+      "bounds_pt": [
+        582.5,
+        286.9,
+        144.0,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "max_chars": 116,
+      "source_sample_chars": 58,
+      "source_text": "产品错误和缺陷率或服务的错误率不超过1%。\n质量审查合格率，需达到90%以上。\n所有质量问题处理时间不超过48小时。",
+      "bounds_pt": [
+        762.6,
+        286.9,
+        144.0,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 44,
+      "source_sample_chars": 22,
+      "source_text": "必须在预定的范围内实现，且成果能够满足需求。",
+      "bounds_pt": [
+        220.7,
+        175.4,
+        148.1,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "每个任务起止时间须明确，所有任务按期交付。",
+      "bounds_pt": [
+        400.5,
+        175.4,
+        148.1,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "确保任务所需的人力，物力资源得到合理调配。",
+      "bounds_pt": [
+        580.3,
+        175.4,
+        148.1,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_86",
+      "shape_id": 86,
+      "shape_name": "文本框 85",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "项目交付成果须符合预定质量要求，并经过严格检查。",
+      "bounds_pt": [
+        760.2,
+        175.4,
+        148.1,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "矩形: 圆角 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "完成标准",
+      "bounds_pt": [
+        229.1,
+        147.0,
+        126.8,
+        21.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "矩形: 圆角 55",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "完成标准",
+      "bounds_pt": [
+        411.1,
+        147.0,
+        126.8,
+        21.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "矩形: 圆角 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "完成标准",
+      "bounds_pt": [
+        593.1,
+        147.0,
+        126.8,
+        21.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "矩形: 圆角 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "完成标准",
+      "bounds_pt": [
+        775.0,
+        147.0,
+        126.8,
+        21.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜重点任务完成指标",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

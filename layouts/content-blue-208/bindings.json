@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "箭头: 五边形 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "01.目标设定与基础建设",
+      "bounds_pt": [
+        43.6,
+        82.2,
+        201.6,
+        34.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "矩形: 圆角 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "明确职责，资源调配",
+      "bounds_pt": [
+        55.0,
+        252.5,
+        177.8,
+        24.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "矩形: 圆角 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "优化流程，部门合作",
+      "bounds_pt": [
+        278.8,
+        406.4,
+        177.8,
+        24.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "矩形: 圆角 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "拓展市场，技术创新",
+      "bounds_pt": [
+        502.6,
+        252.5,
+        177.8,
+        24.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "矩形: 圆角 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "分析总结，优化产品",
+      "bounds_pt": [
+        725.9,
+        406.4,
+        177.8,
+        24.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一季度",
+      "bounds_pt": [
+        109.2,
+        477.1,
+        86.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二季度",
+      "bounds_pt": [
+        333.0,
+        477.1,
+        86.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第三季度",
+      "bounds_pt": [
+        556.8,
+        477.1,
+        86.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第四季度",
+      "bounds_pt": [
+        780.7,
+        477.1,
+        86.4,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "箭头: 五边形 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "02.项目执行与客户管理",
+      "bounds_pt": [
+        267.4,
+        236.1,
+        201.6,
+        34.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "箭头: 五边形 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "03.市场拓展与技术创新",
+      "bounds_pt": [
+        491.5,
+        82.2,
+        201.6,
+        34.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "箭头: 五边形 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "04.年度总结与评估收尾",
+      "bounds_pt": [
+        714.5,
+        236.1,
+        201.6,
+        34.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 150,
+      "source_sample_chars": 75,
+      "source_text": "确定年度目标并细化为任务，确保每个部门都明确职责。\n开展团队培训，提升员工的专业技能与团队协作能力。\n启动年度项目，确保按计划进行资源调配和进度跟踪。",
+      "bounds_pt": [
+        55.8,
+        121.0,
+        179.4,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 144,
+      "source_sample_chars": 72,
+      "source_text": "推进项目实施，确保第一季度的计划落地，优化执行流程。\n加强与客户互动，开展客户需求分析，提升客户满意度。\n促进跨部门合作，提高团队整体工作效率。",
+      "bounds_pt": [
+        278.4,
+        274.8,
+        179.4,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 136,
+      "source_sample_chars": 68,
+      "source_text": "拓展新市场，寻找潜在的合作伙伴，扩大品牌影响力。\n评估年度目标的进展情况，适时调整战略或目标。\n推动产品技术和服务创新，提高市场竞争力。",
+      "bounds_pt": [
+        502.3,
+        121.0,
+        178.1,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "完成年度工作总结，分析成绩与不足，积累经验。\n收集客户反馈，并根据客户反馈优化产品和服务。\n完成年度财务结算，总结团队的努力和成果。",
+      "bounds_pt": [
+        725.5,
+        274.8,
+        178.2,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "时间轴｜季度工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "图片 6",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

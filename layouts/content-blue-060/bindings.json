@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "椭圆 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "O1",
+      "bounds_pt": [
+        117.7,
+        154.4,
+        61.5,
+        61.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "椭圆 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "O2",
+      "bounds_pt": [
+        338.7,
+        154.4,
+        61.5,
+        61.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "椭圆 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "O3",
+      "bounds_pt": [
+        559.8,
+        154.4,
+        61.5,
+        61.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "椭圆 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "O4",
+      "bounds_pt": [
+        780.8,
+        154.4,
+        61.5,
+        61.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "矩形 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "创新思维·提高效率",
+      "bounds_pt": [
+        43.2,
+        465.0,
+        210.5,
+        39.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "矩形 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "促进合作·持续联系",
+      "bounds_pt": [
+        264.2,
+        465.0,
+        210.5,
+        39.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "矩形 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "优化流程·明确方向",
+      "bounds_pt": [
+        485.2,
+        465.0,
+        210.5,
+        39.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "矩形 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "定期培训·绩效管理",
+      "bounds_pt": [
+        706.3,
+        465.0,
+        210.5,
+        39.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "年度目标:2026年全年OKR任务分配",
+      "bounds_pt": [
+        43.2,
+        85.7,
+        578.1,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜OKR工作法",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "矩形: 圆角 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "提升专业技能和知识",
+      "bounds_pt": [
+        66.2,
+        263.0,
+        164.1,
+        29.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "矩形: 圆角 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "扩大职业关系网络",
+      "bounds_pt": [
+        287.4,
+        263.0,
+        164.1,
+        29.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "矩形: 圆角 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "提高业务管理能力",
+      "bounds_pt": [
+        508.7,
+        263.0,
+        164.1,
+        29.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "矩形: 圆角 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "提升工作表现与绩效",
+      "bounds_pt": [
+        730.0,
+        263.0,
+        164.1,
+        29.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 178,
+      "source_sample_chars": 89,
+      "source_text": "KR1：完成了2门专业认证课程，提升了对行业趋势的理解。\nKR2：每周阅读了3篇行业相关的研究论文，激发了我的创新思维。\nKR3：在公司内实施了新的技术解决方案，提高了团队效率。",
+      "bounds_pt": [
+        59.7,
+        300.8,
+        175.9,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 190,
+      "source_sample_chars": 95,
+      "source_text": "KR1：参与了行业内的交流会，促进了与行业领袖人物的互动与合作。\nKR2：与1行业内的资深专家建立了持续联系，并保持了良好的关系。\nKR3：启动了2个跨行业合作项目为公司带来了新的合作机会。",
+      "bounds_pt": [
+        280.8,
+        300.8,
+        175.9,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 188,
+      "source_sample_chars": 94,
+      "source_text": "KR1：优化了沟通流程，确保信息传递高效透明，减少了工作重叠。\nKR2：与团队成员进行了绩效评估与反馈，明确个人职业发展方向。\nKR3：培养了团队成员决策能力，提升了团队的自主性和责任感。",
+      "bounds_pt": [
+        501.8,
+        300.8,
+        175.9,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 192,
+      "source_sample_chars": 96,
+      "source_text": "KR1：通过重新设计工作流程，整体工作周期缩短了约15%。\nKR2：通过时间管理培训，减少了拖延现象，个人绩效提高了20%。 \nKR3：定期反馈评审，通过此举员工对绩效管理满意度上升了25%。",
+      "bounds_pt": [
+        722.8,
+        300.8,
+        175.9,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 35,
+        "shape_name": "图片 34",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

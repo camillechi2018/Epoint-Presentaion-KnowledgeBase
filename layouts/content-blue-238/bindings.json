@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "任意多边形: 形状 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Step.01",
+      "bounds_pt": [
+        43.5,
+        456.6,
+        255.4,
+        47.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "任意多边形: 形状 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Step.02",
+      "bounds_pt": [
+        251.2,
+        332.0,
+        251.8,
+        47.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "任意多边形: 形状 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Step.03",
+      "bounds_pt": [
+        455.2,
+        207.4,
+        253.6,
+        47.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "01.项目启动与规划",
+      "bounds_pt": [
+        43.2,
+        291.2,
+        184.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 148,
+      "source_sample_chars": 74,
+      "source_text": "目标设定：明确项目的目标、范围、交付物和时间节点。\n资源分配：确定所需的人员、资金和设备等资源。\n制定详细计划：包括工作分解结构、时间表和任务分配。",
+      "bounds_pt": [
+        43.2,
+        320.5,
+        184.1,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "文本框 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "02.项目执行与监控",
+      "bounds_pt": [
+        251.2,
+        166.9,
+        184.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "任务分配：根据项目计划分配具体任务给团队成员，并设定优先级。\n进度跟踪：定期检查项目进展，确保任务按时完成，解决执行中的问题。\n质量控制：确保工作成果符合标准和质量要求。",
+      "bounds_pt": [
+        251.2,
+        196.2,
+        184.1,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "03.项目调整与优化",
+      "bounds_pt": [
+        457.0,
+        82.8,
+        184.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 114,
+      "source_sample_chars": 57,
+      "source_text": "问题解决：根据反馈实际执行情况，调整项目策略或资源分配。\n过程优化：通过监控与评估，识别并优化工作流程，提高效率。",
+      "bounds_pt": [
+        457.0,
+        112.1,
+        184.1,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "04.项目总结与收尾",
+      "bounds_pt": [
+        732.5,
+        149.6,
+        184.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 176,
+      "source_sample_chars": 88,
+      "source_text": "成果评估：评估项目目标是否达成，检查交付物的质量和效果。\n收尾文档：编写项目总结报告，记录关键经验、问题和解决方案。\n项目评审：进行项目复盘，学习经验教训，为未来项目提供参考。",
+      "bounds_pt": [
+        732.5,
+        178.9,
+        184.1,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "这四个步骤可以帮助项目团队高效推进并确保最终成果符合预期。",
+      "bounds_pt": [
+        43.2,
+        130.0,
+        244.9,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "箭头: 五边形 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "项目推进规划",
+      "bounds_pt": [
+        43.2,
+        82.2,
+        261.3,
+        47.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "重点注意事项",
+      "bounds_pt": [
+        513.2,
+        300.4,
+        402.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "01.及时沟通与反馈",
+      "bounds_pt": [
+        550.0,
+        343.8,
+        367.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 118,
+      "source_sample_chars": 59,
+      "source_text": "项目中的沟通是确保顺利推进的关键。无论是项目团队内部的沟通，还是与客户等利益相关者的沟通，都应确保信息传递及时、准确。",
+      "bounds_pt": [
+        526.9,
+        365.3,
+        378.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "02.风险管理与应急预案",
+      "bounds_pt": [
+        550.0,
+        433.7,
+        367.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 142,
+      "source_sample_chars": 71,
+      "source_text": "项目执行过程中会不可避免地遇到各种不确定性和风险。因此，风险管理至关重要。应当在项目初期进行风险识别与评估，制定应急预案以应对可能出现的挑战。",
+      "bounds_pt": [
+        526.9,
+        455.2,
+        378.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜项目推进流程",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "任意形状 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Step.04",
+      "bounds_pt": [
+        661.1,
+        82.6,
+        255.5,
+        48.0
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

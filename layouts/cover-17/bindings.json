@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 10,
+      "source_sample_chars": 10,
+      "source_text": "新点 · 产品发布会",
+      "bounds_pt": [
+        240.0,
+        195.9,
+        480.0,
+        31.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 27,
+      "source_sample_chars": 27,
+      "source_text": "EPOINT PRODUCT LAUNCH EVENT",
+      "bounds_pt": [
+        263.8,
+        166.8,
+        432.5,
+        25.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "7.31【北京】",
+      "bounds_pt": [
+        304.9,
+        485.6,
+        153.8,
+        20.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 14,
+      "source_sample_chars": 14,
+      "source_text": "企业战略定位与营销赋能分享会",
+      "bounds_pt": [
+        473.4,
+        485.6,
+        252.6,
+        20.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "股票代码 688232",
+      "bounds_pt": [
+        1.2,
+        0.0,
+        0.3,
+        0.0
+      ],
+      "semantic_role": "brand_locked"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "298bb65ccdaea1c6ef1a4e2b2aba9a81ced94f708e1ab17369ff597ca596a3b5",
+        "bounds_pt": [
+          0.0,
+          0.0,
+          960.0,
+          540.0
+        ]
+      },
+      {
+        "shape_id": 24,
+        "shape_name": "图片 23",
+        "sha256": "816529addf3b8652c660355da27bd8306c8b569389d6717b17be969f188f7b9c",
+        "bounds_pt": [
+          0.0,
+          0.0,
+          0.1,
+          0.0
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

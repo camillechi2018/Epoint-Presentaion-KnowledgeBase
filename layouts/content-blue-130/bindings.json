@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "任意多边形: 形状 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "01.流程数字化",
+      "bounds_pt": [
+        44.0,
+        82.3,
+        207.2,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "任意多边形: 形状 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.部门知识共享",
+      "bounds_pt": [
+        265.6,
+        82.3,
+        207.2,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "任意多边形: 形状 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.灵活工作模式",
+      "bounds_pt": [
+        487.2,
+        82.3,
+        207.2,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "任意多边形: 形状 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.创新文化培养",
+      "bounds_pt": [
+        708.8,
+        82.3,
+        207.2,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 248,
+      "source_sample_chars": 124,
+      "source_text": "提高任务效率：通过采用智能工具来执行重复性任务，减少人工操作，提高工作效率。\n减少人为错误：自动化系统能够精确执行任务，降低操作失误的风险，确保数据准确性。\n提升数据分析能力：利用数据分析工具，将自动化的数据收集和处理与智能分析结合，做出精准决策。",
+      "bounds_pt": [
+        58.9,
+        211.6,
+        177.5,
+        189.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 262,
+      "source_sample_chars": 131,
+      "source_text": "信息透明化：建立内部知识库和共享平台，确保各部门能够实时获取资料和信息，避免信息不对称。\n增强创新思维：不同部门的员工可以通过交流各自的经验和视角，碰撞出新的创意和解决方案，促进创新。\n加速决策速度：跨部门协作能够使得决策过程更加迅速和精准，减少信息传递的时间。",
+      "bounds_pt": [
+        280.5,
+        211.2,
+        177.5,
+        183.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 252,
+      "source_sample_chars": 126,
+      "source_text": "提高员工满意度：灵活的工作安排能够让员工更好地平衡工作和生活，提升员工的满意度。\n提升生产力：当员工能够选择最适合自己的工作环境和时间时，他们会更专注、更有动力，提高整体生产力。\n吸引和保留多样化的人才：灵活工作模式能够吸引更多来自不同背景的优秀人才。",
+      "bounds_pt": [
+        502.1,
+        210.9,
+        177.5,
+        183.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 268,
+      "source_sample_chars": 134,
+      "source_text": "鼓励创新思维：定期的学习和创新活动能够激励员工突破思维限制，提出新的创意和解决方案。\n为员工提供成长机会：组织内的培训课程、可以帮助员工不断提高专业技能，保持与行业发展同步。\n试错容忍文化：建立容忍失败的工作环境，让员工敢于提出新的想法并实践，不怕失败，培养创新精神。",
+      "bounds_pt": [
+        723.6,
+        210.5,
+        177.5,
+        183.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 122,
+      "source_sample_chars": 61,
+      "source_text": "通过流程自动化、跨部门协作、灵活工作模式和持续学习文化的培养，从而促进企业在竞争激烈的市场中保持长期的竞争力与可持续发展。",
+      "bounds_pt": [
+        94.5,
+        473.6,
+        743.8,
+        23.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "矩形 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "提高效率，降低风险",
+      "bounds_pt": [
+        44.0,
+        419.5,
+        207.2,
+        38.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "矩形 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "信息透明，精准决策",
+      "bounds_pt": [
+        265.6,
+        419.5,
+        207.2,
+        38.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "矩形 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "灵活安排，提升生产",
+      "bounds_pt": [
+        487.2,
+        419.5,
+        207.2,
+        38.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "矩形 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "鼓励创新，不怕失败",
+      "bounds_pt": [
+        708.8,
+        419.5,
+        207.2,
+        38.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "述职汇报｜工作中需要创新的方式",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 8,
+        "shape_name": "图片 7",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

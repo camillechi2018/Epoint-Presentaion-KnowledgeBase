@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "任意多边形: 形状 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "目标达成与完成情况",
+      "bounds_pt": [
+        110.2,
+        84.1,
+        149.5,
+        28.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "任意多边形: 形状 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "工作流程与效率提升",
+      "bounds_pt": [
+        300.0,
+        378.0,
+        149.5,
+        28.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "任意多边形: 形状 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "问题与挑战分析",
+      "bounds_pt": [
+        677.7,
+        378.0,
+        149.5,
+        28.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "任意多边形: 形状 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "团队建设与协作",
+      "bounds_pt": [
+        488.2,
+        84.1,
+        149.5,
+        28.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 106,
+      "source_sample_chars": 53,
+      "source_text": "关键业绩指标完成情况：过去一年，我们设定了多个关键业绩指标，提升销售额、增加客户满意度、提高市场占有率等。",
+      "bounds_pt": [
+        115.1,
+        127.3,
+        323.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 120,
+      "source_sample_chars": 60,
+      "source_text": "未达成目标的原因及改进措施：虽然部分目标未能完全达成，但我们已经分析了原因并提出了改进措施，力求在新的一年实现全面达标。",
+      "bounds_pt": [
+        116.3,
+        170.6,
+        322.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 116,
+      "source_sample_chars": 58,
+      "source_text": "技能培训与知识共享：我们组织了多次技能培训，这些培训有效提升了团队成员的综合能力，同时增强了团队的凝聚力和协作意识。",
+      "bounds_pt": [
+        495.4,
+        127.2,
+        323.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 122,
+      "source_sample_chars": 61,
+      "source_text": "团队协作工具引入：为进一步增强团队合作，我们引入了协作工具，通过这些工具，提高了信息流通的速度，提升了团队整体的工作效能。",
+      "bounds_pt": [
+        496.6,
+        170.5,
+        322.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "技术难题与解决方案：我们通过外聘专家等方式解决了部分难题，确保项目进度不受过多影响。",
+      "bounds_pt": [
+        683.3,
+        421.5,
+        233.2,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "文本框 56",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "外部环境变化的应对：通过对市场的实时关注，我们能够灵活调整策略，保持在变化中的竞争力。",
+      "bounds_pt": [
+        684.5,
+        464.9,
+        232.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 108,
+      "source_sample_chars": 54,
+      "source_text": "工作流程优化：在工作流程方面，我们成功引入了自动化工具，对工作任务进行了分配和监控，确保了各项工作按时完成。",
+      "bounds_pt": [
+        308.0,
+        421.3,
+        323.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "文本框 59",
+      "type": "text",
+      "max_chars": 108,
+      "source_sample_chars": 54,
+      "source_text": "跨部门协作提升：通过优化工作流程，我们加强了各部门的协作，确保资源共享与信息互通，提高了整体效率和工作质量。",
+      "bounds_pt": [
+        309.3,
+        464.6,
+        322.3,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "通过工作总结将会更加具体和全面，能清晰地展示过去一年的工作成果与不足，并为下一年的发展奠定基础。",
+      "bounds_pt": [
+        101.1,
+        412.7,
+        148.0,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "最终总结",
+      "bounds_pt": [
+        117.5,
+        387.3,
+        115.3,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "述职汇报｜工作总结",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作总结01",
+      "bounds_pt": [
+        139.2,
+        294.4,
+        115.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作总结02",
+      "bounds_pt": [
+        328.0,
+        294.4,
+        115.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "文本框 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作总结03",
+      "bounds_pt": [
+        516.7,
+        294.4,
+        115.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "总工作结04",
+      "bounds_pt": [
+        705.5,
+        294.4,
+        115.3,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "2026",
+      "bounds_pt": [
+        834.1,
+        281.1,
+        61.1,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜不足之处与改进方案",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "任意多边形: 形状 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "高效沟通",
+      "bounds_pt": [
+        355.7,
+        82.5,
+        248.7,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "任意多边形: 形状 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "精细管理",
+      "bounds_pt": [
+        355.7,
+        462.8,
+        248.7,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "1.时间管理不严谨",
+      "bounds_pt": [
+        43.8,
+        85.8,
+        300.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "2. 沟通协调不及时",
+      "bounds_pt": [
+        43.8,
+        229.3,
+        300.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "3. 细节把控不严格",
+      "bounds_pt": [
+        43.8,
+        372.8,
+        300.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "改进方案",
+      "bounds_pt": [
+        615.7,
+        85.5,
+        300.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "改进方案",
+      "bounds_pt": [
+        615.7,
+        229.0,
+        300.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "改进方案",
+      "bounds_pt": [
+        615.7,
+        372.6,
+        300.5,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "不足之处",
+      "bounds_pt": [
+        376.2,
+        242.8,
+        43.6,
+        104.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "改进方案",
+      "bounds_pt": [
+        542.7,
+        242.8,
+        43.6,
+        104.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 162,
+      "source_sample_chars": 81,
+      "source_text": "任务堆积：由于未能合理规划工作时间，导致任务的优先级不明确，影响了工作进度。\n工作延误：缺乏对各项工作的清晰时间划分，导致部分任务未按时完成，影响了整体工作进度。",
+      "bounds_pt": [
+        48.5,
+        125.8,
+        290.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 196,
+      "source_sample_chars": 98,
+      "source_text": "信息传递延迟：在项目推进过程中，与团队成员的沟通不及时，导致信息更新滞后，影响了工作的顺利推进。\n沟通不够主动：部分情况下，未能主动向相关人员确认任务进展，导致信息缺乏同步，出现协调不及时的情况。",
+      "bounds_pt": [
+        48.5,
+        269.1,
+        290.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 148,
+      "source_sample_chars": 74,
+      "source_text": "忽视细节：在任务执行过程中未能严格把控细节，导致工作结果存在偏差或瑕疵。\n错误发生：由于对细节关注不够，偶尔出现低级错误，影响了工作质量和最终结果。",
+      "bounds_pt": [
+        48.5,
+        412.4,
+        290.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 160,
+      "source_sample_chars": 80,
+      "source_text": "第一步：制定工作计划，明确任务的优先级，确保重要任务得到优先处理。\n第二步：采用时间块管理法，将任务分配到固定时间内，提高专注度和工作效率，避免拖延和任务堆积。",
+      "bounds_pt": [
+        620.7,
+        124.2,
+        290.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 174,
+      "source_sample_chars": 87,
+      "source_text": "第一步：设立定期的沟通会议或同步更新机制，确保团队成员间的信息能够及时传递和共享。\n第二步：在遇到问题时，主动联系相关人员进行沟通，确保项目进展和工作需求能够及时协调和解决。",
+      "bounds_pt": [
+        620.7,
+        267.5,
+        290.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 174,
+      "source_sample_chars": 87,
+      "source_text": "第一步：在开始执行任务前，制定详细的执行计划，确保每个细节都被提前考虑并安排妥当。\n第二步：对重要的任务进行二次检查，确保细节无误，必要时向同事请教，以提升细节把控的准确性。",
+      "bounds_pt": [
+        620.7,
+        410.8,
+        290.8,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

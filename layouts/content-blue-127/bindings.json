@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "任意多边形: 形状 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "5W1H\n分析法",
+      "bounds_pt": [
+        414.9,
+        228.6,
+        128.7,
+        128.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "What\n（什么）",
+      "bounds_pt": [
+        377.1,
+        161.7,
+        85.3,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "Why\n（为什么）",
+      "bounds_pt": [
+        493.1,
+        161.7,
+        88.4,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "When\n（何时）",
+      "bounds_pt": [
+        559.7,
+        267.7,
+        79.6,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "How\n（如何）",
+      "bounds_pt": [
+        320.4,
+        268.1,
+        78.1,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "Where\n(什么地方）",
+      "bounds_pt": [
+        494.0,
+        374.3,
+        85.3,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "Who\n（谁）",
+      "bounds_pt": [
+        374.9,
+        374.3,
+        85.3,
+        46.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "具体内容：通过优化工作流程、引入自动化工具、提升沟通效率等手段来实现工作效率的提升。",
+      "bounds_pt": [
+        60.4,
+        135.8,
+        190.7,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "目标：提高整体工作效率，确保项目按时并高质量进行交付，提升团队成员的工作满意度。",
+      "bounds_pt": [
+        709.9,
+        135.2,
+        190.0,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "关键节点：两周内完成问题分析和方案制定，1个月内实施首批优化措施，3个月内进行效果评估。",
+      "bounds_pt": [
+        709.4,
+        281.0,
+        190.7,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "影响范围：该任务将影响所有相关团队成员，特别是需要跨部门协作的部分,需要进行线上高效沟通。",
+      "bounds_pt": [
+        709.2,
+        426.9,
+        190.7,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "关键人员：团队成员、 HR，技术支持人员、部门负责人等帮助评估工作环境和团队氛围。",
+      "bounds_pt": [
+        60.0,
+        427.4,
+        190.7,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "优化流程：简化重复性任务。\n改善沟通方式：建立高效的沟通机制。\n估与调整：每月评估调整优化方案。",
+      "bounds_pt": [
+        60.1,
+        276.5,
+        190.9,
+        70.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "矩形 23",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "任务：提高团队的整体工作效率",
+      "bounds_pt": [
+        43.4,
+        82.5,
+        225.0,
+        37.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_93",
+      "shape_id": 93,
+      "shape_name": "矩形 92",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "实施步骤：分析当前工作流程",
+      "bounds_pt": [
+        43.3,
+        228.0,
+        224.9,
+        37.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "矩形 98",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "责任人：项目经理负责策划和执行",
+      "bounds_pt": [
+        43.1,
+        373.9,
+        224.5,
+        37.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "矩形 100",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "原因：整体效率较低，影响进度",
+      "bounds_pt": [
+        692.2,
+        81.6,
+        225.0,
+        37.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "矩形 101",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "时间框架：三个月内完成方案实施",
+      "bounds_pt": [
+        692.2,
+        227.5,
+        225.0,
+        37.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "矩形 102",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "地点：在远程工作平台上实施任务",
+      "bounds_pt": [
+        692.2,
+        373.3,
+        225.0,
+        37.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜ 5W1H分析法",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

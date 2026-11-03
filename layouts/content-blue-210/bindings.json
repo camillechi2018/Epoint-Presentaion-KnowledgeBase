@@ -1,0 +1,615 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "椭圆 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "1月",
+      "bounds_pt": [
+        44.2,
+        264.5,
+        57.3,
+        57.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "椭圆 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "2月",
+      "bounds_pt": [
+        111.6,
+        264.5,
+        57.3,
+        57.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "椭圆 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3月",
+      "bounds_pt": [
+        178.9,
+        264.5,
+        57.3,
+        57.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "椭圆 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "4月",
+      "bounds_pt": [
+        246.2,
+        264.5,
+        57.3,
+        57.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "椭圆 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "5月",
+      "bounds_pt": [
+        313.5,
+        264.5,
+        57.3,
+        57.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "椭圆 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "6月",
+      "bounds_pt": [
+        380.8,
+        264.5,
+        57.3,
+        57.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "椭圆 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "7月",
+      "bounds_pt": [
+        448.2,
+        264.5,
+        57.3,
+        57.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "椭圆 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "8月",
+      "bounds_pt": [
+        515.5,
+        264.5,
+        57.3,
+        57.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "椭圆 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "9月",
+      "bounds_pt": [
+        582.8,
+        264.5,
+        57.3,
+        57.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "椭圆 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "10月",
+      "bounds_pt": [
+        650.1,
+        264.5,
+        57.3,
+        57.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "椭圆 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "11月",
+      "bounds_pt": [
+        717.4,
+        264.5,
+        57.3,
+        57.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "椭圆 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "12月",
+      "bounds_pt": [
+        784.8,
+        264.5,
+        57.3,
+        57.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "年度规划与目标设定",
+      "bounds_pt": [
+        73.1,
+        87.3,
+        125.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 114,
+      "source_sample_chars": 57,
+      "source_text": "1.制定年度工作计划，确保目标明确。\n2.分析市场趋势，进行SWOT分析。\n3.确定部门和个人的主要任务和优先级。",
+      "bounds_pt": [
+        73.1,
+        110.4,
+        125.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "市场调研与客户分析",
+      "bounds_pt": [
+        207.8,
+        87.3,
+        125.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "1.进行市场调研，了解客户需求和市场动态。\n2.与客户沟通，获取反馈并改进服务。\n3.分析竞争对手，调整策略以应对市场变化。",
+      "bounds_pt": [
+        207.8,
+        110.4,
+        125.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "财务管理与预算审查",
+      "bounds_pt": [
+        342.4,
+        87.3,
+        125.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 118,
+      "source_sample_chars": 59,
+      "source_text": "1.审查优化年度预算，确保财务健康。\n2.跟踪项目财务支出，确保成本控制。\n3.制定下半年财务工作计划，预测年度营收。",
+      "bounds_pt": [
+        342.4,
+        110.4,
+        125.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "工作培训与员工发展",
+      "bounds_pt": [
+        477.0,
+        87.3,
+        125.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "1.开展员工技能培训，提升团队的整体素质。\n2.针对员工需求，安排职业发展规划会议。\n3.评估员工绩效，进行年度中期评估与反馈。",
+      "bounds_pt": [
+        477.0,
+        110.4,
+        125.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "客户关系管理与维护",
+      "bounds_pt": [
+        611.7,
+        87.3,
+        125.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 122,
+      "source_sample_chars": 61,
+      "source_text": "1.加强与客户的沟通，了解他们的最新需求。\n2.针对客户反馈，优化产品或服务。\n3.与销售团队协作，推动老客户的二次开发。",
+      "bounds_pt": [
+        611.7,
+        110.4,
+        125.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "文本框 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "年度评估与工作改进",
+      "bounds_pt": [
+        746.3,
+        87.3,
+        125.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 130,
+      "source_sample_chars": 65,
+      "source_text": "1.回顾年度工作目标，分析未达成目标的原因。\n2.完成年度绩效评估，并制定改进计划。\n3.督促各项目部门，确保年底前工作落实到位。",
+      "bounds_pt": [
+        746.3,
+        110.4,
+        125.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "项目启动与流程优化",
+      "bounds_pt": [
+        140.1,
+        344.9,
+        125.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 120,
+      "source_sample_chars": 60,
+      "source_text": "1.启动年度重点项目，确保项目时间表清晰。\n2.优化工作流程，减少低效工作环节。\n3.加强团队沟通，确保各部门协同高效。",
+      "bounds_pt": [
+        140.1,
+        368.0,
+        125.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "项目执行与中期评估",
+      "bounds_pt": [
+        274.7,
+        344.9,
+        125.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "1.推进项目执行，确保各项任务按时完成。\n2.项目中期进行评估，及时调整计划和策略。\n3.与团队进行沟通，解决项目执行中的问题。",
+      "bounds_pt": [
+        274.7,
+        368.0,
+        125.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "中期总结与工作调整",
+      "bounds_pt": [
+        409.3,
+        344.9,
+        125.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 136,
+      "source_sample_chars": 68,
+      "source_text": "1.总结上半年度工作，调整下半年的工作重点。\n2.深入分析团队的工作效率，提出改进措施。\n3.加强与合作伙伴的沟通交流，提升资源利用率。",
+      "bounds_pt": [
+        409.3,
+        368.0,
+        125.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "工作创新与技术研发",
+      "bounds_pt": [
+        544.0,
+        344.9,
+        125.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 126,
+      "source_sample_chars": 63,
+      "source_text": "1.鼓励团队进行技术创新和流程改进。\n2.推进技术研发项目，确保技术方案的有效性。\n3.定期举办创新研讨会推动创意思维的产生。",
+      "bounds_pt": [
+        544.0,
+        368.0,
+        125.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "战略调整与目标规划",
+      "bounds_pt": [
+        678.6,
+        344.9,
+        125.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 126,
+      "source_sample_chars": 63,
+      "source_text": "1.根据市场变化和公司发展，调整战略方向。\n2.加强跨部门协作，确保各部门目标一致。\n3.与高层管理沟通，确保战略决策的落地。",
+      "bounds_pt": [
+        678.6,
+        368.0,
+        125.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "年度总结与来年准备",
+      "bounds_pt": [
+        813.2,
+        344.9,
+        125.1,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "1.完成全年的工作总结报告，总结经验教训。\n2.制定明年的工作项目计划，确保工作顺利。\n3.完成部门或团队的年度目标和资源规划。",
+      "bounds_pt": [
+        813.2,
+        368.0,
+        125.1,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "时间轴｜月度工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

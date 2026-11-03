@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "圆角矩形 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 01",
+      "bounds_pt": [
+        276.3,
+        92.4,
+        79.3,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "圆角矩形 28",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 02",
+      "bounds_pt": [
+        276.3,
+        232.8,
+        79.3,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "圆角矩形 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 03",
+      "bounds_pt": [
+        276.3,
+        373.3,
+        79.3,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "圆角矩形 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 04",
+      "bounds_pt": [
+        604.4,
+        373.3,
+        79.3,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "圆角矩形 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 05",
+      "bounds_pt": [
+        604.4,
+        232.8,
+        79.3,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "圆角矩形 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 06",
+      "bounds_pt": [
+        604.4,
+        92.4,
+        79.3,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜阶段工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "启动规划",
+      "bounds_pt": [
+        59.8,
+        92.0,
+        200.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "需求调研",
+      "bounds_pt": [
+        59.8,
+        232.4,
+        200.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "方案设计",
+      "bounds_pt": [
+        59.7,
+        372.6,
+        200.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "验收复盘",
+      "bounds_pt": [
+        699.8,
+        91.3,
+        200.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "执行推进",
+      "bounds_pt": [
+        699.8,
+        231.7,
+        200.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "资源准备",
+      "bounds_pt": [
+        699.8,
+        371.9,
+        200.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 162,
+      "source_sample_chars": 81,
+      "source_text": "目标明确：与相关方充分沟通确认项目核心目标、关键成果和成功标准，正式形成项目章程文件。\n团队组建：选拔核心成员并明确职责分工，组织召开项目启动会确保全员目标对齐。",
+      "bounds_pt": [
+        43.1,
+        136.7,
+        272.0,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 146,
+      "source_sample_chars": 73,
+      "source_text": "需求收集：通过访谈、问卷等方式全面收集用户需求，整理形成详细的需求文档。\n范围界定：明确项目交付物清单并划定范围边界，确认不包含内容避免范围蔓延。",
+      "bounds_pt": [
+        43.9,
+        278.4,
+        272.0,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "max_chars": 146,
+      "source_sample_chars": 73,
+      "source_text": "方案制定：设计详细技术方案或业务方案，明确实现路径和方法，组织方案评审。\n计划排期：分解具体工作任务，设定关键里程碑节点，编制详细时间表及责任人。",
+      "bounds_pt": [
+        43.9,
+        421.8,
+        272.0,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "max_chars": 148,
+      "source_sample_chars": 74,
+      "source_text": "预算落实：测算项目所需资金，编制预算方案并完成内部审批流程，确保资金到位。\n物资调配：落实人力、设备、场地等资源，完成采购或调配，确保执行条件具备。",
+      "bounds_pt": [
+        642.9,
+        136.7,
+        272.0,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "任务实施：按照计划有序推进各项工作，确保每日/每周进度按时达标。\n问题解决：及时识别处理执行中的卡点和问题，协调资源快速解决保障进度。",
+      "bounds_pt": [
+        643.7,
+        278.4,
+        272.0,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 138,
+      "source_sample_chars": 69,
+      "source_text": "成果验收：对照目标和交付标准进行成果验收，收集反馈确保质量符合预期。\n总结归档：组织项目复盘会议总结经验教训，输出总结报告并归档项目资料。",
+      "bounds_pt": [
+        643.7,
+        419.5,
+        272.0,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

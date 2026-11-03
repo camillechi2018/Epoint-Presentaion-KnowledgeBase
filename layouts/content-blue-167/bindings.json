@@ -1,0 +1,567 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜工作内容概述",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "任意多边形: 形状 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        392.9,
+        89.0,
+        46.4,
+        46.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "任意多边形: 形状 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        321.3,
+        203.8,
+        46.4,
+        46.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "任意多边形: 形状 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        392.9,
+        318.7,
+        46.4,
+        46.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "任意多边形: 形状 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        520.7,
+        89.0,
+        46.4,
+        46.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "任意多边形: 形状 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "05",
+      "bounds_pt": [
+        592.3,
+        203.8,
+        46.4,
+        46.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "任意多边形: 形状 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "06",
+      "bounds_pt": [
+        520.7,
+        318.7,
+        46.4,
+        46.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "矩形: 圆角 93",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点01",
+      "bounds_pt": [
+        176.5,
+        400.5,
+        76.5,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "矩形: 圆角 94",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点02",
+      "bounds_pt": [
+        176.5,
+        429.4,
+        76.5,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "矩形: 圆角 95",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点03",
+      "bounds_pt": [
+        176.5,
+        458.3,
+        76.5,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "矩形: 圆角 96",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 18,
+      "source_text": "主导年度战略解码，提升了整体运营效率",
+      "bounds_pt": [
+        266.7,
+        400.5,
+        180.4,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "矩形: 圆角 97",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "完成了产品版本全流程管理与成功上线",
+      "bounds_pt": [
+        266.7,
+        429.4,
+        180.4,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "矩形: 圆角 98",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "完成了产品需求迭代与体验优化等项目",
+      "bounds_pt": [
+        266.7,
+        458.3,
+        180.4,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_114",
+      "shape_id": 114,
+      "shape_name": "矩形: 圆角 113",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点01",
+      "bounds_pt": [
+        622.6,
+        400.7,
+        76.5,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_115",
+      "shape_id": 115,
+      "shape_name": "矩形: 圆角 114",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点02",
+      "bounds_pt": [
+        622.6,
+        429.6,
+        76.5,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_116",
+      "shape_id": 116,
+      "shape_name": "矩形: 圆角 115",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "亮点03",
+      "bounds_pt": [
+        622.6,
+        458.6,
+        76.5,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_117",
+      "shape_id": 117,
+      "shape_name": "矩形: 圆角 116",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "提升关键用户群体生命周期价值",
+      "bounds_pt": [
+        712.8,
+        400.7,
+        180.4,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_118",
+      "shape_id": 118,
+      "shape_name": "矩形: 圆角 117",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "推进了重点项目的全周期管理",
+      "bounds_pt": [
+        712.8,
+        429.6,
+        180.4,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_119",
+      "shape_id": 119,
+      "shape_name": "矩形: 圆角 118",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "完成了年度核心任务，团队体系更完善",
+      "bounds_pt": [
+        712.8,
+        458.6,
+        180.4,
+        22.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_120",
+      "shape_id": 120,
+      "shape_name": "矩形: 圆角 119",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "上半年亮点",
+      "bounds_pt": [
+        59.0,
+        461.8,
+        93.7,
+        25.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_121",
+      "shape_id": 121,
+      "shape_name": "矩形: 圆角 120",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "下半年亮点",
+      "bounds_pt": [
+        505.1,
+        461.8,
+        93.7,
+        25.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "文本框 58",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "主导年度战略解码，确保目标层层分解与组织对齐。\n优化核心业务流程与协同机制，提升整体运营效率。",
+      "bounds_pt": [
+        51.4,
+        122.4,
+        266.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "文本框 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "战略管理与组织发展版",
+      "bounds_pt": [
+        51.4,
+        99.1,
+        266.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "完成产品年度路线图规划与版本迭代计划制定。\n主导核心产品版本的全流程管理与成功上线。",
+      "bounds_pt": [
+        51.4,
+        217.7,
+        266.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "产品与项目管理版",
+      "bounds_pt": [
+        51.4,
+        194.4,
+        266.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "制定年度业务拓展策略并完成目标分解落地。\n持续收集用户反馈，完成产品需求迭代与体验优化。",
+      "bounds_pt": [
+        51.4,
+        312.9,
+        266.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "业务增长与市场拓展版",
+      "bounds_pt": [
+        51.4,
+        289.7,
+        266.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_85",
+      "shape_id": 85,
+      "shape_name": "文本框 84",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "负责运营体系年度规划与核心指标达成。\n优化用户运营策略，提升关键用户生命周期价值。",
+      "bounds_pt": [
+        641.9,
+        121.9,
+        266.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "文本框 87",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "运营与技术支持版",
+      "bounds_pt": [
+        641.9,
+        98.7,
+        266.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_91",
+      "shape_id": 91,
+      "shape_name": "文本框 90",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "承接战略规划，制定部门年度工作计划与预算。\n推进重点项目的全周期管理，确保目标达成。",
+      "bounds_pt": [
+        641.9,
+        217.2,
+        266.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_92",
+      "shape_id": 92,
+      "shape_name": "文本框 91",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "综合管理与执行版",
+      "bounds_pt": [
+        641.9,
+        194.0,
+        266.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "深耕专业领域，完成年度核心技术/专业任务。\n主导专业方法论沉淀与团队知识体系建设。",
+      "bounds_pt": [
+        641.9,
+        312.5,
+        266.7,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "专业贡献与个人发展版",
+      "bounds_pt": [
+        641.9,
+        289.3,
+        266.7,
+        26.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "2026年\n工作内容概述",
+      "bounds_pt": [
+        399.0,
+        194.4,
+        162.1,
+        65.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

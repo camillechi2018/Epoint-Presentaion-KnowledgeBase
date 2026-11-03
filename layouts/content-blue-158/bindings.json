@@ -1,0 +1,519 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜下半年工作任务计划",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "任意多边形: 形状 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "01.优化工作流程",
+      "bounds_pt": [
+        43.5,
+        261.8,
+        174.6,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "任意多边形: 形状 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "02.加强团队合作",
+      "bounds_pt": [
+        218.1,
+        233.3,
+        174.6,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "任意多边形: 形状 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "03.专业技能提升",
+      "bounds_pt": [
+        392.7,
+        204.8,
+        174.6,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "任意多边形: 形状 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "04.制定绩效指标",
+      "bounds_pt": [
+        567.3,
+        176.3,
+        174.6,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "任意多边形: 形状 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "05.客户关系维护",
+      "bounds_pt": [
+        741.9,
+        147.8,
+        174.6,
+        28.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "箭头: 五边形 21",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "2026下半年工作任务计划",
+      "bounds_pt": [
+        43.5,
+        82.2,
+        349.2,
+        41.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "目标：深入分析现有的工作流程，识别低效环节并进行针对性改进，提升整体工作效率和资源利用率。",
+      "bounds_pt": [
+        43.5,
+        293.5,
+        174.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "目标：强化团队成员之间的沟通与协作，确保信息及时、准确传递，提升团队的整体执行力和灵活性。",
+      "bounds_pt": [
+        218.1,
+        265.1,
+        174.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 76,
+      "source_sample_chars": 38,
+      "source_text": "目标：提升团队成员的专业技能和软技能，同时培养团队的协作交流和问题解决能力。",
+      "bounds_pt": [
+        392.6,
+        236.6,
+        174.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "目标：确保团队和个人的工作目标与公司的整体战略目标对接，推动持续改进和目标的达成。",
+      "bounds_pt": [
+        567.3,
+        208.0,
+        174.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 84,
+      "source_sample_chars": 42,
+      "source_text": "目标：通过加深与现有客户的合作关系，提升客户的忠诚度和满意度，增强公司的市场竞争力。",
+      "bounds_pt": [
+        741.9,
+        179.5,
+        174.6,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 58,
+      "source_sample_chars": 29,
+      "source_text": "通过使用自动化系统、或者流程简化来减少冗余，提升团队效率。",
+      "bounds_pt": [
+        48.9,
+        444.9,
+        163.8,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "文本框 34",
+      "type": "text",
+      "max_chars": 72,
+      "source_sample_chars": 36,
+      "source_text": "定期召开团队会议，分享工作进展与挑战。通过提高沟通透明度，促进信息共享。",
+      "bounds_pt": [
+        223.5,
+        405.8,
+        163.8,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 70,
+      "source_sample_chars": 35,
+      "source_text": "安排员工参与培训、工作坊或者在线课程，提升工作所需的专业技能与软技能。",
+      "bounds_pt": [
+        398.1,
+        364.4,
+        163.8,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "根据公司的整体战略目标，设定可量化的KPI，并定期跟踪进展，确保按期达成目标。",
+      "bounds_pt": [
+        572.7,
+        324.8,
+        163.8,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 88,
+      "source_sample_chars": 44,
+      "source_text": "定期拜访重要客户，了解他们的需求和反馈，及时做出响应，并寻找新的潜在客户，扩展业务范围。",
+      "bounds_pt": [
+        747.3,
+        285.1,
+        163.8,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "矩形: 圆角 8",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体计划",
+      "bounds_pt": [
+        96.3,
+        413.8,
+        68.8,
+        24.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "矩形: 圆角 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体计划",
+      "bounds_pt": [
+        271.0,
+        374.1,
+        68.8,
+        24.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "矩形: 圆角 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体计划",
+      "bounds_pt": [
+        445.6,
+        334.3,
+        68.8,
+        24.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "矩形: 圆角 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体计划",
+      "bounds_pt": [
+        620.2,
+        294.7,
+        68.8,
+        24.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "矩形: 圆角 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体计划",
+      "bounds_pt": [
+        794.8,
+        254.9,
+        68.8,
+        24.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "矩形 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "拜访客户",
+      "bounds_pt": [
+        755.9,
+        367.9,
+        146.7,
+        24.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "矩形 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "收集反馈",
+      "bounds_pt": [
+        755.9,
+        414.0,
+        146.7,
+        24.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "矩形 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "优化产品",
+      "bounds_pt": [
+        755.9,
+        459.7,
+        146.7,
+        24.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "任意多边形: 形状 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "参与培训",
+      "bounds_pt": [
+        404.1,
+        444.6,
+        36.1,
+        36.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "任意多边形: 形状 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "提升技能",
+      "bounds_pt": [
+        517.3,
+        443.2,
+        36.1,
+        36.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "持续学习",
+      "bounds_pt": [
+        440.1,
+        450.0,
+        77.1,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "设定KPI",
+      "bounds_pt": [
+        623.7,
+        398.2,
+        54.2,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "定期跟踪",
+      "bounds_pt": [
+        623.7,
+        424.0,
+        54.2,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "文本框 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "达成目标",
+      "bounds_pt": [
+        623.7,
+        458.3,
+        54.2,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

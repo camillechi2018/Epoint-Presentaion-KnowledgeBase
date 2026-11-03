@@ -1,0 +1,167 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "流程图｜工作汇报",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "任意形状 71",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "STEP 01：启动与规划",
+      "bounds_pt": [
+        44.2,
+        82.3,
+        268.7,
+        98.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "任意形状 72",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "STEP 02：方案与计划",
+      "bounds_pt": [
+        44.2,
+        190.1,
+        268.7,
+        98.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "任意形状 73",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "STEP 03：执行与管控",
+      "bounds_pt": [
+        44.2,
+        297.8,
+        268.7,
+        98.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "任意形状 74",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "STEP 04：验收与复盘",
+      "bounds_pt": [
+        44.2,
+        405.5,
+        268.7,
+        98.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "文本框 7",
+      "type": "text",
+      "max_chars": 156,
+      "source_sample_chars": 78,
+      "source_text": "明确项目目标：与相关方沟通确认项目核心目标、关键成果和成功标准，形成项目章程。\n组建项目团队：选拔核心成员，明确职责分工，召开项目启动会，确保全员目标对齐。",
+      "bounds_pt": [
+        411.4,
+        105.3,
+        407.5,
+        52.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 150,
+      "source_sample_chars": 75,
+      "source_text": "制定实施方案：设计详细技术方案或业务方案，明确实现路径和方法，组织方案评审。\n编制进度计划：分解工作任务，设定关键里程碑节点，制定详细时间表和责任人。",
+      "bounds_pt": [
+        411.4,
+        212.9,
+        407.5,
+        52.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 144,
+      "source_sample_chars": 72,
+      "source_text": "按计划推进实施：根据进度表开展各项工作，每日/周跟进任务完成情况。\n过程问题解决：及时识别执行中的卡点和问题，协调资源快速解决，确保进度不受阻。",
+      "bounds_pt": [
+        411.4,
+        320.8,
+        407.5,
+        52.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 152,
+      "source_sample_chars": 76,
+      "source_text": "成果验收确认：对照目标和交付标准进行验收，收集反馈，确保成果符合预期。\n复盘总结经验：组织项目复盘会，分析成功经验和改进点，输出总结报告，归档项目资料。",
+      "bounds_pt": [
+        411.4,
+        428.7,
+        407.5,
+        52.0
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "图片 6",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "新点软件产品发布会",
+      "bounds_pt": [
+        77.3,
+        214.8,
+        480.0,
+        36.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "文本框 33",
+      "type": "text",
+      "max_chars": 27,
+      "source_sample_chars": 27,
+      "source_text": "EPOINT PRODUCT LAUNCH EVENT",
+      "bounds_pt": [
+        77.3,
+        182.1,
+        418.7,
+        26.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 12,
+      "source_sample_chars": 12,
+      "source_text": "战略定位与营销赋能分享会",
+      "bounds_pt": [
+        136.0,
+        473.5,
+        153.5,
+        20.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 6,
+      "source_sample_chars": 6,
+      "source_text": "演讲人：李强",
+      "bounds_pt": [
+        136.0,
+        491.8,
+        174.0,
+        20.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "2026",
+      "bounds_pt": [
+        37.6,
+        486.5,
+        69.9,
+        23.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "股票代码 688232",
+      "bounds_pt": [
+        1.2,
+        0.0,
+        0.3,
+        0.0
+      ],
+      "semantic_role": "brand_locked"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 14,
+        "shape_name": "图片 13",
+        "sha256": "007c8abddbe4d20dadad8490fd1900c38dc6f2344fa32bfab8b916ebd3ad24b9",
+        "bounds_pt": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ]
+      },
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "816529addf3b8652c660355da27bd8306c8b569389d6717b17be969f188f7b9c",
+        "bounds_pt": [
+          0.0,
+          0.0,
+          0.1,
+          0.0
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

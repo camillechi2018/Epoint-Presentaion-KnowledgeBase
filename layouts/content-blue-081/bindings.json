@@ -1,0 +1,375 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜目标达成情况概述",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "任意多边形: 形状 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "01.业绩目标超额完成",
+      "bounds_pt": [
+        43.4,
+        186.8,
+        277.9,
+        57.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "任意多边形: 形状 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "02.重点项目高效推进",
+      "bounds_pt": [
+        341.0,
+        186.8,
+        277.9,
+        57.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "任意多边形: 形状 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "03.个人与团队的贡献",
+      "bounds_pt": [
+        638.6,
+        186.8,
+        277.9,
+        57.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "文本框 25",
+      "type": "text",
+      "max_chars": 238,
+      "source_sample_chars": 119,
+      "source_text": "营收目标达成：上半年完成营收580万元，达成率112%，同比增长18%。\n客户拓展成效：新增签约客户32家，其中行业标杆客户5家，客户质量得到显著提升和优化。\n成本控制优化：通过集中采购和优化销售费用率从12%降至9%，有效的控制了成本。",
+      "bounds_pt": [
+        57.3,
+        281.7,
+        250.2,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "文本框 27",
+      "type": "text",
+      "max_chars": 276,
+      "source_sample_chars": 138,
+      "source_text": "关键项目落地：主导“客户数字化升级项目”提前交付，客户满意度达98%，预计年创收达到200万元。\n资源整合能力：协调团队开发定制化工具，将客户提案制作周期从7天缩短至3天，效率提升了57%。\n风险管控成果：针对客户账期风险，推动预付款条款签署，上半年应收账款逾期率下降40%。",
+      "bounds_pt": [
+        354.8,
+        281.7,
+        250.2,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "文本框 28",
+      "type": "text",
+      "max_chars": 280,
+      "source_sample_chars": 140,
+      "source_text": "技能提升计划：完成“客户战略销售”认证，成功将SPIN销售法应用于实践，客户成交周期缩短20%。\n团队培养成果：团队季度业绩达标率100%，1人获公司“季度销售新星”奖，快速提升了新人成长。\n创新建议采纳：设计了客户分级管理，预计年减少无效跟进时长300小时，提升了整体工作效率。",
+      "bounds_pt": [
+        652.4,
+        281.7,
+        250.2,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "目标总数",
+      "bounds_pt": [
+        267.0,
+        137.8,
+        133.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "已达成",
+      "bounds_pt": [
+        433.6,
+        137.8,
+        133.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "未达成",
+      "bounds_pt": [
+        600.1,
+        137.8,
+        133.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "达成率",
+      "bounds_pt": [
+        766.7,
+        137.8,
+        133.7,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3项",
+      "bounds_pt": [
+        266.7,
+        95.5,
+        133.7,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "3项",
+      "bounds_pt": [
+        433.5,
+        95.5,
+        133.7,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "0项",
+      "bounds_pt": [
+        600.3,
+        95.5,
+        133.7,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "100%",
+      "bounds_pt": [
+        767.1,
+        95.5,
+        133.7,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "目标达成情况",
+      "bounds_pt": [
+        43.8,
+        130.7,
+        206.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "圆角矩形 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "目标达成",
+      "bounds_pt": [
+        57.6,
+        460.2,
+        118.2,
+        33.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "圆角矩形 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "成本降低",
+      "bounds_pt": [
+        189.3,
+        460.2,
+        118.2,
+        33.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "圆角矩形 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "项目落地",
+      "bounds_pt": [
+        355.2,
+        459.9,
+        118.2,
+        33.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "圆角矩形 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "风险降低",
+      "bounds_pt": [
+        486.9,
+        459.9,
+        118.2,
+        33.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "圆角矩形 45",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "技能提升",
+      "bounds_pt": [
+        652.8,
+        459.6,
+        118.2,
+        33.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "圆角矩形 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "创新方法",
+      "bounds_pt": [
+        784.4,
+        459.6,
+        118.2,
+        33.9
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 23,
+        "shape_name": "图片 22",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "new-template-red",
+  "status": "provisional",
+  "color_slots": {
+    "dk2": "3E0000",
+    "lt2": "FFFFFF",
+    "accent1": "930000",
+    "accent2": "AC2C00",
+    "accent3": "A64C0A",
+    "accent4": "D18755",
+    "accent5": "DAB67F",
+    "accent6": "FF9E73"
+  },
+  "semantic_roles": {
+    "primary": "accent1",
+    "secondary": "accent2",
+    "text_dark": "dk2",
+    "surface_light": "lt2"
+  },
+  "logo_color_policy": "locked; never recolor logo",
+  "object_binding_status": "pending per-object audit"
+}

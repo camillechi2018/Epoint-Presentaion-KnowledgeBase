@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "文本框 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜阶段工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 01",
+      "bounds_pt": [
+        178.3,
+        101.4,
+        209.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "启动规划",
+      "bounds_pt": [
+        178.3,
+        130.5,
+        209.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 258,
+      "source_sample_chars": 129,
+      "source_text": "明确项目目标：与相关方沟通确认项目的核心目标、预期成果和成功衡量标准，形成正式的项目章程文档，确保所有参与方对目标理解一致\n组建项目团队：根据项目需求选拔合适的核心成员，明确每个人的职责分工和汇报关系，组织召开项目启动会，确保团队成员对项目背景和目标充分理解",
+      "bounds_pt": [
+        435.3,
+        89.5,
+        475.4,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本框 8",
+      "type": "text",
+      "max_chars": 264,
+      "source_sample_chars": 132,
+      "source_text": "制定实施方案：设计详细的技术方案或业务方案，明确实现路径、核心方法和关键举措，组织相关部门进行方案评审，收集意见并优化完善。\n编制进度计划：将整体工作分解为具体可执行的任务项，设定关键里程碑节点，明确每项任务的起止时间、责任人和交付成果，形成详细的项目推进时间表。",
+      "bounds_pt": [
+        435.3,
+        196.0,
+        475.4,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 238,
+      "source_sample_chars": 119,
+      "source_text": "按计划推进实施：根据制定的时间表有序开展各项工作，建立日/周例会机制，及时跟进任务完成情况，确保各项工作按节点推进。\n过程问题解决：建立问题反馈和升级机制，及时识别执行过程中遇到的卡点和障碍，协调内外部资源快速解决，确保项目进度不受影响。",
+      "bounds_pt": [
+        435.3,
+        304.5,
+        475.4,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 230,
+      "source_sample_chars": 115,
+      "source_text": "成果验收确认：对照项目目标和交付标准逐项验收工作成果，收集相关方反馈意见，确保各项交付物质量符合预期要求。\n复盘总结归档：组织项目复盘会议，系统总结成功经验和改进点，输出项目总结报告，整理全过程资料并归档，为后续项目提供参考借鉴。",
+      "bounds_pt": [
+        435.3,
+        413.0,
+        475.4,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 02",
+      "bounds_pt": [
+        178.3,
+        209.4,
+        209.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "启动规划",
+      "bounds_pt": [
+        178.3,
+        238.5,
+        209.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 03",
+      "bounds_pt": [
+        178.3,
+        319.3,
+        209.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "启动规划",
+      "bounds_pt": [
+        178.3,
+        348.4,
+        209.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "STEP 04",
+      "bounds_pt": [
+        178.3,
+        429.2,
+        209.6,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "启动规划",
+      "bounds_pt": [
+        178.3,
+        458.3,
+        209.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_8",
+      "shape_id": 8,
+      "shape_name": "圆角矩形 6",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "工作管理的3个方案",
+      "bounds_pt": [
+        43.6,
+        82.4,
+        231.8,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "圆角矩形 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "生活管理的3个方案",
+      "bounds_pt": [
+        685.0,
+        82.4,
+        231.8,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 166,
+      "source_sample_chars": 83,
+      "source_text": "01.合理设定工作时间：\n采用“时间块”技术，将时间分段安排，避免工作时间过长导致精力消耗殆尽。\n定期评估自己的工作效率，调整工作安排避免因低效率导致无谓的工作堆积。",
+      "bounds_pt": [
+        57.8,
+        143.4,
+        203.4,
+        110.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 164,
+      "source_sample_chars": 82,
+      "source_text": "02.管理压力与情绪：\n在工作中出现压力时，学会深呼吸、短暂散步等放松技巧，及时缓解压力。\n定期自我反思，检视自己在工作中是否存在情绪积压，并采取有效方法进行调整。",
+      "bounds_pt": [
+        58.9,
+        265.5,
+        203.4,
+        110.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 144,
+      "source_sample_chars": 72,
+      "source_text": "03.持续学习和提升：\n制定个人职业发展规划，设定学习目标，不断提升自己的专业能力。\n及时评估自己职业发展的进展，进行必要的调整，避免停滞不前。",
+      "bounds_pt": [
+        58.9,
+        388.6,
+        203.4,
+        110.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "文本框 22",
+      "type": "text",
+      "max_chars": 160,
+      "source_sample_chars": 80,
+      "source_text": "01.培养兴趣爱好：\n利用假期时间探索新兴趣，拓宽个人的兴趣范围，减轻工作压力，提升幸福感。\n挑选自己感兴趣的活动，如运动、摄影、写作等，确保有充实的个人时间。",
+      "bounds_pt": [
+        699.2,
+        143.4,
+        203.4,
+        110.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "文本框 23",
+      "type": "text",
+      "max_chars": 142,
+      "source_sample_chars": 71,
+      "source_text": "02.保持健康生活方式：\n定期进行运动，如跑步、瑜伽、游泳等，增强体质，缓解工作压力。\n做好身体健康检查，定期监测身体状况，预防潜在健康问题。",
+      "bounds_pt": [
+        699.2,
+        265.5,
+        203.4,
+        110.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "文本框 24",
+      "type": "text",
+      "max_chars": 146,
+      "source_sample_chars": 73,
+      "source_text": "03.实践正念和冥想：\n在生活中注重自己的情绪变化，并通过冥想或深呼吸调整心情。\n通过正念训练提高自我意识，增强对压力源的理解，培养更积极的心态。",
+      "bounds_pt": [
+        699.2,
+        388.6,
+        203.4,
+        110.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "TextBox 161",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "工作\n管理",
+      "bounds_pt": [
+        345.6,
+        252.1,
+        112.9,
+        84.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "TextBox 161",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "生活\n管理",
+      "bounds_pt": [
+        502.1,
+        252.1,
+        112.9,
+        84.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "矩形: 圆角 4",
+      "type": "text",
+      "max_chars": 54,
+      "source_sample_chars": 27,
+      "source_text": "保持良好的工作与生活平衡能有效提升工作效率与生活质量。",
+      "bounds_pt": [
+        290.9,
+        82.4,
+        378.3,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "矩形: 圆角 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "合理安排，缓解压力",
+      "bounds_pt": [
+        291.2,
+        462.5,
+        175.4,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "矩形: 圆角 33",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "探索兴趣，注重情绪",
+      "bounds_pt": [
+        493.8,
+        462.5,
+        175.4,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "述职汇报｜工作与生活的平衡管理",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

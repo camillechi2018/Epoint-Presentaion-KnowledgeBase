@@ -1,0 +1,487 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "文本框 6",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜重点工作成果展示",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "Rectangle 30",
+      "type": "text",
+      "max_chars": 180,
+      "source_sample_chars": 90,
+      "source_text": "流程优化提速：完成五大核心业务流程再造，通过简化环节和标准化操作，平均处理时效提升40%。\n工具赋能增效：引入RPA和智能化工具，自动化处理重复性工作内容，有效释放30%人力资源。",
+      "bounds_pt": [
+        46.2,
+        132.8,
+        322.9,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "Rectangle 30",
+      "type": "text",
+      "max_chars": 168,
+      "source_sample_chars": 84,
+      "source_text": "预算管理精细：实施全面预算管理和动态成本控制，通过精细化管控实现运营成本降低15%。\n资源配置优化：建立了资源动态调配机制，通过共享和集中化管理资源整体利用率达90%。",
+      "bounds_pt": [
+        390.1,
+        132.4,
+        322.9,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "Rectangle 30",
+      "type": "text",
+      "max_chars": 184,
+      "source_sample_chars": 92,
+      "source_text": "体系构建完善：建立全渠道一体化客服体系，实现线上线下服务无缝衔接，问题一次性解决率达85%。\n监控机制健全：构建服务质量全流程监控体系，通过实时预警和快速响应，客户满意度提升至95%。",
+      "bounds_pt": [
+        46.2,
+        365.7,
+        322.9,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "Rectangle 30",
+      "type": "text",
+      "max_chars": 182,
+      "source_sample_chars": 91,
+      "source_text": "业务连续保障：建立完善的业务连续性管理机制，完成灾备系统建设和应急演练，确保业务零中断。\n信息安全强化：通过ISO27001信息安全认证，建立全方位安全防护体系，保障数据和系统安全。",
+      "bounds_pt": [
+        390.1,
+        365.4,
+        322.9,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "矩形: 圆角 101",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "运营效率显著提升",
+      "bounds_pt": [
+        54.6,
+        89.1,
+        314.5,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_109",
+      "shape_id": 109,
+      "shape_name": "矩形: 圆角 108",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "成本控制成效显著",
+      "bounds_pt": [
+        398.5,
+        89.1,
+        314.5,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_112",
+      "shape_id": 112,
+      "shape_name": "矩形: 圆角 111",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "服务质量持续优化",
+      "bounds_pt": [
+        54.6,
+        472.4,
+        314.5,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_115",
+      "shape_id": 115,
+      "shape_name": "矩形: 圆角 114",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "风控体系完善健全",
+      "bounds_pt": [
+        398.5,
+        472.4,
+        314.5,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_120",
+      "shape_id": 120,
+      "shape_name": "矩形 119",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "体系筑基",
+      "bounds_pt": [
+        766.3,
+        107.9,
+        131.6,
+        29.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_121",
+      "shape_id": 121,
+      "shape_name": "矩形 120",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "流程再造",
+      "bounds_pt": [
+        766.3,
+        144.2,
+        131.6,
+        29.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_122",
+      "shape_id": 122,
+      "shape_name": "矩形 121",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "技术赋能",
+      "bounds_pt": [
+        766.3,
+        180.4,
+        131.6,
+        29.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        337.7,
+        94.0,
+        30.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        338.2,
+        477.3,
+        30.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        681.6,
+        94.3,
+        30.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        681.7,
+        477.3,
+        30.3,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作成果01",
+      "bounds_pt": [
+        62.7,
+        273.0,
+        138.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "文本框 66",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "Work Achievement 01",
+      "bounds_pt": [
+        73.0,
+        303.1,
+        117.9,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "文本框 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作成果02",
+      "bounds_pt": [
+        233.8,
+        273.0,
+        138.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "Work Achievement 02",
+      "bounds_pt": [
+        244.1,
+        303.1,
+        117.9,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作成果03",
+      "bounds_pt": [
+        404.8,
+        273.0,
+        138.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "Work Achievement 03",
+      "bounds_pt": [
+        415.1,
+        303.1,
+        117.9,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "工作成果04",
+      "bounds_pt": [
+        575.9,
+        273.0,
+        138.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "Work Achievement 04",
+      "bounds_pt": [
+        586.1,
+        303.1,
+        117.9,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "文本框 78",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "成果总结",
+      "bounds_pt": [
+        778.5,
+        273.0,
+        110.0,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 46,
+      "source_sample_chars": 23,
+      "source_text": "Summary of Achievements",
+      "bounds_pt": [
+        762.3,
+        303.1,
+        142.4,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "矩形 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "数据驱动",
+      "bounds_pt": [
+        765.6,
+        382.4,
+        131.6,
+        29.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "矩形 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "质量跃升",
+      "bounds_pt": [
+        765.6,
+        418.7,
+        131.6,
+        29.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "矩形 27",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "效益倍增",
+      "bounds_pt": [
+        765.6,
+        455.0,
+        131.6,
+        29.6
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

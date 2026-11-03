@@ -1,0 +1,567 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "圆角矩形 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "第一季度总结",
+      "bounds_pt": [
+        527.9,
+        100.6,
+        95.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "圆角矩形 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "第二季度总结",
+      "bounds_pt": [
+        527.9,
+        185.7,
+        95.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "圆角矩形 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "第三季度总结",
+      "bounds_pt": [
+        527.9,
+        270.9,
+        95.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "圆角矩形 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "第四季度总结",
+      "bounds_pt": [
+        527.9,
+        356.0,
+        95.1,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "文本框 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "一月：战略规划定标",
+      "bounds_pt": [
+        47.7,
+        93.3,
+        140.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "文本框 12",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "制定年度战略目标体系及具体实施路径方案。",
+      "bounds_pt": [
+        47.7,
+        118.2,
+        140.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_16",
+      "shape_id": 16,
+      "shape_name": "文本框 15",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "二月：团队组建优化",
+      "bounds_pt": [
+        197.3,
+        93.3,
+        140.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "文本框 16",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "完成组织架构调整优化与核心人才配置工作。",
+      "bounds_pt": [
+        197.3,
+        118.2,
+        140.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "文本框 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "三月：流程标准建设",
+      "bounds_pt": [
+        346.8,
+        93.3,
+        140.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "文本框 19",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "建立健全各项业务流程标准化管理体系文件。",
+      "bounds_pt": [
+        346.8,
+        118.2,
+        140.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "文本框 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "四月：市场开拓布局",
+      "bounds_pt": [
+        47.7,
+        181.0,
+        140.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "文本框 62",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "全面推进新区域市场开发与渠道网络建设。",
+      "bounds_pt": [
+        47.7,
+        205.9,
+        140.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "文本框 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "五月：产品服务创新",
+      "bounds_pt": [
+        197.3,
+        181.0,
+        140.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "文本框 65",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "持续升级优化服务产品体系与客户解决方案。",
+      "bounds_pt": [
+        197.3,
+        205.9,
+        140.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "文本框 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "六月：中期复盘调整",
+      "bounds_pt": [
+        346.8,
+        181.0,
+        140.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "全面评估上半年工作成果并优化业务策略。",
+      "bounds_pt": [
+        346.8,
+        205.9,
+        140.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "文本框 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "七月：数字转型深化",
+      "bounds_pt": [
+        47.7,
+        268.7,
+        140.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "文本框 71",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "加快推进业务数字化转型与智能化服务升级。",
+      "bounds_pt": [
+        47.7,
+        293.6,
+        140.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "八月：客户关系深耕",
+      "bounds_pt": [
+        197.3,
+        268.7,
+        140.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "系统开展重点客户关系维护与价值深度挖掘。",
+      "bounds_pt": [
+        197.3,
+        293.6,
+        140.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "九月：运营效能提升",
+      "bounds_pt": [
+        346.8,
+        268.7,
+        140.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "全面实施精细化运营管理与效率提升措施。",
+      "bounds_pt": [
+        346.8,
+        293.6,
+        140.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "十月：年度目标冲刺",
+      "bounds_pt": [
+        47.7,
+        356.4,
+        140.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 40,
+      "source_sample_chars": 20,
+      "source_text": "全力推进各项年度业绩目标的最终达成工作。",
+      "bounds_pt": [
+        47.7,
+        381.3,
+        140.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "十一月：总结评估考核",
+      "bounds_pt": [
+        197.3,
+        356.4,
+        140.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_84",
+      "shape_id": 84,
+      "shape_name": "文本框 83",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 18,
+      "source_text": "系统开展全年工作总结与绩效考核评定。",
+      "bounds_pt": [
+        197.3,
+        381.3,
+        140.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_86",
+      "shape_id": 86,
+      "shape_name": "文本框 85",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "十二月：新年规划预算",
+      "bounds_pt": [
+        346.8,
+        356.4,
+        140.6,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "文本框 86",
+      "type": "text",
+      "max_chars": 38,
+      "source_sample_chars": 19,
+      "source_text": "全面制定下年度发展计划与财务预算方案。",
+      "bounds_pt": [
+        346.8,
+        381.3,
+        140.6,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_94",
+      "shape_id": 94,
+      "shape_name": "文本框 93",
+      "type": "text",
+      "max_chars": 128,
+      "source_sample_chars": 64,
+      "source_text": "本季度重点完成年度战略规划部署工作，建立完善的目标管理体系与执行标准，优化组织架构配置与资源分配方案为全年工作推进奠定坚实基础。",
+      "bounds_pt": [
+        630.0,
+        100.7,
+        266.3,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_95",
+      "shape_id": 95,
+      "shape_name": "文本框 94",
+      "type": "text",
+      "max_chars": 144,
+      "source_sample_chars": 72,
+      "source_text": "本季度重点推进业务市场拓展与服务产品创新工作，在保持主营业务稳定增长态势的同时，持续推进服务产品体系优化升级，为下半年业绩突破增长做好充分准备。",
+      "bounds_pt": [
+        630.0,
+        185.9,
+        266.3,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "文本框 95",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "本季度着力深化数字化转型与运营效能提升，通过精细化客户关系管理与服务质量优化，持续增强客户黏性与满意度，为年度目标冲刺储备充足动能。",
+      "bounds_pt": [
+        630.0,
+        271.0,
+        266.3,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "本季度全力推进年度目标冲刺与收官工作，系统完成全年工作总结评估与绩效考核，并基于本年度成果经验系统规划下一年度发展战略蓝图。",
+      "bounds_pt": [
+        630.0,
+        356.1,
+        266.3,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_99",
+      "shape_id": 99,
+      "shape_name": "文本框 98",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "通过细化每月工作重点和充实季度总结内容，既保持了规划的宏观视野，又增强了执行层面的指导性。",
+      "bounds_pt": [
+        55.6,
+        462.5,
+        848.7,
+        27.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "文本框 17",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜年度工作计划/总结",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 10,
+        "shape_name": "图片 9",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

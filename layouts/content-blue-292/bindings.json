@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "数据图｜近两年业绩数据分析",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "TextBox 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "2026年业绩数据分析",
+      "bounds_pt": [
+        462.8,
+        94.7,
+        448.9,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "Google Shape;515;p11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "1250000元",
+      "bounds_pt": [
+        522.7,
+        239.4,
+        135.6,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "Google Shape;513;p11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "290000元",
+      "bounds_pt": [
+        749.5,
+        239.4,
+        110.1,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "TextBox 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "350000元",
+      "bounds_pt": [
+        551.2,
+        301.1,
+        164.2,
+        47.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "TextBox 34",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "营收额较2025年增长",
+      "bounds_pt": [
+        571.8,
+        267.6,
+        186.9,
+        29.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "文本框 26",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "2026年业绩数据（单位：百万元）",
+      "bounds_pt": [
+        52.6,
+        103.9,
+        219.1,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "营收",
+      "bounds_pt": [
+        340.1,
+        108.3,
+        34.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "成本",
+      "bounds_pt": [
+        394.3,
+        107.9,
+        34.5,
+        19.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "年度营收总额",
+      "bounds_pt": [
+        522.7,
+        219.0,
+        85.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "年度成本总额",
+      "bounds_pt": [
+        749.5,
+        220.0,
+        85.7,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 168,
+      "source_sample_chars": 84,
+      "source_text": "2026年全年营收达125万元，成本支出29万元，实现利润96万元，利润率高达76.8%。成本控制成效显著，成本率控制在23.2%的较低水平，为利润增长提供了充足空间。",
+      "bounds_pt": [
+        462.8,
+        125.2,
+        448.9,
+        41.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 252,
+      "source_sample_chars": 126,
+      "source_text": "2026年全年营收125万元，较2025年增长35万元，增幅达38.9%。从增长结构看营收增量主要得益于下半年市场拓展力度加大及核心产品销量提升。在营收大幅增长的同时，成本控制在29万元，成本率从2025年的约28%下降至23.2%，盈利能力显著增强。",
+      "bounds_pt": [
+        462.8,
+        423.9,
+        448.9,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [
+      {
+        "shape_id": 8,
+        "shape_name": "Chart 25",
+        "categories_max": 8,
+        "series_max": 4
+      }
+    ],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "箭头: 五边形 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一阶段",
+      "bounds_pt": [
+        43.2,
+        471.3,
+        172.6,
+        32.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "箭头: V 形 13",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二阶段",
+      "bounds_pt": [
+        220.4,
+        471.3,
+        172.6,
+        32.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "任意多边形: 形状 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第三阶段",
+      "bounds_pt": [
+        397.6,
+        471.3,
+        349.2,
+        32.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "箭头: V 形 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第四阶段",
+      "bounds_pt": [
+        752.0,
+        471.3,
+        172.3,
+        32.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "矩形 22",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "项目启动与规划",
+      "bounds_pt": [
+        43.2,
+        183.2,
+        165.1,
+        50.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "矩形 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "执行与监控阶段",
+      "bounds_pt": [
+        220.3,
+        183.2,
+        165.1,
+        50.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "任意多边形: 形状 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "问题解决与风险管理",
+      "bounds_pt": [
+        397.5,
+        183.2,
+        342.2,
+        50.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "矩形 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "项目收尾与评估",
+      "bounds_pt": [
+        751.7,
+        183.2,
+        165.1,
+        50.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "资源分配与团队组建：根据项目需求，分配合适的资源并组建一个跨职能团队。\n制定详细计划：制定项目时间表、明确每个阶段的关键点与进度要求。",
+      "bounds_pt": [
+        53.5,
+        256.0,
+        143.5,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 146,
+      "source_sample_chars": 73,
+      "source_text": "任务执行与协调：团队开始按计划执行各项任务，确保各项工作按照既定时间进行。\n进度监控与调整：通过定期的进度检查、团队会议等方式，确保项目按时推进。",
+      "bounds_pt": [
+        230.9,
+        256.4,
+        143.5,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 300,
+      "source_sample_chars": 150,
+      "source_text": "识别和评估风险：通过不断的分析和评估，识别潜在风险。对可能影响项目进度和质量的风险因素进行详细分析。\n制定应对策略：根据风险的类型和严重程度，制定相应的应对策略，例如资源调配、调整进度、优化流程等。\n及时解决项目中的问题：如果在执行过程中出现问题，项目经理应立即采取措施解决，确保项目不受到过多影响。",
+      "bounds_pt": [
+        408.3,
+        256.8,
+        320.8,
+        134.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 144,
+      "source_sample_chars": 72,
+      "source_text": "项目交付与验收：按照合同或项目要求交付成果，并进行验收，确保项目目标已实现。\n项目总结与反思：对整个项目过程进行总结，分析成功经验和存在的问题。",
+      "bounds_pt": [
+        763.0,
+        257.6,
+        143.5,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "必须要明确项目的具体目标、交付成果和效果。",
+      "bounds_pt": [
+        61.8,
+        400.5,
+        129.6,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 42,
+      "source_sample_chars": 21,
+      "source_text": "定期与项目团队沟通，报告项目进展等问题等。",
+      "bounds_pt": [
+        238.1,
+        400.5,
+        129.6,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 106,
+      "source_sample_chars": 53,
+      "source_text": "采用概率-影响矩阵，可以将风险分为“高优先级风险”和“低优先级风险”，并将资源集中在高优先级的风险管理上。",
+      "bounds_pt": [
+        416.1,
+        402.4,
+        304.9,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 18,
+      "source_text": "评估项目中存在的不足之处，总结经验。",
+      "bounds_pt": [
+        770.2,
+        400.5,
+        129.6,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "流程图｜项目推进流程",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

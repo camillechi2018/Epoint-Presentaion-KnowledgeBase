@@ -1,0 +1,551 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "全年销售额达500万元，完成率120%，同比增长25%。\n核心产品市场占有率提升至18%。",
+      "bounds_pt": [
+        246.2,
+        292.6,
+        168.6,
+        59.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "主导的系列品牌营销活动，总曝光量超5000万。\n成功举办行业高峰论坛，吸引了300+核心客户。",
+      "bounds_pt": [
+        415.2,
+        276.2,
+        166.3,
+        76.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_132",
+      "shape_id": 132,
+      "shape_name": "文本框 131",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "核心业务指标实现跨越式增长",
+      "bounds_pt": [
+        248.3,
+        100.4,
+        198.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_133",
+      "shape_id": 133,
+      "shape_name": "文本框 132",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "市场品牌影响力大幅提升",
+      "bounds_pt": [
+        248.3,
+        201.2,
+        170.0,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_134",
+      "shape_id": 134,
+      "shape_name": "文本框 133",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "销售体系与渠道建设日趋完善",
+      "bounds_pt": [
+        248.3,
+        151.3,
+        198.3,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_135",
+      "shape_id": 135,
+      "shape_name": "文本框 134",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "营销创新取得突破",
+      "bounds_pt": [
+        248.3,
+        251.0,
+        127.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "矩形: 圆角 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "销售额超额完成",
+      "bounds_pt": [
+        267.6,
+        405.5,
+        136.2,
+        23.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_58",
+      "shape_id": 58,
+      "shape_name": "矩形: 圆角 57",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "占有率稳步提升",
+      "bounds_pt": [
+        267.6,
+        433.4,
+        136.2,
+        23.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "矩形: 圆角 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "新市场成功开拓",
+      "bounds_pt": [
+        267.6,
+        461.3,
+        136.2,
+        23.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "矩形: 圆角 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "营销活动出彩",
+      "bounds_pt": [
+        431.9,
+        405.5,
+        136.2,
+        23.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "矩形: 圆角 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "行业论坛成功",
+      "bounds_pt": [
+        431.9,
+        433.4,
+        136.2,
+        23.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "矩形: 圆角 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "内容运营高效",
+      "bounds_pt": [
+        431.9,
+        461.3,
+        136.2,
+        23.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "矩形: 圆角 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "激励方法生效",
+      "bounds_pt": [
+        596.2,
+        405.5,
+        136.2,
+        23.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "矩形: 圆角 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "渠道拓展顺利",
+      "bounds_pt": [
+        596.2,
+        433.4,
+        136.2,
+        23.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "矩形: 圆角 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "赋能中台建成",
+      "bounds_pt": [
+        596.2,
+        461.3,
+        136.2,
+        23.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "矩形: 圆角 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "获客成本降低",
+      "bounds_pt": [
+        760.6,
+        405.5,
+        136.2,
+        23.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "矩形: 圆角 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "私域运营突破",
+      "bounds_pt": [
+        760.6,
+        433.4,
+        136.2,
+        23.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "矩形: 圆角 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "线索转化提升",
+      "bounds_pt": [
+        760.6,
+        461.3,
+        136.2,
+        23.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "文本框 72",
+      "type": "text",
+      "max_chars": 170,
+      "source_sample_chars": 85,
+      "source_text": "重构了销售激励方法，有效激发团队活力，人均单产提升15%。\n新增5家核心渠道合作伙伴，并完成了对现有渠道的赋能与优化。\n搭建的销售赋能中台，为一线团队提供了强有力的支持。",
+      "bounds_pt": [
+        581.9,
+        238.5,
+        167.4,
+        114.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_74",
+      "shape_id": 74,
+      "shape_name": "文本框 73",
+      "type": "text",
+      "max_chars": 214,
+      "source_sample_chars": 107,
+      "source_text": "建立营销ROI分析体系，优化了投放策略，使获客成本降低20%。\n成功试点了私域流量运营模式，首期沉淀高价值用户5000人，转化率超过10%。\n引入了营销自动化工具，实现了潜在客户的精细化培育，线索转化率提升25%。",
+      "bounds_pt": [
+        749.7,
+        205.7,
+        169.3,
+        146.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "矩形: 圆角 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "2026年销售额",
+      "bounds_pt": [
+        60.2,
+        102.6,
+        147.4,
+        26.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_143",
+      "shape_id": 143,
+      "shape_name": "矩形: 圆角 142",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "总曝光量",
+      "bounds_pt": [
+        60.2,
+        202.9,
+        147.4,
+        26.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_144",
+      "shape_id": 144,
+      "shape_name": "矩形: 圆角 143",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "核心渠道合作伙伴",
+      "bounds_pt": [
+        60.2,
+        303.1,
+        147.4,
+        26.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_145",
+      "shape_id": 145,
+      "shape_name": "矩形: 圆角 144",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "高价值用户",
+      "bounds_pt": [
+        60.2,
+        403.4,
+        147.4,
+        26.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "关键成果",
+      "bounds_pt": [
+        274.7,
+        379.2,
+        62.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_146",
+      "shape_id": 146,
+      "shape_name": "文本框 145",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "关键成果",
+      "bounds_pt": [
+        439.1,
+        379.2,
+        63.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_147",
+      "shape_id": 147,
+      "shape_name": "文本框 146",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "关键成果",
+      "bounds_pt": [
+        603.5,
+        379.2,
+        63.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_148",
+      "shape_id": 148,
+      "shape_name": "文本框 147",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "关键成果",
+      "bounds_pt": [
+        767.8,
+        379.2,
+        63.0,
+        21.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "文本框 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "500万元",
+      "bounds_pt": [
+        63.2,
+        138.5,
+        144.4,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "5000万+",
+      "bounds_pt": [
+        63.2,
+        239.2,
+        144.4,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 3,
+      "source_text": "25家",
+      "bounds_pt": [
+        63.2,
+        339.8,
+        144.4,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "5000人",
+      "bounds_pt": [
+        63.2,
+        440.4,
+        144.4,
+        41.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本框 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 11,
+      "source_text": "述职汇报｜工作成果展示",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

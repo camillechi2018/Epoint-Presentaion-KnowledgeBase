@@ -1,0 +1,567 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_120",
+      "shape_id": 120,
+      "shape_name": "文本框 119",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "提升沟通协作能力",
+      "bounds_pt": [
+        161.1,
+        470.0,
+        171.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_121",
+      "shape_id": 121,
+      "shape_name": "文本框 120",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "提升时间管理能力",
+      "bounds_pt": [
+        355.5,
+        470.3,
+        171.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_122",
+      "shape_id": 122,
+      "shape_name": "文本框 121",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "提升个人专业技能",
+      "bounds_pt": [
+        550.0,
+        470.3,
+        171.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_123",
+      "shape_id": 123,
+      "shape_name": "文本框 122",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "提升心理抗压能力",
+      "bounds_pt": [
+        744.4,
+        470.0,
+        171.4,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜不足之处与改进方案",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "任意多边形: 形状 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "效率低下",
+      "bounds_pt": [
+        60.2,
+        211.0,
+        72.5,
+        21.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "任意多边形: 形状 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "沟通不足",
+      "bounds_pt": [
+        143.5,
+        211.0,
+        72.5,
+        21.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "任意多边形: 形状 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "执行偏差",
+      "bounds_pt": [
+        226.7,
+        211.0,
+        72.5,
+        21.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "任意多边形: 形状 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "不足之处01",
+      "bounds_pt": [
+        43.5,
+        82.5,
+        270.1,
+        38.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "任意多边形: 形状 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "不足之处02",
+      "bounds_pt": [
+        43.5,
+        243.9,
+        270.1,
+        38.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "任意多边形: 形状 49",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "改进之处01",
+      "bounds_pt": [
+        646.4,
+        82.5,
+        270.1,
+        38.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "任意多边形: 形状 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "改进之处02",
+      "bounds_pt": [
+        646.4,
+        243.9,
+        270.1,
+        38.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "任意多边形: 形状 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "无优先级",
+      "bounds_pt": [
+        60.2,
+        371.7,
+        72.5,
+        21.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_79",
+      "shape_id": 79,
+      "shape_name": "任意多边形: 形状 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "质量低下",
+      "bounds_pt": [
+        143.5,
+        371.7,
+        72.5,
+        21.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "任意多边形: 形状 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "失去判断",
+      "bounds_pt": [
+        226.7,
+        371.7,
+        72.5,
+        21.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_87",
+      "shape_id": 87,
+      "shape_name": "任意多边形: 形状 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "信息共享",
+      "bounds_pt": [
+        663.1,
+        211.0,
+        72.5,
+        21.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_88",
+      "shape_id": 88,
+      "shape_name": "任意多边形: 形状 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "主动反馈",
+      "bounds_pt": [
+        746.3,
+        211.0,
+        72.5,
+        21.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_89",
+      "shape_id": 89,
+      "shape_name": "任意多边形: 形状 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "清楚进度",
+      "bounds_pt": [
+        829.6,
+        211.0,
+        72.5,
+        21.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_96",
+      "shape_id": 96,
+      "shape_name": "任意多边形: 形状 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "使用工具",
+      "bounds_pt": [
+        663.5,
+        372.1,
+        72.5,
+        21.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "任意多边形: 形状 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "重点优先",
+      "bounds_pt": [
+        746.8,
+        372.1,
+        72.5,
+        21.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_98",
+      "shape_id": 98,
+      "shape_name": "任意多边形: 形状 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "高效完成",
+      "bounds_pt": [
+        830.0,
+        372.1,
+        72.5,
+        21.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "不足之处",
+      "bounds_pt": [
+        359.8,
+        225.8,
+        96.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_90",
+      "shape_id": 90,
+      "shape_name": "文本框 89",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "改进方案",
+      "bounds_pt": [
+        504.2,
+        225.8,
+        96.2,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_100",
+      "shape_id": 100,
+      "shape_name": "文本框 99",
+      "type": "text",
+      "max_chars": 138,
+      "source_sample_chars": 69,
+      "source_text": "信息传递滞后：沟通不足导致信息传递不及时，影响了项目进度和决策效率。\n主动性不足：未能主动与相关人员保持沟通，部分任务出现误解或执行偏差。",
+      "bounds_pt": [
+        60.2,
+        124.4,
+        239.0,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_101",
+      "shape_id": 101,
+      "shape_name": "文本框 100",
+      "type": "text",
+      "max_chars": 154,
+      "source_sample_chars": 77,
+      "source_text": "任务堆积：在工作安排上未能合理分配时间，导致部分任务积压，完成质量受到影响。\n优先级判断失误：在面对多个紧急任务时，缺乏有效的优先级判断，影响了工作效率。",
+      "bounds_pt": [
+        60.2,
+        284.5,
+        239.0,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_102",
+      "shape_id": 102,
+      "shape_name": "文本框 101",
+      "type": "text",
+      "max_chars": 144,
+      "source_sample_chars": 72,
+      "source_text": "定期沟通会议：定期组织团队沟通会议，确保信息及时更新并共享。\n主动寻求反馈：主动寻求反馈，及时调整计划，确保每位成员都能清楚了解任务目标与进度。",
+      "bounds_pt": [
+        663.1,
+        123.9,
+        239.0,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_103",
+      "shape_id": 103,
+      "shape_name": "文本框 102",
+      "type": "text",
+      "max_chars": 144,
+      "source_sample_chars": 72,
+      "source_text": "合理分配时间：使用时间管理工具，明确每天的工作计划与优先级，避免任务堆积。\n优化任务排序：对重要任务提前安排，避免拖延确保各项工作按时高效完成。",
+      "bounds_pt": [
+        663.1,
+        284.0,
+        239.0,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_119",
+      "shape_id": 119,
+      "shape_name": "文本框 118",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "明年\n计划",
+      "bounds_pt": [
+        76.5,
+        433.2,
+        56.6,
+        55.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "椭圆 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "1",
+      "bounds_pt": [
+        233.0,
+        432.3,
+        27.7,
+        27.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "椭圆 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "2",
+      "bounds_pt": [
+        427.4,
+        432.3,
+        27.7,
+        27.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "椭圆 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "3",
+      "bounds_pt": [
+        621.9,
+        432.3,
+        27.7,
+        27.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "椭圆 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 1,
+      "source_text": "4",
+      "bounds_pt": [
+        816.3,
+        433.0,
+        27.7,
+        27.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "任意形状 11",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "团队层面",
+      "bounds_pt": [
+        321.5,
+        82.5,
+        316.4,
+        38.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_13",
+      "shape_id": 13,
+      "shape_name": "任意形状 12",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "个人层面",
+      "bounds_pt": [
+        322.1,
+        359.9,
+        316.4,
+        38.8
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 11,
+        "shape_name": "图片 10",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

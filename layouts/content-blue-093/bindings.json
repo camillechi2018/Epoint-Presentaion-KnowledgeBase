@@ -1,0 +1,423 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "五边形 18",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "01.竞争能力",
+      "bounds_pt": [
+        43.2,
+        170.2,
+        228.1,
+        58.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "燕尾形 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "02.运营效率",
+      "bounds_pt": [
+        264.8,
+        170.2,
+        228.1,
+        58.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_59",
+      "shape_id": 59,
+      "shape_name": "矩形: 圆角 58",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "优化流程",
+      "bounds_pt": [
+        62.5,
+        468.7,
+        82.6,
+        25.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_60",
+      "shape_id": 60,
+      "shape_name": "矩形: 圆角 59",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "提高协作",
+      "bounds_pt": [
+        153.4,
+        468.6,
+        82.6,
+        25.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_63",
+      "shape_id": 63,
+      "shape_name": "矩形: 圆角 62",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "智能工具",
+      "bounds_pt": [
+        284.0,
+        468.7,
+        82.6,
+        25.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_64",
+      "shape_id": 64,
+      "shape_name": "矩形: 圆角 63",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "生产效率",
+      "bounds_pt": [
+        374.9,
+        468.6,
+        82.6,
+        25.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "矩形: 圆角 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "数据分析",
+      "bounds_pt": [
+        505.5,
+        468.7,
+        82.6,
+        25.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "矩形: 圆角 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "国际市场",
+      "bounds_pt": [
+        596.4,
+        468.6,
+        82.6,
+        25.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "矩形: 圆角 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "绿色供应",
+      "bounds_pt": [
+        727.0,
+        468.7,
+        82.6,
+        25.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "矩形: 圆角 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "福利体系",
+      "bounds_pt": [
+        817.9,
+        468.6,
+        82.6,
+        25.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_75",
+      "shape_id": 75,
+      "shape_name": "文本框 74",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "优化工作流程：通过分析当前流程中的低效环节，流程优化，减少不必要的步骤，提高整体工作效率。",
+      "bounds_pt": [
+        57.5,
+        305.8,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_80",
+      "shape_id": 80,
+      "shape_name": "文本框 79",
+      "type": "text",
+      "max_chars": 82,
+      "source_sample_chars": 41,
+      "source_text": "加强团队协作：定期召开会议，促进信息共享，确保成员都能了解项目进展，提高协作效果。",
+      "bounds_pt": [
+        57.5,
+        370.0,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_76",
+      "shape_id": 76,
+      "shape_name": "文本框 75",
+      "type": "text",
+      "max_chars": 80,
+      "source_sample_chars": 40,
+      "source_text": "实施智能化管理系统：引入智能化工具，通过数据分析优化决策过程，提升整体运营效能。",
+      "bounds_pt": [
+        279.1,
+        305.8,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_81",
+      "shape_id": 81,
+      "shape_name": "文本框 80",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "流程优化与精益生产：深入分析现有业务流程，减少冗余环节和浪费，提高生产效率和客户响应速度。",
+      "bounds_pt": [
+        279.1,
+        370.0,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_77",
+      "shape_id": 77,
+      "shape_name": "文本框 76",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "加强客户数据分析：通过大数据分析客户行为和需求，为不同客户群体定制个性化的服务或产品。",
+      "bounds_pt": [
+        500.6,
+        305.8,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_82",
+      "shape_id": 82,
+      "shape_name": "文本框 81",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "拓展海外市场：积极开拓国际市场或新的垂直行业，进一步提升品牌的国际影响力和市场占有率。",
+      "bounds_pt": [
+        500.6,
+        370.0,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_78",
+      "shape_id": 78,
+      "shape_name": "文本框 77",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "环保措施与绿色供应链：推动绿色供应链建设，与供应商共同优化生产流程，确保产品的环境友好性。",
+      "bounds_pt": [
+        722.2,
+        305.8,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_83",
+      "shape_id": 83,
+      "shape_name": "文本框 82",
+      "type": "text",
+      "max_chars": 78,
+      "source_sample_chars": 39,
+      "source_text": "社会公益与员工关怀：为员工提供更全面的福利体系，提升员工的整体幸福感和归属感。",
+      "bounds_pt": [
+        722.2,
+        370.0,
+        180.3,
+        60.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "矩形: 圆角 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "提升核心竞争力",
+      "bounds_pt": [
+        66.5,
+        266.1,
+        162.2,
+        27.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_61",
+      "shape_id": 61,
+      "shape_name": "矩形: 圆角 60",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "优化运营效率",
+      "bounds_pt": [
+        288.1,
+        266.1,
+        162.2,
+        27.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "矩形: 圆角 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "提升服务质量",
+      "bounds_pt": [
+        509.7,
+        266.1,
+        162.2,
+        27.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_65",
+      "shape_id": 65,
+      "shape_name": "矩形: 圆角 64",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "绿色持续发展",
+      "bounds_pt": [
+        731.3,
+        266.1,
+        162.2,
+        27.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 26,
+      "source_sample_chars": 13,
+      "source_text": "述职汇报｜年度核心工作任务",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "燕尾形 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "03.客户关系",
+      "bounds_pt": [
+        486.1,
+        169.9,
+        228.1,
+        58.0
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "燕尾形 5",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "04.持续发展",
+      "bounds_pt": [
+        707.7,
+        169.9,
+        228.1,
+        58.0
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

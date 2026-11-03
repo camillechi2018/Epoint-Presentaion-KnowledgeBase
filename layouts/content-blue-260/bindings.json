@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "TextBox 47",
+      "type": "text",
+      "max_chars": 186,
+      "source_sample_chars": 93,
+      "source_text": "明确目标方向：与相关方充分沟通，确认本次工作的核心目标、预期成果和成功衡量标准，确保方向清晰。\n统一团队认知：组织启动会议，向全体成员传达工作背景和目标，确保每个人理解自己的角色和职责。",
+      "bounds_pt": [
+        59.1,
+        167.1,
+        268.7,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "圆角矩形 21",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "启动与共识",
+      "bounds_pt": [
+        59.6,
+        103.6,
+        268.7,
+        35.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_18",
+      "shape_id": 18,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        371.3,
+        272.0,
+        91.7,
+        40.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_19",
+      "shape_id": 19,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "02",
+      "bounds_pt": [
+        497.3,
+        271.4,
+        91.7,
+        40.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "04",
+      "bounds_pt": [
+        371.3,
+        334.2,
+        91.7,
+        40.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_28",
+      "shape_id": 28,
+      "shape_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 2,
+      "source_text": "03",
+      "bounds_pt": [
+        497.3,
+        333.7,
+        91.7,
+        40.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_29",
+      "shape_id": 29,
+      "shape_name": "TextBox 47",
+      "type": "text",
+      "max_chars": 186,
+      "source_sample_chars": 93,
+      "source_text": "制定执行方案：设计详细的工作路径和方法，明确各环节的操作步骤和技术要求，形成可执行的方案文档。\n分解任务清单：将整体工作拆解为具体可落地的任务项明确每项任务的负责人、交付成果和时间节点。",
+      "bounds_pt": [
+        638.1,
+        167.1,
+        264.3,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "圆角矩形 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "规划与分解",
+      "bounds_pt": [
+        628.4,
+        103.6,
+        268.7,
+        35.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_34",
+      "shape_id": 34,
+      "shape_name": "TextBox 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "规划与分解",
+      "bounds_pt": [
+        603.2,
+        5.3,
+        159.5,
+        25.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "TextBox 47",
+      "type": "text",
+      "max_chars": 184,
+      "source_sample_chars": 92,
+      "source_text": "成果验收评估：对照初始目标逐项验收工作成果，收集相关方反馈，全面评估目标达成情况和完成质量。\n经验复盘归档：组织复盘会议系统总结成功经验和改进点，整理全过程资料，形成知识资产归档留存。",
+      "bounds_pt": [
+        59.1,
+        383.8,
+        268.7,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "圆角矩形 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "总结与沉淀",
+      "bounds_pt": [
+        59.6,
+        320.3,
+        268.7,
+        35.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "TextBox 47",
+      "type": "text",
+      "max_chars": 180,
+      "source_sample_chars": 90,
+      "source_text": "按计划推进：根据任务清单和时间安排有序开展工作，建立定期复盘机制，确保各项工作按节点推进。\n动态调整优化：密切跟踪执行过程中的进展和问题，遇到偏差及时调整策略，灵活应对变化和挑战。",
+      "bounds_pt": [
+        638.2,
+        383.8,
+        263.4,
+        88.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "圆角矩形 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "执行与管控",
+      "bounds_pt": [
+        628.4,
+        320.3,
+        268.7,
+        35.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "文本框 9",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "流程图｜活动策划推进流程",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 6,
+        "shape_name": "图片 5",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

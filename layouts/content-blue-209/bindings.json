@@ -1,0 +1,455 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "矩形: 圆角 1",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "产品设计开发",
+      "bounds_pt": [
+        43.2,
+        82.2,
+        51.4,
+        205.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_17",
+      "shape_id": 17,
+      "shape_name": "矩形: 圆角 16",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "市场推广活动",
+      "bounds_pt": [
+        43.2,
+        298.8,
+        51.4,
+        205.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "矩形: 圆角 4",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一季度",
+      "bounds_pt": [
+        116.7,
+        86.8,
+        137.6,
+        33.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "矩形: 圆角 19",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二季度",
+      "bounds_pt": [
+        318.5,
+        86.8,
+        137.6,
+        33.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "矩形: 圆角 20",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第三季度",
+      "bounds_pt": [
+        520.2,
+        86.8,
+        137.6,
+        33.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_62",
+      "shape_id": 62,
+      "shape_name": "矩形: 圆角 61",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第四季度",
+      "bounds_pt": [
+        721.9,
+        86.8,
+        137.6,
+        33.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "矩形: 圆角 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第一季度",
+      "bounds_pt": [
+        116.7,
+        298.8,
+        137.6,
+        33.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "矩形: 圆角 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第二季度",
+      "bounds_pt": [
+        318.5,
+        298.8,
+        137.6,
+        33.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "矩形: 圆角 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第三季度",
+      "bounds_pt": [
+        520.2,
+        298.8,
+        137.6,
+        33.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "矩形: 圆角 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "第四季度",
+      "bounds_pt": [
+        721.9,
+        298.8,
+        137.6,
+        33.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "市场调研与产品规划",
+      "bounds_pt": [
+        116.7,
+        130.6,
+        170.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "市场调研：分析市场需求和竞争对手，收集用户反馈。\n用户访谈：与潜在用户交流了解他们的痛点。\n产品规划：确定产品定位和功能和开发时间表。",
+      "bounds_pt": [
+        116.7,
+        154.5,
+        170.6,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_36",
+      "shape_id": 36,
+      "shape_name": "文本框 35",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "产品开发与市场预热",
+      "bounds_pt": [
+        318.5,
+        130.6,
+        170.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_37",
+      "shape_id": 37,
+      "shape_name": "文本框 36",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "产品开发：开发产品核心功能，进行初步测试。\n内测与反馈：小范围内测，修复问题并优化体验。\n市场预热：启动线上广告推广和社交媒体宣传。",
+      "bounds_pt": [
+        318.5,
+        154.5,
+        170.6,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "产品优化与小量生产",
+      "bounds_pt": [
+        520.2,
+        130.6,
+        170.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 136,
+      "source_sample_chars": 68,
+      "source_text": "功能优化：根据测试反馈修复bug并优化产品。\n生产准备：确认生产流程，准备小批量生产。\n用户培训：提供使用手册和视频教程，帮助用户上手。",
+      "bounds_pt": [
+        520.2,
+        154.5,
+        170.6,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "产品发布与客户支持",
+      "bounds_pt": [
+        721.9,
+        130.6,
+        170.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 122,
+      "source_sample_chars": 61,
+      "source_text": "正式发布：在平台上线产品，举办发布会。\n促销活动：推出活动促销，吸引用户购买。\n售后支持：提供24小时客服服务和技术支持。",
+      "bounds_pt": [
+        721.9,
+        154.5,
+        170.6,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "市场分析与品牌定位",
+      "bounds_pt": [
+        116.7,
+        342.6,
+        170.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 152,
+      "source_sample_chars": 76,
+      "source_text": "市场调研：了解市场趋势和竞争环境，进行市场分析。\n品牌定位：明确品牌价值和目标受众，提升品牌目标。\n设计品牌材料：制作统一的品牌宣传材料，优化视觉设计。",
+      "bounds_pt": [
+        116.7,
+        366.5,
+        170.6,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "广告投放与线下活动",
+      "bounds_pt": [
+        318.5,
+        342.6,
+        170.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 148,
+      "source_sample_chars": 74,
+      "source_text": "广告策略：在不同社交网络平台投放广告，制定预算。\nKOL合作：与KOL合作，提高品牌曝光和知名度。\n线下活动：组织展会和线下体验活动，增加品牌互动。",
+      "bounds_pt": [
+        318.5,
+        366.5,
+        170.6,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "合作拓展与客户调研",
+      "bounds_pt": [
+        520.2,
+        342.6,
+        170.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 142,
+      "source_sample_chars": 71,
+      "source_text": "合作伙伴拓展：寻找新的行业合作伙伴，共同营销。\n客户调查：收集客户反馈，识别改进空间，提升客户满意度。\n市场分析：优化调整策略，确保营销效果。",
+      "bounds_pt": [
+        520.2,
+        366.5,
+        170.6,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "节庆促销与年终总结",
+      "bounds_pt": [
+        721.9,
+        342.6,
+        170.6,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "节庆促销：策划节假日促销活动提高产品销售。\n会员激励：推出会员专享优惠，增强客户粘性。\n年终总结：评估市场活动效果，制定下一年计划。",
+      "bounds_pt": [
+        721.9,
+        366.5,
+        170.6,
+        124.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_3",
+      "shape_id": 3,
+      "shape_name": "文本框 2",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "时间轴｜季度工作计划",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 7,
+        "shape_name": "图片 6",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

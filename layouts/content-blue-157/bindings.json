@@ -1,0 +1,455 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 28,
+      "source_sample_chars": 14,
+      "source_text": "述职汇报｜下半年工作任务计划",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_20",
+      "shape_id": 20,
+      "shape_name": "任意多边形: 形状 19",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "2026年7月-2026年8月",
+      "bounds_pt": [
+        43.5,
+        473.9,
+        218.3,
+        29.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_23",
+      "shape_id": 23,
+      "shape_name": "任意多边形: 形状 22",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "2026年11月-2026年12月",
+      "bounds_pt": [
+        698.3,
+        473.9,
+        218.3,
+        29.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_24",
+      "shape_id": 24,
+      "shape_name": "任意多边形: 形状 23",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "工作任务一",
+      "bounds_pt": [
+        43.5,
+        181.1,
+        218.3,
+        50.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "任意多边形: 形状 24",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "工作任务二",
+      "bounds_pt": [
+        261.7,
+        181.1,
+        218.3,
+        50.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_26",
+      "shape_id": 26,
+      "shape_name": "任意多边形: 形状 25",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "工作任务三",
+      "bounds_pt": [
+        480.0,
+        181.1,
+        218.3,
+        50.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_27",
+      "shape_id": 27,
+      "shape_name": "任意多边形: 形状 26",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "工作任务四",
+      "bounds_pt": [
+        698.3,
+        181.1,
+        218.3,
+        50.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_21",
+      "shape_id": 21,
+      "shape_name": "任意多边形: 形状 20",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "2026年7月-2026年9月",
+      "bounds_pt": [
+        261.7,
+        473.9,
+        218.3,
+        29.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_22",
+      "shape_id": 22,
+      "shape_name": "任意多边形: 形状 21",
+      "type": "text",
+      "max_chars": 34,
+      "source_sample_chars": 17,
+      "source_text": "2026年10月-2026年11月",
+      "bounds_pt": [
+        480.0,
+        473.9,
+        218.3,
+        29.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "第三季度工作任务计划",
+      "bounds_pt": [
+        112.8,
+        104.1,
+        320.8,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "文本框 32",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 10,
+      "source_text": "第四季度工作任务计划",
+      "bounds_pt": [
+        526.6,
+        103.7,
+        320.8,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 60,
+      "source_sample_chars": 30,
+      "source_text": "任务：优化财务预算流程，确保各部门预算执行的合规性与高效性。",
+      "bounds_pt": [
+        56.4,
+        272.8,
+        192.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "矩形: 圆角 3",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "完善财务管理",
+      "bounds_pt": [
+        56.4,
+        243.9,
+        192.6,
+        22.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 138,
+      "source_sample_chars": 69,
+      "source_text": "调整预算安排：分析上半年财务数据，调整下半年预算分配，避免资金浪费。\n定期财务评估：建立财务报告机制，定期评估预算执行情况，及时调整策略。",
+      "bounds_pt": [
+        56.4,
+        356.3,
+        192.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "矩形: 圆角 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体措施",
+      "bounds_pt": [
+        56.4,
+        324.7,
+        192.6,
+        22.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 64,
+      "source_sample_chars": 32,
+      "source_text": "任务：提升服务质量，收集反馈，提升客户的满意度，增加客户忠诚度。",
+      "bounds_pt": [
+        274.6,
+        272.8,
+        192.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "矩形: 圆角 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "加强客户管理",
+      "bounds_pt": [
+        274.6,
+        243.9,
+        192.6,
+        22.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 136,
+      "source_sample_chars": 68,
+      "source_text": "客户反馈机制：建立完善的反馈渠道，定期收集客户意见，解决客户问题。\n售后服务优化：通过培训与流程改进，提高售后服务的响应速度与服务质量。",
+      "bounds_pt": [
+        274.6,
+        356.3,
+        192.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "矩形: 圆角 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体措施",
+      "bounds_pt": [
+        274.6,
+        324.7,
+        192.6,
+        22.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 56,
+      "source_sample_chars": 28,
+      "source_text": "任务：加强数字化工具的运用，提升工作效率和数据分析能力。",
+      "bounds_pt": [
+        492.9,
+        272.8,
+        192.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "矩形: 圆角 50",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "推进技术创新",
+      "bounds_pt": [
+        492.9,
+        243.9,
+        192.6,
+        22.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 136,
+      "source_sample_chars": 68,
+      "source_text": "引进先进技术：调研并引入最新的数字化工具和软件，改善企业工作流程。\n内部培训与系统优化：为员工提供数字化工具使用培训，同时优化现有系统。",
+      "bounds_pt": [
+        492.9,
+        356.3,
+        192.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "矩形: 圆角 52",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体措施",
+      "bounds_pt": [
+        492.9,
+        324.7,
+        192.6,
+        22.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 48,
+      "source_sample_chars": 24,
+      "source_text": "任务：提升团队的协作效率，促进跨部门沟通与合作。",
+      "bounds_pt": [
+        711.2,
+        272.8,
+        192.5,
+        41.9
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "矩形: 圆角 54",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 6,
+      "source_text": "强化团队协作",
+      "bounds_pt": [
+        711.1,
+        243.9,
+        192.6,
+        22.6
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 134,
+      "source_sample_chars": 67,
+      "source_text": "团队建设活动：组织团队建设活动，增强团队之间的合作精神和凝聚力。\n建立沟通机制：建立跨部门管理流程，确保部门之间的及时沟通和信息共享。",
+      "bounds_pt": [
+        711.2,
+        356.3,
+        192.5,
+        83.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_57",
+      "shape_id": 57,
+      "shape_name": "矩形: 圆角 56",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 4,
+      "source_text": "具体措施",
+      "bounds_pt": [
+        711.1,
+        324.7,
+        192.6,
+        22.6
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 2,
+        "shape_name": "图片 1",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

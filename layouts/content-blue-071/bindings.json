@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_12",
+      "shape_id": 12,
+      "shape_name": "文本框 11",
+      "type": "text",
+      "max_chars": 36,
+      "source_sample_chars": 18,
+      "source_text": "述职汇报｜2026年第一季度工作安排",
+      "bounds_pt": [
+        35.7,
+        23.7,
+        823.9,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_30",
+      "shape_id": 30,
+      "shape_name": "文本框 29",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "01.战略规划与基础建设",
+      "bounds_pt": [
+        112.7,
+        101.8,
+        222.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "文本框 30",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "02.业务布局与市场开拓",
+      "bounds_pt": [
+        369.1,
+        183.6,
+        221.7,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_32",
+      "shape_id": 32,
+      "shape_name": "文本框 31",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 12,
+      "source_text": "03.全面实施与过程管控",
+      "bounds_pt": [
+        663.2,
+        267.2,
+        221.0,
+        29.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_38",
+      "shape_id": 38,
+      "shape_name": "文本框 37",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "年度发展规划制定",
+      "bounds_pt": [
+        58.9,
+        335.9,
+        257.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_40",
+      "shape_id": 40,
+      "shape_name": "文本框 39",
+      "type": "text",
+      "max_chars": 90,
+      "source_sample_chars": 45,
+      "source_text": "目标体系确立：制定详细的年度业绩目标体系及关键绩效指标，完成各部门年度预算及资源分配方案。",
+      "bounds_pt": [
+        58.9,
+        360.2,
+        257.4,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_41",
+      "shape_id": 41,
+      "shape_name": "文本框 40",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "管理体系优化建设",
+      "bounds_pt": [
+        58.9,
+        430.5,
+        257.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 86,
+      "source_sample_chars": 43,
+      "source_text": "标准化建设：建立各项工作的标准化操作流程及工作质量要求，优化工作流程提高团队执行效率。",
+      "bounds_pt": [
+        58.9,
+        454.7,
+        257.4,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "市场拓展计划实施",
+      "bounds_pt": [
+        352.1,
+        335.9,
+        257.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 98,
+      "source_sample_chars": 49,
+      "source_text": "重点客户开发：制定并执行客户拜访及合作推进计划。\n渠道体系完善：建立多渠道销售并完善渠道管理制度。",
+      "bounds_pt": [
+        352.1,
+        360.2,
+        257.4,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 8,
+      "source_text": "品牌营销推广启动",
+      "bounds_pt": [
+        352.1,
+        430.5,
+        257.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_46",
+      "shape_id": 46,
+      "shape_name": "文本框 45",
+      "type": "text",
+      "max_chars": 94,
+      "source_sample_chars": 47,
+      "source_text": "品牌宣传计划：制定季度品牌推广及市场宣传活动。\n营销活动筹备：策划春季系列市场推广及客户活动。",
+      "bounds_pt": [
+        352.1,
+        454.7,
+        257.4,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_47",
+      "shape_id": 47,
+      "shape_name": "文本框 46",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "业务推进与项目管理",
+      "bounds_pt": [
+        645.3,
+        335.9,
+        257.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_48",
+      "shape_id": 48,
+      "shape_name": "文本框 47",
+      "type": "text",
+      "max_chars": 98,
+      "source_sample_chars": 49,
+      "source_text": "重点项目实施：全面推进重点客户服务项目落地执行。\n过程监控机制：建立项目全流程跟踪及问题预警机制。",
+      "bounds_pt": [
+        645.3,
+        360.2,
+        257.4,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_49",
+      "shape_id": 49,
+      "shape_name": "文本框 48",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 9,
+      "source_text": "绩效评估与优化调整",
+      "bounds_pt": [
+        645.3,
+        430.5,
+        257.4,
+        24.2
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 96,
+      "source_sample_chars": 48,
+      "source_text": "季度绩效评估：开展季度目标完成情况评估及分析。\n策略优化改进：根据评估结果及时调整优化执行策略。",
+      "bounds_pt": [
+        645.3,
+        454.7,
+        257.4,
+        41.7
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 4,
+        "shape_name": "图片 3",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}

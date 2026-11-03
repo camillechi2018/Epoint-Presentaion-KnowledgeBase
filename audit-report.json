@@ -1,0 +1,20 @@
+{
+  "status": "pass",
+  "physical_pages": 611,
+  "component_entries": 324,
+  "exact_pair_candidates": 287,
+  "source_counts": {
+    "blue": 295,
+    "red": 296,
+    "cover": 20
+  },
+  "manifest_files": 1952,
+  "issues": [],
+  "issue_count": 0,
+  "limits": [
+    "顶层配对未完成人工语义复核",
+    "HTML与动效未实现",
+    "预览未逐页视觉验收",
+    "显式色对象映射待审核"
+  ]
+}

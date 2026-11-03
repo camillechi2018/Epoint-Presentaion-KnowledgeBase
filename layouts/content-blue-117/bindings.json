@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "文本框 4",
+      "type": "text",
+      "max_chars": 30,
+      "source_sample_chars": 15,
+      "source_text": "述职汇报｜工作中遇到的主要问题",
+      "bounds_pt": [
+        35.1,
+        24.3,
+        606.5,
+        36.4
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_66",
+      "shape_id": 66,
+      "shape_name": "任意多边形: 形状 65",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "01.任务堆积",
+      "bounds_pt": [
+        43.2,
+        82.2,
+        206.0,
+        30.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_67",
+      "shape_id": 67,
+      "shape_name": "任意多边形: 形状 66",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "01.信息延误",
+      "bounds_pt": [
+        265.6,
+        82.2,
+        206.0,
+        30.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_68",
+      "shape_id": 68,
+      "shape_name": "任意多边形: 形状 67",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "01.人力不足",
+      "bounds_pt": [
+        488.0,
+        82.2,
+        206.0,
+        30.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_69",
+      "shape_id": 69,
+      "shape_name": "任意多边形: 形状 68",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "01.需求不明",
+      "bounds_pt": [
+        710.5,
+        82.2,
+        206.6,
+        30.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_70",
+      "shape_id": 70,
+      "shape_name": "任意多边形: 形状 69",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "02.精力分散",
+      "bounds_pt": [
+        43.2,
+        473.6,
+        205.8,
+        30.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_71",
+      "shape_id": 71,
+      "shape_name": "任意多边形: 形状 70",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "02.责任不清",
+      "bounds_pt": [
+        263.8,
+        473.6,
+        205.8,
+        30.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_72",
+      "shape_id": 72,
+      "shape_name": "任意多边形: 形状 71",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "02.资源浪费",
+      "bounds_pt": [
+        486.5,
+        473.6,
+        207.0,
+        30.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_73",
+      "shape_id": 73,
+      "shape_name": "任意多边形: 形状 72",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 7,
+      "source_text": "02.频繁调整",
+      "bounds_pt": [
+        710.3,
+        473.6,
+        206.8,
+        30.8
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "文本框 38",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "任务较多且有些是临时添加的，导致任务堆积无法按优先级合理安排，很多任务拖延了进度，工作内容堆积得越来越多，给人带来很大压力。",
+      "bounds_pt": [
+        51.5,
+        129.5,
+        189.1,
+        78.1
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_50",
+      "shape_id": 50,
+      "shape_name": "文本框 49",
+      "type": "text",
+      "max_chars": 126,
+      "source_sample_chars": 63,
+      "source_text": "团队内部沟通存在延误，尤其是跨部门时，信息不及时传递，导致大家都不清楚最新的进度和决策，造成了不必要的停滞，难以协调一致行动。",
+      "bounds_pt": [
+        272.1,
+        129.5,
+        189.7,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_51",
+      "shape_id": 51,
+      "shape_name": "文本框 50",
+      "type": "text",
+      "max_chars": 124,
+      "source_sample_chars": 62,
+      "source_text": "在项目初期对所需人力的预估过于乐观结果项目进行时，突然发现人手不足，导致项目进度缓慢。特别是紧急任务时，难以调动足够的资源。",
+      "bounds_pt": [
+        493.6,
+        129.5,
+        192.5,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_52",
+      "shape_id": 52,
+      "shape_name": "文本框 51",
+      "type": "text",
+      "max_chars": 112,
+      "source_sample_chars": 56,
+      "source_text": "客户需求没有明确说明，导致我们无法根据清晰的目标来规划项目，很多工作只能依据模糊的框架进行，进而影响项目的执行。",
+      "bounds_pt": [
+        719.1,
+        129.5,
+        189.3,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_53",
+      "shape_id": 53,
+      "shape_name": "文本框 52",
+      "type": "text",
+      "max_chars": 130,
+      "source_sample_chars": 65,
+      "source_text": "同时处理多个任务时精力容易分散，无法集中关注最重要的事项。细节经常被忽视，甚至出现返工，增加了无效劳动和重复劳动，降低了工作效率。",
+      "bounds_pt": [
+        51.5,
+        379.6,
+        189.1,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_54",
+      "shape_id": 54,
+      "shape_name": "文本框 53",
+      "type": "text",
+      "max_chars": 126,
+      "source_sample_chars": 63,
+      "source_text": "项目任务的责任划分不够明确，导致了多人重复劳动，或者某些任务没有及时跟进处理。责任不清晰让整个团队的协调性变差，项目严重阻碍。",
+      "bounds_pt": [
+        272.1,
+        379.6,
+        189.7,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_55",
+      "shape_id": 55,
+      "shape_name": "文本框 54",
+      "type": "text",
+      "max_chars": 118,
+      "source_sample_chars": 59,
+      "source_text": "由于物资需求的变化，原本预计足够的资源出现了浪费。一些设备和材料未得到有效使用，增加了预算开支，降低了项目的成本效益。",
+      "bounds_pt": [
+        493.6,
+        379.6,
+        192.5,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_56",
+      "shape_id": 56,
+      "shape_name": "文本框 55",
+      "type": "text",
+      "max_chars": 132,
+      "source_sample_chars": 66,
+      "source_text": "客户的需求变化较大，随着项目推进经常需要调整方案来适应新需求。这不仅增加了工作量，还影响了项目的稳定性和质量，难以保持项目的一致性。",
+      "bounds_pt": [
+        719.1,
+        379.6,
+        189.3,
+        78.3
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_42",
+      "shape_id": 42,
+      "shape_name": "文本框 41",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "工作效率低",
+      "bounds_pt": [
+        70.7,
+        308.6,
+        132.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "文本框 42",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "团队沟通差",
+      "bounds_pt": [
+        294.5,
+        308.6,
+        132.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_44",
+      "shape_id": 44,
+      "shape_name": "文本框 43",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "资源不合理",
+      "bounds_pt": [
+        518.2,
+        308.6,
+        132.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    },
+    {
+      "field": "text_45",
+      "shape_id": 45,
+      "shape_name": "文本框 44",
+      "type": "text",
+      "max_chars": 24,
+      "source_sample_chars": 5,
+      "source_text": "需求变动大",
+      "bounds_pt": [
+        742.0,
+        308.6,
+        132.0,
+        31.5
+      ],
+      "semantic_role": "provisional"
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 10,
+        "shape_name": "图片 9",
+        "sha256": "1bdf915acd997fc6b0ad2c1b1bd3bde71fbac3f0730c162e47d6a3f7584dd954",
+        "bounds_pt": [
+          828.0,
+          31.6,
+          88.8,
+          19.1
+        ]
+      }
+    ]
+  },
+  "review": "field semantics provisional; template data not project facts"
+}
