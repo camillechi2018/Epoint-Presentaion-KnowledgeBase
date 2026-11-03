@@ -13273,7 +13273,7 @@
       "spec": "layouts/cover-14/spec.md",
       "layout_rules": "layouts/cover-14/layout_rules.json",
       "motion": "layouts/cover-14/motion.json",
-      "preview": "source-previews/cover/P014.png",
+      "preview": "cover-overrides/P14.jpg",
       "themes": [
         "light-blue"
       ],
@@ -13292,14 +13292,22 @@
         "cover": 14
       },
       "color_family": "light-blue",
-      "style": "city-architecture",
-      "visual_impact": "medium",
+      "style": "city-architecture-twin-towers",
+      "visual_impact": "medium-high",
       "title_area_hint": "left",
       "cover_match_status": "original_only_pending_review",
       "stock_code_default": "688232",
       "slogan_locked": "成为行业数字化领航者",
       "source_logo_present": true,
-      "background_image": "cover-images/P14.jpg"
+      "background_image": "cover-overrides/P14.jpg",
+      "background_override": "cover-overrides/P14.jpg",
+      "subject_tags": [
+        "新点双子星",
+        "新点总部建筑",
+        "双塔",
+        "云海"
+      ],
+      "background_source_note": "用户于 2026-11-03 提供 P14.jpg，替换封面 P14 的背景图片；标题、Logo、股票代码和完整品牌语沿用源页。"
     },
     {
       "id": "cover-15",

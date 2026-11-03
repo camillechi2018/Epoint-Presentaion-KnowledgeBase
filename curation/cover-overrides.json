@@ -1,0 +1,13 @@
+{
+  "overrides": {
+    "cover-14": {
+      "image": "cover-overrides/P14.jpg",
+      "subject_tags": ["新点双子星", "新点总部建筑", "双塔", "云海"],
+      "style": "city-architecture-twin-towers",
+      "visual_impact": "medium-high",
+      "source_note": "用户于 2026-11-03 提供 P14.jpg，替换封面 P14 的背景图片；标题、Logo、股票代码和完整品牌语沿用源页。",
+      "color_family": "light-blue",
+      "title_area_hint": "left"
+    }
+  }
+}
