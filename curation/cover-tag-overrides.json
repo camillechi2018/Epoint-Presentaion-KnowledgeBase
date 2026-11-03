@@ -1,0 +1,10 @@
+{
+  "overrides": {
+    "cover-15": {
+      "color_family": "red",
+      "cover_match_status": "verified_original",
+      "brand_contrast_variant": "dark",
+      "note": "用户指定 P15 归入红色封面候选。原图为银灰色丝绸背景，适合作为红色内容页的中性衔接封面；并非红色主视觉图片。原配标题、Logo、股票代码与品牌语位置保留。"
+    }
+  }
+}
