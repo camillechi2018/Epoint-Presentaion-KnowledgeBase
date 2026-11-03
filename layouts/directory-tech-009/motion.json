@@ -1,9 +1,59 @@
 {
+  "layout_id": "directory-tech-009",
   "source_animation": false,
   "source_transition": false,
   "motion_suitability": "A",
-  "status": "static",
-  "eligible_groups": [],
+  "status": "prototype",
+  "preset": "step-reveal",
+  "effect": "fade",
+  "duration_seconds": 0.35,
+  "groups": [
+    {
+      "step": 1,
+      "shape_ids": [
+        47
+      ],
+      "semantic_unit": "item_1"
+    },
+    {
+      "step": 2,
+      "shape_ids": [
+        135
+      ],
+      "semantic_unit": "item_2"
+    },
+    {
+      "step": 3,
+      "shape_ids": [
+        164
+      ],
+      "semantic_unit": "item_3"
+    },
+    {
+      "step": 4,
+      "shape_ids": [
+        195
+      ],
+      "semantic_unit": "item_4"
+    },
+    {
+      "step": 5,
+      "shape_ids": [
+        196
+      ],
+      "semantic_unit": "item_5"
+    },
+    {
+      "step": 6,
+      "shape_ids": [
+        197
+      ],
+      "semantic_unit": "item_6"
+    }
+  ],
+  "static_shape_ids": [],
   "brand_static": true,
-  "final_state_complete": true
+  "final_state_complete": true,
+  "playback_review": "not_signed_off",
+  "group_generation_rule": "animate retained top-level item groups after reflow"
 }
