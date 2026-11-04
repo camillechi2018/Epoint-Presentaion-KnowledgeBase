@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-04",
+  "status": "verified_static_pptx_draft_pending_review",
+  "scope": [
+    "content-blue-001",
+    "content-blue-002"
+  ],
+  "source_geometry": {
+    "content-blue-001": {
+      "blue_shapes": 23,
+      "red_shapes": 23,
+      "same_ids_types_geometry": true,
+      "source_images": 0
+    },
+    "content-blue-002": {
+      "blue_shapes": 9,
+      "red_shapes": 9,
+      "same_ids_types_geometry": true,
+      "source_images": 0
+    }
+  },
+  "visual_preview": "review/blue-red-curated-001-002.png",
+  "powerpoint_rendered_pages": 4,
+  "logo_audit": {
+    "slides": 4,
+    "logos": 4,
+    "passed": true
+  },
+  "media_audit": {
+    "missing_primary": 0,
+    "broken_primary": 0,
+    "passed": true
+  },
+  "font_check_after_normalize": {
+    "changed": 0,
+    "passed": true
+  },
+  "motion_audit": {
+    "animated_slides": 0,
+    "passed": true
+  },
+  "negative_capacity_checks": [
+    "section_title_8_cjk_rejected",
+    "chapter_label_part12_rejected"
+  ],
+  "limits": [
+    "fixed six-item directory only",
+    "section layout has decorative large digit 1; chapter PART.1 only",
+    "html not implemented",
+    "new motion not implemented",
+    "brand approval pending"
+  ]
+}

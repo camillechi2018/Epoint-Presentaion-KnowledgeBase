@@ -9,7 +9,7 @@
       "collection": "new-template-content",
       "role": "directory",
       "information_relation": "navigation",
-      "classification_status": "visual_reviewed",
+      "classification_status": "verified",
       "family_id": "directory-six-grid",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -25,12 +25,12 @@
       "status": "draft_pending_review",
       "capacity": {
         "body_slots": 13,
-        "item_title_slots": 0,
+        "item_title_slots": 6,
         "cell_max_chars": 20
       },
       "source_page": 1,
       "shape_count": 35,
-      "media_status": "unreviewed",
+      "media_status": "verified_no_source_images",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -45,7 +45,9 @@
         "grid",
         "chapter-navigation"
       ],
-      "density": "sparse"
+      "density": "sparse",
+      "pptx_support": "verified_static",
+      "semantic_review_status": "verified_blue_red"
     },
     {
       "id": "content-blue-002",
@@ -53,7 +55,7 @@
       "collection": "new-template-content",
       "role": "section",
       "information_relation": "chapter-divider",
-      "classification_status": "visual_reviewed",
+      "classification_status": "verified",
       "family_id": "section-number-hero",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -69,12 +71,12 @@
       "status": "draft_pending_review",
       "capacity": {
         "body_slots": 4,
-        "item_title_slots": 0,
+        "item_title_slots": 1,
         "cell_max_chars": 20
       },
       "source_page": 2,
       "shape_count": 12,
-      "media_status": "unreviewed",
+      "media_status": "verified_no_source_images",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -88,7 +90,12 @@
         "large-number",
         "section-title"
       ],
-      "density": "sparse"
+      "density": "sparse",
+      "pptx_support": "verified_static",
+      "semantic_review_status": "verified_blue_red",
+      "chapter_number_scope": [
+        1
+      ]
     },
     {
       "id": "content-blue-003",

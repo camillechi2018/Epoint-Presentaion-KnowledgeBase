@@ -15,7 +15,10 @@
         128.9,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "navigation_title",
+      "semantic_path": "items[0].title",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_29",
@@ -31,7 +34,10 @@
         125.0,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "navigation_title",
+      "semantic_path": "items[3].title",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_3",
@@ -47,7 +53,10 @@
         125.0,
         17.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "navigation_subtitle",
+      "semantic_path": "items[0].subtitle",
+      "max_width_units": 26,
+      "max_lines": 2
     },
     {
       "field": "text_9",
@@ -63,7 +72,10 @@
         125.0,
         17.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "navigation_subtitle",
+      "semantic_path": "items[3].subtitle",
+      "max_width_units": 26,
+      "max_lines": 2
     },
     {
       "field": "text_26",
@@ -79,7 +91,10 @@
         128.9,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "navigation_title",
+      "semantic_path": "items[1].title",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_30",
@@ -95,7 +110,10 @@
         144.6,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "navigation_title",
+      "semantic_path": "items[4].title",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_4",
@@ -111,7 +129,10 @@
         125.0,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "navigation_subtitle",
+      "semantic_path": "items[1].subtitle",
+      "max_width_units": 26,
+      "max_lines": 2
     },
     {
       "field": "text_10",
@@ -127,7 +148,10 @@
         125.0,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "navigation_subtitle",
+      "semantic_path": "items[4].subtitle",
+      "max_width_units": 26,
+      "max_lines": 2
     },
     {
       "field": "text_27",
@@ -143,7 +167,10 @@
         128.9,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "navigation_title",
+      "semantic_path": "items[2].title",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_31",
@@ -159,7 +186,10 @@
         125.0,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "navigation_title",
+      "semantic_path": "items[5].title",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_6",
@@ -175,7 +205,10 @@
         125.0,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "navigation_subtitle",
+      "semantic_path": "items[2].subtitle",
+      "max_width_units": 26,
+      "max_lines": 2
     },
     {
       "field": "text_11",
@@ -191,7 +224,10 @@
         125.0,
         17.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "navigation_subtitle",
+      "semantic_path": "items[5].subtitle",
+      "max_width_units": 26,
+      "max_lines": 2
     },
     {
       "field": "text_7",
@@ -207,7 +243,10 @@
         312.7,
         50.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "page_title",
+      "semantic_path": "page.title",
+      "max_width_units": 16,
+      "max_lines": 1
     }
   ],
   "objects": {
@@ -215,5 +254,5 @@
     "tables": [],
     "images": []
   },
-  "review": "field semantics provisional; template data not project facts"
+  "review": "blue/red field semantics and rendered capacity reviewed 2026-11-04; template data remain nonfactual"
 }

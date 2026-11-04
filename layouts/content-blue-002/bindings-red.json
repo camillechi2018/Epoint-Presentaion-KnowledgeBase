@@ -15,7 +15,10 @@
         379.5,
         94.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "chapter_title",
+      "semantic_path": "chapter.title",
+      "max_width_units": 10,
+      "max_lines": 1
     },
     {
       "field": "text_5",
@@ -31,7 +34,10 @@
         480.6,
         48.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "chapter_subtitle",
+      "semantic_path": "chapter.subtitle",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_7",
@@ -47,7 +53,10 @@
         312.7,
         50.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "page_title",
+      "semantic_path": "page.title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_15",
@@ -63,7 +72,13 @@
         169.2,
         60.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "chapter_label",
+      "semantic_path": "chapter.label",
+      "max_width_units": 8,
+      "max_lines": 1,
+      "allowed_values": [
+        "PART.1"
+      ]
     }
   ],
   "objects": {
@@ -71,5 +86,5 @@
     "tables": [],
     "images": []
   },
-  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+  "review": "blue/red field semantics and rendered capacity reviewed 2026-11-04; template data remain nonfactual"
 }
