@@ -15,7 +15,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "page_title",
+      "semantic_path": "page.title",
+      "max_width_units": 48,
+      "max_lines": 1
     },
     {
       "field": "text_7",
@@ -31,14 +34,17 @@
         533.1,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "section_title",
+      "semantic_path": "page.section_title",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_17",
       "shape_id": 17,
       "shape_name": "TextBox 14",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 3,
       "source_text": "80%",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         38.8,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "quarter_rate",
+      "semantic_path": "quarter_rates[1]",
+      "max_width_units": 8,
+      "max_lines": 1
     },
     {
       "field": "text_21",
       "shape_id": 21,
       "shape_name": "TextBox 22",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 3,
       "source_text": "75%",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         38.8,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "quarter_rate",
+      "semantic_path": "quarter_rates[2]",
+      "max_width_units": 8,
+      "max_lines": 1
     },
     {
       "field": "text_24",
       "shape_id": 24,
       "shape_name": "TextBox 26",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 3,
       "source_text": "90%",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         38.8,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "quarter_rate",
+      "semantic_path": "quarter_rates[3]",
+      "max_width_units": 8,
+      "max_lines": 1
     },
     {
       "field": "text_45",
       "shape_id": 45,
       "shape_name": "TextBox 14",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 3,
       "source_text": "70%",
       "bounds_pt": [
@@ -95,7 +110,10 @@
         38.8,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "quarter_rate",
+      "semantic_path": "quarter_rates[0]",
+      "max_width_units": 8,
+      "max_lines": 1
     },
     {
       "field": "text_47",
@@ -111,7 +129,10 @@
         125.6,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "rate_title",
+      "semantic_path": "page.rate_title",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_49",
@@ -127,7 +148,10 @@
         147.5,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note_title",
+      "semantic_path": "notes[0].title",
+      "max_width_units": 20,
+      "max_lines": 1
     },
     {
       "field": "text_50",
@@ -143,14 +167,17 @@
         147.5,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note_title",
+      "semantic_path": "notes[1].title",
+      "max_width_units": 20,
+      "max_lines": 1
     },
     {
       "field": "text_51",
       "shape_id": 51,
       "shape_name": "文本框 50",
       "type": "text",
-      "max_chars": 126,
+      "max_chars": 85,
       "source_sample_chars": 63,
       "source_text": "加盟商07以286万全年业绩领跑，头部效应显著。\n加盟商02与05全年业绩分别为216万和218万，需重点关注其经营效能提升。",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         198.4,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note_body",
+      "semantic_path": "notes[0].body",
+      "max_width_units": 39,
+      "max_lines": 2
     },
     {
       "field": "text_58",
       "shape_id": 58,
       "shape_name": "文本框 57",
       "type": "text",
-      "max_chars": 138,
+      "max_chars": 85,
       "source_sample_chars": 69,
       "source_text": "加盟商整体呈逐季增长态势，Q4贡献全年最高业绩，增长动能持续释放。\n季度达标率由Q1的70%稳步提升至Q4的90%，整体经营能力持续优化。",
       "bounds_pt": [
@@ -175,7 +205,10 @@
         198.4,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note_body",
+      "semantic_path": "notes[1].body",
+      "max_width_units": 39,
+      "max_lines": 2
     }
   ],
   "objects": {

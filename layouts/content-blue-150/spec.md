@@ -1,7 +1,5 @@
 # content-blue-150
 
-来源：blue P150。原生结构保留，可编辑。
+来源：蓝 P150／红 P150。五项同层级并列要点；每项含标题、两条说明及底部标签。没有因果或时间顺序。数量变化尚未验收。
 
-角色：content；信息关系及重复项数待人工复核。源稿文字、图表和图片不构成项目事实。
-
-预览初审：parallel-items；结构家族 parallel-five-cards；密度 medium。数量变化尚未验证。
+字段语义见 `bindings.json`；蓝红版均保持原生可编辑对象。Logo 保留原锚点。资产仍为 `draft_pending_review`；动效、HTML 和其他色系按独立能力状态验收。

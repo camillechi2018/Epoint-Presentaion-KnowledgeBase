@@ -15,7 +15,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "page_title",
+      "semantic_path": "page.title",
+      "max_width_units": 48,
+      "max_lines": 1
     },
     {
       "field": "text_21",
@@ -31,7 +34,10 @@
         141.5,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "metric_value",
+      "semantic_path": "metrics[0].value",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_22",
@@ -47,7 +53,10 @@
         246.2,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "metric_caption",
+      "semantic_path": "metrics[0].caption",
+      "max_width_units": 28,
+      "max_lines": 1
     },
     {
       "field": "text_10",
@@ -63,14 +72,17 @@
         269.9,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "chart_title",
+      "semantic_path": "metrics[0].chart_title",
+      "max_width_units": 28,
+      "max_lines": 1
     },
     {
       "field": "text_118",
       "shape_id": 118,
       "shape_name": "文本框 117",
       "type": "text",
-      "max_chars": 90,
+      "max_chars": 85,
       "source_sample_chars": 45,
       "source_text": "全年营收呈现“双高峰”走势，1月和6月表现最佳，4月为低谷，需关注淡旺季波动对业绩的影响。",
       "bounds_pt": [
@@ -79,7 +91,10 @@
         319.5,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "metric_insight",
+      "semantic_path": "metrics[0].insight",
+      "max_width_units": 58,
+      "max_lines": 2
     },
     {
       "field": "text_123",
@@ -95,7 +110,10 @@
         141.5,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "metric_value",
+      "semantic_path": "metrics[1].value",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_124",
@@ -111,7 +129,10 @@
         246.2,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "metric_caption",
+      "semantic_path": "metrics[1].caption",
+      "max_width_units": 28,
+      "max_lines": 1
     },
     {
       "field": "text_126",
@@ -127,14 +148,17 @@
         269.9,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "chart_title",
+      "semantic_path": "metrics[1].chart_title",
+      "max_width_units": 28,
+      "max_lines": 1
     },
     {
       "field": "text_128",
       "shape_id": 128,
       "shape_name": "文本框 127",
       "type": "text",
-      "max_chars": 90,
+      "max_chars": 85,
       "source_sample_chars": 45,
       "source_text": "成本支出相对平稳，其中5月成本最高，与营收高峰匹配，但12月成本较高，需警惕成本倒挂风险。",
       "bounds_pt": [
@@ -143,7 +167,10 @@
         319.5,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "metric_insight",
+      "semantic_path": "metrics[1].insight",
+      "max_width_units": 58,
+      "max_lines": 2
     }
   ],
   "objects": {

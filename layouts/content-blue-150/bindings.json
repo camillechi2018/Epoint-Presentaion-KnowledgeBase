@@ -15,7 +15,10 @@
         125.2,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_detail",
+      "semantic_path": "items[0].detail_1",
+      "max_width_units": 22,
+      "max_lines": 3
     },
     {
       "field": "text_96",
@@ -31,7 +34,10 @@
         125.9,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_title",
+      "semantic_path": "items[0].title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_107",
@@ -47,7 +53,10 @@
         125.2,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_detail",
+      "semantic_path": "items[0].detail_2",
+      "max_width_units": 22,
+      "max_lines": 3
     },
     {
       "field": "text_111",
@@ -63,7 +72,10 @@
         125.9,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_detail",
+      "semantic_path": "items[1].detail_1",
+      "max_width_units": 22,
+      "max_lines": 3
     },
     {
       "field": "text_112",
@@ -79,7 +91,10 @@
         125.9,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_title",
+      "semantic_path": "items[1].title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_113",
@@ -95,7 +110,10 @@
         125.9,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_detail",
+      "semantic_path": "items[1].detail_2",
+      "max_width_units": 22,
+      "max_lines": 3
     },
     {
       "field": "text_115",
@@ -111,7 +129,10 @@
         125.9,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_detail",
+      "semantic_path": "items[2].detail_1",
+      "max_width_units": 22,
+      "max_lines": 3
     },
     {
       "field": "text_116",
@@ -127,7 +148,10 @@
         125.9,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_title",
+      "semantic_path": "items[2].title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_117",
@@ -143,7 +167,10 @@
         125.9,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_detail",
+      "semantic_path": "items[2].detail_2",
+      "max_width_units": 22,
+      "max_lines": 3
     },
     {
       "field": "text_119",
@@ -159,7 +186,10 @@
         125.9,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_detail",
+      "semantic_path": "items[3].detail_1",
+      "max_width_units": 22,
+      "max_lines": 3
     },
     {
       "field": "text_120",
@@ -175,7 +205,10 @@
         125.9,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_title",
+      "semantic_path": "items[3].title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_121",
@@ -191,7 +224,10 @@
         125.9,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_detail",
+      "semantic_path": "items[3].detail_2",
+      "max_width_units": 22,
+      "max_lines": 3
     },
     {
       "field": "text_123",
@@ -207,7 +243,10 @@
         125.9,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_detail",
+      "semantic_path": "items[4].detail_1",
+      "max_width_units": 22,
+      "max_lines": 3
     },
     {
       "field": "text_124",
@@ -223,7 +262,10 @@
         125.9,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_title",
+      "semantic_path": "items[4].title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_125",
@@ -239,7 +281,10 @@
         125.9,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_detail",
+      "semantic_path": "items[4].detail_2",
+      "max_width_units": 22,
+      "max_lines": 3
     },
     {
       "field": "text_127",
@@ -255,7 +300,10 @@
         148.7,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_footer",
+      "semantic_path": "items[0].footer",
+      "max_width_units": 20,
+      "max_lines": 1
     },
     {
       "field": "text_129",
@@ -271,7 +319,10 @@
         148.7,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_footer",
+      "semantic_path": "items[1].footer",
+      "max_width_units": 20,
+      "max_lines": 1
     },
     {
       "field": "text_130",
@@ -287,7 +338,10 @@
         148.7,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_footer",
+      "semantic_path": "items[2].footer",
+      "max_width_units": 20,
+      "max_lines": 1
     },
     {
       "field": "text_131",
@@ -303,7 +357,10 @@
         148.7,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_footer",
+      "semantic_path": "items[3].footer",
+      "max_width_units": 20,
+      "max_lines": 1
     },
     {
       "field": "text_132",
@@ -319,7 +376,10 @@
         148.7,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "item_footer",
+      "semantic_path": "items[4].footer",
+      "max_width_units": 20,
+      "max_lines": 1
     },
     {
       "field": "text_56",
@@ -335,7 +395,10 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "page_title",
+      "semantic_path": "page.title",
+      "max_width_units": 48,
+      "max_lines": 1
     },
     {
       "field": "text_39",
@@ -351,7 +414,10 @@
         819.5,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "page_summary",
+      "semantic_path": "page.summary",
+      "max_width_units": 80,
+      "max_lines": 2
     }
   ],
   "objects": {

@@ -2509,8 +2509,8 @@
       "collection": "new-template-content",
       "role": "process",
       "information_relation": "ordered-steps",
-      "classification_status": "visual_reviewed",
-      "family_id": "process-horizontal-four",
+      "classification_status": "verified",
+      "family_id": "four-step-arrow",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-060/bindings.json",
@@ -2530,7 +2530,7 @@
       },
       "source_page": 60,
       "shape_count": 33,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo_only",
       "html_support": "prototype_requires_cross_format_review",
       "motion_support": "prototype_requires_playback_review",
       "source_mapping": {
@@ -2545,9 +2545,8 @@
       "red_source": "sources/red.pptx",
       "red_source_page": 60,
       "composition_tags": [
-        "four-steps",
-        "arrow",
-        "horizontal"
+        "ordered-steps",
+        "four-step-arrow"
       ],
       "density": "medium",
       "cardinality_status": "prototype_requires_render_review",
@@ -2567,7 +2566,9 @@
         ],
         "motion": "click_reveal_optional",
         "validation": "browser_open_keyboard_reveal_and_visual_review_only"
-      }
+      },
+      "semantic_review_status": "verified_blue_red",
+      "pptx_support": "verified_static"
     },
     {
       "id": "content-blue-061",
@@ -6305,8 +6306,8 @@
       "collection": "new-template-content",
       "role": "parallel",
       "information_relation": "parallel-items",
-      "classification_status": "visual_reviewed",
-      "family_id": "parallel-five-cards",
+      "classification_status": "verified",
+      "family_id": "five-parallel-cards",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-150/bindings.json",
@@ -6326,7 +6327,7 @@
       },
       "source_page": 150,
       "shape_count": 57,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo_only",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -6341,11 +6342,12 @@
       "red_source": "sources/red.pptx",
       "red_source_page": 150,
       "composition_tags": [
-        "five-items",
-        "cards",
-        "bottom-timeline"
+        "parallel-items",
+        "five-parallel-cards"
       ],
-      "density": "medium"
+      "density": "medium",
+      "semantic_review_status": "verified_blue_red",
+      "pptx_support": "verified_static"
     },
     {
       "id": "content-blue-151",
@@ -11316,9 +11318,9 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "data-chart",
-      "information_relation": "period-comparison",
-      "classification_status": "visual_reviewed",
-      "family_id": "area-chart-side-by-side",
+      "information_relation": "two-metric-period-trend",
+      "classification_status": "verified",
+      "family_id": "two-trend-panels",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-270/bindings.json",
@@ -11338,7 +11340,7 @@
       },
       "source_page": 270,
       "shape_count": 25,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo_only",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -11353,11 +11355,12 @@
       "red_source": "sources/red.pptx",
       "red_source_page": 271,
       "composition_tags": [
-        "two-periods",
-        "area-chart",
-        "metrics"
+        "two-metric-period-trend",
+        "two-trend-panels"
       ],
-      "density": "medium"
+      "density": "medium",
+      "semantic_review_status": "verified_blue_red",
+      "pptx_support": "verified_static"
     },
     {
       "id": "content-blue-271",
@@ -11694,9 +11697,9 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "data-table",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "data-table-279",
+      "information_relation": "quarterly-detail",
+      "classification_status": "verified",
+      "family_id": "quarterly-table-insights",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-279/bindings.json",
@@ -11716,7 +11719,7 @@
       },
       "source_page": 279,
       "shape_count": 31,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo_only",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -11729,7 +11732,14 @@
       "red_source_logo_shape_id": 3,
       "red_bindings": "layouts/content-blue-279/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 280
+      "red_source_page": 280,
+      "semantic_review_status": "verified_blue_red",
+      "composition_tags": [
+        "quarterly-detail",
+        "quarterly-table-insights"
+      ],
+      "density": "high",
+      "pptx_support": "verified_static"
     },
     {
       "id": "content-blue-280",

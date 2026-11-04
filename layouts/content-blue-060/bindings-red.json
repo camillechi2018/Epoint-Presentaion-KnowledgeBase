@@ -6,7 +6,7 @@
       "shape_id": 9,
       "shape_name": "椭圆 8",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 2,
       "source_text": "O1",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         61.5,
         61.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_number",
+      "semantic_path": "steps[0].number",
+      "max_width_units": 2,
+      "max_lines": 1
     },
     {
       "field": "text_10",
       "shape_id": 10,
       "shape_name": "椭圆 9",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 2,
       "source_text": "O2",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         61.5,
         61.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_number",
+      "semantic_path": "steps[1].number",
+      "max_width_units": 2,
+      "max_lines": 1
     },
     {
       "field": "text_11",
       "shape_id": 11,
       "shape_name": "椭圆 10",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 2,
       "source_text": "O3",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         61.5,
         61.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_number",
+      "semantic_path": "steps[2].number",
+      "max_width_units": 2,
+      "max_lines": 1
     },
     {
       "field": "text_12",
       "shape_id": 12,
       "shape_name": "椭圆 11",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 2,
       "source_text": "O4",
       "bounds_pt": [
@@ -63,7 +72,10 @@
         61.5,
         61.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_number",
+      "semantic_path": "steps[3].number",
+      "max_width_units": 2,
+      "max_lines": 1
     },
     {
       "field": "text_13",
@@ -79,7 +91,10 @@
         210.5,
         39.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_outcome",
+      "semantic_path": "steps[0].outcome",
+      "max_width_units": 18,
+      "max_lines": 1
     },
     {
       "field": "text_14",
@@ -95,7 +110,10 @@
         210.5,
         39.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_outcome",
+      "semantic_path": "steps[1].outcome",
+      "max_width_units": 18,
+      "max_lines": 1
     },
     {
       "field": "text_15",
@@ -111,7 +129,10 @@
         210.5,
         39.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_outcome",
+      "semantic_path": "steps[2].outcome",
+      "max_width_units": 18,
+      "max_lines": 1
     },
     {
       "field": "text_16",
@@ -127,7 +148,10 @@
         210.5,
         39.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_outcome",
+      "semantic_path": "steps[3].outcome",
+      "max_width_units": 18,
+      "max_lines": 1
     },
     {
       "field": "text_29",
@@ -143,7 +167,10 @@
         578.1,
         41.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "goal",
+      "semantic_path": "page.goal",
+      "max_width_units": 40,
+      "max_lines": 1
     },
     {
       "field": "text_30",
@@ -159,7 +186,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "page_title",
+      "semantic_path": "page.title",
+      "max_width_units": 45,
+      "max_lines": 1
     },
     {
       "field": "text_21",
@@ -175,7 +205,10 @@
         164.1,
         29.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_title",
+      "semantic_path": "steps[0].title",
+      "max_width_units": 20,
+      "max_lines": 1
     },
     {
       "field": "text_22",
@@ -191,7 +224,10 @@
         164.1,
         29.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_title",
+      "semantic_path": "steps[1].title",
+      "max_width_units": 20,
+      "max_lines": 1
     },
     {
       "field": "text_23",
@@ -207,7 +243,10 @@
         164.1,
         29.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_title",
+      "semantic_path": "steps[2].title",
+      "max_width_units": 20,
+      "max_lines": 1
     },
     {
       "field": "text_24",
@@ -223,14 +262,17 @@
         164.1,
         29.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_title",
+      "semantic_path": "steps[3].title",
+      "max_width_units": 20,
+      "max_lines": 1
     },
     {
       "field": "text_25",
       "shape_id": 25,
       "shape_name": "文本框 24",
       "type": "text",
-      "max_chars": 178,
+      "max_chars": 85,
       "source_sample_chars": 89,
       "source_text": "KR1：完成了2门专业认证课程，提升了对行业趋势的理解。\nKR2：每周阅读了3篇行业相关的研究论文，激发了我的创新思维。\nKR3：在公司内实施了新的技术解决方案，提高了团队效率。",
       "bounds_pt": [
@@ -239,14 +281,17 @@
         175.9,
         134.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_body",
+      "semantic_path": "steps[0].body",
+      "max_width_units": 28,
+      "max_lines": 2
     },
     {
       "field": "text_26",
       "shape_id": 26,
       "shape_name": "文本框 25",
       "type": "text",
-      "max_chars": 190,
+      "max_chars": 85,
       "source_sample_chars": 95,
       "source_text": "KR1：参与了行业内的交流会，促进了与行业领袖人物的互动与合作。\nKR2：与1行业内的资深专家建立了持续联系，并保持了良好的关系。\nKR3：启动了2个跨行业合作项目为公司带来了新的合作机会。",
       "bounds_pt": [
@@ -255,14 +300,17 @@
         175.9,
         134.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_body",
+      "semantic_path": "steps[1].body",
+      "max_width_units": 28,
+      "max_lines": 2
     },
     {
       "field": "text_27",
       "shape_id": 27,
       "shape_name": "文本框 26",
       "type": "text",
-      "max_chars": 188,
+      "max_chars": 85,
       "source_sample_chars": 94,
       "source_text": "KR1：优化了沟通流程，确保信息传递高效透明，减少了工作重叠。\nKR2：与团队成员进行了绩效评估与反馈，明确个人职业发展方向。\nKR3：培养了团队成员决策能力，提升了团队的自主性和责任感。",
       "bounds_pt": [
@@ -271,14 +319,17 @@
         175.9,
         134.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_body",
+      "semantic_path": "steps[2].body",
+      "max_width_units": 28,
+      "max_lines": 2
     },
     {
       "field": "text_28",
       "shape_id": 28,
       "shape_name": "文本框 27",
       "type": "text",
-      "max_chars": 192,
+      "max_chars": 85,
       "source_sample_chars": 96,
       "source_text": "KR1：通过重新设计工作流程，整体工作周期缩短了约15%。\nKR2：通过时间管理培训，减少了拖延现象，个人绩效提高了20%。 \nKR3：定期反馈评审，通过此举员工对绩效管理满意度上升了25%。",
       "bounds_pt": [
@@ -287,7 +338,10 @@
         175.9,
         134.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_body",
+      "semantic_path": "steps[3].body",
+      "max_width_units": 28,
+      "max_lines": 2
     }
   ],
   "objects": {

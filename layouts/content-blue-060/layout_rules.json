@@ -48,5 +48,18 @@
       28,
       16
     ]
-  ]
+  ],
+  "verified_counts": [
+    4
+  ],
+  "render_overrides": {
+    "red": {
+      "shape_height_pt_by_shape_id": {
+        "25": 52,
+        "26": 52,
+        "27": 52,
+        "28": 52
+      }
+    }
+  }
 }

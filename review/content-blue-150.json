@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-04",
+  "layout_id": "content-blue-150",
+  "source_pages": {
+    "blue": 150,
+    "red": 150
+  },
+  "status": "verified_static_pptx_draft_pending_review",
+  "supported_counts": [
+    5
+  ],
+  "role": "parallel",
+  "information_relation": "parallel-items",
+  "preview_paths": [
+    "review/content-blue-150-blue-filled.png",
+    "review/content-blue-150-red-filled.png"
+  ],
+  "limits": [
+    "HTML not implemented",
+    "motion requires separate review",
+    "other theme colors not verified",
+    "asset draft pending review"
+  ]
+}

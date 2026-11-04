@@ -1,7 +1,28 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    2
+  ],
   "source_count": 2,
   "reflow_status": "not_implemented",
-  "count_evidence": "source_preview_only; not a validated reflow range"
+  "count_evidence": "source_preview_only; not a validated reflow range",
+  "validation_status": "verified_fixed_count",
+  "paired_chart_consistency": {
+    "chart_shape_ids": [
+      117,
+      127
+    ],
+    "metrics": [
+      {
+        "chart_shape_id": 117,
+        "value_field": "metrics[0].value",
+        "display_unit": "万"
+      },
+      {
+        "chart_shape_id": 127,
+        "value_field": "metrics[1].value",
+        "display_unit": "万"
+      }
+    ]
+  }
 }
