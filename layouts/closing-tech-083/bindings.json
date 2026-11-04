@@ -9,15 +9,18 @@
       "group_path": [],
       "source_text": "Thanks",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         4606058,
         1862182,
         2979886,
         639497
-      ]
+      ],
+      "max_lines": 1,
+      "capacity_status": "powerpoint_short_title_tested",
+      "semantic_path": "english_label"
     },
     {
       "field": "text_339",
@@ -27,15 +30,18 @@
       "group_path": [],
       "source_text": "谢谢观看",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_display",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         3963202,
         2783761,
         4265598,
         1432059
-      ]
+      ],
+      "max_lines": 1,
+      "capacity_status": "powerpoint_short_title_tested",
+      "semantic_path": "thanks_title"
     }
   ],
   "objects": {

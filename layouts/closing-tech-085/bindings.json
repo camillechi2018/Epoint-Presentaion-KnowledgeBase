@@ -9,15 +9,18 @@
       "group_path": [],
       "source_text": "营销推广方案",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_display",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         4339977,
         3684861,
         3512046,
         523220
-      ]
+      ],
+      "max_lines": 1,
+      "capacity_status": "powerpoint_short_title_tested",
+      "semantic_path": "project_subtitle"
     },
     {
       "field": "text_6",
@@ -29,13 +32,14 @@
       "source_sample_chars": 6,
       "max_chars": 24,
       "typography_role": "chinese_display",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1668781,
         1990419,
         8854440,
         1569660
-      ]
+      ],
+      "semantic_path": "thanks_title"
     }
   ],
   "objects": {

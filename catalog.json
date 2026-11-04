@@ -13599,7 +13599,7 @@
       "color_family": "deep-blue",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-visual-story-001",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -13675,7 +13675,10 @@
       "cover_match_status": "original_only_pending_review",
       "stock_code_default": null,
       "slogan_locked": null,
-      "composite_required": true
+      "composite_required": true,
+      "title_pressure_status": "tested_short_copy_only",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "cover-tech-002",
@@ -13685,7 +13688,7 @@
       "color_family": "deep-blue",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-visual-story-002",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -13761,7 +13764,10 @@
       "cover_match_status": "original_only_pending_review",
       "stock_code_default": null,
       "slogan_locked": null,
-      "composite_required": true
+      "composite_required": true,
+      "title_pressure_status": "tested_short_copy_only",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "cover-tech-003",
@@ -13771,7 +13777,7 @@
       "color_family": "deep-blue",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-visual-story-003",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -13832,7 +13838,10 @@
       "cover_match_status": "original_only_pending_review",
       "stock_code_default": null,
       "slogan_locked": null,
-      "composite_required": false
+      "composite_required": false,
+      "title_pressure_status": "tested_short_copy_only",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "cover-tech-004",
@@ -13842,7 +13851,7 @@
       "color_family": "deep-blue",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-visual-story-004",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -13903,7 +13912,10 @@
       "cover_match_status": "original_only_pending_review",
       "stock_code_default": null,
       "slogan_locked": null,
-      "composite_required": false
+      "composite_required": false,
+      "title_pressure_status": "tested_short_copy_only",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "cover-tech-005",
@@ -13913,7 +13925,7 @@
       "color_family": "deep-blue",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-visual-story-005",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -13974,7 +13986,10 @@
       "cover_match_status": "original_only_pending_review",
       "stock_code_default": null,
       "slogan_locked": null,
-      "composite_required": false
+      "composite_required": false,
+      "title_pressure_status": "tested_short_copy_only",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "directory-tech-006",
@@ -13984,7 +13999,7 @@
       "color_family": "deep-blue",
       "role": "directory",
       "information_relation": "navigation",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-navigation-006",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -14017,7 +14032,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": false,
       "semantic_review": "layouts/directory-tech-006/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "directory-tech-007",
@@ -14193,7 +14210,7 @@
       "color_family": "deep-blue",
       "role": "section",
       "information_relation": "section",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-section-011",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -14226,7 +14243,9 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": false,
       "semantic_review": "layouts/section-tech-011/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "section-tech-012",
@@ -14400,7 +14419,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "hierarchy",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-hierarchy-016",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -14435,7 +14454,9 @@
       "source_logo_shape_id": 3,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/content-tech-016/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "content-tech-017",
@@ -14660,7 +14681,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "hierarchy",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-hierarchy-022",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -14695,7 +14716,9 @@
       "source_logo_shape_id": 18,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/content-tech-022/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "content-tech-023",
@@ -14834,7 +14857,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "comparison",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-comparison-026",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -14869,7 +14892,9 @@
       "source_logo_shape_id": 3,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/content-tech-026/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "content-tech-027",
@@ -15094,7 +15119,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "process",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-process-032",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -15129,7 +15154,9 @@
       "source_logo_shape_id": 3,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/content-tech-032/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "content-tech-033",
@@ -15354,7 +15381,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "process",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-process-038",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -15389,9 +15416,11 @@
       "source_logo_shape_id": 4,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/content-tech-038/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure",
+      "semantic_review_status": "static_pptx_verified",
       "item_group_status": "reviewed_internal_prototype",
-      "item_group_field_count": 12
+      "item_group_field_count": 12,
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "content-tech-039",
@@ -15530,7 +15559,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "cycle",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-cycle-042",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -15565,7 +15594,9 @@
       "source_logo_shape_id": 3,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/content-tech-042/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "content-tech-043",
@@ -15661,7 +15692,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "process",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-process-045",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -15696,7 +15727,9 @@
       "source_logo_shape_id": 17,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/content-tech-045/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "content-tech-046",
@@ -16011,7 +16044,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "metrics",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-metrics-053",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -16046,7 +16079,9 @@
       "source_logo_shape_id": 14,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/content-tech-053/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "content-tech-054",
@@ -16486,7 +16521,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "timeline",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-timeline-064",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -16521,7 +16556,9 @@
       "source_logo_shape_id": 3,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/content-tech-064/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "content-tech-065",
@@ -16703,7 +16740,7 @@
       "color_family": "deep-blue",
       "role": "schedule",
       "information_relation": "schedule",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-schedule-069",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -16740,7 +16777,9 @@
       "item_group_status": "field_membership_reviewed_geometry_pending",
       "item_group_field_count": 18,
       "semantic_review": "layouts/schedule-tech-069/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "data-chart-tech-070",
@@ -16793,7 +16832,7 @@
       "color_family": "deep-blue",
       "role": "data-chart",
       "information_relation": "data-chart",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-data-chart-071",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -16828,7 +16867,9 @@
       "source_logo_shape_id": 19,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/data-chart-tech-071/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "data-chart-tech-072",
@@ -16967,7 +17008,7 @@
       "color_family": "deep-blue",
       "role": "data-chart",
       "information_relation": "data-chart",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-data-chart-075",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -17002,7 +17043,9 @@
       "source_logo_shape_id": 3,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/data-chart-tech-075/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "data-chart-tech-076",
@@ -17055,7 +17098,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "hierarchy",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-hierarchy-077",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -17090,7 +17133,9 @@
       "source_logo_shape_id": 3,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/content-tech-077/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "content-tech-078",
@@ -17229,7 +17274,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "cycle",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-cycle-081",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -17264,7 +17309,9 @@
       "source_logo_shape_id": 11,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/content-tech-081/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "static_pptx_verified",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "closing-tech-082",
@@ -17274,7 +17321,7 @@
       "color_family": "deep-blue",
       "role": "closing",
       "information_relation": "closing-message",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-closing-message-082",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -17312,7 +17359,10 @@
         "vision",
         "calm"
       ],
-      "closing_match_status": "original_plus_logo_pending_review"
+      "closing_match_status": "original_plus_logo_pending_review",
+      "title_pressure_status": "tested_short_copy_only",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "closing-tech-083",
@@ -17322,7 +17372,7 @@
       "color_family": "deep-blue",
       "role": "closing",
       "information_relation": "closing-message",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-closing-message-083",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -17360,7 +17410,10 @@
         "launch",
         "stage"
       ],
-      "closing_match_status": "original_plus_logo_pending_review"
+      "closing_match_status": "original_plus_logo_pending_review",
+      "title_pressure_status": "tested_short_copy_only",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "closing-tech-084",
@@ -17370,7 +17423,7 @@
       "color_family": "deep-blue",
       "role": "closing",
       "information_relation": "closing-message",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-closing-message-084",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -17408,7 +17461,10 @@
         "minimal",
         "line"
       ],
-      "closing_match_status": "original_plus_logo_pending_review"
+      "closing_match_status": "original_plus_logo_pending_review",
+      "title_pressure_status": "tested_short_copy_only",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     },
     {
       "id": "closing-tech-085",
@@ -17418,7 +17474,7 @@
       "color_family": "deep-blue",
       "role": "closing",
       "information_relation": "closing-message",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-closing-message-085",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -17456,7 +17512,10 @@
         "stage",
         "light-trail"
       ],
-      "closing_match_status": "original_plus_logo_pending_review"
+      "closing_match_status": "original_plus_logo_pending_review",
+      "title_pressure_status": "tested_short_copy_only",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked"
     }
   ],
   "pairing_method": "exact top-level shape signatures; provisional",

@@ -4,5 +4,10 @@
   "source_count": null,
   "candidate_counts": [],
   "reflow_status": "not_implemented",
-  "grouping_status": "provisional_requires_manual_object_review"
+  "grouping_status": "provisional_requires_manual_object_review",
+  "font_size_overrides_pt": {
+    "94": 17
+  },
+  "static_pptx_status": "verified_short_copy_draft",
+  "static_pptx_source_count": null
 }

@@ -11,13 +11,14 @@
       "source_sample_chars": 8,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         3637963,
         416934,
         4916076,
         430887
-      ]
+      ],
+      "semantic_path": "heading"
     },
     {
       "field": "text_22",
@@ -29,13 +30,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         2014492,
         1978741,
         1943800,
         461665
-      ]
+      ],
+      "semantic_path": "stage_1.title"
     },
     {
       "field": "text_23",
@@ -47,13 +49,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         2014492,
         3411660,
         1943800,
         461665
-      ]
+      ],
+      "semantic_path": "stage_2.title"
     },
     {
       "field": "text_24",
@@ -65,13 +68,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         2014492,
         4519579,
         1943800,
         461665
-      ]
+      ],
+      "semantic_path": "stage_3.title"
     },
     {
       "field": "text_53",
@@ -83,13 +87,14 @@
       "source_sample_chars": 44,
       "max_chars": 66,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         7510687,
         1934100,
         4065109,
         634533
-      ]
+      ],
+      "semantic_path": "stage_1.body"
     },
     {
       "field": "text_54",
@@ -101,13 +106,14 @@
       "source_sample_chars": 36,
       "max_chars": 54,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6388104,
         3210327,
         4065109,
         634533
-      ]
+      ],
+      "semantic_path": "stage_2.body"
     },
     {
       "field": "text_55",
@@ -119,13 +125,14 @@
       "source_sample_chars": 43,
       "max_chars": 64,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5406540,
         4486554,
         4065109,
         634533
-      ]
+      ],
+      "semantic_path": "stage_3.body"
     }
   ],
   "objects": {
@@ -136,11 +143,18 @@
         "shape_id": 68,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           66
         ],
         "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ],
+        "review_note": "来源页眉、光效或指标底纹装饰；保留原件，内容不从图片读取。",
+        "source_bounds_emu": [
           5558,
           131402,
           12171817,
@@ -151,11 +165,18 @@
         "shape_id": 71,
         "shape_name": "图片 70",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           66
         ],
         "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ],
+        "review_note": "来源页眉、光效或指标底纹装饰；保留原件，内容不从图片读取。",
+        "source_bounds_emu": [
           3686833,
           651534,
           4811984,
@@ -166,9 +187,16 @@
         "shape_id": 12,
         "shape_name": "图片 11",
         "sha256": "a4c25cf8e7c57196ade09c3265fd404050de89f1b2b82f03fcc00e81ef0cf810",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_visual_locked",
         "group_path": [],
         "bounds_emu_local": [
+          2117223,
+          2746561,
+          7024700,
+          2044318
+        ],
+        "review_note": "源稿漏斗主体图形，固定结构使用；不得当成可替换业务图片。",
+        "source_bounds_emu": [
           2117223,
           2746561,
           7024700,

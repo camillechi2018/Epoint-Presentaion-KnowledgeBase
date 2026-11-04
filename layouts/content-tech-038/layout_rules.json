@@ -81,5 +81,10 @@
     59
   ],
   "canvas_width_emu": 12192000,
-  "spacing_emu": 2850000
+  "spacing_emu": 2850000,
+  "static_pptx_status": "verified_short_copy_draft",
+  "static_pptx_source_count": 4,
+  "verified_counts": [
+    4
+  ]
 }

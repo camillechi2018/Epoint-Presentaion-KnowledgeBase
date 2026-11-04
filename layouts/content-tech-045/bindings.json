@@ -11,13 +11,14 @@
       "source_sample_chars": 74,
       "max_chars": 111,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         3301158,
         5164742,
         2823869,
         919162
-      ]
+      ],
+      "semantic_path": "item_2.body"
     },
     {
       "field": "text_48",
@@ -29,13 +30,14 @@
       "source_sample_chars": 71,
       "max_chars": 106,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         658637,
         2870533,
         2573177,
         919162
-      ]
+      ],
+      "semantic_path": "item_1.body"
     },
     {
       "field": "text_61",
@@ -50,13 +52,14 @@
       "source_sample_chars": 8,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         3637963,
         416934,
         4916076,
         430887
-      ]
+      ],
+      "semantic_path": "heading"
     },
     {
       "field": "text_62",
@@ -71,13 +74,14 @@
       "source_sample_chars": 27,
       "max_chars": 40,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1285874,
         1056165,
         9620252,
         301041
-      ]
+      ],
+      "semantic_path": "summary"
     },
     {
       "field": "text_76",
@@ -89,13 +93,14 @@
       "source_sample_chars": 64,
       "max_chars": 96,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5572039,
         2533168,
         2573177,
         919162
-      ]
+      ],
+      "semantic_path": "item_3.body"
     },
     {
       "field": "text_78",
@@ -107,13 +112,14 @@
       "source_sample_chars": 58,
       "max_chars": 87,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         9061108,
         4441457,
         2354874,
         919162
-      ]
+      ],
+      "semantic_path": "item_4.body"
     },
     {
       "field": "text_123",
@@ -127,13 +133,14 @@
       "source_sample_chars": 5,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         632813,
         1702746,
         1392045,
         293168
-      ]
+      ],
+      "semantic_path": "item_4.step"
     },
     {
       "field": "text_124",
@@ -147,13 +154,14 @@
       "source_sample_chars": 7,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         642338,
         1995914,
         2500912,
         491041
-      ]
+      ],
+      "semantic_path": "item_4.title"
     },
     {
       "field": "text_9",
@@ -167,13 +175,14 @@
       "source_sample_chars": 5,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         632813,
         1702746,
         1392045,
         293168
-      ]
+      ],
+      "semantic_path": "item_2.step"
     },
     {
       "field": "text_10",
@@ -187,13 +196,14 @@
       "source_sample_chars": 6,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         642338,
         1995914,
         2500912,
         491041
-      ]
+      ],
+      "semantic_path": "item_2.title"
     },
     {
       "field": "text_12",
@@ -207,13 +217,14 @@
       "source_sample_chars": 5,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         632813,
         1702746,
         1392045,
         293168
-      ]
+      ],
+      "semantic_path": "item_1.step"
     },
     {
       "field": "text_13",
@@ -227,13 +238,14 @@
       "source_sample_chars": 6,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         642338,
         1995914,
         2500912,
         491041
-      ]
+      ],
+      "semantic_path": "item_1.title"
     },
     {
       "field": "text_15",
@@ -247,13 +259,14 @@
       "source_sample_chars": 5,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         632813,
         1702746,
         1392045,
         293168
-      ]
+      ],
+      "semantic_path": "item_3.step"
     },
     {
       "field": "text_16",
@@ -267,13 +280,14 @@
       "source_sample_chars": 6,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         642338,
         1995914,
         2500912,
         491041
-      ]
+      ],
+      "semantic_path": "item_3.title"
     }
   ],
   "objects": {
@@ -284,12 +298,19 @@
         "shape_id": 63,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           58,
           59
         ],
         "bounds_emu_local": [
+          5558,
+          131402,
+          12171817,
+          809426
+        ],
+        "review_note": "来源页眉、光效或指标底纹装饰；保留原件，内容不从图片读取。",
+        "source_bounds_emu": [
           5558,
           131402,
           12171817,
@@ -300,12 +321,19 @@
         "shape_id": 66,
         "shape_name": "图片 65",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           58,
           59
         ],
         "bounds_emu_local": [
+          3686833,
+          651534,
+          4811984,
+          564680
+        ],
+        "review_note": "来源页眉、光效或指标底纹装饰；保留原件，内容不从图片读取。",
+        "source_bounds_emu": [
           3686833,
           651534,
           4811984,

@@ -5,9 +5,9 @@
   "source_item_count": 3,
   "component_parts": "三层三角、三条解释与图标对应",
   "content_fit_limit": "竖线装饰文字不可作为内容字段",
-  "review_status": "first_pass_visual_and_structure",
-  "field_binding_status": "provisional_except_explicitly_reviewed_groups",
-  "normal_use_status": "not_verified",
+  "review_status": "static_pptx_verified",
+  "field_binding_status": "reviewed",
+  "normal_use_status": "static_pptx_verified_draft",
   "source_text_policy": "源稿中的业务、数字、人名均为示例，不得作为输出事实",
   "layer_field_mapping": [
     {
@@ -28,5 +28,6 @@
       "badge": "text_54",
       "description": "text_26"
     }
-  ]
+  ],
+  "verification_note": "虚构内容实填、PowerPoint 渲染、文字边界、单 Logo 与图片 fallback 已核对；HTML、动效和扩展色分别验收。"
 }

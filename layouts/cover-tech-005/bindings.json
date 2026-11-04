@@ -9,15 +9,18 @@
       "group_path": [],
       "source_text": "连接·无限可能",
       "source_sample_chars": 7,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_display",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1182914,
         1403115,
         9826172,
         1477328
-      ]
+      ],
+      "max_lines": 1,
+      "capacity_status": "powerpoint_short_title_tested",
+      "semantic_path": "title"
     },
     {
       "field": "text_33",
@@ -29,13 +32,14 @@
       "source_sample_chars": 17,
       "max_chars": 25,
       "typography_role": "chinese_display",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         4059588,
         3599345,
         4072825,
         369332
-      ]
+      ],
+      "semantic_path": "speaker"
     }
   ],
   "objects": {

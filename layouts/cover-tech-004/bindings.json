@@ -9,15 +9,18 @@
       "group_path": [],
       "source_text": "算力终端合作介绍",
       "source_sample_chars": 8,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_display",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         893678,
         1844752,
         10404644,
         1446550
-      ]
+      ],
+      "max_lines": 1,
+      "capacity_status": "powerpoint_short_title_tested",
+      "semantic_path": "title"
     },
     {
       "field": "text_8",
@@ -29,13 +32,14 @@
       "source_sample_chars": 8,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         4821156,
         3500792,
         2549688,
         440121
-      ]
+      ],
+      "semantic_path": "place_date"
     }
   ],
   "objects": {

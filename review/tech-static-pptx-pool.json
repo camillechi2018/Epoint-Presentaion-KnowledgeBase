@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "status": "static_pptx_verified_draft",
+  "representative_pages": [
+    6,
+    11,
+    16,
+    22,
+    26,
+    32,
+    38,
+    42,
+    45,
+    53,
+    64,
+    69,
+    71,
+    75,
+    77,
+    81
+  ],
+  "covers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "closings": [
+    82,
+    83,
+    84,
+    85
+  ],
+  "sample_policy": "fictitious_data_only",
+  "tested_sample_count": 25,
+  "title_pressure_cases": 27,
+  "title_limits": {
+    "1": {
+      "text_6": 8,
+      "text_4": 30
+    },
+    "2": {
+      "text_7": 4,
+      "text_6": 8
+    },
+    "3": {
+      "text_9": 8
+    },
+    "4": {
+      "text_7": 8
+    },
+    "5": {
+      "text_23": 6
+    },
+    "82": {
+      "text_22": 4,
+      "text_25": 6
+    },
+    "83": {
+      "text_339": 4,
+      "text_338": 6
+    },
+    "84": {
+      "text_29": 4
+    },
+    "85": {
+      "text_5": 8
+    }
+  },
+  "source_fixed_counts_only": {
+    "38": 4,
+    "69": 6
+  },
+  "checks": [
+    "PowerPoint open/export",
+    "actual_text_bounds",
+    "one_logo_per_page",
+    "svg_primary_fallback",
+    "native_editable_chart_71_75",
+    "source_image_semantics",
+    "short_title_pressure"
+  ],
+  "excluded_capabilities": [
+    "html",
+    "motion",
+    "theme_recolor",
+    "unverified_item_counts",
+    "long_titles"
+  ],
+  "chart_verification": {
+    "71": "one native line chart, 5 categories and one replaced series",
+    "75": "one native combo chart, 7 categories and two replaced series"
+  },
+  "visual_review": "16 representative and 9 short-copy bookend slides inspected in contact sheets",
+  "brand_status": "one valid logo on each of 25 normal-filled samples",
+  "evidence": {
+    "representative_gallery": "review/tech-16-static-pptx.jpg",
+    "safe_bookends_gallery": "review/tech-9-short-title.jpg"
+  }
+}

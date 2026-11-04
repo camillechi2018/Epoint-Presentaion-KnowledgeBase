@@ -5,8 +5,9 @@
   "source_item_count": 4,
   "component_parts": "四类风险的标题、说明和编号",
   "content_fit_limit": "四项是并列诊断，不代表时间先后",
-  "review_status": "first_pass_visual_and_structure",
-  "field_binding_status": "provisional_except_explicitly_reviewed_groups",
-  "normal_use_status": "not_verified",
-  "source_text_policy": "源稿中的业务、数字、人名均为示例，不得作为输出事实"
+  "review_status": "static_pptx_verified",
+  "field_binding_status": "reviewed",
+  "normal_use_status": "static_pptx_verified_draft",
+  "source_text_policy": "源稿中的业务、数字、人名均为示例，不得作为输出事实",
+  "verification_note": "虚构内容实填、PowerPoint 渲染、文字边界、单 Logo 与图片 fallback 已核对；HTML、动效和扩展色分别验收。"
 }

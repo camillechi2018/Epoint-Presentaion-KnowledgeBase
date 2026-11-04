@@ -9,15 +9,18 @@
       "group_path": [],
       "source_text": "数字系统解决方案",
       "source_sample_chars": 8,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_display",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         238125,
         1558288,
         11715750,
         1200329
-      ]
+      ],
+      "max_lines": 1,
+      "capacity_status": "powerpoint_short_title_tested",
+      "semantic_path": "title"
     },
     {
       "field": "text_10",
@@ -29,13 +32,14 @@
       "source_sample_chars": 14,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         3203140,
         2841599,
         5785718,
         484133
-      ]
+      ],
+      "semantic_path": "subtitle"
     }
   ],
   "objects": {
