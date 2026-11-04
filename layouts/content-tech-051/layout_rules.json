@@ -1,6 +1,12 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
+  "cardinality_mode": "tech_six_pillars",
+  "supported_counts": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
   "source_count": 6,
   "candidate_counts": [
     2,
@@ -9,6 +15,120 @@
     5,
     6
   ],
-  "reflow_status": "not_implemented",
-  "grouping_status": "provisional_requires_manual_object_review"
+  "reflow_status": "internal_prototype",
+  "grouping_status": "provisional_requires_manual_object_review",
+  "validation_status": "prototype_requires_visual_review",
+  "units": [
+    [
+      269,
+      281,
+      282,
+      294
+    ],
+    [
+      271,
+      283,
+      295,
+      305
+    ],
+    [
+      273,
+      285,
+      296,
+      304
+    ],
+    [
+      274,
+      287,
+      297,
+      303
+    ],
+    [
+      272,
+      289,
+      298,
+      302
+    ],
+    [
+      270,
+      291,
+      299,
+      301
+    ]
+  ],
+  "item_fields": [
+    {
+      "description": "text_281",
+      "title": "text_282"
+    },
+    {
+      "description": "text_283",
+      "title": "text_305"
+    },
+    {
+      "description": "text_285",
+      "title": "text_304"
+    },
+    {
+      "description": "text_287",
+      "title": "text_303"
+    },
+    {
+      "description": "text_289",
+      "title": "text_302"
+    },
+    {
+      "description": "text_291",
+      "title": "text_301"
+    }
+  ],
+  "source_indices_by_count": {
+    "2": [
+      0,
+      5
+    ],
+    "3": [
+      0,
+      2,
+      5
+    ],
+    "4": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "5": [
+      0,
+      1,
+      2,
+      4,
+      5
+    ],
+    "6": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "spacing_emu_by_count": {
+    "2": 3017520,
+    "3": 2788920,
+    "4": 2331720,
+    "5": 2066544,
+    "6": 1823280
+  },
+  "canvas_width_emu": 12192000,
+  "anchor_shape_ids": [
+    269,
+    271,
+    273,
+    274,
+    272,
+    270
+  ],
+  "computed_count_shape_id": 280
 }

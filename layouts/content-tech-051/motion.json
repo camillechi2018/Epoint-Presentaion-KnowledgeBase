@@ -1,9 +1,81 @@
 {
+  "layout_id": "content-tech-051",
   "source_animation": false,
   "source_transition": false,
   "motion_suitability": "A",
-  "status": "static",
-  "eligible_groups": [],
+  "status": "prototype",
+  "preset": "step-reveal",
+  "effect": "fade",
+  "duration_seconds": 0.35,
+  "groups": [
+    {
+      "step": 1,
+      "shape_ids": [
+        269,
+        281,
+        282,
+        294
+      ],
+      "semantic_unit": "pillar_1"
+    },
+    {
+      "step": 2,
+      "shape_ids": [
+        271,
+        283,
+        295,
+        305
+      ],
+      "semantic_unit": "pillar_2"
+    },
+    {
+      "step": 3,
+      "shape_ids": [
+        273,
+        285,
+        296,
+        304
+      ],
+      "semantic_unit": "pillar_3"
+    },
+    {
+      "step": 4,
+      "shape_ids": [
+        274,
+        287,
+        297,
+        303
+      ],
+      "semantic_unit": "pillar_4"
+    },
+    {
+      "step": 5,
+      "shape_ids": [
+        272,
+        289,
+        298,
+        302
+      ],
+      "semantic_unit": "pillar_5"
+    },
+    {
+      "step": 6,
+      "shape_ids": [
+        270,
+        291,
+        299,
+        301
+      ],
+      "semantic_unit": "pillar_6"
+    }
+  ],
+  "static_shape_ids": [
+    280,
+    293,
+    3
+  ],
   "brand_static": true,
-  "final_state_complete": true
+  "final_state_complete": true,
+  "playback_review": "not_signed_off",
+  "group_generation_rule": "animate retained source pillar object sets in logical order"
 }

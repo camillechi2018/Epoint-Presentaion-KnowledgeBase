@@ -144,13 +144,14 @@
       "source_sample_chars": 1,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "computed_item_count",
       "bounds_emu_local": [
         4303126,
         4494542,
         1456690,
         1569660
-      ]
+      ],
+      "semantic_key": "item_count"
     },
     {
       "field": "text_293",
