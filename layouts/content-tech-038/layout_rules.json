@@ -1,12 +1,85 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
+  "cardinality_mode": "tech_process_columns",
+  "supported_counts": [
+    2,
+    3,
+    4
+  ],
   "source_count": 4,
   "candidate_counts": [
     2,
     3,
     4
   ],
-  "reflow_status": "not_implemented",
-  "grouping_status": "provisional_requires_manual_object_review"
+  "reflow_status": "internal_prototype",
+  "grouping_status": "reviewed_internal_prototype",
+  "validation_status": "prototype_requires_visual_review",
+  "units": [
+    [
+      31,
+      22,
+      26,
+      30,
+      49,
+      56,
+      74
+    ],
+    [
+      68,
+      69,
+      70,
+      71,
+      50,
+      55,
+      80
+    ],
+    [
+      63,
+      64,
+      65,
+      66,
+      51,
+      54,
+      87
+    ],
+    [
+      58,
+      59,
+      60,
+      61,
+      52,
+      53,
+      90
+    ]
+  ],
+  "item_fields": [
+    {
+      "number": "text_31",
+      "title": "text_49",
+      "body": "text_56"
+    },
+    {
+      "number": "text_68",
+      "title": "text_50",
+      "body": "text_55"
+    },
+    {
+      "number": "text_63",
+      "title": "text_51",
+      "body": "text_54"
+    },
+    {
+      "number": "text_58",
+      "title": "text_52",
+      "body": "text_53"
+    }
+  ],
+  "anchor_shape_ids": [
+    22,
+    69,
+    64,
+    59
+  ],
+  "canvas_width_emu": 12192000,
+  "spacing_emu": 2850000
 }

@@ -15371,15 +15371,17 @@
       "shape_count": 46,
       "media_status": "unreviewed",
       "html_support": "not_implemented",
-      "motion_support": "source_static",
+      "motion_support": "prototype_requires_playback_review",
       "motion_suitability": "A",
-      "cardinality_status": "not_implemented",
+      "cardinality_status": "internal_prototype_requires_visual_review",
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 4,
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review": "layouts/content-tech-038/semantic-review.json",
-      "semantic_review_status": "first_pass_visual_and_structure"
+      "semantic_review_status": "first_pass_visual_and_structure",
+      "item_group_status": "reviewed_internal_prototype",
+      "item_group_field_count": 12
     },
     {
       "id": "content-tech-039",

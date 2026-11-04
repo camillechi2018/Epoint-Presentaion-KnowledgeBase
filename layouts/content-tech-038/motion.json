@@ -1,9 +1,72 @@
 {
+  "layout_id": "content-tech-038",
   "source_animation": false,
   "source_transition": false,
   "motion_suitability": "A",
-  "status": "static",
-  "eligible_groups": [],
+  "status": "prototype",
+  "preset": "step-reveal",
+  "effect": "fade",
+  "duration_seconds": 0.35,
+  "groups": [
+    {
+      "step": 1,
+      "shape_ids": [
+        31,
+        22,
+        26,
+        30,
+        49,
+        56,
+        74
+      ],
+      "semantic_unit": "step_1"
+    },
+    {
+      "step": 2,
+      "shape_ids": [
+        68,
+        69,
+        70,
+        71,
+        50,
+        55,
+        80
+      ],
+      "semantic_unit": "step_2"
+    },
+    {
+      "step": 3,
+      "shape_ids": [
+        63,
+        64,
+        65,
+        66,
+        51,
+        54,
+        87
+      ],
+      "semantic_unit": "step_3"
+    },
+    {
+      "step": 4,
+      "shape_ids": [
+        58,
+        59,
+        60,
+        61,
+        52,
+        53,
+        90
+      ],
+      "semantic_unit": "step_4"
+    }
+  ],
+  "static_shape_ids": [
+    2,
+    4
+  ],
   "brand_static": true,
-  "final_state_complete": true
+  "final_state_complete": true,
+  "playback_review": "not_signed_off",
+  "group_generation_rule": "animate seven retained top-level objects per semantic step"
 }
