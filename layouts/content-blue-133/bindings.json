@@ -15,7 +15,10 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "page_title",
+      "semantic_path": "page.title",
+      "max_width_units": 32,
+      "max_lines": 1
     },
     {
       "field": "text_32",
@@ -31,7 +34,10 @@
         248.7,
         41.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "axis_label",
+      "semantic_path": "axis.top",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_33",
@@ -47,7 +53,10 @@
         248.7,
         41.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "axis_label",
+      "semantic_path": "axis.bottom",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_26",
@@ -63,7 +72,10 @@
         300.5,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "problem_title",
+      "semantic_path": "pairs[0].problem_title",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_29",
@@ -79,7 +91,10 @@
         300.5,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "problem_title",
+      "semantic_path": "pairs[1].problem_title",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_35",
@@ -95,7 +110,10 @@
         300.5,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "problem_title",
+      "semantic_path": "pairs[2].problem_title",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_38",
@@ -111,7 +129,10 @@
         300.5,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "action_title",
+      "semantic_path": "pairs[0].action_title",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_39",
@@ -127,7 +148,10 @@
         300.5,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "action_title",
+      "semantic_path": "pairs[1].action_title",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_40",
@@ -143,7 +167,10 @@
         300.5,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "action_title",
+      "semantic_path": "pairs[2].action_title",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_4",
@@ -159,7 +186,10 @@
         43.6,
         104.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "column_label",
+      "semantic_path": "column.problem",
+      "max_width_units": 8,
+      "max_lines": 1
     },
     {
       "field": "text_42",
@@ -175,14 +205,17 @@
         43.6,
         104.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "column_label",
+      "semantic_path": "column.action",
+      "max_width_units": 8,
+      "max_lines": 1
     },
     {
       "field": "text_43",
       "shape_id": 43,
       "shape_name": "文本框 42",
       "type": "text",
-      "max_chars": 162,
+      "max_chars": 60,
       "source_sample_chars": 81,
       "source_text": "任务堆积：由于未能合理规划工作时间，导致任务的优先级不明确，影响了工作进度。\n工作延误：缺乏对各项工作的清晰时间划分，导致部分任务未按时完成，影响了整体工作进度。",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         290.8,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "problem_body",
+      "semantic_path": "pairs[0].problem_body",
+      "max_width_units": 60,
+      "max_lines": 2
     },
     {
       "field": "text_44",
       "shape_id": 44,
       "shape_name": "文本框 43",
       "type": "text",
-      "max_chars": 196,
+      "max_chars": 60,
       "source_sample_chars": 98,
       "source_text": "信息传递延迟：在项目推进过程中，与团队成员的沟通不及时，导致信息更新滞后，影响了工作的顺利推进。\n沟通不够主动：部分情况下，未能主动向相关人员确认任务进展，导致信息缺乏同步，出现协调不及时的情况。",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         290.8,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "problem_body",
+      "semantic_path": "pairs[1].problem_body",
+      "max_width_units": 60,
+      "max_lines": 2
     },
     {
       "field": "text_45",
       "shape_id": 45,
       "shape_name": "文本框 44",
       "type": "text",
-      "max_chars": 148,
+      "max_chars": 60,
       "source_sample_chars": 74,
       "source_text": "忽视细节：在任务执行过程中未能严格把控细节，导致工作结果存在偏差或瑕疵。\n错误发生：由于对细节关注不够，偶尔出现低级错误，影响了工作质量和最终结果。",
       "bounds_pt": [
@@ -223,14 +262,17 @@
         290.8,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "problem_body",
+      "semantic_path": "pairs[2].problem_body",
+      "max_width_units": 60,
+      "max_lines": 2
     },
     {
       "field": "text_46",
       "shape_id": 46,
       "shape_name": "文本框 45",
       "type": "text",
-      "max_chars": 160,
+      "max_chars": 60,
       "source_sample_chars": 80,
       "source_text": "第一步：制定工作计划，明确任务的优先级，确保重要任务得到优先处理。\n第二步：采用时间块管理法，将任务分配到固定时间内，提高专注度和工作效率，避免拖延和任务堆积。",
       "bounds_pt": [
@@ -239,14 +281,17 @@
         290.8,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "action_body",
+      "semantic_path": "pairs[0].action_body",
+      "max_width_units": 60,
+      "max_lines": 2
     },
     {
       "field": "text_47",
       "shape_id": 47,
       "shape_name": "文本框 46",
       "type": "text",
-      "max_chars": 174,
+      "max_chars": 60,
       "source_sample_chars": 87,
       "source_text": "第一步：设立定期的沟通会议或同步更新机制，确保团队成员间的信息能够及时传递和共享。\n第二步：在遇到问题时，主动联系相关人员进行沟通，确保项目进展和工作需求能够及时协调和解决。",
       "bounds_pt": [
@@ -255,14 +300,17 @@
         290.8,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "action_body",
+      "semantic_path": "pairs[1].action_body",
+      "max_width_units": 60,
+      "max_lines": 2
     },
     {
       "field": "text_48",
       "shape_id": 48,
       "shape_name": "文本框 47",
       "type": "text",
-      "max_chars": 174,
+      "max_chars": 60,
       "source_sample_chars": 87,
       "source_text": "第一步：在开始执行任务前，制定详细的执行计划，确保每个细节都被提前考虑并安排妥当。\n第二步：对重要的任务进行二次检查，确保细节无误，必要时向同事请教，以提升细节把控的准确性。",
       "bounds_pt": [
@@ -271,7 +319,10 @@
         290.8,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "action_body",
+      "semantic_path": "pairs[2].action_body",
+      "max_width_units": 60,
+      "max_lines": 2
     }
   ],
   "objects": {

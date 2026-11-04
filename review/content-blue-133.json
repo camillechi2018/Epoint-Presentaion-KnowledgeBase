@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-04",
+  "layout_id": "content-blue-133",
+  "source_pages": {
+    "blue": 133,
+    "red": 133
+  },
+  "status": "verified_static_pptx_draft_pending_review",
+  "semantics": "three vertically aligned problem/action pairs; top/bottom axes and center icon are static structure",
+  "supported_counts": [
+    3
+  ],
+  "editable_shapes": {
+    "blue": 43,
+    "red": 43
+  },
+  "preview_paths": [
+    "review/content-blue-133-blue-filled.png",
+    "review/content-blue-133-red-filled.png"
+  ],
+  "logo_audit": {
+    "blue": 1,
+    "red": 1,
+    "passed": true
+  },
+  "media_audit": {
+    "missing_primary": 0,
+    "broken_primary": 0,
+    "passed": true
+  },
+  "limits": [
+    "animation not implemented",
+    "HTML not implemented",
+    "other theme colors not verified",
+    "asset draft pending review"
+  ]
+}

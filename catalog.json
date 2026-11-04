@@ -5585,10 +5585,10 @@
       "id": "content-blue-133",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-133",
+      "role": "comparison",
+      "information_relation": "problem-solution",
+      "classification_status": "verified",
+      "family_id": "three-problem-action-rows",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-133/bindings.json",
@@ -5608,7 +5608,7 @@
       },
       "source_page": 133,
       "shape_count": 43,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo_only",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -5621,7 +5621,15 @@
       "red_source_logo_shape_id": 6,
       "red_bindings": "layouts/content-blue-133/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 133
+      "red_source_page": 133,
+      "semantic_review_status": "verified_blue_red",
+      "composition_tags": [
+        "problem-solution",
+        "three-pairs",
+        "aligned-rows"
+      ],
+      "density": "high",
+      "pptx_support": "verified_static"
     },
     {
       "id": "content-blue-134",
