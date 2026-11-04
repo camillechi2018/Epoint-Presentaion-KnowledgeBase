@@ -2,11 +2,11 @@
   "schema_version": "1.0",
   "version": "1.0.0-draft",
   "status": "draft_pending_review",
-  "file_count": 2883,
+  "file_count": 2886,
   "files": {
     ".gitignore": "01f797f0f3bba220a65d704559a3adb2beaecf1ab31b60cdd61b163b5c3a02f1",
     "BRANCH.md": "0aade4fb01c3b752ca012db536bacc760af74cc9aad53e959ff860d7d4d88176",
-    "catalog.json": "2baec8acab8eb9e3e83761a5f7ccb7fe8470ce4046bddfc2b836a23f61db2f9a",
+    "catalog.json": "0e584313dd0564d49431f4ca48b91a2ba95ddaccf9cbb498b9176af5b611308e",
     "color-inventory.json": "ceb5adb1440854226de6fcc007086b69b1e7cae49889ef12bc0e0b21a456cb39",
     "color-pair-audit.json": "704a8f1b46034e9e0cfcb1d3d33099fd3a40778da01640454aeb2295acb69d96",
     "color-summary.json": "d4d19da269e8018ac0caa74648d67f4924d75efdc5528aff408506c367330c09",
@@ -1392,11 +1392,11 @@
     "layouts/content-blue-259/layout_rules.json": "0a0ec06bcc945615c03aa2c130e3218de5b88c6aaebf46f1bcd9c91db75f59a9",
     "layouts/content-blue-259/motion.json": "300fb58d7ef05c539d184d5a97533d3daf68a17ede1422b1d3272d94f10b6502",
     "layouts/content-blue-259/spec.md": "23342b8e9d21fb8f3319e32de5b87c37ac5477473789e1768efccaabfd5e96ed",
-    "layouts/content-blue-260/bindings-red.json": "164cf44ca389b71c2a9c9b9ecd90effc447ae483b6757d8e8084531983d2734b",
-    "layouts/content-blue-260/bindings.json": "43441bb548e31ae54fa6b089e9d88a87aa33efc450bcb01eaf1c4376fbb488e7",
-    "layouts/content-blue-260/layout_rules.json": "dda260c5ad0cffdfd7eba543216f9d002707556f76ca86a18ab745d8ee024488",
-    "layouts/content-blue-260/motion.json": "300fb58d7ef05c539d184d5a97533d3daf68a17ede1422b1d3272d94f10b6502",
-    "layouts/content-blue-260/spec.md": "71f4631d7d7739ed1c310fececd9ae7a861f2d42842f372daf04d3781ceb9988",
+    "layouts/content-blue-260/bindings-red.json": "561c6177049187fc0d86c6ae484b282dc8eacd5b5eb599cc841f0cd82726cc5b",
+    "layouts/content-blue-260/bindings.json": "35933715ecac8343f8deb0070466452de28a0c55c666198d3e5cbddec00e9081",
+    "layouts/content-blue-260/layout_rules.json": "e3ff1ea9a3005aae1cdf2a67c91d11539181addd8333be926a0780fedb2ce1ed",
+    "layouts/content-blue-260/motion.json": "d40a8683f459496ff82ebf76ba0edad9676127eb228a275783dda41262e46b83",
+    "layouts/content-blue-260/spec.md": "8e1bbaa04fc513f41719187b5aeaf97d6389daa706c8f2d39727a04dbdefd54c",
     "layouts/content-blue-261/bindings-red.json": "ac53e1d7936ed001faf07ed65efe04997e2af8d53bf3ca4f0c9a845186e49bce",
     "layouts/content-blue-261/bindings.json": "50b43220951229ecc2c0f751cd8596afd6fd7b3828ca3dfecd80dbde301c7682",
     "layouts/content-blue-261/layout_rules.json": "0a0ec06bcc945615c03aa2c130e3218de5b88c6aaebf46f1bcd9c91db75f59a9",
@@ -2886,6 +2886,9 @@
     "source-previews/tech/P084.png": "a29c0ff545af9b8519613c73132d5d3711a8742598e1abb7458e9a05c3c24cdd",
     "source-previews/tech/P085.png": "df256d09209e352d21f60af9385cfbca2d826b95950dea0a78970eb26ddb022b",
     "review/blue-red-curated-001-002.png": "ec7241750e5ed9d863a054aa9cf0894b4e8640d260eb7e15be767e65138a0622",
-    "review/blue-red-curated-001-002.json": "6c6622f752c16e3f90ff08b473250a0e3e02908ee2fd301a5a6f96da01bd20a6"
+    "review/blue-red-curated-001-002.json": "6c6622f752c16e3f90ff08b473250a0e3e02908ee2fd301a5a6f96da01bd20a6",
+    "review/content-blue-260-blue-filled.png": "52259a80dfe0f7735b72f975c51cb0a4a6674cf9284e6b33213659835ca5daf7",
+    "review/content-blue-260-red-filled.png": "40d0cd10dbbb5e2464a832030dda092bc61f1997e46cbde76c5aa2f5dc42a19c",
+    "review/content-blue-260.json": "c092cec94bf13c7d49edce748f9d8d2fd496837394879f74d201e7221eafdb60"
   }
 }

@@ -15,7 +15,10 @@
         268.7,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_body",
+      "semantic_path": "steps[0].body",
+      "max_width_units": 44,
+      "max_lines": 2
     },
     {
       "field": "text_22",
@@ -31,7 +34,10 @@
         268.7,
         35.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_title",
+      "semantic_path": "steps[0].title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_18",
@@ -47,7 +53,13 @@
         91.7,
         40.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_number",
+      "semantic_path": "steps[0].number",
+      "max_width_units": 2,
+      "max_lines": 1,
+      "allowed_values": [
+        "01"
+      ]
     },
     {
       "field": "text_19",
@@ -63,7 +75,13 @@
         91.7,
         40.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_number",
+      "semantic_path": "steps[1].number",
+      "max_width_units": 2,
+      "max_lines": 1,
+      "allowed_values": [
+        "02"
+      ]
     },
     {
       "field": "text_27",
@@ -79,7 +97,13 @@
         91.7,
         40.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_number",
+      "semantic_path": "steps[3].number",
+      "max_width_units": 2,
+      "max_lines": 1,
+      "allowed_values": [
+        "04"
+      ]
     },
     {
       "field": "text_28",
@@ -95,7 +119,13 @@
         91.7,
         40.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_number",
+      "semantic_path": "steps[2].number",
+      "max_width_units": 2,
+      "max_lines": 1,
+      "allowed_values": [
+        "03"
+      ]
     },
     {
       "field": "text_29",
@@ -111,7 +141,10 @@
         264.3,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_body",
+      "semantic_path": "steps[1].body",
+      "max_width_units": 44,
+      "max_lines": 2
     },
     {
       "field": "text_30",
@@ -127,7 +160,10 @@
         268.7,
         35.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_title",
+      "semantic_path": "steps[1].title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_34",
@@ -143,7 +179,10 @@
         159.5,
         25.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked",
+      "semantic_path": "source.ghost_header",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_35",
@@ -159,7 +198,10 @@
         268.7,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_body",
+      "semantic_path": "steps[3].body",
+      "max_width_units": 44,
+      "max_lines": 2
     },
     {
       "field": "text_36",
@@ -175,7 +217,10 @@
         268.7,
         35.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_title",
+      "semantic_path": "steps[3].title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_41",
@@ -191,7 +236,10 @@
         263.4,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_body",
+      "semantic_path": "steps[2].body",
+      "max_width_units": 44,
+      "max_lines": 2
     },
     {
       "field": "text_42",
@@ -207,7 +255,10 @@
         268.7,
         35.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "step_title",
+      "semantic_path": "steps[2].title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_10",
@@ -223,7 +274,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "page_title",
+      "semantic_path": "page.title",
+      "max_width_units": 48,
+      "max_lines": 1
     }
   ],
   "objects": {
@@ -244,5 +298,5 @@
       }
     ]
   },
-  "review": "paired by flattened object order; shape IDs are theme-specific; provisional"
+  "review": "P260/P261 four-stage clockwise cycle; ghost duplicate header excluded"
 }

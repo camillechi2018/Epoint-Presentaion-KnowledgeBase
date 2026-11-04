@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-04",
+  "layout_id": "content-blue-260",
+  "source_pages": {
+    "blue": 260,
+    "red": 261
+  },
+  "status": "verified_static_pptx_draft_pending_review",
+  "structure": {
+    "blue_top_level_shapes": 21,
+    "red_top_level_shapes": 21,
+    "geometry_same_except_source_logo_id": true
+  },
+  "field_semantics": "four clockwise stages with fixed 01-04 numbering",
+  "supported_counts": [
+    4
+  ],
+  "source_ghost_text_removed": true,
+  "logo_replaced_at_source_anchor": true,
+  "preview_paths": [
+    "review/content-blue-260-blue-filled.png",
+    "review/content-blue-260-red-filled.png"
+  ],
+  "static_final_matches_motion_render": {
+    "blue": true,
+    "red": true
+  },
+  "motion": {
+    "status": "prototype_requires_playback_review",
+    "preset": "cycle-reveal",
+    "steps": 4,
+    "effects_per_theme": 12,
+    "structural_audit_passed": true,
+    "real_playback_signed_off": false
+  },
+  "logo_audit": {
+    "blue": 1,
+    "red": 1,
+    "passed": true
+  },
+  "media_audit": {
+    "missing_primary": 0,
+    "broken_primary": 0,
+    "passed": true
+  },
+  "limits": [
+    "HTML not implemented",
+    "motion requires live slideshow review",
+    "theme extension beyond blue/red not verified",
+    "asset draft pending review"
+  ]
+}

@@ -10880,7 +10880,7 @@
       "collection": "new-template-content",
       "role": "cycle",
       "information_relation": "cyclical-process",
-      "classification_status": "visual_reviewed",
+      "classification_status": "verified",
       "family_id": "cycle-four-ring",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
@@ -10901,9 +10901,9 @@
       },
       "source_page": 260,
       "shape_count": 46,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo_only",
       "html_support": "not_implemented",
-      "motion_support": "source_static",
+      "motion_support": "prototype_requires_playback_review",
       "source_mapping": {
         "blue": 260,
         "red": 261
@@ -10920,7 +10920,10 @@
         "ring",
         "cycle"
       ],
-      "density": "medium"
+      "density": "medium",
+      "replace_source_logo": true,
+      "semantic_review_status": "verified_blue_red",
+      "pptx_support": "verified_static"
     },
     {
       "id": "content-blue-261",

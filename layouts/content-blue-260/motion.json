@@ -1,8 +1,54 @@
 {
+  "layout_id": "content-blue-260",
+  "preset": "cycle-reveal",
+  "effect": "fade",
+  "trigger": "on-click",
+  "duration_seconds": 0.35,
+  "groups": [
+    {
+      "step": 1,
+      "semantic_target": "steps[0]",
+      "shape_ids": [
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "step": 2,
+      "semantic_target": "steps[1]",
+      "shape_ids": [
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "step": 3,
+      "semantic_target": "steps[2]",
+      "shape_ids": [
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "step": 4,
+      "semantic_target": "steps[3]",
+      "shape_ids": [
+        35,
+        36,
+        37
+      ]
+    }
+  ],
+  "static_shape_ids": [
+    9,
+    10,
+    12
+  ],
+  "brand_static": true,
   "source_animation": false,
   "source_transition": false,
-  "status": "static",
-  "eligible_groups": [],
-  "brand_static": true,
-  "final_state_complete": true
+  "status": "prototype"
 }

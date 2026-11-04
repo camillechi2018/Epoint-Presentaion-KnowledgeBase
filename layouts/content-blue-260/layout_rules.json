@@ -1,7 +1,13 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    4
+  ],
   "source_count": 4,
   "reflow_status": "not_implemented",
-  "count_evidence": "source_preview_only; not a validated reflow range"
+  "count_evidence": "four clockwise sections; item-count variation requires redesign",
+  "validation_status": "verified_fixed_count",
+  "drop_shape_ids": [
+    34
+  ]
 }
