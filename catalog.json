@@ -8067,12 +8067,18 @@
       ],
       "density": "dense",
       "curation_batch": 2,
-      "batch_status": "selected_pending_variable_validation",
+      "batch_status": "fixed_structure_reviewed_semantic_fill_pending",
       "planned_count_tests": [
-        4,
-        6,
-        8
-      ]
+        6
+      ],
+      "cardinality_policy": "fixed_no_row_add_remove",
+      "fixed_structure_evidence": {
+        "native_table_rows": 7,
+        "header_rows": 1,
+        "data_rows": 6,
+        "columns": 13,
+        "reason": "Timeline bars and date labels are separate native shapes aligned to six table rows."
+      }
     },
     {
       "id": "content-blue-192",

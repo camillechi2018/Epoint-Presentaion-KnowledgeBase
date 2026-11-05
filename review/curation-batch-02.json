@@ -60,10 +60,16 @@
       "layout_id": "content-blue-191",
       "source_page": 191,
       "planned_count_tests": [
-        4,
-        6,
-        8
-      ]
+        6
+      ],
+      "cardinality_decision": "fixed_no_row_add_remove",
+      "validation_status": "source_structure_reviewed_semantic_fill_pending",
+      "evidence": {
+        "native_table_rows": 7,
+        "header_rows": 1,
+        "data_rows": 6,
+        "columns": 13
+      }
     },
     {
       "layout_id": "content-blue-230",
