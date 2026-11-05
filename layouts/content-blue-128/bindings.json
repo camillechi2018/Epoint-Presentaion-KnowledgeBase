@@ -6,7 +6,7 @@
       "shape_id": 42,
       "shape_name": "矩形: 圆角 41",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 8,
       "source_text": "01.跨部门合作",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         170.4,
         34.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "practices[0].heading",
+      "max_lines": 1,
+      "max_width_units": 11
     },
     {
       "field": "text_43",
       "shape_id": 43,
       "shape_name": "矩形: 圆角 42",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 9,
       "source_text": "02.持续技能提升",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         170.4,
         34.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "practices[1].heading",
+      "max_lines": 1,
+      "max_width_units": 11
     },
     {
       "field": "text_44",
       "shape_id": 44,
       "shape_name": "矩形: 圆角 43",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 9,
       "source_text": "03.数据驱动决策",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         170.4,
         34.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "practices[2].heading",
+      "max_lines": 1,
+      "max_width_units": 11
     },
     {
       "field": "text_45",
       "shape_id": 45,
       "shape_name": "矩形: 圆角 44",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 10,
       "source_text": "04.鼓励失败与实验",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         170.4,
         34.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "practices[3].heading",
+      "max_lines": 1,
+      "max_width_units": 11
     },
     {
       "field": "text_29",
       "shape_id": 29,
       "shape_name": "矩形: 圆角 28",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "激发想法",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         82.3,
         26.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "practices[0].tag_a",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_36",
       "shape_id": 36,
       "shape_name": "矩形: 圆角 35",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "工作效率",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         82.3,
         26.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "practices[0].tag_b",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_54",
       "shape_id": 54,
       "shape_name": "矩形: 圆角 53",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "培训课程",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         82.3,
         26.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "practices[1].tag_a",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_55",
       "shape_id": 55,
       "shape_name": "矩形: 圆角 54",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "学习创新",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         82.3,
         26.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "practices[1].tag_b",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_57",
       "shape_id": 57,
       "shape_name": "矩形: 圆角 56",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "决策创新",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         82.3,
         26.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "practices[2].tag_a",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_58",
       "shape_id": 58,
       "shape_name": "矩形: 圆角 57",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "数据分析",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         82.3,
         26.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "practices[2].tag_b",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_60",
       "shape_id": 60,
       "shape_name": "矩形: 圆角 59",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "测试方案",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         82.3,
         26.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "practices[3].tag_a",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_61",
       "shape_id": 61,
       "shape_name": "矩形: 圆角 60",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "总结经验",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         82.3,
         26.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "practices[3].tag_b",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_15",
       "shape_id": 15,
       "shape_name": "文本框 14",
       "type": "text",
-      "max_chars": 222,
+      "max_chars": 31,
       "source_sample_chars": 111,
       "source_text": "定期举行跨部门会议：定期安排不同部门的员工聚集一堂，分享各自的工作进展和挑战，激发新的想法和共同的解决方案。\n共享资源与工具：不同部门共享各自的工具、数据和资源，提升工作效率。通过共享平台，让所有部门能够随时访问有用材料。",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         170.4,
         162.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "practices[0].body",
+      "max_lines": 2,
+      "max_width_units": 32
     },
     {
       "field": "text_16",
       "shape_id": 16,
       "shape_name": "文本框 15",
       "type": "text",
-      "max_chars": 208,
+      "max_chars": 31,
       "source_sample_chars": 104,
       "source_text": "提供学习平台与课程：公司可以为员工提供在线学习平台，定期推出行业相关的培训课程，鼓励员工拓展新技能。\n组织团队建设：组织学习小组，定期进行知识分享会，成员之间可以讨论新技术、新方法的应用，促进集体学习和创新。",
       "bounds_pt": [
@@ -223,14 +262,17 @@
         170.4,
         163.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "practices[1].body",
+      "max_lines": 2,
+      "max_width_units": 32
     },
     {
       "field": "text_17",
       "shape_id": 17,
       "shape_name": "文本框 16",
       "type": "text",
-      "max_chars": 208,
+      "max_chars": 24,
       "source_sample_chars": 104,
       "source_text": "使用分析工具与软件：引入高效的分析工具帮助员工从大量数据中提炼出有价值的信息，支持任务决策和创新。\n设定数据驱动目标：通过数据分析结果，设定明确的创新目标和关键绩效指标，确保创新工作能够有数据支持和结果验证。",
       "bounds_pt": [
@@ -239,14 +281,17 @@
         170.4,
         163.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "practices[2].body",
+      "max_lines": 2,
+      "max_width_units": 26
     },
     {
       "field": "text_18",
       "shape_id": 18,
       "shape_name": "文本框 17",
       "type": "text",
-      "max_chars": 230,
+      "max_chars": 25,
       "source_sample_chars": 115,
       "source_text": "设立试点项目：在全面实施之前先进行小规模试点，测试创新方案的可行性，发现并解决潜在的问题，减少大规模失败的风险。\n定期总结：定期进行创新项目的回顾会议，不仅总结成功经验，也要重点分析失败的原因，从中提炼出宝贵的教训，确保持续改进。",
       "bounds_pt": [
@@ -255,14 +300,17 @@
         170.4,
         163.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "practices[3].body",
+      "max_lines": 2,
+      "max_width_units": 26
     },
     {
       "field": "text_49",
       "shape_id": 49,
       "shape_name": "文本框 48",
       "type": "text",
-      "max_chars": 30,
+      "max_chars": 11,
       "source_sample_chars": 15,
       "source_text": "述职汇报｜工作中需要创新的方式",
       "bounds_pt": [
@@ -271,7 +319,10 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 22
     }
   ],
   "objects": {

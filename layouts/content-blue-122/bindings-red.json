@@ -6,7 +6,7 @@
       "shape_id": 93,
       "shape_name": "箭头: 五边形 92",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 6,
       "source_text": "项目监控评估",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         268.1,
         56.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[2].heading",
+      "max_lines": 1,
+      "max_width_units": 14
     },
     {
       "field": "text_94",
       "shape_id": 94,
       "shape_name": "箭头: 五边形 93",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 6,
       "source_text": "资源分配调度",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         268.1,
         55.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[1].heading",
+      "max_lines": 1,
+      "max_width_units": 14
     },
     {
       "field": "text_92",
       "shape_id": 92,
       "shape_name": "箭头: 五边形 91",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "部门沟通协调",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         268.1,
         56.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[3].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_14",
       "shape_id": 14,
       "shape_name": "箭头: 五边形 13",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 6,
       "source_text": "任务目标明确",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         268.1,
         55.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[0].heading",
+      "max_lines": 1,
+      "max_width_units": 14
     },
     {
       "field": "text_29",
       "shape_id": 29,
       "shape_name": "文本框 28",
       "type": "text",
-      "max_chars": 84,
+      "max_chars": 22,
       "source_sample_chars": 42,
       "source_text": "设定具体目标：将任务细分成具体的小目标，确保每个目标具有可衡量的标准，方便跟踪进展。",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         234.5,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[0].body_a",
+      "max_lines": 1,
+      "max_width_units": 44
     },
     {
       "field": "text_30",
       "shape_id": 30,
       "shape_name": "文本框 29",
       "type": "text",
-      "max_chars": 84,
+      "max_chars": 19,
       "source_sample_chars": 42,
       "source_text": "分阶段实施：根据任务分阶段进行实施，各阶段都设置相应完成标准，确保整体任务顺利推进。",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         234.5,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[0].body_b",
+      "max_lines": 1,
+      "max_width_units": 38
     },
     {
       "field": "text_33",
       "shape_id": 33,
       "shape_name": "文本框 32",
       "type": "text",
-      "max_chars": 84,
+      "max_chars": 19,
       "source_sample_chars": 42,
       "source_text": "评估任务需求：进行详细的资源需求评估，根据任务的工作量和紧急程度合理配置人员和物资。",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         235.5,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[1].body_a",
+      "max_lines": 1,
+      "max_width_units": 38
     },
     {
       "field": "text_34",
       "shape_id": 34,
       "shape_name": "文本框 33",
       "type": "text",
-      "max_chars": 78,
+      "max_chars": 17,
       "source_sample_chars": 39,
       "source_text": "实时调整资源：密切关注使用情况，及时调整资源分配，确保每个环节都有足够的支持。",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         235.5,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[1].body_b",
+      "max_lines": 1,
+      "max_width_units": 34
     },
     {
       "field": "text_35",
       "shape_id": 35,
       "shape_name": "文本框 34",
       "type": "text",
-      "max_chars": 76,
+      "max_chars": 17,
       "source_sample_chars": 38,
       "source_text": "制定审查标准：制定标准流程和质量检查清单，确保每个环节都经过严格的质量审查。",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         235.5,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[2].body_a",
+      "max_lines": 1,
+      "max_width_units": 34
     },
     {
       "field": "text_36",
       "shape_id": 36,
       "shape_name": "文本框 35",
       "type": "text",
-      "max_chars": 80,
+      "max_chars": 17,
       "source_sample_chars": 40,
       "source_text": "定期质量检查：定期进行质量检查，识别潜在风险并采取预防措施，降低可能的风险影响。",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         235.5,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[2].body_b",
+      "max_lines": 1,
+      "max_width_units": 34
     },
     {
       "field": "text_37",
       "shape_id": 37,
       "shape_name": "文本框 36",
       "type": "text",
-      "max_chars": 76,
+      "max_chars": 18,
       "source_sample_chars": 38,
       "source_text": "部门沟通协作：建立清晰的沟通渠道和沟通交流方式，确保信息及时传递给相关人员。",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         234.5,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[3].body_a",
+      "max_lines": 1,
+      "max_width_units": 36
     },
     {
       "field": "text_38",
       "shape_id": 38,
       "shape_name": "文本框 37",
       "type": "text",
-      "max_chars": 78,
+      "max_chars": 16,
       "source_sample_chars": 39,
       "source_text": "使用协作工具：使用在线协作工具来进行沟通，确保信息的透明度和工作流程的高效性。",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         234.5,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[3].body_b",
+      "max_lines": 1,
+      "max_width_units": 32
     },
     {
       "field": "text_48",
       "shape_id": 48,
       "shape_name": "文本框 47",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 9,
       "source_text": "重点工作\n执行方式",
       "bounds_pt": [
@@ -207,7 +243,10 @@
         111.6,
         55.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "center.title",
+      "max_lines": 2,
+      "max_width_units": 8
     },
     {
       "field": "text_73",
@@ -223,7 +262,7 @@
         58.1,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_74",
@@ -239,7 +278,7 @@
         58.1,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_75",
@@ -255,7 +294,7 @@
         58.1,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_76",
@@ -271,14 +310,14 @@
         58.1,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_50",
       "shape_id": 50,
       "shape_name": "文本框 49",
       "type": "text",
-      "max_chars": 32,
+      "max_chars": 11,
       "source_sample_chars": 16,
       "source_text": "述职汇报｜重点工作任务的执行方式",
       "bounds_pt": [
@@ -287,7 +326,10 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 22
     }
   ],
   "objects": {

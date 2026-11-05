@@ -6,7 +6,7 @@
       "shape_id": 5,
       "shape_name": "文本框 4",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 11,
       "source_sample_chars": 11,
       "source_text": "述职汇报｜个人成长目标",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 22
     },
     {
       "field": "text_8",
       "shape_id": 8,
       "shape_name": "文本框 7",
       "type": "text",
-      "max_chars": 150,
+      "max_chars": 24,
       "source_sample_chars": 75,
       "source_text": "定期团队会议：定期与团队成员举行小组会议，主动寻求反馈，并通过反馈改进自己的沟通方式。同时，利用这些会议机会锻炼自己表达观点的能力，提高团队协作效率。",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         442.0,
         45.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "goals[0].body",
+      "max_lines": 1,
+      "max_width_units": 48
     },
     {
       "field": "text_33",
       "shape_id": 33,
       "shape_name": "文本框 32",
       "type": "text",
-      "max_chars": 142,
+      "max_chars": 24,
       "source_sample_chars": 71,
       "source_text": "参与行业培训：课程下半年可以报名参加一些行业内权威的培训课程，获得相关认证证书，这不仅可以帮助你快速提升专业能力，还能增强你在职场中的竞争力。",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         442.0,
         45.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "goals[1].body",
+      "max_lines": 1,
+      "max_width_units": 48
     },
     {
       "field": "text_35",
       "shape_id": 35,
       "shape_name": "文本框 34",
       "type": "text",
-      "max_chars": 140,
+      "max_chars": 23,
       "source_sample_chars": 70,
       "source_text": "设立明确目标：每周或每月初，设定清晰的工作目标，并对任务进行优先级排序。这样有助于聚焦最重要的任务，避免陷入琐碎的日常工作中，提高工作效率。",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         442.0,
         45.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "goals[2].body",
+      "max_lines": 1,
+      "max_width_units": 46
     },
     {
       "field": "text_2",
       "shape_id": 2,
       "shape_name": "矩形: 圆角 1",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 11,
       "source_sample_chars": 11,
       "source_text": "01.提升沟通表达能力",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         246.4,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "goals[0].heading",
+      "max_lines": 1,
+      "max_width_units": 19
     },
     {
       "field": "text_39",
       "shape_id": 39,
       "shape_name": "矩形: 圆角 38",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 11,
       "source_text": "02.提高专业技能水平",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         246.4,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "goals[1].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_40",
       "shape_id": 40,
       "shape_name": "矩形: 圆角 39",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 11,
       "source_text": "03.提高专业技能水平",
       "bounds_pt": [
@@ -111,7 +129,10 @@
         246.4,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "goals[2].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_41",
@@ -127,7 +148,7 @@
         102.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     }
   ],
   "objects": {

@@ -1,6 +1,35 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    5
+  ],
+  "source_count": 5,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    5
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "五瓣扇形数字与右侧五段说明逐项对应，固定五步。",
+  "numbered_heading_suffix": [
+    {
+      "field": "steps[0].heading",
+      "suffix": "#01"
+    },
+    {
+      "field": "steps[1].heading",
+      "suffix": "#02"
+    },
+    {
+      "field": "steps[2].heading",
+      "suffix": "#03"
+    },
+    {
+      "field": "steps[3].heading",
+      "suffix": "#04"
+    },
+    {
+      "field": "steps[4].heading",
+      "suffix": "#05"
+    }
+  ]
 }

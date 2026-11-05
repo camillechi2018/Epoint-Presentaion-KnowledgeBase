@@ -1,6 +1,22 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    4
+  ],
+  "source_count": 4,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    4
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "四季度内容在回环路径上按一至四季度对应，固定四项。",
+  "quarter_plan_fields": {
+    "center": "center.title",
+    "labels": [
+      "quarters[0].label",
+      "quarters[1].label",
+      "quarters[2].label",
+      "quarters[3].label"
+    ]
+  }
 }

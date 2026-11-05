@@ -1,6 +1,19 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    3
+  ],
+  "source_count": 3,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    3
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "左侧三项风险与右侧三项策略逐行成对，固定三组。",
+  "text_box_expand_pt": [
+    {
+      "shape_id": 69,
+      "vertical_extra_pt": 24
+    }
+  ]
 }
