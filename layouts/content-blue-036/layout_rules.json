@@ -6,7 +6,36 @@
   "source_count": 4,
   "reflow_status": "not_applicable_fixed_composition",
   "count_evidence": "source_preview_only; not a validated reflow range",
-  "verified_counts": [],
-  "validation_status": "fixed_structure_reviewed_semantic_fill_pending",
-  "composition": "four_kpi_four_charts_one_table"
+  "verified_counts": [
+    4
+  ],
+  "validation_status": "verified_fixed_count",
+  "composition": "four_kpi_four_charts_one_table",
+  "four_chart_table_consistency": {
+    "share_chart_ids": [
+      120,
+      124,
+      128
+    ],
+    "share_text_fields": [
+      "shares[0].value",
+      "shares[1].value",
+      "shares[2].value"
+    ],
+    "table_shape_id": 135,
+    "table_total_fields": [
+      [
+        "metrics.revenue.value",
+        0
+      ],
+      [
+        "metrics.cost.value",
+        1
+      ],
+      [
+        "metrics.balance.value",
+        3
+      ]
+    ]
+  }
 }

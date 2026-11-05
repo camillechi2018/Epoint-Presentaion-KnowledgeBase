@@ -6,7 +6,7 @@
       "shape_id": 10,
       "shape_name": "文本框 9",
       "type": "text",
-      "max_chars": 44,
+      "max_chars": 28,
       "source_sample_chars": 22,
       "source_text": "述职汇报｜年度数据分析（年度各版块经营数据）",
       "bounds_pt": [
@@ -15,7 +15,9 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "page.title",
+      "max_lines": 1
     },
     {
       "field": "text_18",
@@ -31,7 +33,9 @@
         100.0,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "metrics.visitors.label",
+      "max_lines": 1
     },
     {
       "field": "text_19",
@@ -47,7 +51,9 @@
         93.3,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "value",
+      "semantic_path": "metrics.visitors.value",
+      "max_lines": 1
     },
     {
       "field": "text_25",
@@ -63,7 +69,9 @@
         100.0,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "metrics.deals.label",
+      "max_lines": 1
     },
     {
       "field": "text_26",
@@ -79,7 +87,9 @@
         93.3,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "value",
+      "semantic_path": "metrics.deals.value",
+      "max_lines": 1
     },
     {
       "field": "text_35",
@@ -95,14 +105,16 @@
         100.0,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "metrics.revenue.label",
+      "max_lines": 1
     },
     {
       "field": "text_36",
       "shape_id": 36,
       "shape_name": "文本框 35",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 8,
       "source_text": "1,010.97",
       "bounds_pt": [
@@ -111,7 +123,9 @@
         93.3,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "value",
+      "semantic_path": "metrics.revenue.value",
+      "max_lines": 1
     },
     {
       "field": "text_42",
@@ -127,14 +141,16 @@
         100.0,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "metrics.cost.label",
+      "max_lines": 1
     },
     {
       "field": "text_43",
       "shape_id": 43,
       "shape_name": "文本框 42",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 8,
       "source_text": "2,711.31",
       "bounds_pt": [
@@ -143,7 +159,9 @@
         93.3,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "value",
+      "semantic_path": "metrics.cost.value",
+      "max_lines": 1
     },
     {
       "field": "text_49",
@@ -159,14 +177,16 @@
         100.0,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "metrics.balance.label",
+      "max_lines": 1
     },
     {
       "field": "text_50",
       "shape_id": 50,
       "shape_name": "文本框 49",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 8,
       "source_text": "3,789.05",
       "bounds_pt": [
@@ -175,14 +195,16 @@
         93.3,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "value",
+      "semantic_path": "metrics.balance.value",
+      "max_lines": 1
     },
     {
       "field": "text_99",
       "shape_id": 99,
       "shape_name": "矩形: 圆角 329",
       "type": "text",
-      "max_chars": 30,
+      "max_chars": 28,
       "source_sample_chars": 15,
       "source_text": "公司今年【访客量】呈现上升趋势",
       "bounds_pt": [
@@ -191,14 +213,16 @@
         167.9,
         17.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note",
+      "semantic_path": "metrics.visitors.note",
+      "max_lines": 1
     },
     {
       "field": "text_100",
       "shape_id": 100,
       "shape_name": "矩形: 圆角 330",
       "type": "text",
-      "max_chars": 30,
+      "max_chars": 28,
       "source_sample_chars": 15,
       "source_text": "公司今年【成交量】呈现上升趋势",
       "bounds_pt": [
@@ -207,14 +231,16 @@
         167.9,
         17.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note",
+      "semantic_path": "metrics.deals.note",
+      "max_lines": 1
     },
     {
       "field": "text_101",
       "shape_id": 101,
       "shape_name": "矩形: 圆角 331",
       "type": "text",
-      "max_chars": 30,
+      "max_chars": 28,
       "source_sample_chars": 15,
       "source_text": "公司今年【成交额】呈现上升趋势",
       "bounds_pt": [
@@ -223,14 +249,16 @@
         167.9,
         17.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note",
+      "semantic_path": "metrics.revenue.note",
+      "max_lines": 1
     },
     {
       "field": "text_102",
       "shape_id": 102,
       "shape_name": "矩形: 圆角 332",
       "type": "text",
-      "max_chars": 30,
+      "max_chars": 28,
       "source_sample_chars": 15,
       "source_text": "公司今年【销售额】呈现上升趋势",
       "bounds_pt": [
@@ -239,14 +267,16 @@
         167.9,
         17.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note",
+      "semantic_path": "metrics.cost.note",
+      "max_lines": 1
     },
     {
       "field": "text_103",
       "shape_id": 103,
       "shape_name": "矩形: 圆角 333",
       "type": "text",
-      "max_chars": 30,
+      "max_chars": 28,
       "source_sample_chars": 15,
       "source_text": "公司今年【净利润】呈现上升趋势",
       "bounds_pt": [
@@ -255,7 +285,9 @@
         167.9,
         17.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note",
+      "semantic_path": "metrics.balance.note",
+      "max_lines": 1
     },
     {
       "field": "text_7",
@@ -271,7 +303,9 @@
         69.8,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "callouts[0]",
+      "semantic_path": "chart.callouts[0]",
+      "max_lines": 2
     },
     {
       "field": "text_13",
@@ -287,7 +321,9 @@
         69.8,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "callouts[1]",
+      "semantic_path": "chart.callouts[1]",
+      "max_lines": 2
     },
     {
       "field": "text_105",
@@ -303,7 +339,9 @@
         69.8,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "callouts[2]",
+      "semantic_path": "chart.callouts[2]",
+      "max_lines": 2
     },
     {
       "field": "text_108",
@@ -319,7 +357,9 @@
         69.8,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "callouts[3]",
+      "semantic_path": "chart.callouts[3]",
+      "max_lines": 2
     },
     {
       "field": "text_121",
@@ -335,7 +375,9 @@
         76.8,
         30.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "value",
+      "semantic_path": "shares[0].value",
+      "max_lines": 1
     },
     {
       "field": "text_122",
@@ -351,14 +393,16 @@
         82.1,
         22.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "shares[0].label",
+      "max_lines": 1
     },
     {
       "field": "text_123",
       "shape_id": 123,
       "shape_name": "文本框 122",
       "type": "text",
-      "max_chars": 52,
+      "max_chars": 36,
       "source_sample_chars": 26,
       "source_text": "accounted for 32% of sales",
       "bounds_pt": [
@@ -367,7 +411,9 @@
         77.1,
         24.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english",
+      "semantic_path": "shares[0].english",
+      "max_lines": 1
     },
     {
       "field": "text_125",
@@ -383,7 +429,9 @@
         76.8,
         30.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "value",
+      "semantic_path": "shares[1].value",
+      "max_lines": 1
     },
     {
       "field": "text_126",
@@ -399,14 +447,16 @@
         82.1,
         22.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "shares[1].label",
+      "max_lines": 1
     },
     {
       "field": "text_127",
       "shape_id": 127,
       "shape_name": "文本框 126",
       "type": "text",
-      "max_chars": 52,
+      "max_chars": 36,
       "source_sample_chars": 26,
       "source_text": "accounted for 42% of sales",
       "bounds_pt": [
@@ -415,7 +465,9 @@
         77.1,
         24.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english",
+      "semantic_path": "shares[1].english",
+      "max_lines": 1
     },
     {
       "field": "text_129",
@@ -431,14 +483,16 @@
         76.8,
         30.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "value",
+      "semantic_path": "shares[2].value",
+      "max_lines": 1
     },
     {
       "field": "text_133",
       "shape_id": 133,
       "shape_name": "文本框 132",
       "type": "text",
-      "max_chars": 52,
+      "max_chars": 36,
       "source_sample_chars": 26,
       "source_text": "accounted for 26% of sales",
       "bounds_pt": [
@@ -447,7 +501,9 @@
         77.1,
         24.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english",
+      "semantic_path": "shares[2].english",
+      "max_lines": 1
     },
     {
       "field": "text_139",
@@ -463,7 +519,9 @@
         81.4,
         22.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "shares[2].label",
+      "max_lines": 1
     }
   ],
   "objects": {
@@ -471,26 +529,26 @@
       {
         "shape_id": 2,
         "shape_name": "图表 1",
-        "categories_max": 8,
+        "categories_max": 4,
         "series_max": 4
       },
       {
         "shape_id": 120,
         "shape_name": "图表 119",
-        "categories_max": 8,
-        "series_max": 4
+        "categories_max": 2,
+        "series_max": 1
       },
       {
         "shape_id": 124,
         "shape_name": "图表 123",
-        "categories_max": 8,
-        "series_max": 4
+        "categories_max": 2,
+        "series_max": 1
       },
       {
         "shape_id": 128,
         "shape_name": "图表 127",
-        "categories_max": 8,
-        "series_max": 4
+        "categories_max": 2,
+        "series_max": 1
       }
     ],
     "tables": [

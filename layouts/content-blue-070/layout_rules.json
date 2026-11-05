@@ -1,7 +1,107 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
+  "cardinality_mode": "project_schedule",
+  "supported_counts": [
+    6
+  ],
   "source_count": 6,
   "reflow_status": "not_implemented",
-  "count_evidence": "source_preview_only; not a validated reflow range"
+  "count_evidence": "six native project rows; phase bar lengths driven by twelve-month durations",
+  "verified_counts": [
+    6
+  ],
+  "validation_status": "verified_fixed_count",
+  "schedule_rows": [
+    {
+      "bars": [
+        93,
+        95,
+        97
+      ],
+      "labels": [
+        94,
+        96,
+        98
+      ]
+    },
+    {
+      "bars": [
+        99,
+        101,
+        103
+      ],
+      "labels": [
+        100,
+        102,
+        104
+      ]
+    },
+    {
+      "bars": [
+        105,
+        107,
+        109
+      ],
+      "labels": [
+        106,
+        108,
+        110
+      ]
+    },
+    {
+      "bars": [
+        111,
+        113,
+        115
+      ],
+      "labels": [
+        112,
+        114,
+        116
+      ]
+    },
+    {
+      "bars": [
+        117,
+        119,
+        121
+      ],
+      "labels": [
+        118,
+        120,
+        122
+      ]
+    },
+    {
+      "bars": [
+        123,
+        125,
+        127
+      ],
+      "labels": [
+        124,
+        126,
+        128
+      ]
+    }
+  ],
+  "bar_gap_emu": 54864,
+  "label_offset_emu": 118872,
+  "render_overrides": {
+    "red": {
+      "text_color_by_shape_id": {
+        "29": "202020",
+        "30": "202020",
+        "31": "202020",
+        "32": "202020",
+        "33": "202020",
+        "34": "202020",
+        "36": "202020",
+        "37": "202020",
+        "38": "202020",
+        "39": "202020",
+        "40": "202020",
+        "41": "202020"
+      }
+    }
+  }
 }

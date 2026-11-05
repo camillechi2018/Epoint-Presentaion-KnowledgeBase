@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-05",
+  "batch": "blue-red-third-representative-batch",
+  "candidates": 8,
+  "verified_component_count": 7,
+  "verified_layouts": [
+    {
+      "layout_id": "content-blue-025",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "static_pptx": "verified_draft_pending_review",
+      "preview_paths": [
+        "review/batch3-content-blue-025-blue.png",
+        "review/batch3-content-blue-025-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-036",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "static_pptx": "verified_draft_pending_review",
+      "preview_paths": [
+        "review/batch3-content-blue-036-blue.png",
+        "review/batch3-content-blue-036-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-070",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "static_pptx": "verified_draft_pending_review",
+      "preview_paths": [
+        "review/batch3-content-blue-070-blue.png",
+        "review/batch3-content-blue-070-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-125",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "static_pptx": "verified_draft_pending_review",
+      "preview_paths": [
+        "review/batch3-content-blue-125-blue.png",
+        "review/batch3-content-blue-125-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-135",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "static_pptx": "verified_draft_pending_review",
+      "preview_paths": [
+        "review/batch3-content-blue-135-blue.png",
+        "review/batch3-content-blue-135-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-191",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "static_pptx": "verified_draft_pending_review",
+      "preview_paths": [
+        "review/batch3-content-blue-191-blue.png",
+        "review/batch3-content-blue-191-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-268",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "static_pptx": "verified_draft_pending_review",
+      "preview_paths": [
+        "review/batch3-content-blue-268-blue.png",
+        "review/batch3-content-blue-268-red.png"
+      ]
+    }
+  ],
+  "blocked_layouts": [
+    {
+      "layout_id": "content-blue-110",
+      "reason": "native_3d_pie_data_fill_unsupported"
+    }
+  ],
+  "limits": [
+    "short-copy static PPTX only",
+    "motion and HTML not verified",
+    "brand review pending"
+  ]
+}

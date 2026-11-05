@@ -7,6 +7,6 @@
   "reflow_status": "not_applicable_fixed_composition",
   "count_evidence": "source_preview_only; not a validated reflow range",
   "verified_counts": [],
-  "validation_status": "fixed_structure_reviewed_semantic_fill_pending",
+  "validation_status": "blocked_unsupported_native_3d_pie",
   "composition": "dashboard_four_native_charts"
 }

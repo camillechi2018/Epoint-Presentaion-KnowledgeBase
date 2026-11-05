@@ -1,6 +1,43 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    3
+  ],
+  "source_count": 3,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    3
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "three native KPI cards and one twelve-month area chart",
+  "annual_finance_consistency": {
+    "chart_shape_id": 26,
+    "revenue_field": "metrics.revenue.value",
+    "cost_field": "metrics.cost.value",
+    "profit_field": "metrics.profit.value",
+    "callouts": [
+      [
+        "chart.callouts[0]",
+        0,
+        27
+      ],
+      [
+        "chart.callouts[1]",
+        3,
+        30
+      ],
+      [
+        "chart.callouts[2]",
+        5,
+        32
+      ],
+      [
+        "chart.callouts[3]",
+        11,
+        38
+      ]
+    ],
+    "callout_plot_baseline_emu": 6096000,
+    "callout_y_scale_emu_per_unit": 6096
+  }
 }

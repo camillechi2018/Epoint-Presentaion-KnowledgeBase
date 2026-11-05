@@ -1,7 +1,3 @@
-# content-blue-110
+# 四图成果看板
 
-来源：blue P110。原生结构保留，可编辑。
-
-角色：data-chart；信息关系及重复项数待人工复核。源稿文字、图表和图片不构成项目事实。
-
-预览初审：dashboard；结构家族 dashboard-chart-grid；密度 dense。数量变化尚未验证。
+来源：蓝红 P110。四张原生图表中，第四张为 PowerPoint 3D 饼图。当前填充器调用图表数据接口时实际报 `unsupported plot type ... pie3DChart`，因此蓝红业务数据实填无法完成。组件保持待验收，禁止自动选版。后续须补可编辑 3D 饼图数据改写与图文一致性校验，并重新做蓝红 PowerPoint 渲染、Logo、媒体审计。模块数量固定四个，不开放增减。

@@ -15,14 +15,16 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "page.title",
+      "max_lines": 1
     },
     {
       "field": "text_94",
       "shape_id": 94,
       "shape_name": "Phase I",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段一",
       "bounds_pt": [
@@ -31,14 +33,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[0]",
+      "semantic_path": "tasks[0].stages[0]",
+      "max_lines": 1
     },
     {
       "field": "text_96",
       "shape_id": 96,
       "shape_name": "Phase II",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段二",
       "bounds_pt": [
@@ -47,14 +51,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[1]",
+      "semantic_path": "tasks[0].stages[1]",
+      "max_lines": 1
     },
     {
       "field": "text_98",
       "shape_id": 98,
       "shape_name": "Phase III",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段三",
       "bounds_pt": [
@@ -63,14 +69,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[2]",
+      "semantic_path": "tasks[0].stages[2]",
+      "max_lines": 1
     },
     {
       "field": "text_100",
       "shape_id": 100,
       "shape_name": "Phase I",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段一",
       "bounds_pt": [
@@ -79,14 +87,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[0]",
+      "semantic_path": "tasks[1].stages[0]",
+      "max_lines": 1
     },
     {
       "field": "text_102",
       "shape_id": 102,
       "shape_name": "Phase II",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段二",
       "bounds_pt": [
@@ -95,14 +105,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[1]",
+      "semantic_path": "tasks[1].stages[1]",
+      "max_lines": 1
     },
     {
       "field": "text_104",
       "shape_id": 104,
       "shape_name": "Phase III",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段三",
       "bounds_pt": [
@@ -111,14 +123,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[2]",
+      "semantic_path": "tasks[1].stages[2]",
+      "max_lines": 1
     },
     {
       "field": "text_106",
       "shape_id": 106,
       "shape_name": "Phase I",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段一",
       "bounds_pt": [
@@ -127,14 +141,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[0]",
+      "semantic_path": "tasks[2].stages[0]",
+      "max_lines": 1
     },
     {
       "field": "text_108",
       "shape_id": 108,
       "shape_name": "Phase II",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段二",
       "bounds_pt": [
@@ -143,14 +159,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[1]",
+      "semantic_path": "tasks[2].stages[1]",
+      "max_lines": 1
     },
     {
       "field": "text_110",
       "shape_id": 110,
       "shape_name": "Phase III",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段三",
       "bounds_pt": [
@@ -159,14 +177,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[2]",
+      "semantic_path": "tasks[2].stages[2]",
+      "max_lines": 1
     },
     {
       "field": "text_112",
       "shape_id": 112,
       "shape_name": "Phase I",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段一",
       "bounds_pt": [
@@ -175,14 +195,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[0]",
+      "semantic_path": "tasks[3].stages[0]",
+      "max_lines": 1
     },
     {
       "field": "text_114",
       "shape_id": 114,
       "shape_name": "Phase II",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段二",
       "bounds_pt": [
@@ -191,14 +213,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[1]",
+      "semantic_path": "tasks[3].stages[1]",
+      "max_lines": 1
     },
     {
       "field": "text_116",
       "shape_id": 116,
       "shape_name": "Phase III",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段三",
       "bounds_pt": [
@@ -207,14 +231,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[2]",
+      "semantic_path": "tasks[3].stages[2]",
+      "max_lines": 1
     },
     {
       "field": "text_118",
       "shape_id": 118,
       "shape_name": "Phase I",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段一",
       "bounds_pt": [
@@ -223,14 +249,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[0]",
+      "semantic_path": "tasks[4].stages[0]",
+      "max_lines": 1
     },
     {
       "field": "text_120",
       "shape_id": 120,
       "shape_name": "Phase II",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段二",
       "bounds_pt": [
@@ -239,14 +267,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[1]",
+      "semantic_path": "tasks[4].stages[1]",
+      "max_lines": 1
     },
     {
       "field": "text_122",
       "shape_id": 122,
       "shape_name": "Phase III",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段三",
       "bounds_pt": [
@@ -255,14 +285,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[2]",
+      "semantic_path": "tasks[4].stages[2]",
+      "max_lines": 1
     },
     {
       "field": "text_124",
       "shape_id": 124,
       "shape_name": "Phase I",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段一",
       "bounds_pt": [
@@ -271,14 +303,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[0]",
+      "semantic_path": "tasks[5].stages[0]",
+      "max_lines": 1
     },
     {
       "field": "text_126",
       "shape_id": 126,
       "shape_name": "Phase II",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段二",
       "bounds_pt": [
@@ -287,14 +321,16 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[1]",
+      "semantic_path": "tasks[5].stages[1]",
+      "max_lines": 1
     },
     {
       "field": "text_128",
       "shape_id": 128,
       "shape_name": "Phase III",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 3,
       "source_text": "阶段三",
       "bounds_pt": [
@@ -303,7 +339,9 @@
         52.0,
         22.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "stages[2]",
+      "semantic_path": "tasks[5].stages[2]",
+      "max_lines": 1
     },
     {
       "field": "text_2",
@@ -319,7 +357,7 @@
         42.5,
         18.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_3",
@@ -335,7 +373,7 @@
         42.5,
         18.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_4",
@@ -351,7 +389,7 @@
         42.5,
         18.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_5",
@@ -367,7 +405,7 @@
         42.5,
         18.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_6",
@@ -383,7 +421,7 @@
         42.5,
         18.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_7",
@@ -399,7 +437,7 @@
         42.5,
         18.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_13",
@@ -415,7 +453,7 @@
         42.5,
         18.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_14",
@@ -431,7 +469,7 @@
         42.5,
         18.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_15",
@@ -447,7 +485,7 @@
         42.5,
         18.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_16",
@@ -463,7 +501,7 @@
         42.5,
         18.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_17",
@@ -479,7 +517,7 @@
         42.5,
         18.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_18",
@@ -495,7 +533,7 @@
         42.5,
         18.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_19",
@@ -511,7 +549,7 @@
         42.5,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_20",
@@ -527,7 +565,7 @@
         82.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_21",
@@ -543,14 +581,14 @@
         70.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_22",
       "shape_id": 22,
       "shape_name": "椭圆 21",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 1,
       "source_text": "1",
       "bounds_pt": [
@@ -559,14 +597,16 @@
         32.8,
         32.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "level",
+      "semantic_path": "tasks[0].level",
+      "max_lines": 1
     },
     {
       "field": "text_23",
       "shape_id": 23,
       "shape_name": "椭圆 22",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 1,
       "source_text": "2",
       "bounds_pt": [
@@ -575,14 +615,16 @@
         32.8,
         32.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "level",
+      "semantic_path": "tasks[1].level",
+      "max_lines": 1
     },
     {
       "field": "text_24",
       "shape_id": 24,
       "shape_name": "椭圆 23",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 1,
       "source_text": "1",
       "bounds_pt": [
@@ -591,14 +633,16 @@
         32.8,
         32.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "level",
+      "semantic_path": "tasks[2].level",
+      "max_lines": 1
     },
     {
       "field": "text_25",
       "shape_id": 25,
       "shape_name": "椭圆 24",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 1,
       "source_text": "3",
       "bounds_pt": [
@@ -607,14 +651,16 @@
         32.8,
         32.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "level",
+      "semantic_path": "tasks[3].level",
+      "max_lines": 1
     },
     {
       "field": "text_26",
       "shape_id": 26,
       "shape_name": "椭圆 25",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 1,
       "source_text": "2",
       "bounds_pt": [
@@ -623,14 +669,16 @@
         32.8,
         32.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "level",
+      "semantic_path": "tasks[4].level",
+      "max_lines": 1
     },
     {
       "field": "text_27",
       "shape_id": 27,
       "shape_name": "椭圆 26",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 1,
       "source_text": "1",
       "bounds_pt": [
@@ -639,14 +687,16 @@
         32.8,
         32.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "level",
+      "semantic_path": "tasks[5].level",
+      "max_lines": 1
     },
     {
       "field": "text_29",
       "shape_id": 29,
       "shape_name": "文本框 28",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 4,
       "source_text": "项目01",
       "bounds_pt": [
@@ -655,14 +705,16 @@
         85.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "code",
+      "semantic_path": "tasks[0].code",
+      "max_lines": 1
     },
     {
       "field": "text_30",
       "shape_id": 30,
       "shape_name": "文本框 29",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 4,
       "source_text": "项目02",
       "bounds_pt": [
@@ -671,14 +723,16 @@
         85.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "code",
+      "semantic_path": "tasks[1].code",
+      "max_lines": 1
     },
     {
       "field": "text_31",
       "shape_id": 31,
       "shape_name": "文本框 30",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 4,
       "source_text": "项目03",
       "bounds_pt": [
@@ -687,14 +741,16 @@
         85.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "code",
+      "semantic_path": "tasks[2].code",
+      "max_lines": 1
     },
     {
       "field": "text_32",
       "shape_id": 32,
       "shape_name": "文本框 31",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 4,
       "source_text": "项目04",
       "bounds_pt": [
@@ -703,14 +759,16 @@
         85.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "code",
+      "semantic_path": "tasks[3].code",
+      "max_lines": 1
     },
     {
       "field": "text_33",
       "shape_id": 33,
       "shape_name": "文本框 32",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 4,
       "source_text": "项目05",
       "bounds_pt": [
@@ -719,14 +777,16 @@
         85.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "code",
+      "semantic_path": "tasks[4].code",
+      "max_lines": 1
     },
     {
       "field": "text_34",
       "shape_id": 34,
       "shape_name": "文本框 33",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 4,
       "source_text": "项目06",
       "bounds_pt": [
@@ -735,14 +795,16 @@
         85.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "code",
+      "semantic_path": "tasks[5].code",
+      "max_lines": 1
     },
     {
       "field": "text_36",
       "shape_id": 36,
       "shape_name": "文本框 35",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 9,
       "source_text": "客户体验数字化升级",
       "bounds_pt": [
@@ -751,14 +813,16 @@
         189.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "name",
+      "semantic_path": "tasks[0].name",
+      "max_lines": 1
     },
     {
       "field": "text_37",
       "shape_id": 37,
       "shape_name": "文本框 36",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 9,
       "source_text": "客户咨询服务产品化",
       "bounds_pt": [
@@ -767,14 +831,16 @@
         189.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "name",
+      "semantic_path": "tasks[1].name",
+      "max_lines": 1
     },
     {
       "field": "text_38",
       "shape_id": 38,
       "shape_name": "文本框 37",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 9,
       "source_text": "企业客户生态圈建设",
       "bounds_pt": [
@@ -783,14 +849,16 @@
         189.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "name",
+      "semantic_path": "tasks[2].name",
+      "max_lines": 1
     },
     {
       "field": "text_39",
       "shape_id": 39,
       "shape_name": "文本框 38",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 9,
       "source_text": "数据分析与洞察服务",
       "bounds_pt": [
@@ -799,14 +867,16 @@
         189.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "name",
+      "semantic_path": "tasks[3].name",
+      "max_lines": 1
     },
     {
       "field": "text_40",
       "shape_id": 40,
       "shape_name": "文本框 39",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 9,
       "source_text": "服务交付标准化体系",
       "bounds_pt": [
@@ -815,14 +885,16 @@
         189.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "name",
+      "semantic_path": "tasks[4].name",
+      "max_lines": 1
     },
     {
       "field": "text_41",
       "shape_id": 41,
       "shape_name": "文本框 40",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 16,
       "source_sample_chars": 8,
       "source_text": "专业人才能力培养",
       "bounds_pt": [
@@ -831,7 +903,9 @@
         189.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "name",
+      "semantic_path": "tasks[5].name",
+      "max_lines": 1
     }
   ],
   "objects": {

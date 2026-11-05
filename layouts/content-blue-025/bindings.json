@@ -6,7 +6,7 @@
       "shape_id": 10,
       "shape_name": "文本框 9",
       "type": "text",
-      "max_chars": 26,
+      "max_chars": 24,
       "source_sample_chars": 13,
       "source_text": "述职汇报｜工作任务完成情况",
       "bounds_pt": [
@@ -15,7 +15,9 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "page.title",
+      "max_lines": 1
     },
     {
       "field": "text_40",
@@ -31,14 +33,16 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[0].milestones[0].title",
+      "max_lines": 1
     },
     {
       "field": "text_43",
       "shape_id": 43,
       "shape_name": "文本框 42",
       "type": "text",
-      "max_chars": 54,
+      "max_chars": 32,
       "source_sample_chars": 27,
       "source_text": "实现销售流程全链路数字化。\n整合5大业务系统数据资源。",
       "bounds_pt": [
@@ -47,7 +51,9 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[0].milestones[0].body",
+      "max_lines": 2
     },
     {
       "field": "text_97",
@@ -63,14 +69,16 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[0].milestones[1].title",
+      "max_lines": 1
     },
     {
       "field": "text_98",
       "shape_id": 98,
       "shape_name": "文本框 97",
       "type": "text",
-      "max_chars": 48,
+      "max_chars": 32,
       "source_sample_chars": 24,
       "source_text": "建立客户画像标签体系。\n开发了高效销售预测模型。",
       "bounds_pt": [
@@ -79,7 +87,9 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[0].milestones[1].body",
+      "max_lines": 2
     },
     {
       "field": "text_99",
@@ -95,7 +105,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[0].milestones[2].title",
+      "max_lines": 1
     },
     {
       "field": "text_101",
@@ -111,7 +123,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[0].milestones[3].title",
+      "max_lines": 1
     },
     {
       "field": "text_127",
@@ -127,7 +141,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[1].milestones[0].title",
+      "max_lines": 1
     },
     {
       "field": "text_129",
@@ -143,7 +159,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[1].milestones[1].title",
+      "max_lines": 1
     },
     {
       "field": "text_131",
@@ -159,7 +177,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[1].milestones[2].title",
+      "max_lines": 1
     },
     {
       "field": "text_133",
@@ -175,7 +195,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[1].milestones[3].title",
+      "max_lines": 1
     },
     {
       "field": "text_135",
@@ -191,7 +213,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[2].milestones[0].title",
+      "max_lines": 1
     },
     {
       "field": "text_137",
@@ -207,7 +231,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[2].milestones[1].title",
+      "max_lines": 1
     },
     {
       "field": "text_139",
@@ -223,7 +249,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[2].milestones[2].title",
+      "max_lines": 1
     },
     {
       "field": "text_141",
@@ -239,7 +267,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[2].milestones[3].title",
+      "max_lines": 1
     },
     {
       "field": "text_143",
@@ -255,7 +285,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[3].milestones[0].title",
+      "max_lines": 1
     },
     {
       "field": "text_145",
@@ -271,7 +303,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[3].milestones[1].title",
+      "max_lines": 1
     },
     {
       "field": "text_147",
@@ -287,7 +321,9 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[3].milestones[2].title",
+      "max_lines": 1
     },
     {
       "field": "text_149",
@@ -303,14 +339,16 @@
         155.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[3].milestones[3].title",
+      "max_lines": 1
     },
     {
       "field": "text_80",
       "shape_id": 80,
       "shape_name": "文本框 79",
       "type": "text",
-      "max_chars": 54,
+      "max_chars": 32,
       "source_sample_chars": 27,
       "source_text": "完成3大产品线年度版本更新。\n新增智能核心功能20项。",
       "bounds_pt": [
@@ -319,14 +357,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[1].milestones[0].body",
+      "max_lines": 2
     },
     {
       "field": "text_81",
       "shape_id": 81,
       "shape_name": "文本框 80",
       "type": "text",
-      "max_chars": 52,
+      "max_chars": 32,
       "source_sample_chars": 26,
       "source_text": "成功研发AI智能助手产品。\n推出行业定制化解决方案。",
       "bounds_pt": [
@@ -335,14 +375,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[1].milestones[1].body",
+      "max_lines": 2
     },
     {
       "field": "text_82",
       "shape_id": 82,
       "shape_name": "文本框 81",
       "type": "text",
-      "max_chars": 42,
+      "max_chars": 32,
       "source_sample_chars": 21,
       "source_text": "建立全生命周期质量管理。\n实施自动化测试。",
       "bounds_pt": [
@@ -351,14 +393,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[1].milestones[2].body",
+      "max_lines": 2
     },
     {
       "field": "text_83",
       "shape_id": 83,
       "shape_name": "文本框 82",
       "type": "text",
-      "max_chars": 54,
+      "max_chars": 32,
       "source_sample_chars": 27,
       "source_text": "引入第三方开发者100+。\n生态业务收入占比达15%。",
       "bounds_pt": [
@@ -367,14 +411,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[1].milestones[3].body",
+      "max_lines": 2
     },
     {
       "field": "text_84",
       "shape_id": 84,
       "shape_name": "文本框 83",
       "type": "text",
-      "max_chars": 48,
+      "max_chars": 32,
       "source_sample_chars": 24,
       "source_text": "拓展5个新兴城市市场。\n区域市场营收增长60%。",
       "bounds_pt": [
@@ -383,14 +429,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[2].milestones[0].body",
+      "max_lines": 2
     },
     {
       "field": "text_85",
       "shape_id": 85,
       "shape_name": "文本框 84",
       "type": "text",
-      "max_chars": 52,
+      "max_chars": 32,
       "source_sample_chars": 26,
       "source_text": "发展核心代理商30家。\n渠道销售额占比提升至40%。",
       "bounds_pt": [
@@ -399,14 +447,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[2].milestones[1].body",
+      "max_lines": 2
     },
     {
       "field": "text_96",
       "shape_id": 96,
       "shape_name": "文本框 95",
       "type": "text",
-      "max_chars": 46,
+      "max_chars": 32,
       "source_sample_chars": 23,
       "source_text": "媒体专访报道50次。\n品牌搜索指数提升80%。",
       "bounds_pt": [
@@ -415,14 +465,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[2].milestones[2].body",
+      "max_lines": 2
     },
     {
       "field": "text_103",
       "shape_id": 103,
       "shape_name": "文本框 102",
       "type": "text",
-      "max_chars": 48,
+      "max_chars": 32,
       "source_sample_chars": 24,
       "source_text": "社群运营用户达10万。\n内容营销获客5000+。",
       "bounds_pt": [
@@ -431,14 +483,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[2].milestones[3].body",
+      "max_lines": 2
     },
     {
       "field": "text_104",
       "shape_id": 104,
       "shape_name": "文本框 103",
       "type": "text",
-      "max_chars": 42,
+      "max_chars": 32,
       "source_sample_chars": 21,
       "source_text": "核心人才保留率95%。\n完成人才盘点评估。",
       "bounds_pt": [
@@ -447,14 +501,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[3].milestones[0].body",
+      "max_lines": 2
     },
     {
       "field": "text_105",
       "shape_id": 105,
       "shape_name": "文本框 104",
       "type": "text",
-      "max_chars": 40,
+      "max_chars": 32,
       "source_sample_chars": 20,
       "source_text": "实施决策力发展项目。\n开展专业技能培训。",
       "bounds_pt": [
@@ -463,14 +519,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[3].milestones[1].body",
+      "max_lines": 2
     },
     {
       "field": "text_106",
       "shape_id": 106,
       "shape_name": "文本框 105",
       "type": "text",
-      "max_chars": 38,
+      "max_chars": 32,
       "source_sample_chars": 19,
       "source_text": "推行企业文化活动。\n建立内部沟通机制。",
       "bounds_pt": [
@@ -479,14 +537,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[3].milestones[2].body",
+      "max_lines": 2
     },
     {
       "field": "text_107",
       "shape_id": 107,
       "shape_name": "文本框 106",
       "type": "text",
-      "max_chars": 46,
+      "max_chars": 32,
       "source_sample_chars": 23,
       "source_text": "优化公司组织架构（未完成）\n提升公司人均效能。",
       "bounds_pt": [
@@ -495,14 +555,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[3].milestones[3].body",
+      "max_lines": 2
     },
     {
       "field": "text_109",
       "shape_id": 109,
       "shape_name": "文本框 108",
       "type": "text",
-      "max_chars": 44,
+      "max_chars": 32,
       "source_sample_chars": 22,
       "source_text": "开展数字化培训30场。\n建立数字化考核指标。",
       "bounds_pt": [
@@ -511,14 +573,16 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[0].milestones[2].body",
+      "max_lines": 2
     },
     {
       "field": "text_110",
       "shape_id": 110,
       "shape_name": "文本框 109",
       "type": "text",
-      "max_chars": 58,
+      "max_chars": 32,
       "source_sample_chars": 29,
       "source_text": "数字化营销转化率提升25%。\n客户服务响应时效提升50%。",
       "bounds_pt": [
@@ -527,7 +591,9 @@
         155.3,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[0].milestones[3].body",
+      "max_lines": 2
     },
     {
       "field": "text_7",
@@ -543,7 +609,9 @@
         152.8,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[0].label",
+      "max_lines": 1
     },
     {
       "field": "text_8",
@@ -559,14 +627,16 @@
         152.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[0].focus",
+      "max_lines": 1
     },
     {
       "field": "text_112",
       "shape_id": 112,
       "shape_name": "文本框 111",
       "type": "text",
-      "max_chars": 30,
+      "max_chars": 24,
       "source_sample_chars": 15,
       "source_text": "（2026.1-2026.3）",
       "bounds_pt": [
@@ -575,7 +645,9 @@
         135.4,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[0].period",
+      "max_lines": 1
     },
     {
       "field": "text_115",
@@ -591,7 +663,9 @@
         152.8,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[1].label",
+      "max_lines": 1
     },
     {
       "field": "text_116",
@@ -607,14 +681,16 @@
         152.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[1].focus",
+      "max_lines": 1
     },
     {
       "field": "text_117",
       "shape_id": 117,
       "shape_name": "文本框 116",
       "type": "text",
-      "max_chars": 30,
+      "max_chars": 24,
       "source_sample_chars": 15,
       "source_text": "（2026.4-2026.6）",
       "bounds_pt": [
@@ -623,7 +699,9 @@
         135.4,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[1].period",
+      "max_lines": 1
     },
     {
       "field": "text_119",
@@ -639,7 +717,9 @@
         152.8,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[2].label",
+      "max_lines": 1
     },
     {
       "field": "text_120",
@@ -655,14 +735,16 @@
         152.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[2].focus",
+      "max_lines": 1
     },
     {
       "field": "text_121",
       "shape_id": 121,
       "shape_name": "文本框 120",
       "type": "text",
-      "max_chars": 30,
+      "max_chars": 24,
       "source_sample_chars": 15,
       "source_text": "（2026.7-2026.9）",
       "bounds_pt": [
@@ -671,7 +753,9 @@
         135.4,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[2].period",
+      "max_lines": 1
     },
     {
       "field": "text_123",
@@ -687,7 +771,9 @@
         152.8,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[3].label",
+      "max_lines": 1
     },
     {
       "field": "text_124",
@@ -703,14 +789,16 @@
         152.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[3].focus",
+      "max_lines": 1
     },
     {
       "field": "text_125",
       "shape_id": 125,
       "shape_name": "文本框 124",
       "type": "text",
-      "max_chars": 34,
+      "max_chars": 24,
       "source_sample_chars": 17,
       "source_text": "（2026.10-2026.12）",
       "bounds_pt": [
@@ -719,7 +807,9 @@
         135.4,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "heading",
+      "semantic_path": "quarters[3].period",
+      "max_lines": 1
     }
   ],
   "objects": {

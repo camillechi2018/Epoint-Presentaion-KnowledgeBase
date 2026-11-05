@@ -1,7 +1,27 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": 12,
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    4
+  ],
+  "source_count": 4,
   "reflow_status": "not_implemented",
-  "count_evidence": "source_preview_only; not a validated reflow range"
+  "count_evidence": "native_4x4_quarter_matrix; item removal would require row and milestone reflow",
+  "verified_counts": [
+    4
+  ],
+  "matrix_columns": 4,
+  "matrix_items_per_row": 4,
+  "validation_status": "verified_fixed_count",
+  "render_overrides": {
+    "blue": {
+      "text_color_by_shape_id": {
+        "107": "202020"
+      }
+    },
+    "red": {
+      "text_color_by_shape_id": {
+        "107": "202020"
+      }
+    }
+  }
 }

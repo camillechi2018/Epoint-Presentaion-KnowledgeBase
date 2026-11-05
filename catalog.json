@@ -1037,9 +1037,9 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "timeline",
-      "information_relation": "chronology",
-      "classification_status": "visual_reviewed",
-      "family_id": "timeline-multi-row",
+      "information_relation": "quarter-milestone-matrix",
+      "classification_status": "verified",
+      "family_id": "four-quarter-sixteen-milestones",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-025/bindings.json",
@@ -1080,12 +1080,14 @@
       ],
       "density": "dense",
       "curation_batch": 2,
-      "batch_status": "selected_pending_variable_validation",
+      "batch_status": "fixed_four_by_four_verified",
       "planned_count_tests": [
         2,
         3,
         4
-      ]
+      ],
+      "pptx_support": "verified_static",
+      "semantic_review_status": "verified_blue_red"
     },
     {
       "id": "content-blue-026",
@@ -1512,9 +1514,9 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "data-chart",
-      "information_relation": "metric-comparison",
-      "classification_status": "visual_reviewed",
-      "family_id": "chart-multi-panel",
+      "information_relation": "multi-metric-finance-dashboard",
+      "classification_status": "verified",
+      "family_id": "four-charts-monthly-table",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-036/bindings.json",
@@ -1555,7 +1557,7 @@
       ],
       "density": "dense",
       "curation_batch": 2,
-      "batch_status": "fixed_structure_reviewed_semantic_fill_pending",
+      "batch_status": "fixed_four_charts_one_table_verified",
       "planned_count_tests": [
         4
       ],
@@ -1564,7 +1566,9 @@
         "native_chart_count": 4,
         "native_table_count": 1,
         "reason": "Chart modules have distinct roles and surrounding labels; removing a module needs a new designed layout."
-      }
+      },
+      "pptx_support": "verified_static",
+      "semantic_review_status": "verified_blue_red"
     },
     {
       "id": "content-blue-037",
@@ -2978,9 +2982,9 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "schedule",
-      "information_relation": "project-schedule",
-      "classification_status": "visual_reviewed",
-      "family_id": "schedule-gantt-bars",
+      "information_relation": "six-project-year-schedule",
+      "classification_status": "verified",
+      "family_id": "six-row-three-phase-schedule",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-070/bindings.json",
@@ -3021,12 +3025,14 @@
       ],
       "density": "medium",
       "curation_batch": 2,
-      "batch_status": "selected_pending_variable_validation",
+      "batch_status": "fixed_six_rows_dynamic_phase_widths_verified",
       "planned_count_tests": [
         3,
         4,
         6
-      ]
+      ],
+      "pptx_support": "verified_static",
+      "semantic_review_status": "verified_blue_red"
     },
     {
       "id": "content-blue-071",
@@ -4698,7 +4704,7 @@
       ],
       "density": "dense",
       "curation_batch": 2,
-      "batch_status": "fixed_structure_reviewed_semantic_fill_pending",
+      "batch_status": "blocked_unsupported_native_3d_pie",
       "planned_count_tests": [
         4
       ],
@@ -4707,7 +4713,9 @@
         "native_chart_count": 4,
         "native_table_count": 0,
         "reason": "Chart modules have distinct roles and surrounding labels; removing a module needs a new designed layout."
-      }
+      },
+      "pptx_support": "blocked_unsupported_native_3d_pie",
+      "semantic_review_status": "source_structure_reviewed_data_fill_blocked"
     },
     {
       "id": "content-blue-111",
@@ -5301,10 +5309,10 @@
       "id": "content-blue-125",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-125",
+      "role": "framework",
+      "information_relation": "smart-goal-framework",
+      "classification_status": "verified",
+      "family_id": "smart-five-columns",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-125/bindings.json",
@@ -5337,7 +5345,10 @@
       "red_source_logo_shape_id": 24,
       "red_bindings": "layouts/content-blue-125/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 125
+      "red_source_page": 125,
+      "pptx_support": "verified_static",
+      "batch_status": "fixed_five_smart_verified",
+      "semantic_review_status": "verified_blue_red"
     },
     {
       "id": "content-blue-126",
@@ -5725,10 +5736,10 @@
       "id": "content-blue-135",
       "version": "1.0.0-draft",
       "collection": "new-template-content",
-      "role": "content",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "content-135",
+      "role": "comparison",
+      "information_relation": "issue-action-two-pairs",
+      "classification_status": "verified",
+      "family_id": "issue-action-rings",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-135/bindings.json",
@@ -5761,7 +5772,10 @@
       "red_source_logo_shape_id": 6,
       "red_bindings": "layouts/content-blue-135/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 135
+      "red_source_page": 135,
+      "pptx_support": "verified_static",
+      "batch_status": "fixed_two_pairs_verified",
+      "semantic_review_status": "verified_blue_red"
     },
     {
       "id": "content-blue-136",
@@ -8028,8 +8042,8 @@
       "collection": "new-template-content",
       "role": "data-table",
       "information_relation": "six-task-gantt",
-      "classification_status": "visual_reviewed",
-      "family_id": "six-task-gantt",
+      "classification_status": "verified",
+      "family_id": "six-row-month-gantt",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-191/bindings.json",
@@ -8069,7 +8083,7 @@
       ],
       "density": "dense",
       "curation_batch": 2,
-      "batch_status": "fixed_structure_reviewed_semantic_fill_pending",
+      "batch_status": "fixed_six_tasks_geometry_bound_verified",
       "planned_count_tests": [
         6
       ],
@@ -8081,8 +8095,8 @@
         "columns": 13,
         "reason": "Timeline bars and date labels are separate native shapes aligned to six table rows."
       },
-      "semantic_review_status": "rendered_demo_data_geometry_pending",
-      "pptx_support": "pending_data_geometry_binding"
+      "semantic_review_status": "verified_blue_red",
+      "pptx_support": "verified_static"
     },
     {
       "id": "content-blue-192",
@@ -11310,9 +11324,9 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "data-chart",
-      "information_relation": "unclassified",
-      "classification_status": "provisional",
-      "family_id": "data-chart-268",
+      "information_relation": "annual-revenue-cost-profit",
+      "classification_status": "verified",
+      "family_id": "annual-finance-area-chart",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-268/bindings.json",
@@ -11347,11 +11361,13 @@
       "red_source": "sources/red.pptx",
       "red_source_page": 269,
       "curation_batch": 2,
-      "batch_status": "selected_pending_variable_validation",
+      "batch_status": "fixed_three_metrics_twelve_months_verified",
       "planned_count_tests": [
         2,
         3
-      ]
+      ],
+      "pptx_support": "verified_static",
+      "semantic_review_status": "verified_blue_red"
     },
     {
       "id": "content-blue-269",

@@ -15,7 +15,9 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "page.title",
+      "max_lines": 1
     },
     {
       "field": "text_27",
@@ -31,7 +33,9 @@
         59.2,
         26.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "callouts[0]",
+      "semantic_path": "chart.callouts[0]",
+      "max_lines": 1
     },
     {
       "field": "text_30",
@@ -47,7 +51,9 @@
         59.2,
         26.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "callouts[1]",
+      "semantic_path": "chart.callouts[1]",
+      "max_lines": 1
     },
     {
       "field": "text_32",
@@ -63,7 +69,9 @@
         59.2,
         26.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "callouts[2]",
+      "semantic_path": "chart.callouts[2]",
+      "max_lines": 1
     },
     {
       "field": "text_38",
@@ -79,7 +87,9 @@
         59.2,
         26.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "callouts[3]",
+      "semantic_path": "chart.callouts[3]",
+      "max_lines": 1
     },
     {
       "field": "text_39",
@@ -95,7 +105,9 @@
         122.1,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "metrics.revenue.label",
+      "max_lines": 1
     },
     {
       "field": "text_40",
@@ -111,14 +123,16 @@
         161.7,
         60.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "value",
+      "semantic_path": "metrics.revenue.value",
+      "max_lines": 1
     },
     {
       "field": "text_55",
       "shape_id": 55,
       "shape_name": "文本框 54",
       "type": "text",
-      "max_chars": 40,
+      "max_chars": 32,
       "source_sample_chars": 20,
       "source_text": "Total annual revenue",
       "bounds_pt": [
@@ -127,7 +141,9 @@
         116.5,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english",
+      "semantic_path": "metrics.revenue.english",
+      "max_lines": 1
     },
     {
       "field": "text_61",
@@ -143,7 +159,9 @@
         122.1,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "metrics.cost.label",
+      "max_lines": 1
     },
     {
       "field": "text_62",
@@ -159,14 +177,16 @@
         135.5,
         60.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "value",
+      "semantic_path": "metrics.cost.value",
+      "max_lines": 1
     },
     {
       "field": "text_63",
       "shape_id": 63,
       "shape_name": "文本框 62",
       "type": "text",
-      "max_chars": 46,
+      "max_chars": 32,
       "source_sample_chars": 23,
       "source_text": "Annual cost expenditure",
       "bounds_pt": [
@@ -175,7 +195,9 @@
         131.3,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english",
+      "semantic_path": "metrics.cost.english",
+      "max_lines": 1
     },
     {
       "field": "text_68",
@@ -191,7 +213,9 @@
         122.1,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "metrics.profit.label",
+      "max_lines": 1
     },
     {
       "field": "text_69",
@@ -207,14 +231,16 @@
         161.7,
         60.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "value",
+      "semantic_path": "metrics.profit.value",
+      "max_lines": 1
     },
     {
       "field": "text_70",
       "shape_id": 70,
       "shape_name": "文本框 69",
       "type": "text",
-      "max_chars": 38,
+      "max_chars": 32,
       "source_sample_chars": 19,
       "source_text": "Total annual profit",
       "bounds_pt": [
@@ -223,7 +249,9 @@
         103.7,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english",
+      "semantic_path": "metrics.profit.english",
+      "max_lines": 1
     },
     {
       "field": "text_7",
@@ -239,14 +267,16 @@
         258.4,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "analysis.title",
+      "max_lines": 1
     },
     {
       "field": "text_13",
       "shape_id": 13,
       "shape_name": "文本框 12",
       "type": "text",
-      "max_chars": 150,
+      "max_chars": 65,
       "source_sample_chars": 75,
       "source_text": "全年营收呈现“双峰”走势，1月（峰值）和6月（次高峰）表现最为突出，7-9月为阶段性低谷，四季度稳步回升。建议重点关注旺季营销投入和淡季客户维系策略。",
       "bounds_pt": [
@@ -255,14 +285,16 @@
         242.6,
         78.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "paragraphs[0]",
+      "semantic_path": "analysis.paragraphs[0]",
+      "max_lines": 4
     },
     {
       "field": "text_16",
       "shape_id": 16,
       "shape_name": "文本框 15",
       "type": "text",
-      "max_chars": 164,
+      "max_chars": 65,
       "source_sample_chars": 82,
       "source_text": "年度成本支出500万元，占总营收12.5%，成本控制效果显著。从月度趋势看，成本与营收基本呈正相关但1月和6月营收高峰期的成本占比明显低于其他月份，投入产出比较优。",
       "bounds_pt": [
@@ -271,7 +303,9 @@
         242.6,
         78.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "paragraphs[1]",
+      "semantic_path": "analysis.paragraphs[1]",
+      "max_lines": 4
     }
   ],
   "objects": {
@@ -279,8 +313,8 @@
       {
         "shape_id": 26,
         "shape_name": "Chart 68",
-        "categories_max": 8,
-        "series_max": 4
+        "categories_max": 12,
+        "series_max": 1
       }
     ],
     "tables": [],

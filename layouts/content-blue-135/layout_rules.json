@@ -1,6 +1,13 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    2
+  ],
+  "source_count": 2,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    2
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "two issue/action pairs surround shared center rings and four-step plan"
 }

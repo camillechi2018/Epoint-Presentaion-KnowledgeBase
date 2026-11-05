@@ -1,11 +1,52 @@
 {
-  "cardinality_mode": "fixed",
+  "cardinality_mode": "gantt_six_tasks",
   "supported_counts": [
     6
   ],
   "source_count": 6,
   "reflow_status": "not_applicable_fixed_gantt",
   "count_evidence": "source_preview_only; not a validated reflow range",
-  "verified_counts": [],
-  "validation_status": "pending_data_geometry_binding"
+  "verified_counts": [
+    6
+  ],
+  "validation_status": "verified_fixed_count",
+  "gantt_table_shape_id": 35,
+  "gantt_bar_shape_ids": [
+    45,
+    43,
+    48,
+    44,
+    46,
+    47
+  ],
+  "gantt_note_shape_ids": [
+    39,
+    40,
+    41,
+    42,
+    49,
+    50
+  ],
+  "month_start_emu": 2432304,
+  "month_width_emu": 767520,
+  "note_gap_emu": 109728,
+  "summary_arc_shape_ids": [
+    [
+      "summary[1].rate",
+      65
+    ],
+    [
+      "summary[2].rate",
+      77
+    ]
+  ],
+  "summary_bar_rate_field": "summary[0].rate",
+  "summary_bar_track_shape_id": 55,
+  "summary_bar_shape_id": 58,
+  "gantt_note_icon_shape_ids": {
+    "1": 51,
+    "4": 78
+  },
+  "summary_bar_rate_shape_id": 59,
+  "summary_bar_label_gap_emu": 73152
 }
