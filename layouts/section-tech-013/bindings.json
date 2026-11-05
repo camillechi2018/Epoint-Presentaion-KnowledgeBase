@@ -11,13 +11,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         2925900,
         2292127,
         6340197,
         1938992
-      ]
+      ],
+      "semantic_path": "heading"
     },
     {
       "field": "text_13",
@@ -29,13 +30,14 @@
       "source_sample_chars": 17,
       "max_chars": 25,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         4273224,
         4284208,
         3645550,
         369332
-      ]
+      ],
+      "semantic_path": "subtitle"
     },
     {
       "field": "text_9",
@@ -49,13 +51,14 @@
       "source_sample_chars": 7,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5002530,
         1650547,
         2186940,
         476071
-      ]
+      ],
+      "semantic_path": "part_label"
     }
   ],
   "objects": {

@@ -11,13 +11,14 @@
       "source_sample_chars": 11,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6651984,
         827551,
         3544354,
         448738
-      ]
+      ],
+      "semantic_path": "item_1.title"
     },
     {
       "field": "text_17",
@@ -29,13 +30,14 @@
       "source_sample_chars": 30,
       "max_chars": 45,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6664494,
         1269253,
         3693640,
         253916
-      ]
+      ],
+      "semantic_path": "item_1.english"
     },
     {
       "field": "text_22",
@@ -47,13 +49,14 @@
       "source_sample_chars": 11,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6005741,
         1964475,
         3544354,
         448738
-      ]
+      ],
+      "semantic_path": "item_2.title"
     },
     {
       "field": "text_24",
@@ -65,13 +68,14 @@
       "source_sample_chars": 30,
       "max_chars": 45,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6018251,
         2406177,
         3693640,
         253916
-      ]
+      ],
+      "semantic_path": "item_2.english"
     },
     {
       "field": "text_35",
@@ -83,13 +87,14 @@
       "source_sample_chars": 11,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5824435,
         3101399,
         3544354,
         448738
-      ]
+      ],
+      "semantic_path": "item_3.title"
     },
     {
       "field": "text_36",
@@ -101,13 +106,14 @@
       "source_sample_chars": 30,
       "max_chars": 45,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5836945,
         3543101,
         3693640,
         253916
-      ]
+      ],
+      "semantic_path": "item_3.english"
     },
     {
       "field": "text_40",
@@ -119,13 +125,14 @@
       "source_sample_chars": 11,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6005741,
         4238323,
         3544354,
         448738
-      ]
+      ],
+      "semantic_path": "item_4.title"
     },
     {
       "field": "text_44",
@@ -137,13 +144,14 @@
       "source_sample_chars": 30,
       "max_chars": 45,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6018251,
         4680025,
         3693640,
         253916
-      ]
+      ],
+      "semantic_path": "item_4.english"
     },
     {
       "field": "text_48",
@@ -155,13 +163,14 @@
       "source_sample_chars": 11,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6651984,
         5375247,
         3544354,
         448738
-      ]
+      ],
+      "semantic_path": "item_5.title"
     },
     {
       "field": "text_49",
@@ -173,13 +182,14 @@
       "source_sample_chars": 30,
       "max_chars": 45,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6664494,
         5816949,
         3693640,
         253916
-      ]
+      ],
+      "semantic_path": "item_5.english"
     },
     {
       "field": "text_10",
@@ -191,13 +201,14 @@
       "source_sample_chars": 8,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1621503,
         3667720,
         1544334,
         347852
-      ]
+      ],
+      "semantic_path": "english_heading"
     },
     {
       "field": "text_54",
@@ -209,13 +220,14 @@
       "source_sample_chars": 2,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1548001,
         2640878,
         1678636,
         993207
-      ]
+      ],
+      "semantic_path": "heading"
     },
     {
       "field": "text_124",
@@ -229,13 +241,14 @@
       "source_sample_chars": 2,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5087063,
         833012,
         608964,
         608963
-      ]
+      ],
+      "semantic_path": "item_1.number"
     },
     {
       "field": "text_138",
@@ -249,13 +262,14 @@
       "source_sample_chars": 2,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5087063,
         833012,
         608964,
         608963
-      ]
+      ],
+      "semantic_path": "item_2.number"
     },
     {
       "field": "text_151",
@@ -269,13 +283,14 @@
       "source_sample_chars": 2,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5087063,
         833012,
         608964,
         608963
-      ]
+      ],
+      "semantic_path": "item_3.number"
     },
     {
       "field": "text_164",
@@ -289,13 +304,14 @@
       "source_sample_chars": 2,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5087063,
         833012,
         608964,
         608963
-      ]
+      ],
+      "semantic_path": "item_4.number"
     },
     {
       "field": "text_177",
@@ -309,13 +325,14 @@
       "source_sample_chars": 2,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5087063,
         833012,
         608964,
         608963
-      ]
+      ],
+      "semantic_path": "item_5.number"
     }
   ],
   "objects": {
