@@ -15,7 +15,7 @@
         30.9,
         105.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_39",
@@ -31,14 +31,14 @@
         30.9,
         105.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_94",
       "shape_id": 94,
       "shape_name": "文本框 93",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 8,
       "source_text": "供应链网络\n优化",
       "bounds_pt": [
@@ -47,14 +47,17 @@
         107.0,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[0].heading",
+      "max_lines": 2,
+      "max_width_units": 8
     },
     {
       "field": "text_95",
       "shape_id": 95,
       "shape_name": "文本框 94",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 8,
       "source_text": "供应商质量\n提升",
       "bounds_pt": [
@@ -63,14 +66,17 @@
         107.0,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[1].heading",
+      "max_lines": 2,
+      "max_width_units": 8
     },
     {
       "field": "text_96",
       "shape_id": 96,
       "shape_name": "文本框 95",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 8,
       "source_text": "需求预测精\n准化",
       "bounds_pt": [
@@ -79,14 +85,17 @@
         107.0,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[2].heading",
+      "max_lines": 2,
+      "max_width_units": 8
     },
     {
       "field": "text_97",
       "shape_id": 97,
       "shape_name": "文本框 96",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 8,
       "source_text": "供应链风险\n管理",
       "bounds_pt": [
@@ -95,14 +104,17 @@
         107.0,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[3].heading",
+      "max_lines": 2,
+      "max_width_units": 8
     },
     {
       "field": "text_98",
       "shape_id": 98,
       "shape_name": "文本框 97",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "物流成本\n优化",
       "bounds_pt": [
@@ -111,14 +123,17 @@
         107.0,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[4].heading",
+      "max_lines": 2,
+      "max_width_units": 8
     },
     {
       "field": "text_99",
       "shape_id": 99,
       "shape_name": "文本框 98",
       "type": "text",
-      "max_chars": 64,
+      "max_chars": 21,
       "source_sample_chars": 32,
       "source_text": "重新设计优化了全球供应链网络，缩短了供应链周期，提高了交付速度。",
       "bounds_pt": [
@@ -127,14 +142,17 @@
         123.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[0].change",
+      "max_lines": 1,
+      "max_width_units": 42
     },
     {
       "field": "text_100",
       "shape_id": 100,
       "shape_name": "文本框 99",
       "type": "text",
-      "max_chars": 68,
+      "max_chars": 19,
       "source_sample_chars": 34,
       "source_text": "降低了平均库存水平20%减少了物流成本10%，成功应对市场需求变化。",
       "bounds_pt": [
@@ -143,14 +161,17 @@
         123.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[0].outcome",
+      "max_lines": 1,
+      "max_width_units": 38
     },
     {
       "field": "text_101",
       "shape_id": 101,
       "shape_name": "文本框 100",
       "type": "text",
-      "max_chars": 62,
+      "max_chars": 20,
       "source_sample_chars": 31,
       "source_text": "建立了供应商评估和管理标准，实施了定期的供应商培训和审核程序。",
       "bounds_pt": [
@@ -159,14 +180,17 @@
         123.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[1].change",
+      "max_lines": 1,
+      "max_width_units": 40
     },
     {
       "field": "text_102",
       "shape_id": 102,
       "shape_name": "文本框 101",
       "type": "text",
-      "max_chars": 60,
+      "max_chars": 19,
       "source_sample_chars": 30,
       "source_text": "提高了关键供应商的质量合格率至98%，减少了供应链中断事件。",
       "bounds_pt": [
@@ -175,14 +199,17 @@
         123.1,
         60.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[1].outcome",
+      "max_lines": 1,
+      "max_width_units": 38
     },
     {
       "field": "text_103",
       "shape_id": 103,
       "shape_name": "文本框 102",
       "type": "text",
-      "max_chars": 56,
+      "max_chars": 19,
       "source_sample_chars": 28,
       "source_text": "引入先进的数据分析工具，提升了需求预测的准确度和时效性。",
       "bounds_pt": [
@@ -191,14 +218,17 @@
         123.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[2].change",
+      "max_lines": 1,
+      "max_width_units": 38
     },
     {
       "field": "text_104",
       "shape_id": 104,
       "shape_name": "文本框 103",
       "type": "text",
-      "max_chars": 68,
+      "max_chars": 19,
       "source_sample_chars": 34,
       "source_text": "减少了平均的预测误差率至5%，降低了库存水平的同时提升了订单交付率。",
       "bounds_pt": [
@@ -207,14 +237,17 @@
         123.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[2].outcome",
+      "max_lines": 1,
+      "max_width_units": 38
     },
     {
       "field": "text_105",
       "shape_id": 105,
       "shape_name": "文本框 104",
       "type": "text",
-      "max_chars": 58,
+      "max_chars": 19,
       "source_sample_chars": 29,
       "source_text": "建立了全面的供应链风险评估和管理机制，制定了应急响应计划。",
       "bounds_pt": [
@@ -223,14 +256,17 @@
         123.1,
         60.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[3].change",
+      "max_lines": 1,
+      "max_width_units": 38
     },
     {
       "field": "text_106",
       "shape_id": 106,
       "shape_name": "文本框 105",
       "type": "text",
-      "max_chars": 66,
+      "max_chars": 18,
       "source_sample_chars": 33,
       "source_text": "成功应对了多次供应链中断和外部环境变化，保障了关键物料的持续供应。",
       "bounds_pt": [
@@ -239,14 +275,17 @@
         123.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[3].outcome",
+      "max_lines": 1,
+      "max_width_units": 36
     },
     {
       "field": "text_107",
       "shape_id": 107,
       "shape_name": "文本框 106",
       "type": "text",
-      "max_chars": 54,
+      "max_chars": 16,
       "source_sample_chars": 27,
       "source_text": "优化了全球物流网络和运输路线，重新谈判了物流服务合同。",
       "bounds_pt": [
@@ -255,14 +294,17 @@
         123.1,
         60.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[4].change",
+      "max_lines": 1,
+      "max_width_units": 32
     },
     {
       "field": "text_108",
       "shape_id": 108,
       "shape_name": "文本框 107",
       "type": "text",
-      "max_chars": 60,
+      "max_chars": 18,
       "source_sample_chars": 30,
       "source_text": "降低了物流成本15%，同时提高了运输效率，增强了客户满意度。",
       "bounds_pt": [
@@ -271,14 +313,17 @@
         123.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[4].outcome",
+      "max_lines": 1,
+      "max_width_units": 36
     },
     {
       "field": "text_5",
       "shape_id": 5,
       "shape_name": "文本框 4",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 13,
       "source_sample_chars": 10,
       "source_text": "流程图｜项目优化流程",
       "bounds_pt": [
@@ -287,7 +332,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 26
     }
   ],
   "objects": {

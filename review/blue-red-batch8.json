@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-05",
+  "batch": "blue-red-eighth-representative-batch",
+  "candidates": 8,
+  "verified_component_count": 8,
+  "static_pptx_pool_before": 50,
+  "static_pptx_pool_after": 58,
+  "verified_layouts": [
+    {
+      "layout_id": "content-blue-147",
+      "verified_counts": [
+        5
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch8-content-blue-147-blue.png",
+        "review/batch8-content-blue-147-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-160",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch8-content-blue-160-blue.png",
+        "review/batch8-content-blue-160-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-182",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch8-content-blue-182-blue.png",
+        "review/batch8-content-blue-182-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-204",
+      "verified_counts": [
+        6
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch8-content-blue-204-blue.png",
+        "review/batch8-content-blue-204-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-208",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch8-content-blue-208-blue.png",
+        "review/batch8-content-blue-208-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-235",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch8-content-blue-235-blue.png",
+        "review/batch8-content-blue-235-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-247",
+      "verified_counts": [
+        5
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch8-content-blue-247-blue.png",
+        "review/batch8-content-blue-247-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-263",
+      "verified_counts": [
+        6
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch8-content-blue-263-blue.png",
+        "review/batch8-content-blue-263-red.png"
+      ]
+    }
+  ],
+  "qa": {
+    "powerpoint_open_export": "16/16",
+    "text_overflow": "0/16",
+    "logo_and_svg_fallback": "16/16",
+    "invalid_item_count_rejected": "8/8",
+    "numbered_label_rejection": "P147 passed",
+    "year_format_rejection": "P160 passed",
+    "editable_shapes": "native text and shapes retained",
+    "visual_review": "blue/red contact sheet reviewed"
+  },
+  "limits": [
+    "fixed source item counts only",
+    "short-copy static PPTX only",
+    "motion and HTML not verified",
+    "brand review pending"
+  ]
+}

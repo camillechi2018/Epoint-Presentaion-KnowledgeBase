@@ -1,6 +1,35 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    5
+  ],
+  "source_count": 5,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    5
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "五个抬升节点、底部目标和计划说明一一对应，固定五步。",
+  "numbered_heading_suffix": [
+    {
+      "field": "steps[0].label",
+      "suffix": "01"
+    },
+    {
+      "field": "steps[1].label",
+      "suffix": "02"
+    },
+    {
+      "field": "steps[2].label",
+      "suffix": "03"
+    },
+    {
+      "field": "steps[3].label",
+      "suffix": "04"
+    },
+    {
+      "field": "steps[4].label",
+      "suffix": "05"
+    }
+  ]
 }

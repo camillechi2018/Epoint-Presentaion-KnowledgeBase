@@ -6,7 +6,7 @@
       "shape_id": 11,
       "shape_name": "矩形: 圆角 10",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "项目规划与设定",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         147.7,
         36.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[0].heading",
+      "max_lines": 1,
+      "max_width_units": 14
     },
     {
       "field": "text_13",
       "shape_id": 13,
       "shape_name": "矩形: 圆角 12",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 7,
       "source_text": "团队沟通与协调",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         147.7,
         36.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[2].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_15",
       "shape_id": 15,
       "shape_name": "矩形: 圆角 14",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 7,
       "source_text": "资源调配与优化",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         147.7,
         36.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[1].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_17",
       "shape_id": 17,
       "shape_name": "矩形: 圆角 16",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 7,
       "source_text": "质量控制与管理",
       "bounds_pt": [
@@ -63,7 +72,10 @@
         147.7,
         36.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[3].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_19",
@@ -79,7 +91,7 @@
         75.6,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_20",
@@ -95,7 +107,7 @@
         75.6,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_21",
@@ -111,7 +123,7 @@
         75.6,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_22",
@@ -127,14 +139,14 @@
         75.6,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_23",
       "shape_id": 23,
       "shape_name": "文本框 22",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 12,
       "source_text": "重点工作任务\n的执行方式",
       "bounds_pt": [
@@ -143,14 +155,17 @@
         228.8,
         65.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "center.title",
+      "max_lines": 2,
+      "max_width_units": 8
     },
     {
       "field": "text_24",
       "shape_id": 24,
       "shape_name": "文本框 23",
       "type": "text",
-      "max_chars": 210,
+      "max_chars": 39,
       "source_sample_chars": 105,
       "source_text": "执行方式：首先，召开项目启动会，与团队成员明确项目目标、时间节点以及各自职责。确保每个团队成员了解自己的任务和项目的总体方向。\n\n具体措施：定期召开进度汇报会议，及时评估项目进度和风险，并根据实际情况调整计划。",
       "bounds_pt": [
@@ -159,14 +174,17 @@
         282.5,
         114.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[0].body",
+      "max_lines": 2,
+      "max_width_units": 40
     },
     {
       "field": "text_27",
       "shape_id": 27,
       "shape_name": "文本框 26",
       "type": "text",
-      "max_chars": 238,
+      "max_chars": 33,
       "source_sample_chars": 119,
       "source_text": "执行方式：建立清晰的沟通渠道和沟通频率，确保信息及时传递给相关人员。通过周报、月报等形式，确保所有团队成员都能了解最新进展，并提供意见反馈。\n\n具体措施：使用在线协作工具来进行实时沟通和任务监督与跟踪，确保信息的透明度和工作流程的高效性。",
       "bounds_pt": [
@@ -175,14 +193,17 @@
         282.5,
         114.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[2].body",
+      "max_lines": 2,
+      "max_width_units": 38
     },
     {
       "field": "text_28",
       "shape_id": 28,
       "shape_name": "文本框 27",
       "type": "text",
-      "max_chars": 226,
+      "max_chars": 33,
       "source_sample_chars": 113,
       "source_text": "执行方式：分析团队成员的技能与工作负荷，合理分配工作任务。确保项目所需的设备、材料或软件等资源提前准备齐全，避免因资源不足而影响进度。\n\n具体措施：定期审核资源使用情况，确保最大化利用现有资源。如果有资源紧缺，及时调整优先级。",
       "bounds_pt": [
@@ -191,14 +212,17 @@
         283.4,
         114.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[1].body",
+      "max_lines": 2,
+      "max_width_units": 40
     },
     {
       "field": "text_29",
       "shape_id": 29,
       "shape_name": "文本框 28",
       "type": "text",
-      "max_chars": 222,
+      "max_chars": 29,
       "source_sample_chars": 111,
       "source_text": "执行方式：制定标准操作流程和质量检查清单，确保每个环节都经过严格的质量审查。进行风险评估并制定应急预案，确保项目能够应对突发情况。\n\n具体措施：定期进行质量检查和阶段性评审，识别潜在风险并采取预防措施，降低可能的风险影响。",
       "bounds_pt": [
@@ -207,14 +231,17 @@
         283.4,
         114.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[3].body",
+      "max_lines": 2,
+      "max_width_units": 30
     },
     {
       "field": "text_2",
       "shape_id": 2,
       "shape_name": "文本框 1",
       "type": "text",
-      "max_chars": 32,
+      "max_chars": 12,
       "source_sample_chars": 16,
       "source_text": "工作汇报｜重点工作任务的执行方式",
       "bounds_pt": [
@@ -223,7 +250,10 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 24
     }
   ],
   "objects": {
