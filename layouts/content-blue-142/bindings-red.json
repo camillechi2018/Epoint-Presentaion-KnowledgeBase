@@ -15,7 +15,7 @@
         75.2,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_50",
@@ -31,7 +31,7 @@
         75.2,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_51",
@@ -47,7 +47,7 @@
         75.2,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_52",
@@ -63,14 +63,14 @@
         75.2,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_54",
       "shape_id": 54,
       "shape_name": "文本框 53",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 5,
       "source_text": "提升\n计划",
       "bounds_pt": [
@@ -79,14 +79,17 @@
         83.1,
         75.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "center.title",
+      "max_lines": 2,
+      "max_width_units": 4
     },
     {
       "field": "text_55",
       "shape_id": 55,
       "shape_name": "文本框 54",
       "type": "text",
-      "max_chars": 154,
+      "max_chars": 19,
       "source_sample_chars": 77,
       "source_text": "参加技术培训班、在线学习平台,如Coursera、Udemy的课程，定期阅读技术书籍和行业报告，学习并掌握一到两项新技术工具，例如数据分析工具或设计软件。",
       "bounds_pt": [
@@ -95,14 +98,17 @@
         439.7,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[0].body",
+      "max_lines": 1,
+      "max_width_units": 38
     },
     {
       "field": "text_57",
       "shape_id": 57,
       "shape_name": "文本框 56",
       "type": "text",
-      "max_chars": 132,
+      "max_chars": 19,
       "source_sample_chars": 66,
       "source_text": "参加沟通与管理技能的培训，积极参与团队项目，争取担任团队协作的角色，定期向同事和上级请教反馈，培养更为高效的会议管理和问题解决能力。",
       "bounds_pt": [
@@ -111,14 +117,17 @@
         439.7,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[1].body",
+      "max_lines": 1,
+      "max_width_units": 38
     },
     {
       "field": "text_58",
       "shape_id": 58,
       "shape_name": "文本框 57",
       "type": "text",
-      "max_chars": 100,
+      "max_chars": 14,
       "source_sample_chars": 50,
       "source_text": "参加领导力和管理培训课程，阅读相关书籍，学习如何激励员工、管理冲突和决策，争取担任小组积累实战经验。",
       "bounds_pt": [
@@ -127,14 +136,17 @@
         439.7,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[2].body",
+      "max_lines": 1,
+      "max_width_units": 28
     },
     {
       "field": "text_59",
       "shape_id": 59,
       "shape_name": "文本框 58",
       "type": "text",
-      "max_chars": 136,
+      "max_chars": 17,
       "source_sample_chars": 68,
       "source_text": "定期参加行业研讨会、展览会和交流活动，关注行业动态并参与行业相关讨论，学习前沿的业务模式和技术创新，尝试在工作中提出和实施新的改进方案。",
       "bounds_pt": [
@@ -143,14 +155,17 @@
         439.7,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[3].body",
+      "max_lines": 1,
+      "max_width_units": 34
     },
     {
       "field": "text_60",
       "shape_id": 60,
       "shape_name": "文本框 59",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "技术能力提升",
       "bounds_pt": [
@@ -159,14 +174,17 @@
         301.3,
         31.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[0].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_61",
       "shape_id": 61,
       "shape_name": "文本框 60",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "协作能力提升",
       "bounds_pt": [
@@ -175,14 +193,17 @@
         301.3,
         31.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[1].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_62",
       "shape_id": 62,
       "shape_name": "文本框 61",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "管理能力提升",
       "bounds_pt": [
@@ -191,14 +212,17 @@
         301.3,
         31.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[2].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_63",
       "shape_id": 63,
       "shape_name": "文本框 62",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "创新思维提升",
       "bounds_pt": [
@@ -207,14 +231,17 @@
         301.3,
         31.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[3].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_65",
       "shape_id": 65,
       "shape_name": "文本框 64",
       "type": "text",
-      "max_chars": 30,
+      "max_chars": 11,
       "source_sample_chars": 15,
       "source_text": "述职汇报｜个人职业技能提升计划",
       "bounds_pt": [
@@ -223,7 +250,10 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 22
     }
   ],
   "objects": {

@@ -6,7 +6,7 @@
       "shape_id": 11,
       "shape_name": "矩形 10",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 5,
       "source_text": "2029年",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         174.6,
         29.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[3].label",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_12",
       "shape_id": 12,
       "shape_name": "箭头: 五边形 11",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 5,
       "source_text": "2030年",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         174.5,
         29.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[4].label",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_8",
       "shape_id": 8,
       "shape_name": "矩形 7",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 5,
       "source_text": "2026年",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         174.0,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[0].label",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_9",
       "shape_id": 9,
       "shape_name": "矩形 8",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 5,
       "source_text": "2027年",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         174.7,
         29.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[1].label",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_10",
       "shape_id": 10,
       "shape_name": "矩形 9",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 5,
       "source_text": "2028年",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         174.7,
         29.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[2].label",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_63",
       "shape_id": 63,
       "shape_name": "文本框 62",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "03.深化职能管理",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         150.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[2].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_64",
       "shape_id": 64,
       "shape_name": "文本框 63",
       "type": "text",
-      "max_chars": 142,
+      "max_chars": 16,
       "source_sample_chars": 71,
       "source_text": "提升管理能力：在项目中担任更重要的角色，提升团队管理和跨部门协作的能力。\n分析市场趋势：通过数据分析和市场调研，制定并执行相关的商务拓展策略。",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         150.1,
         124.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[2].body",
+      "max_lines": 1,
+      "max_width_units": 32
     },
     {
       "field": "text_69",
       "shape_id": 69,
       "shape_name": "文本框 68",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "05.向高层管理过渡",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         150.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[4].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_70",
       "shape_id": 70,
       "shape_name": "文本框 69",
       "type": "text",
-      "max_chars": 150,
+      "max_chars": 17,
       "source_sample_chars": 75,
       "source_text": "担任高级管理职务：争取晋升至中高级管理岗位，负责更大范围业务决策和战略规划。\n精通行业前沿技术：保持对行业最新趋势的敏感，精通新兴技术，不断提升自我。",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         150.1,
         124.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[4].body",
+      "max_lines": 1,
+      "max_width_units": 34
     },
     {
       "field": "text_82",
       "shape_id": 82,
       "shape_name": "文本框 81",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "01.适应学习阶段",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         150.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[0].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_83",
       "shape_id": 83,
       "shape_name": "文本框 82",
       "type": "text",
-      "max_chars": 146,
+      "max_chars": 16,
       "source_sample_chars": 73,
       "source_text": "熟悉公司业务：深入了解公司产品、客户以及竞争对手，确保能够快速适应工作环境。\n提升专业技能：参加相关的商务培训，学习市场营销，提升自身的业务能力。",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         150.1,
         124.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[0].body",
+      "max_lines": 1,
+      "max_width_units": 32
     },
     {
       "field": "text_91",
       "shape_id": 91,
       "shape_name": "文本框 90",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "04.向中层管理迈进",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         144.6,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[3].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_92",
       "shape_id": 92,
       "shape_name": "文本框 91",
       "type": "text",
-      "max_chars": 148,
+      "max_chars": 16,
       "source_sample_chars": 74,
       "source_text": "提升管理技能：在工作中带领团队，锻炼自己的决策力，学会沟通和激励团队成员。\n参与规划决策：贡献自己的意见建议，提升对公司整体发展方向的理解和贡献度。",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         150.1,
         124.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[3].body",
+      "max_lines": 1,
+      "max_width_units": 32
     },
     {
       "field": "text_94",
       "shape_id": 94,
       "shape_name": "文本框 93",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "02.增强专业能力",
       "bounds_pt": [
@@ -223,14 +262,17 @@
         149.5,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[1].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_95",
       "shape_id": 95,
       "shape_name": "文本框 94",
       "type": "text",
-      "max_chars": 138,
+      "max_chars": 16,
       "source_sample_chars": 69,
       "source_text": "掌握业务流程：深入了解和参与公司的业务运作流程，提升跨部门协作能力。\n建立客户网络：积极与客户和行业翘楚建立联系，扩展自己的商业人脉资源。",
       "bounds_pt": [
@@ -239,14 +281,17 @@
         150.1,
         124.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[1].body",
+      "max_lines": 1,
+      "max_width_units": 32
     },
     {
       "field": "text_7",
       "shape_id": 7,
       "shape_name": "文本框 6",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 11,
       "source_sample_chars": 12,
       "source_text": "时间轴｜个人职业5年规划",
       "bounds_pt": [
@@ -255,7 +300,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 22
     }
   ],
   "objects": {

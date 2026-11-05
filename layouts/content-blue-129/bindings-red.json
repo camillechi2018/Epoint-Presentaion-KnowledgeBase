@@ -6,7 +6,7 @@
       "shape_id": 9,
       "shape_name": "矩形 8",
       "type": "text",
-      "max_chars": 70,
+      "max_chars": 18,
       "source_sample_chars": 35,
       "source_text": "定期跨部门会议：定期举办跨部门的会议或圆桌讨论会，提升团队的协作效率。",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         206.4,
         35.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[0].body_a",
+      "max_lines": 1,
+      "max_width_units": 36
     },
     {
       "field": "text_10",
       "shape_id": 10,
       "shape_name": "矩形 9",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "部门合作沟通",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         158.2,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[0].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_31",
       "shape_id": 31,
       "shape_name": "矩形 30",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "创\n新\n方\n式\n一",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         32.0,
         104.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[0].vertical",
+      "max_lines": 5,
+      "max_width_units": 2
     },
     {
       "field": "text_32",
       "shape_id": 32,
       "shape_name": "矩形 31",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 8,
       "source_text": "创\n新\n方\n式二",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         32.0,
         104.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[1].vertical",
+      "max_lines": 5,
+      "max_width_units": 2
     },
     {
       "field": "text_33",
       "shape_id": 33,
       "shape_name": "矩形 32",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "创\n新\n方\n式\n三",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         32.0,
         104.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[2].vertical",
+      "max_lines": 5,
+      "max_width_units": 2
     },
     {
       "field": "text_34",
       "shape_id": 34,
       "shape_name": "矩形 33",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "创\n新\n方\n式\n四",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         32.0,
         104.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[3].vertical",
+      "max_lines": 5,
+      "max_width_units": 2
     },
     {
       "field": "text_37",
       "shape_id": 37,
       "shape_name": "矩形 36",
       "type": "text",
-      "max_chars": 60,
+      "max_chars": 15,
       "source_sample_chars": 30,
       "source_text": "项目协作工具：使用高效的协作工具，确保信息传递无误并且高效。",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         206.4,
         35.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[0].body_b",
+      "max_lines": 1,
+      "max_width_units": 30
     },
     {
       "field": "text_38",
       "shape_id": 38,
       "shape_name": "矩形 37",
       "type": "text",
-      "max_chars": 62,
+      "max_chars": 14,
       "source_sample_chars": 31,
       "source_text": "提高员工满意度：灵活的工作安排能够让员工更好地平衡工作和生活。",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         206.4,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[2].body_a",
+      "max_lines": 1,
+      "max_width_units": 28
     },
     {
       "field": "text_39",
       "shape_id": 39,
       "shape_name": "矩形 38",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "敏捷工作方法",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         158.2,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[2].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_40",
       "shape_id": 40,
       "shape_name": "矩形 39",
       "type": "text",
-      "max_chars": 58,
+      "max_chars": 14,
       "source_sample_chars": 29,
       "source_text": "使用分析工具与软件：引入高效的分析工具支持任务决策和创新。",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         206.4,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[1].body_a",
+      "max_lines": 1,
+      "max_width_units": 28
     },
     {
       "field": "text_41",
       "shape_id": 41,
       "shape_name": "矩形 40",
       "type": "text",
-      "max_chars": 70,
+      "max_chars": 15,
       "source_sample_chars": 35,
       "source_text": "设定数据驱动目标：通过数据分析结果，设定明确的创新目标和关键绩效指标。",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         206.4,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[1].body_b",
+      "max_lines": 1,
+      "max_width_units": 30
     },
     {
       "field": "text_42",
       "shape_id": 42,
       "shape_name": "矩形 41",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "数据驱动决策",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         158.2,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[1].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_43",
       "shape_id": 43,
       "shape_name": "矩形 42",
       "type": "text",
-      "max_chars": 64,
+      "max_chars": 14,
       "source_sample_chars": 32,
       "source_text": "项目协作工具：使用高效的协作工具，确保数据信息传递无误并且高效。",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         206.4,
         35.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[2].body_b",
+      "max_lines": 1,
+      "max_width_units": 28
     },
     {
       "field": "text_44",
       "shape_id": 44,
       "shape_name": "矩形 43",
       "type": "text",
-      "max_chars": 60,
+      "max_chars": 13,
       "source_sample_chars": 30,
       "source_text": "鼓励创新思维：定期的学习和创新活动能够激励员工突破思维限制。",
       "bounds_pt": [
@@ -223,14 +262,17 @@
         206.4,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[3].body_a",
+      "max_lines": 1,
+      "max_width_units": 26
     },
     {
       "field": "text_45",
       "shape_id": 45,
       "shape_name": "矩形 44",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "员工自主创新",
       "bounds_pt": [
@@ -239,14 +281,17 @@
         158.2,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "methods[3].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_46",
       "shape_id": 46,
       "shape_name": "矩形 45",
       "type": "text",
-      "max_chars": 72,
+      "max_chars": 12,
       "source_sample_chars": 36,
       "source_text": "为员发展谋划：组织内的培训课程，帮助员工不断提高专业技能，提升创意思维。",
       "bounds_pt": [
@@ -255,14 +300,17 @@
         206.4,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "methods[3].body_b",
+      "max_lines": 1,
+      "max_width_units": 24
     },
     {
       "field": "text_54",
       "shape_id": 54,
       "shape_name": "矩形 53",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 2,
       "source_sample_chars": 2,
       "source_text": "总结",
       "bounds_pt": [
@@ -271,14 +319,17 @@
         32.0,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "summary.heading",
+      "max_lines": 1,
+      "max_width_units": 4
     },
     {
       "field": "text_56",
       "shape_id": 56,
       "shape_name": "文本框 55",
       "type": "text",
-      "max_chars": 248,
+      "max_chars": 38,
       "source_sample_chars": 124,
       "source_text": "通过加强跨部门合作与沟通、利用数据驱动决策、实施敏捷工作方法、激励员工赋能和创新，可以有效提升团队的协作效率和响应速度，优化资源分配和任务执行，并推动持续创新，形成良好的创新文化，从而提升整体竞争力、推动业务增长，并在激烈的市场环境中保持领先地位。",
       "bounds_pt": [
@@ -287,14 +338,17 @@
         769.8,
         48.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "summary.body",
+      "max_lines": 1,
+      "max_width_units": 76
     },
     {
       "field": "text_55",
       "shape_id": 55,
       "shape_name": "文本框 54",
       "type": "text",
-      "max_chars": 30,
+      "max_chars": 13,
       "source_sample_chars": 15,
       "source_text": "述职汇报｜工作中需要创新的方式",
       "bounds_pt": [
@@ -303,7 +357,10 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 26
     }
   ],
   "objects": {

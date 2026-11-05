@@ -1,6 +1,13 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    3
+  ],
+  "source_count": 3,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    3
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "顶部三目标与下方三列说明绑定，固定三阶段；底部总结对应各阶段。"
 }

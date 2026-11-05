@@ -1,6 +1,20 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    3
+  ],
+  "source_count": 3,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    3
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "三项任务与顶部四个统计指标组成固定构图；四个指标值必须自洽。",
+  "goal_kpi_consistency": {
+    "goal_count": 3,
+    "total": "kpis.total.value",
+    "done": "kpis.done.value",
+    "pending": "kpis.pending.value",
+    "rate": "kpis.rate.value"
+  }
 }

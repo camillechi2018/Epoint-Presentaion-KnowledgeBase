@@ -1,6 +1,20 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    5
+  ],
+  "source_count": 5,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    5
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "五个年份、图标、说明在上下交错时间轴中绑定；年份必须连续递增。",
+  "consecutive_year_fields": [
+    "years[0].label",
+    "years[1].label",
+    "years[2].label",
+    "years[3].label",
+    "years[4].label"
+  ]
 }

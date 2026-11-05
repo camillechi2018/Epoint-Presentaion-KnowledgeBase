@@ -6,7 +6,7 @@
       "shape_id": 37,
       "shape_name": "椭圆 36",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 5,
       "source_text": "市场\n调研",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         106.2,
         106.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[0].heading",
+      "max_lines": 2,
+      "max_width_units": 4
     },
     {
       "field": "text_43",
       "shape_id": 43,
       "shape_name": "椭圆 42",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 5,
       "source_text": "制定\n方案",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         106.2,
         106.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[1].heading",
+      "max_lines": 2,
+      "max_width_units": 4
     },
     {
       "field": "text_44",
       "shape_id": 44,
       "shape_name": "椭圆 43",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 5,
       "source_text": "产品\n投放",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         106.2,
         106.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[2].heading",
+      "max_lines": 2,
+      "max_width_units": 4
     },
     {
       "field": "text_48",
       "shape_id": 48,
       "shape_name": "文本框 47",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 8,
       "source_text": "研究用户倾向内容",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         230.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "links[1].label",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_49",
       "shape_id": 49,
       "shape_name": "文本框 48",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 8,
       "source_text": "研究用户倾向内容",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         230.4,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "links[0].label",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_51",
       "shape_id": 51,
       "shape_name": "文本框 50",
       "type": "text",
-      "max_chars": 26,
+      "max_chars": 8,
       "source_sample_chars": 13,
       "source_text": "研究用户首次进入的使用情况",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         168.8,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[0].item_a",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_53",
       "shape_id": 53,
       "shape_name": "文本框 52",
       "type": "text",
-      "max_chars": 26,
+      "max_chars": 8,
       "source_sample_chars": 13,
       "source_text": "研究用户观看直播的使用情况",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         168.8,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[0].item_b",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_55",
       "shape_id": 55,
       "shape_name": "文本框 54",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 12,
       "source_text": "研究用户如何产生消费动机",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         156.9,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[0].item_c",
+      "max_lines": 1,
+      "max_width_units": 14
     },
     {
       "field": "text_57",
       "shape_id": 57,
       "shape_name": "文本框 56",
       "type": "text",
-      "max_chars": 26,
+      "max_chars": 8,
       "source_sample_chars": 13,
       "source_text": "制定增加用户点击的具体方案",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         168.8,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[1].item_a",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_59",
       "shape_id": 59,
       "shape_name": "文本框 58",
       "type": "text",
-      "max_chars": 26,
+      "max_chars": 9,
       "source_sample_chars": 13,
       "source_text": "制定延长观看时长的具体方案",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         168.8,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[1].item_b",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_61",
       "shape_id": 61,
       "shape_name": "文本框 60",
       "type": "text",
-      "max_chars": 26,
+      "max_chars": 9,
       "source_sample_chars": 13,
       "source_text": "制定提升消费转化的具体方案",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         168.8,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[1].item_c",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_63",
       "shape_id": 63,
       "shape_name": "文本框 62",
       "type": "text",
-      "max_chars": 32,
+      "max_chars": 9,
       "source_sample_chars": 16,
       "source_text": "横向比对数据，找出点击率不足原因",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         204.4,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[2].item_a",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_65",
       "shape_id": 65,
       "shape_name": "文本框 64",
       "type": "text",
-      "max_chars": 32,
+      "max_chars": 6,
       "source_sample_chars": 16,
       "source_text": "进行数据分析，确认合理的观看时长",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         204.4,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[2].item_b",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_67",
       "shape_id": 67,
       "shape_name": "文本框 66",
       "type": "text",
-      "max_chars": 32,
+      "max_chars": 8,
       "source_sample_chars": 16,
       "source_text": "市场调研分析，找出转化率高的方法",
       "bounds_pt": [
@@ -223,14 +262,17 @@
         204.4,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[2].item_c",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_69",
       "shape_id": 69,
       "shape_name": "文本框 68",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 8,
       "source_text": "研究用户倾向内容",
       "bounds_pt": [
@@ -239,14 +281,17 @@
         183.9,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[0].summary",
+      "max_lines": 1,
+      "max_width_units": 14
     },
     {
       "field": "text_70",
       "shape_id": 70,
       "shape_name": "文本框 69",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 10,
       "source_text": "制定可实施的具体方案",
       "bounds_pt": [
@@ -255,14 +300,17 @@
         209.2,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[1].summary",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_71",
       "shape_id": 71,
       "shape_name": "文本框 70",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 10,
       "source_text": "根据实际情况进行优化",
       "bounds_pt": [
@@ -271,14 +319,17 @@
         209.9,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[2].summary",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_73",
       "shape_id": 73,
       "shape_name": "文本框 72",
       "type": "text",
-      "max_chars": 84,
+      "max_chars": 23,
       "source_sample_chars": 42,
       "source_text": "用户激励与转化 User motivation and transformation",
       "bounds_pt": [
@@ -287,14 +338,17 @@
         720.2,
         36.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "footer.caption",
+      "max_lines": 1,
+      "max_width_units": 46
     },
     {
       "field": "text_4",
       "shape_id": 4,
       "shape_name": "文本框 3",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 12,
       "source_sample_chars": 10,
       "source_text": "逻辑图｜项目流程规划",
       "bounds_pt": [
@@ -303,7 +357,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 24
     }
   ],
   "objects": {

@@ -6,7 +6,7 @@
       "shape_id": 36,
       "shape_name": "文本框 35",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "提升专业技能",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         162.6,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[0].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_37",
       "shape_id": 37,
       "shape_name": "文本框 36",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "拓展人脉网络",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         162.6,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[1].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_38",
       "shape_id": 38,
       "shape_name": "文本框 37",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "设定职业目标",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         162.6,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[2].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_39",
       "shape_id": 39,
       "shape_name": "文本框 38",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "提升决策能力",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         162.6,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[3].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_51",
       "shape_id": 51,
       "shape_name": "矩形: 圆角 50",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "高效解决方案",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         189.1,
         26.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[0].tag_a",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_52",
       "shape_id": 52,
       "shape_name": "矩形: 圆角 51",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "解决问题能力",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         189.1,
         26.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[0].tag_b",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_55",
       "shape_id": 55,
       "shape_name": "矩形: 圆角 54",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "分享行业见解",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         189.1,
         26.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[1].tag_a",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_56",
       "shape_id": 56,
       "shape_name": "矩形: 圆角 55",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "建立信任合作",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         189.1,
         26.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[1].tag_b",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_58",
       "shape_id": 58,
       "shape_name": "矩形: 圆角 57",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "确保目标清晰",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         189.1,
         26.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[2].tag_a",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_59",
       "shape_id": 59,
       "shape_name": "矩形: 圆角 58",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "评估调整目标",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         189.1,
         26.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[2].tag_b",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_61",
       "shape_id": 61,
       "shape_name": "矩形: 圆角 60",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "提高协作能力",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         189.1,
         26.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[3].tag_a",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_62",
       "shape_id": 62,
       "shape_name": "矩形: 圆角 61",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "提高决策能力",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         189.1,
         26.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[3].tag_b",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_65",
       "shape_id": 65,
       "shape_name": "文本框 64",
       "type": "text",
-      "max_chars": 76,
+      "max_chars": 21,
       "source_sample_chars": 38,
       "source_text": "参加行业认证：通过获得行业内认可的认证，能为我提供更多的晋升机会和项目机会。",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         189.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[0].body_a",
+      "max_lines": 1,
+      "max_width_units": 42
     },
     {
       "field": "text_66",
       "shape_id": 66,
       "shape_name": "文本框 65",
       "type": "text",
-      "max_chars": 84,
+      "max_chars": 20,
       "source_sample_chars": 42,
       "source_text": "跨领域学习：通过学习与自身领域相关但不完全相同的知识，可以提高多方面的解决问题能力。",
       "bounds_pt": [
@@ -223,14 +262,17 @@
         189.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[0].body_b",
+      "max_lines": 1,
+      "max_width_units": 40
     },
     {
       "field": "text_68",
       "shape_id": 68,
       "shape_name": "文本框 67",
       "type": "text",
-      "max_chars": 86,
+      "max_chars": 17,
       "source_sample_chars": 43,
       "source_text": "利用社交媒体：定期分享行业相关的见解、文章或经验，吸引更多同行、客户和潜在雇主的关注。",
       "bounds_pt": [
@@ -239,14 +281,17 @@
         189.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[1].body_a",
+      "max_lines": 1,
+      "max_width_units": 34
     },
     {
       "field": "text_69",
       "shape_id": 69,
       "shape_name": "文本框 68",
       "type": "text",
-      "max_chars": 78,
+      "max_chars": 19,
       "source_sample_chars": 39,
       "source_text": "积极建立深层次关系：与人脉建立联系时，通过定期沟通和互动，建立信任与长期合作。",
       "bounds_pt": [
@@ -255,14 +300,17 @@
         189.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[1].body_b",
+      "max_lines": 1,
+      "max_width_units": 38
     },
     {
       "field": "text_71",
       "shape_id": 71,
       "shape_name": "文本框 70",
       "type": "text",
-      "max_chars": 100,
+      "max_chars": 16,
       "source_sample_chars": 50,
       "source_text": "量化和可评估目标：确保设定目标是可量化和可评估的，不仅能更好地跟踪进展，也能根据反馈调整策略和方法。",
       "bounds_pt": [
@@ -271,14 +319,17 @@
         189.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[2].body_a",
+      "max_lines": 1,
+      "max_width_units": 32
     },
     {
       "field": "text_72",
       "shape_id": 72,
       "shape_name": "文本框 71",
       "type": "text",
-      "max_chars": 100,
+      "max_chars": 17,
       "source_sample_chars": 50,
       "source_text": "定期评估与调整目标：设定目标后，要定期审视自己的进展，评估目标的可行性和合理性，并在必要时进行调整。",
       "bounds_pt": [
@@ -287,14 +338,17 @@
         189.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[2].body_b",
+      "max_lines": 1,
+      "max_width_units": 34
     },
     {
       "field": "text_74",
       "shape_id": 74,
       "shape_name": "文本框 73",
       "type": "text",
-      "max_chars": 92,
+      "max_chars": 14,
       "source_sample_chars": 46,
       "source_text": "团队合作与管理：提高团队协作能力培养同理心和开放心态，可以在不同背景的人建立良好的工作关系。",
       "bounds_pt": [
@@ -303,14 +357,17 @@
         189.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[3].body_a",
+      "max_lines": 1,
+      "max_width_units": 28
     },
     {
       "field": "text_75",
       "shape_id": 75,
       "shape_name": "文本框 74",
       "type": "text",
-      "max_chars": 76,
+      "max_chars": 16,
       "source_sample_chars": 38,
       "source_text": "培养决策与思维：可以通过参与项目分析行业趋势，逐步提高决策和战略思维的能力。",
       "bounds_pt": [
@@ -319,14 +376,17 @@
         189.1,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[3].body_b",
+      "max_lines": 1,
+      "max_width_units": 32
     },
     {
       "field": "text_63",
       "shape_id": 63,
       "shape_name": "文本框 62",
       "type": "text",
-      "max_chars": 60,
+      "max_chars": 14,
       "source_sample_chars": 30,
       "source_text": "通过提升专业技能，可以很好的完善自我工作能力，提升工作效率。",
       "bounds_pt": [
@@ -335,14 +395,17 @@
         175.1,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[0].summary",
+      "max_lines": 1,
+      "max_width_units": 28
     },
     {
       "field": "text_67",
       "shape_id": 67,
       "shape_name": "文本框 66",
       "type": "text",
-      "max_chars": 60,
+      "max_chars": 13,
       "source_sample_chars": 30,
       "source_text": "通过拓展人脉网络，可以完善自己的资源，提升工作经验和影响力。",
       "bounds_pt": [
@@ -351,14 +414,17 @@
         175.1,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[1].summary",
+      "max_lines": 1,
+      "max_width_units": 26
     },
     {
       "field": "text_70",
       "shape_id": 70,
       "shape_name": "文本框 69",
       "type": "text",
-      "max_chars": 58,
+      "max_chars": 13,
       "source_sample_chars": 29,
       "source_text": "通过设定职业目标，可以合理安排工作任务，逐步提升工作能力。",
       "bounds_pt": [
@@ -367,14 +433,17 @@
         175.1,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[2].summary",
+      "max_lines": 1,
+      "max_width_units": 26
     },
     {
       "field": "text_73",
       "shape_id": 73,
       "shape_name": "文本框 72",
       "type": "text",
-      "max_chars": 62,
+      "max_chars": 13,
       "source_sample_chars": 31,
       "source_text": "通过提升决策能力，可以增强自己的跨部门协调能力和沟通交流能力。",
       "bounds_pt": [
@@ -383,14 +452,17 @@
         175.1,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[3].summary",
+      "max_lines": 1,
+      "max_width_units": 26
     },
     {
       "field": "text_60",
       "shape_id": 60,
       "shape_name": "文本框 59",
       "type": "text",
-      "max_chars": 26,
+      "max_chars": 11,
       "source_sample_chars": 13,
       "source_text": "述职汇报｜职业发展目标规划",
       "bounds_pt": [
@@ -399,7 +471,10 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 22
     }
   ],
   "objects": {
