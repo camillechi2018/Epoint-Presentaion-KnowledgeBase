@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-05",
+  "batch": "blue-red-ninth-representative-batch",
+  "candidates": 8,
+  "verified_component_count": 8,
+  "static_pptx_pool_before": 58,
+  "static_pptx_pool_after": 66,
+  "verified_layouts": [
+    {
+      "layout_id": "content-blue-143",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch9-content-blue-143-blue.png",
+        "review/batch9-content-blue-143-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-149",
+      "verified_counts": [
+        5
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch9-content-blue-149-blue.png",
+        "review/batch9-content-blue-149-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-180",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch9-content-blue-180-blue.png",
+        "review/batch9-content-blue-180-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-202",
+      "verified_counts": [
+        5
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch9-content-blue-202-blue.png",
+        "review/batch9-content-blue-202-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-214",
+      "verified_counts": [
+        6
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch9-content-blue-214-blue.png",
+        "review/batch9-content-blue-214-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-240",
+      "verified_counts": [
+        6
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch9-content-blue-240-blue.png",
+        "review/batch9-content-blue-240-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-258",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch9-content-blue-258-blue.png",
+        "review/batch9-content-blue-258-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-292",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch9-content-blue-292-blue.png",
+        "review/batch9-content-blue-292-red.png"
+      ]
+    }
+  ],
+  "qa": {
+    "powerpoint_open_export": "16/16",
+    "text_overflow": "0/16",
+    "logo_and_svg_fallback": "16/16",
+    "invalid_item_count_rejected": "8/8",
+    "year_range_rejection": "P202 passed",
+    "month_sequence_rejection": "P214 passed",
+    "native_chart_mismatch_rejection": "P292 sum and growth passed",
+    "editable_charts": "P292 blue/red native chart retained",
+    "visual_review": "blue/red contact sheet reviewed"
+  },
+  "limits": [
+    "fixed source item counts only",
+    "short-copy static PPTX only",
+    "motion and HTML not verified",
+    "brand review pending"
+  ]
+}

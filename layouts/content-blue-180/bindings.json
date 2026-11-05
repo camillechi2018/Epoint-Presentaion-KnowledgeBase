@@ -6,7 +6,7 @@
       "shape_id": 4,
       "shape_name": "文本框 3",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 12,
       "source_sample_chars": 11,
       "source_text": "述职汇报｜工作亮点展示",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 24
     },
     {
       "field": "text_15",
       "shape_id": 15,
       "shape_name": "任意形状 14",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "团队效率提升",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         189.8,
         34.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[0].heading",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_24",
       "shape_id": 24,
       "shape_name": "任意形状 23",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "创新产品开发",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         189.8,
         34.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[1].heading",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_25",
       "shape_id": 25,
       "shape_name": "任意形状 24",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "优化成本控制",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         189.8,
         34.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[2].heading",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_26",
       "shape_id": 26,
       "shape_name": "任意形状 25",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "员工成长发展",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         189.8,
         34.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[3].heading",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_32",
       "shape_id": 32,
       "shape_name": "任意形状 31",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "亮点01",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         119.9,
         28.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[0].label",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_33",
       "shape_id": 33,
       "shape_name": "任意形状 32",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "亮点02",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         119.9,
         28.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[1].label",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_34",
       "shape_id": 34,
       "shape_name": "任意形状 33",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "亮点03",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         119.9,
         28.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[2].label",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_35",
       "shape_id": 35,
       "shape_name": "任意形状 34",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "亮点04",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         119.9,
         28.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[3].label",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_37",
       "shape_id": 37,
       "shape_name": "文本框 36",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 8,
       "source_text": "引入高效管理工具",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         178.6,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[0].items[0].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_38",
       "shape_id": 38,
       "shape_name": "文本框 37",
       "type": "text",
-      "max_chars": 92,
+      "max_chars": 28,
       "source_sample_chars": 46,
       "source_text": "引入推广了新的项目管理工具，确保任务分配清晰。\n避免了信息漏失和重复工作提高了项目的透明度。",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         178.6,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "areas[0].items[0].body",
+      "max_lines": 2,
+      "max_width_units": 32
     },
     {
       "field": "text_39",
       "shape_id": 39,
       "shape_name": "文本框 38",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 7,
       "source_text": "市场调研与分析",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         178.6,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[1].items[0].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_40",
       "shape_id": 40,
       "shape_name": "文本框 39",
       "type": "text",
-      "max_chars": 88,
+      "max_chars": 27,
       "source_sample_chars": 44,
       "source_text": "通过市场调研和用户访谈精准掌握用户需求。\n根据反馈调整设计，确保新产品能够满足客户期望。",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         178.6,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "areas[1].items[0].body",
+      "max_lines": 2,
+      "max_width_units": 28
     },
     {
       "field": "text_41",
       "shape_id": 41,
       "shape_name": "文本框 40",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 7,
       "source_text": "供应链管理优化",
       "bounds_pt": [
@@ -223,14 +262,17 @@
         178.6,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[2].items[0].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_42",
       "shape_id": 42,
       "shape_name": "文本框 41",
       "type": "text",
-      "max_chars": 92,
+      "max_chars": 23,
       "source_sample_chars": 46,
       "source_text": "与供应商进行长期战略合作，重新评估供应链的环节。\n减少不必要的库存和运输成本降低了运营成本。",
       "bounds_pt": [
@@ -239,14 +281,17 @@
         178.6,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "areas[2].items[0].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_43",
       "shape_id": 43,
       "shape_name": "文本框 42",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 8,
       "source_text": "定期技能提升课程",
       "bounds_pt": [
@@ -255,14 +300,17 @@
         178.6,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[3].items[0].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_44",
       "shape_id": 44,
       "shape_name": "文本框 43",
       "type": "text",
-      "max_chars": 90,
+      "max_chars": 24,
       "source_sample_chars": 45,
       "source_text": "组织培训课程，邀请专家讲解前沿技术和行业趋势。\n帮助员工适应快速变化的工作环境，提升效率。",
       "bounds_pt": [
@@ -271,14 +319,17 @@
         178.6,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "areas[3].items[0].body",
+      "max_lines": 2,
+      "max_width_units": 26
     },
     {
       "field": "text_45",
       "shape_id": 45,
       "shape_name": "文本框 44",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 8,
       "source_text": "优化部门沟通机制",
       "bounds_pt": [
@@ -287,14 +338,17 @@
         178.6,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[0].items[1].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_46",
       "shape_id": 46,
       "shape_name": "文本框 45",
       "type": "text",
-      "max_chars": 84,
+      "max_chars": 26,
       "source_sample_chars": 42,
       "source_text": "定期跨部门会议，加强了不同部门间的沟通与协作。\n确保各部门在项目执行过程中保持同步。",
       "bounds_pt": [
@@ -303,14 +357,17 @@
         178.6,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "areas[0].items[1].body",
+      "max_lines": 2,
+      "max_width_units": 30
     },
     {
       "field": "text_47",
       "shape_id": 47,
       "shape_name": "文本框 46",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 7,
       "source_text": "技术研发与突破",
       "bounds_pt": [
@@ -319,14 +376,17 @@
         178.6,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[1].items[1].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_48",
       "shape_id": 48,
       "shape_name": "文本框 47",
       "type": "text",
-      "max_chars": 84,
+      "max_chars": 24,
       "source_sample_chars": 42,
       "source_text": "加强与技术团队的合作，提高产品的智能化水平。\n新产品在性能和用户体验上都有显著提升。",
       "bounds_pt": [
@@ -335,14 +395,17 @@
         178.6,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "areas[1].items[1].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_49",
       "shape_id": 49,
       "shape_name": "文本框 48",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 7,
       "source_text": "流程数字化转型",
       "bounds_pt": [
@@ -351,14 +414,17 @@
         178.6,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[2].items[1].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_50",
       "shape_id": 50,
       "shape_name": "文本框 49",
       "type": "text",
-      "max_chars": 86,
+      "max_chars": 22,
       "source_sample_chars": 43,
       "source_text": "引入了流程自动化技术，减少了人工干预的错误。\n通过数字化管理，提升了工作效率和准确性。",
       "bounds_pt": [
@@ -367,14 +433,17 @@
         178.6,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "areas[2].items[1].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_51",
       "shape_id": 51,
       "shape_name": "文本框 50",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 9,
       "source_text": "职业规划与晋升机制",
       "bounds_pt": [
@@ -383,14 +452,17 @@
         178.6,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "areas[3].items[1].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_52",
       "shape_id": 52,
       "shape_name": "文本框 51",
       "type": "text",
-      "max_chars": 94,
+      "max_chars": 26,
       "source_sample_chars": 47,
       "source_text": "推行了规划晋升机制，根据员工的表现和职业兴趣。\n制定个性化的职业发展路径并为员工提供晋升机会。",
       "bounds_pt": [
@@ -399,7 +471,10 @@
         178.6,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "areas[3].items[1].body",
+      "max_lines": 2,
+      "max_width_units": 26
     }
   ],
   "objects": {

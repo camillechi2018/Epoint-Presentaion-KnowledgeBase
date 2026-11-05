@@ -1,6 +1,21 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    4
+  ],
+  "source_count": 4,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    4
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "双系列原生柱状图对应四季度；营收、成本与同比增量须由数据校验。",
+  "annual_two_series_consistency": {
+    "chart_shape_id": 8,
+    "revenue_field": "metrics.revenue.value",
+    "cost_field": "metrics.cost.value",
+    "growth_field": "metrics.growth.value",
+    "previous_year_key": "previous_year_revenue",
+    "unit": "万元"
+  }
 }

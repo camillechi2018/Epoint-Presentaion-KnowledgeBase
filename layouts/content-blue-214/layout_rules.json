@@ -1,6 +1,21 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    6
+  ],
+  "source_count": 6,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    6
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "六个月份、上下交错的标题与正文一一对应，日期须连续。",
+  "consecutive_month_labels": [
+    "months[0].date",
+    "months[1].date",
+    "months[2].date",
+    "months[3].date",
+    "months[4].date",
+    "months[5].date"
+  ]
 }

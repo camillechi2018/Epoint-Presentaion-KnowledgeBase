@@ -6,7 +6,7 @@
       "shape_id": 3,
       "shape_name": "文本框 2",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "情商提升",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         119.2,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "abilities[0].heading",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_7",
       "shape_id": 7,
       "shape_name": "文本框 6",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "团队合作建设",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         155.2,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "abilities[1].heading",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_8",
       "shape_id": 8,
       "shape_name": "文本框 7",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 8,
       "source_text": "思维决策能力提升",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         190.2,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "abilities[2].heading",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_9",
       "shape_id": 9,
       "shape_name": "文本框 8",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 9,
       "source_text": "时间管理与自我激励",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         225.1,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "abilities[3].heading",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_11",
       "shape_id": 11,
       "shape_name": "文本框 10",
       "type": "text",
-      "max_chars": 204,
+      "max_chars": 33,
       "source_sample_chars": 102,
       "source_text": "目标：加强自我认知，提升情商，以更好地管理团队与人际关系。\n\n行动计划：参加情商培训,定期分析自己在情绪管理、决策和沟通中的表现。\n\n预期成果：增强对他人情绪和需求的敏感度，提升团队合作氛围和员工满意度。",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         423.0,
         84.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "abilities[0].body",
+      "max_lines": 2,
+      "max_width_units": 38
     },
     {
       "field": "text_12",
       "shape_id": 12,
       "shape_name": "文本框 11",
       "type": "text",
-      "max_chars": 212,
+      "max_chars": 34,
       "source_sample_chars": 106,
       "source_text": "目标：提升与团队成员的沟通能力，建立信任与高效合作的团队文化。\n\n行动计划：定期组织团队会议，设立明确的反馈机制，促进跨部门的协作。\n\n预期成果：提高团队的协作效率，减少误解和冲突，增强团队成员的参与感和归属感。",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         423.0,
         84.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "abilities[1].body",
+      "max_lines": 2,
+      "max_width_units": 40
     },
     {
       "field": "text_13",
       "shape_id": 13,
       "shape_name": "文本框 12",
       "type": "text",
-      "max_chars": 208,
+      "max_chars": 32,
       "source_sample_chars": 104,
       "source_text": "目标：提高战略思维能力，更加理性和系统地进行决策。\n\n行动计划：定期进行市场和行业分析，培养全局观，参与高层战略讨论，提升执行力。\n\n预期成果：提升战略规划与长远目标设定能力，为团队和公司带来更大的竞争优势。",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         423.0,
         84.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "abilities[2].body",
+      "max_lines": 2,
+      "max_width_units": 36
     },
     {
       "field": "text_14",
       "shape_id": 14,
       "shape_name": "文本框 13",
       "type": "text",
-      "max_chars": 192,
+      "max_chars": 32,
       "source_sample_chars": 96,
       "source_text": "目标：优化时间管理技巧，保持高效工作状态，避免过度压力和疲劳。\n\n行动计划：采用有效的时间管理工具来提升工作效率，优化工作安排。\n\n预期成果：提高工作效率，减少拖延，保持高效且健康的工作节奏。",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         423.0,
         84.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "abilities[3].body",
+      "max_lines": 2,
+      "max_width_units": 38
     },
     {
       "field": "text_43",
       "shape_id": 43,
       "shape_name": "文本框 42",
       "type": "text",
-      "max_chars": 38,
+      "max_chars": 11,
       "source_sample_chars": 19,
       "source_text": "述职汇报｜个人决策力与管理能力提升计划",
       "bounds_pt": [
@@ -143,7 +167,10 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 22
     }
   ],
   "objects": {

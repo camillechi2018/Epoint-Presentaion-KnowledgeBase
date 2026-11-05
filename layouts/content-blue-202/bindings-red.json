@@ -6,7 +6,7 @@
       "shape_id": 8,
       "shape_name": "箭头: 五边形 7",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "第二阶段规划",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         174.7,
         37.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[1].label",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_9",
       "shape_id": 9,
       "shape_name": "箭头: 五边形 8",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "第三阶段规划",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         174.7,
         37.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[2].label",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_10",
       "shape_id": 10,
       "shape_name": "箭头: 五边形 9",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "第四阶段规划",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         174.7,
         37.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[3].label",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_12",
       "shape_id": 12,
       "shape_name": "箭头: 五边形 11",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "第五阶段规划",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         174.7,
         37.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[4].label",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_30",
       "shape_id": 30,
       "shape_name": "箭头: 五边形 29",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "第一阶段规划",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         174.7,
         37.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[0].label",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_46",
       "shape_id": 46,
       "shape_name": "矩形: 圆角 45",
       "type": "text",
-      "max_chars": 28,
+      "max_chars": 15,
       "source_sample_chars": 14,
       "source_text": "2026年个人职业10年规划",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         289.8,
         36.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "section.title",
+      "max_lines": 1,
+      "max_width_units": 21
     },
     {
       "field": "text_4",
       "shape_id": 4,
       "shape_name": "文本框 3",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "了解行业和入门学习",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         150.6,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[0].heading",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_6",
       "shape_id": 6,
       "shape_name": "文本框 5",
       "type": "text",
-      "max_chars": 92,
+      "max_chars": 27,
       "source_sample_chars": 46,
       "source_text": "学习如何进行市场调研、客户沟通和数据分析。\n参与日常商务会议，观察并学习资深同事的工作方式。",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         151.2,
         82.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[0].body",
+      "max_lines": 2,
+      "max_width_units": 28
     },
     {
       "field": "text_11",
       "shape_id": 11,
       "shape_name": "文本框 10",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "技能提升与经验积累",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         150.6,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[1].heading",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_15",
       "shape_id": 15,
       "shape_name": "文本框 14",
       "type": "text",
-      "max_chars": 90,
+      "max_chars": 22,
       "source_sample_chars": 45,
       "source_text": "扩展业务知识，关注行业趋势和竞争对手动态。\n参加职业培训和课程，提升自己的行业认知和能力。",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         151.2,
         82.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[1].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_47",
       "shape_id": 47,
       "shape_name": "文本框 46",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "中级管理与独立担当",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         150.6,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[2].heading",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_48",
       "shape_id": 48,
       "shape_name": "文本框 47",
       "type": "text",
-      "max_chars": 98,
+      "max_chars": 22,
       "source_sample_chars": 49,
       "source_text": "主导跨部门合作项目，参与公司重要决策的制定与执行。\n深化对行业的理解，探索并推动公司新业务的开拓。",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         151.2,
         82.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[2].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_49",
       "shape_id": 49,
       "shape_name": "文本框 48",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "高级管理与部门合作",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         150.6,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[3].heading",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_50",
       "shape_id": 50,
       "shape_name": "文本框 49",
       "type": "text",
-      "max_chars": 86,
+      "max_chars": 22,
       "source_sample_chars": 43,
       "source_text": "担任高级商务经理，领导重要的项目和团队。\n与合作伙伴保持紧密联系，推动公司战略的落地。",
       "bounds_pt": [
@@ -223,14 +262,17 @@
         151.2,
         82.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[3].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_51",
       "shape_id": 51,
       "shape_name": "文本框 50",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "顶级管理与行业领袖",
       "bounds_pt": [
@@ -239,14 +281,17 @@
         150.6,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[4].heading",
+      "max_lines": 1,
+      "max_width_units": 18
     },
     {
       "field": "text_52",
       "shape_id": 52,
       "shape_name": "文本框 51",
       "type": "text",
-      "max_chars": 90,
+      "max_chars": 22,
       "source_sample_chars": 45,
       "source_text": "担任公司核心职位，全面负责企业战略规划与执行。\n推动公司全球化发展、创新并拓展新业务领域。",
       "bounds_pt": [
@@ -255,14 +300,17 @@
         151.2,
         82.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[4].body",
+      "max_lines": 2,
+      "max_width_units": 22
     },
     {
       "field": "text_53",
       "shape_id": 53,
       "shape_name": "文本框 52",
       "type": "text",
-      "max_chars": 142,
+      "max_chars": 22,
       "source_sample_chars": 71,
       "source_text": "精通公司治理，企业融资和市场运营等综合管理能力。\n深化人脉网络建设和行业影响力，成为行业知名人物。\n推动公司全球化发展、创新并拓展新业务领域。",
       "bounds_pt": [
@@ -271,14 +319,17 @@
         151.2,
         124.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[4].skill_body",
+      "max_lines": 2,
+      "max_width_units": 22
     },
     {
       "field": "text_54",
       "shape_id": 54,
       "shape_name": "文本框 53",
       "type": "text",
-      "max_chars": 82,
+      "max_chars": 26,
       "source_sample_chars": 41,
       "source_text": "深化管理力、决策力与跨部门协作能力。\n掌握全面的战略规划、企业运营和风险管理能力。",
       "bounds_pt": [
@@ -287,14 +338,17 @@
         151.2,
         82.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[3].skill_body",
+      "max_lines": 2,
+      "max_width_units": 30
     },
     {
       "field": "text_55",
       "shape_id": 55,
       "shape_name": "文本框 54",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "技能发展",
       "bounds_pt": [
@@ -303,14 +357,17 @@
         150.6,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[3].skill_label",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_56",
       "shape_id": 56,
       "shape_name": "文本框 55",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "技能发展",
       "bounds_pt": [
@@ -319,14 +376,17 @@
         150.6,
         21.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[4].skill_label",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_57",
       "shape_id": 57,
       "shape_name": "文本框 56",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 11,
       "source_sample_chars": 11,
       "source_text": "2026年-2027年",
       "bounds_pt": [
@@ -335,14 +395,17 @@
         115.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[0].period",
+      "max_lines": 1,
+      "max_width_units": 13
     },
     {
       "field": "text_58",
       "shape_id": 58,
       "shape_name": "文本框 57",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 11,
       "source_sample_chars": 11,
       "source_text": "2028年-2029年",
       "bounds_pt": [
@@ -351,14 +414,17 @@
         115.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[1].period",
+      "max_lines": 1,
+      "max_width_units": 13
     },
     {
       "field": "text_59",
       "shape_id": 59,
       "shape_name": "文本框 58",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 11,
       "source_sample_chars": 11,
       "source_text": "2030年-2031年",
       "bounds_pt": [
@@ -367,14 +433,17 @@
         115.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[2].period",
+      "max_lines": 1,
+      "max_width_units": 13
     },
     {
       "field": "text_60",
       "shape_id": 60,
       "shape_name": "文本框 59",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 11,
       "source_sample_chars": 11,
       "source_text": "2032年-2033年",
       "bounds_pt": [
@@ -383,14 +452,17 @@
         115.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[3].period",
+      "max_lines": 1,
+      "max_width_units": 13
     },
     {
       "field": "text_61",
       "shape_id": 61,
       "shape_name": "文本框 60",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 11,
       "source_sample_chars": 11,
       "source_text": "2034年-2035年",
       "bounds_pt": [
@@ -399,14 +471,17 @@
         115.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[4].period",
+      "max_lines": 1,
+      "max_width_units": 13
     },
     {
       "field": "text_63",
       "shape_id": 63,
       "shape_name": "文本框 62",
       "type": "text",
-      "max_chars": 66,
+      "max_chars": 25,
       "source_sample_chars": 33,
       "source_text": "五个阶段的职业规划将帮助我从基础职位开始，逐步积累经验并提升技能。",
       "bounds_pt": [
@@ -415,14 +490,17 @@
         289.4,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "section.intro",
+      "max_lines": 1,
+      "max_width_units": 50
     },
     {
       "field": "text_5",
       "shape_id": 5,
       "shape_name": "文本框 4",
       "type": "text",
-      "max_chars": 26,
+      "max_chars": 12,
       "source_sample_chars": 13,
       "source_text": "时间轴｜个人职业10年规划",
       "bounds_pt": [
@@ -431,7 +509,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 24
     }
   ],
   "objects": {

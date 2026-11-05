@@ -6,7 +6,7 @@
       "shape_id": 23,
       "shape_name": "矩形: 圆角 22",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 10,
       "source_sample_chars": 10,
       "source_text": "01.目标设定与策划",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         218.1,
         32.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "months[0].heading",
+      "max_lines": 1,
+      "max_width_units": 17
     },
     {
       "field": "text_24",
       "shape_id": 24,
       "shape_name": "矩形: 圆角 23",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "03.宣传推广与传播",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         218.1,
         32.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "months[2].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_25",
       "shape_id": 25,
       "shape_name": "矩形: 圆角 24",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "05.参与者互动体验",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         218.1,
         32.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "months[4].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_26",
       "shape_id": 26,
       "shape_name": "矩形: 圆角 25",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "02.市场调研与分析",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         218.1,
         32.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "months[1].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_27",
       "shape_id": 27,
       "shape_name": "矩形: 圆角 26",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "04.活动执行与管理",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         218.1,
         32.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "months[3].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_28",
       "shape_id": 28,
       "shape_name": "矩形: 圆角 27",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 10,
       "source_text": "06.数据分析与评估",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         218.1,
         32.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "months[5].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_10",
       "shape_id": 10,
       "shape_name": "箭头: 五边形 9",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2026年1月",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         143.5,
         49.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "months[0].date",
+      "max_lines": 1,
+      "max_width_units": 9
     },
     {
       "field": "text_17",
       "shape_id": 17,
       "shape_name": "箭头: V 形 16",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2026年2月",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         143.5,
         49.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "months[1].date",
+      "max_lines": 1,
+      "max_width_units": 9
     },
     {
       "field": "text_18",
       "shape_id": 18,
       "shape_name": "箭头: V 形 17",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2026年3月",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         143.5,
         49.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "months[2].date",
+      "max_lines": 1,
+      "max_width_units": 9
     },
     {
       "field": "text_19",
       "shape_id": 19,
       "shape_name": "箭头: V 形 18",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2026年4月",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         143.5,
         49.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "months[3].date",
+      "max_lines": 1,
+      "max_width_units": 9
     },
     {
       "field": "text_20",
       "shape_id": 20,
       "shape_name": "箭头: V 形 19",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2026年5月",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         143.5,
         49.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "months[4].date",
+      "max_lines": 1,
+      "max_width_units": 9
     },
     {
       "field": "text_21",
       "shape_id": 21,
       "shape_name": "箭头: V 形 20",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2026年6月",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         162.2,
         49.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "months[5].date",
+      "max_lines": 1,
+      "max_width_units": 9
     },
     {
       "field": "text_45",
       "shape_id": 45,
       "shape_name": "文本框 44",
       "type": "text",
-      "max_chars": 136,
+      "max_chars": 25,
       "source_sample_chars": 68,
       "source_text": "明确活动目标：确定活动的主要目标，如品牌推广、产品销售、用户参与等。\n制定详细计划：确定活动时间、预算和资源分配，确保有清晰的执行方案。",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         218.1,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "months[0].body",
+      "max_lines": 2,
+      "max_width_units": 26
     },
     {
       "field": "text_46",
       "shape_id": 46,
       "shape_name": "文本框 45",
       "type": "text",
-      "max_chars": 148,
+      "max_chars": 21,
       "source_sample_chars": 74,
       "source_text": "多渠道推广：通过社交媒体、电子邮件、广告等多渠道推广活动，扩大活动覆盖面。\n合作伙伴联合推广：与相关品牌媒体合作，联合宣传，提升活动曝光度和影响力。",
       "bounds_pt": [
@@ -223,14 +262,17 @@
         218.1,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "months[2].body",
+      "max_lines": 2,
+      "max_width_units": 20
     },
     {
       "field": "text_47",
       "shape_id": 47,
       "shape_name": "文本框 46",
       "type": "text",
-      "max_chars": 136,
+      "max_chars": 25,
       "source_sample_chars": 68,
       "source_text": "激励措施设计：设计吸引人的奖品或奖励机制鼓励参与者积极互动。\n用户反馈收集：通过调查问卷或社交媒体等方式收集参与者的反馈，优化用户体验。",
       "bounds_pt": [
@@ -239,14 +281,17 @@
         218.1,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "months[4].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_48",
       "shape_id": 48,
       "shape_name": "文本框 47",
       "type": "text",
-      "max_chars": 152,
+      "max_chars": 24,
       "source_sample_chars": 76,
       "source_text": "目标受众分析：通过数据收集，分析目标用户的需求、兴趣和行为，优化活动方案。\n竞争对手分析：调研市场上竞争对手，分析竞争对手的优缺点，为活动策划提供参考。",
       "bounds_pt": [
@@ -255,14 +300,17 @@
         218.1,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "months[1].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_49",
       "shape_id": 49,
       "shape_name": "文本框 48",
       "type": "text",
-      "max_chars": 150,
+      "max_chars": 23,
       "source_sample_chars": 75,
       "source_text": "活动流程安排：确保活动现场的各个环节有序进行，安排工作人员明确各自职责。\n实时监控与调整：在活动进行时，监控活动的实际效果，及时调整方案应对突发情况。",
       "bounds_pt": [
@@ -271,14 +319,17 @@
         218.1,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "months[3].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_50",
       "shape_id": 50,
       "shape_name": "文本框 49",
       "type": "text",
-      "max_chars": 152,
+      "max_chars": 20,
       "source_sample_chars": 76,
       "source_text": "数据跟踪与分析：通过活动后数据分析，评估活动的效果，如参与人数、曝光量等。\n总结与改进：根据分析结果，总结活动中的亮点与不足，为未来的活动做出改进建议。",
       "bounds_pt": [
@@ -287,14 +338,17 @@
         218.1,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "months[5].body",
+      "max_lines": 2,
+      "max_width_units": 20
     },
     {
       "field": "text_2",
       "shape_id": 2,
       "shape_name": "文本框 1",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 12,
       "source_sample_chars": 10,
       "source_text": "时间轴｜项目推进计划",
       "bounds_pt": [
@@ -303,7 +357,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 24
     }
   ],
   "objects": {

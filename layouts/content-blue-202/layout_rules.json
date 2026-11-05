@@ -1,6 +1,20 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    5
+  ],
+  "source_count": 5,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    5
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "五个上升阶段各覆盖连续两年，固定五阶段；后两阶段有额外能力槽。",
+  "consecutive_year_ranges": [
+    "stages[0].period",
+    "stages[1].period",
+    "stages[2].period",
+    "stages[3].period",
+    "stages[4].period"
+  ]
 }

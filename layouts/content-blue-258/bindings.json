@@ -6,7 +6,7 @@
       "shape_id": 10,
       "shape_name": "文本框 9",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 11,
       "source_sample_chars": 8,
       "source_text": "流程图｜工作规划",
       "bounds_pt": [
@@ -15,7 +15,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 22
     },
     {
       "field": "text_46",
@@ -31,7 +34,7 @@
         94.5,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_47",
@@ -47,7 +50,7 @@
         94.5,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_48",
@@ -63,7 +66,7 @@
         94.5,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_49",
@@ -79,14 +82,14 @@
         94.5,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_50",
       "shape_id": 50,
       "shape_name": "圆角矩形 49",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 8,
       "source_text": "第一步：启动规划",
       "bounds_pt": [
@@ -95,14 +98,17 @@
         210.4,
         36.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[0].heading",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_51",
       "shape_id": 51,
       "shape_name": "圆角矩形 50",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 8,
       "source_text": "第三步：执行推进",
       "bounds_pt": [
@@ -111,14 +117,17 @@
         210.4,
         36.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[2].heading",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_52",
       "shape_id": 52,
       "shape_name": "圆角矩形 51",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 8,
       "source_text": "第二步：方案设计",
       "bounds_pt": [
@@ -127,14 +136,17 @@
         210.4,
         36.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[1].heading",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_53",
       "shape_id": 53,
       "shape_name": "圆角矩形 52",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 8,
       "source_text": "第四步：验收复盘",
       "bounds_pt": [
@@ -143,14 +155,17 @@
         210.4,
         36.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[3].heading",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_56",
       "shape_id": 56,
       "shape_name": "文本框 55",
       "type": "text",
-      "max_chars": 190,
+      "max_chars": 25,
       "source_sample_chars": 95,
       "source_text": "目标明确：与相关方确认项目核心目标、关键成果和成功标准，形成项目章程。\n范围界定：清晰划定项目范围，明确交付物清单，避免范围蔓延。\n团队组建：选拔团队核心成员，明确职责分工，召开项目启动会。",
       "bounds_pt": [
@@ -159,14 +174,17 @@
         210.4,
         134.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[0].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_57",
       "shape_id": 57,
       "shape_name": "文本框 56",
       "type": "text",
-      "max_chars": 160,
+      "max_chars": 24,
       "source_sample_chars": 80,
       "source_text": "任务实施：按计划推进各项工作，确保每日/周进度达标。\n过程监控：定期检查任务完成情况，发现偏差及时调整。\n问题解决：及时处理执行中的卡点和问题协调资源保障进度。",
       "bounds_pt": [
@@ -175,14 +193,17 @@
         210.4,
         134.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[2].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_58",
       "shape_id": 58,
       "shape_name": "文本框 57",
       "type": "text",
-      "max_chars": 164,
+      "max_chars": 25,
       "source_sample_chars": 82,
       "source_text": "方案制定：设计详细技术方案或业务方案明确实现路径和方法。\n计划排期：分解工作任务，设定里程碑节点编制详细时间表。\n风险评估：识别潜在风险，制定应对预案确保项目可控。",
       "bounds_pt": [
@@ -191,14 +212,17 @@
         210.4,
         134.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[1].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_65",
       "shape_id": 65,
       "shape_name": "文本框 64",
       "type": "text",
-      "max_chars": 160,
+      "max_chars": 22,
       "source_sample_chars": 80,
       "source_text": "成果验收：对照目标验收交付成果，确保质量符合标准。\n数据复盘：整理过程数据，分析成效和不足评估目标达成情况。\n总结归档：组织复盘会议，总结经验教训完成资料归档。",
       "bounds_pt": [
@@ -207,7 +231,10 @@
         210.4,
         134.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[3].body",
+      "max_lines": 2,
+      "max_width_units": 24
     }
   ],
   "objects": {
