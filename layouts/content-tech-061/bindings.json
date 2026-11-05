@@ -13,13 +13,14 @@
       "source_sample_chars": 9,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         3637963,
         416934,
         4916076,
         430887
-      ]
+      ],
+      "semantic_path": "heading"
     },
     {
       "field": "text_189",
@@ -31,13 +32,14 @@
       "source_sample_chars": 80,
       "max_chars": 120,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1023557,
         2454731,
         2294659,
         1108893
-      ]
+      ],
+      "semantic_path": "pillar_1.body"
     },
     {
       "field": "text_190",
@@ -49,13 +51,14 @@
       "source_sample_chars": 6,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1023557,
         2083640,
         1395290,
         246221
-      ]
+      ],
+      "semantic_path": "pillar_1.title"
     },
     {
       "field": "text_191",
@@ -67,13 +70,14 @@
       "source_sample_chars": 7,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         8944018,
         2083640,
         1436291,
         246221
-      ]
+      ],
+      "semantic_path": "pillar_2.title"
     },
     {
       "field": "text_192",
@@ -85,13 +89,14 @@
       "source_sample_chars": 49,
       "max_chars": 73,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1023557,
         4886954,
         2294659,
         656462
-      ]
+      ],
+      "semantic_path": "pillar_2.body"
     },
     {
       "field": "text_193",
@@ -103,13 +108,14 @@
       "source_sample_chars": 6,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1023557,
         4515863,
         1395290,
         246221
-      ]
+      ],
+      "semantic_path": "pillar_3.title"
     },
     {
       "field": "text_194",
@@ -121,13 +127,14 @@
       "source_sample_chars": 54,
       "max_chars": 81,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         8944018,
         2454731,
         2055676,
         882678
-      ]
+      ],
+      "semantic_path": "pillar_3.body"
     },
     {
       "field": "text_195",
@@ -139,13 +146,14 @@
       "source_sample_chars": 54,
       "max_chars": 81,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         8944018,
         3587967,
         2055676,
         882678
-      ]
+      ],
+      "semantic_path": "pillar_3.detail"
     },
     {
       "field": "text_196",
@@ -157,13 +165,14 @@
       "source_sample_chars": 55,
       "max_chars": 82,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         8944018,
         4721203,
         2055676,
         882678
-      ]
+      ],
+      "semantic_path": "pillar_1.detail"
     },
     {
       "field": "text_221",
@@ -175,13 +184,14 @@
       "source_sample_chars": 5,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5030080,
         2995296,
         1929520,
         1200329
-      ]
+      ],
+      "semantic_path": "center.topic"
     }
   ],
   "objects": {
@@ -192,7 +202,7 @@
         "shape_id": 7,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           2,
           4
@@ -202,13 +212,14 @@
           131402,
           12171817,
           809426
-        ]
+        ],
+        "review_note": "固定科技背景与装饰，不作业务事实。"
       },
       {
         "shape_id": 11,
         "shape_name": "图片 10",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           2,
           4
@@ -218,7 +229,8 @@
           651534,
           4811984,
           564680
-        ]
+        ],
+        "review_note": "固定科技背景与装饰，不作业务事实。"
       },
       {
         "shape_id": 3,

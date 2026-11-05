@@ -14,13 +14,14 @@
       "source_sample_chars": 8,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1815442,
         416934,
         8561118,
         430887
-      ]
+      ],
+      "semantic_path": "heading"
     },
     {
       "field": "text_24",
@@ -35,13 +36,14 @@
       "source_sample_chars": 28,
       "max_chars": 42,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1815439,
         1056165,
         8561121,
         301041
-      ]
+      ],
+      "semantic_path": "summary"
     },
     {
       "field": "text_18",
@@ -53,13 +55,14 @@
       "source_sample_chars": 3,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         2709692,
         3838220,
         1492483,
         373025
-      ]
+      ],
+      "semantic_path": "center.topic"
     },
     {
       "field": "text_110",
@@ -71,13 +74,14 @@
       "source_sample_chars": 12,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6547571,
         1906738,
         1128822,
         435196
-      ]
+      ],
+      "semantic_path": "capability_1.title"
     },
     {
       "field": "text_112",
@@ -89,13 +93,14 @@
       "source_sample_chars": 58,
       "max_chars": 87,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         7809612,
         1914768,
         3371674,
         419135
-      ]
+      ],
+      "semantic_path": "capability_1.body"
     },
     {
       "field": "text_270",
@@ -107,13 +112,14 @@
       "source_sample_chars": 13,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6547571,
         2790201,
         1128822,
         435196
-      ]
+      ],
+      "semantic_path": "capability_2.title"
     },
     {
       "field": "text_271",
@@ -125,13 +131,14 @@
       "source_sample_chars": 45,
       "max_chars": 67,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         7809613,
         2798231,
         3194739,
         419135
-      ]
+      ],
+      "semantic_path": "capability_2.body"
     },
     {
       "field": "text_287",
@@ -143,13 +150,14 @@
       "source_sample_chars": 12,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6547571,
         3673664,
         1128822,
         435196
-      ]
+      ],
+      "semantic_path": "capability_3.title"
     },
     {
       "field": "text_288",
@@ -161,13 +169,14 @@
       "source_sample_chars": 69,
       "max_chars": 103,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         7809612,
         3681694,
         3371674,
         419135
-      ]
+      ],
+      "semantic_path": "capability_3.body"
     },
     {
       "field": "text_304",
@@ -179,13 +188,14 @@
       "source_sample_chars": 13,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6547571,
         4557126,
         1128822,
         435196
-      ]
+      ],
+      "semantic_path": "capability_4.title"
     },
     {
       "field": "text_305",
@@ -197,13 +207,14 @@
       "source_sample_chars": 73,
       "max_chars": 109,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         7809612,
         4566397,
         3371674,
         416653
-      ]
+      ],
+      "semantic_path": "capability_4.body"
     },
     {
       "field": "text_321",
@@ -215,13 +226,14 @@
       "source_sample_chars": 12,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         6547571,
         5440587,
         1128822,
         435196
-      ]
+      ],
+      "semantic_path": "capability_5.title"
     },
     {
       "field": "text_322",
@@ -233,13 +245,14 @@
       "source_sample_chars": 67,
       "max_chars": 100,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         7809612,
         5449858,
         3371674,
         416653
-      ]
+      ],
+      "semantic_path": "capability_5.body"
     }
   ],
   "objects": {
@@ -250,7 +263,7 @@
         "shape_id": 25,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           20,
           21
@@ -260,13 +273,14 @@
           131402,
           12171817,
           809426
-        ]
+        ],
+        "review_note": "固定科技背景与装饰，不作业务事实。"
       },
       {
         "shape_id": 28,
         "shape_name": "图片 27",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           20,
           21
@@ -276,7 +290,8 @@
           651534,
           4811984,
           564680
-        ]
+        ],
+        "review_note": "固定科技背景与装饰，不作业务事实。"
       },
       {
         "shape_id": 3,
