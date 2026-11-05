@@ -4,7 +4,7 @@
   "component_entries": 409,
   "exact_pair_candidates": 287,
   "source_logo_entries": 359,
-  "visual_reviewed_entries": 8,
+  "visual_reviewed_entries": 7,
   "motion_prototype_entries": 7,
   "source_counts": {
     "blue": 295,
@@ -12,14 +12,14 @@
     "cover": 20,
     "tech": 85
   },
-  "manifest_files": 2933,
+  "manifest_files": 2946,
   "issues": [],
   "issue_count": 0,
   "limits": [
     "顶层配对未完成人工语义复核",
     "旧三源 P01 封面及 P060 流程有 HTML 内部原型；科技风 P001 封面也有离线 HTML 内部原型",
     "旧三源 P060 项数和动效原型放映未签收",
-    "科技风已验收 47 个固定项数短文静态 PPTX 草稿组件；其余 38 页仍为来源与结构初拆，P09/P49/P51/P69 的 2–6 项及 P38 的 2–4 步与逐项淡入是内部原型，整套 HTML 和换色未开放",
+    "科技风已验收 55 个固定项数短文静态 PPTX 草稿组件；其余 30 页仍为来源与结构初拆，P09/P49/P51/P69 的 2–6 项及 P38 的 2–4 步与逐项淡入是内部原型，整套 HTML 和换色未开放",
     "科技风颜色对象清单仅完成来源盘点，未逐对象审核换色",
     "预览未逐页视觉验收",
     "显式色对象映射待审核"

@@ -11,13 +11,14 @@
       "source_sample_chars": 6,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         4526283,
         2685818,
         3139438,
         646331
-      ]
+      ],
+      "semantic_path": "heading"
     },
     {
       "field": "text_29",
@@ -29,13 +30,14 @@
       "source_sample_chars": 97,
       "max_chars": 145,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         3935585,
         3470541,
         4320833,
         1679434
-      ]
+      ],
+      "semantic_path": "body"
     }
   ],
   "objects": {
