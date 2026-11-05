@@ -1,6 +1,24 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    5
+  ],
+  "source_count": 5,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    5
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "固定五个从左到右递进的时间节点；日期文字与阶段区间需一致，暂不改变节点位置。",
+  "ordered_date_fields": {
+    "start": "range.start",
+    "end": "range.end",
+    "milestones": [
+      "milestones[0].date",
+      "milestones[1].date",
+      "milestones[2].date",
+      "milestones[3].date",
+      "milestones[4].date"
+    ]
+  }
 }

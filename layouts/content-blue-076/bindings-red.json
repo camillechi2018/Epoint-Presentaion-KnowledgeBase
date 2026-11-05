@@ -6,7 +6,7 @@
       "shape_id": 7,
       "shape_name": "文本框 6",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 12,
       "source_sample_chars": 11,
       "source_text": "述职汇报｜未来工作展望",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 24
     },
     {
       "field": "text_2",
       "shape_id": 2,
       "shape_name": "文本框 1",
       "type": "text",
-      "max_chars": 180,
+      "max_chars": 33,
       "source_sample_chars": 90,
       "source_text": "智能化服务体系构建：开发基于人工智能的智能客服与业务处理系统。\n技术架构现代化升级：完成云原生技术架构的整体改造与部署。\n数字生态体系拓展：打造开放式的API平台与开发者生态系统。",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         255.7,
         124.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "directions[0].body",
+      "max_lines": 2,
+      "max_width_units": 32
     },
     {
       "field": "text_10",
       "shape_id": 10,
       "shape_name": "文本框 9",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 12,
       "source_text": "01.数字化转型深化发展",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         275.8,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "directions[0].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_22",
       "shape_id": 22,
       "shape_name": "文本框 21",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 12,
       "source_text": "04.可持续发展能力建设",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         275.0,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "directions[3].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_23",
       "shape_id": 23,
       "shape_name": "文本框 22",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 11,
       "source_text": "02.业务模式创新突破",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         275.1,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "directions[1].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_24",
       "shape_id": 24,
       "shape_name": "文本框 23",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 11,
       "source_text": "03.组织能力系统提升",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         275.8,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "directions[2].heading",
+      "max_lines": 1,
+      "max_width_units": 15
     },
     {
       "field": "text_25",
       "shape_id": 25,
       "shape_name": "文本框 24",
       "type": "text",
-      "max_chars": 174,
+      "max_chars": 28,
       "source_sample_chars": 87,
       "source_text": "服务产品化转型：将核心业务能力转化为标准化服务，提升产品。\n跨界融合创新：深入探索金融科技在实际业务场景的创新应用。\n全球化市场布局：组建专业的国际化市场拓展与商务运营团队。",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         255.7,
         124.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "directions[1].body",
+      "max_lines": 2,
+      "max_width_units": 32
     },
     {
       "field": "text_26",
       "shape_id": 26,
       "shape_name": "文本框 25",
       "type": "text",
-      "max_chars": 230,
+      "max_chars": 25,
       "source_sample_chars": 115,
       "source_text": "着力提升组织能力：通过完善人才发展体系、创新管理模式、培育企业文化。\n绿色发展观：打造高效能的敏捷组织。同时全面推进可持续发展战略，践行绿色发展理念。\n风险管控：强化合规风控体系，持续提升产品与服务品质，确保企业实现长期稳健发展。",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         255.7,
         126.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "directions[3].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_27",
       "shape_id": 27,
       "shape_name": "文本框 26",
       "type": "text",
-      "max_chars": 196,
+      "max_chars": 26,
       "source_sample_chars": 98,
       "source_text": "人才发展战略：建立多层次的专业人才梯队培养体系，提升人才保留率。\n管理体系创新：建立以价值创造为导向的公司项目制管理体系。\n企业文化建设：塑造以创新驱动为核心的企业文化强化客户价值导向的服务理念。",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         255.7,
         124.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "directions[2].body",
+      "max_lines": 2,
+      "max_width_units": 26
     },
     {
       "field": "text_28",
       "shape_id": 28,
       "shape_name": "文本框 27",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 3,
       "source_sample_chars": 3,
       "source_text": "展望一",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         68.3,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "directions[0].short",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_30",
       "shape_id": 30,
       "shape_name": "文本框 29",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 7,
       "source_text": "未来\n工作展望",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         116.7,
         65.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "center.title",
+      "max_lines": 2,
+      "max_width_units": 8
     },
     {
       "field": "text_31",
       "shape_id": 31,
       "shape_name": "文本框 30",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 3,
       "source_sample_chars": 3,
       "source_text": "展望二",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         68.3,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "directions[1].short",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_32",
       "shape_id": 32,
       "shape_name": "文本框 31",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 3,
       "source_sample_chars": 3,
       "source_text": "展望三",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         68.3,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "directions[2].short",
+      "max_lines": 1,
+      "max_width_units": 6
     },
     {
       "field": "text_33",
       "shape_id": 33,
       "shape_name": "文本框 32",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 3,
       "source_sample_chars": 3,
       "source_text": "展望四",
       "bounds_pt": [
@@ -223,7 +262,10 @@
         68.3,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "directions[3].short",
+      "max_lines": 1,
+      "max_width_units": 6
     }
   ],
   "objects": {

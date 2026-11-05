@@ -6,7 +6,7 @@
       "shape_id": 26,
       "shape_name": "矩形: 圆角 25",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "专业技能提升",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         192.2,
         35.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "goals[0].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_27",
       "shape_id": 27,
       "shape_name": "矩形: 圆角 26",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "合作能力提升",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         192.2,
         35.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "goals[1].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_28",
       "shape_id": 28,
       "shape_name": "矩形: 圆角 27",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "工作效率提升",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         192.2,
         35.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "goals[2].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_29",
       "shape_id": 29,
       "shape_name": "矩形: 圆角 28",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "自我发展管理",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         192.2,
         35.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "goals[3].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_3",
       "shape_id": 3,
       "shape_name": "文本框 2",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "第一季度计划",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         151.6,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "quarters[0].label",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_8",
       "shape_id": 8,
       "shape_name": "文本框 7",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "第二季度计划",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         150.1,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "quarters[1].label",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_30",
       "shape_id": 30,
       "shape_name": "文本框 29",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "第三季度计划",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         150.3,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "quarters[2].label",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_31",
       "shape_id": 31,
       "shape_name": "文本框 30",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "第四季度计划",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         150.5,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "quarters[3].label",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_33",
       "shape_id": 33,
       "shape_name": "文本框 32",
       "type": "text",
-      "max_chars": 200,
+      "max_chars": 29,
       "source_sample_chars": 100,
       "source_text": "计划目标：学习并精通自己所在行业的核心技能和工具，提升技术水平。\n\n行动步骤：参加专业培训课程相关的课程，或者考取行业内相关认证。\n\n具体计划：每月学习至少一本与工作相关的书籍，定期参加行业的研讨会。",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         191.7,
         138.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[0].body",
+      "max_lines": 2,
+      "max_width_units": 30
     },
     {
       "field": "text_34",
       "shape_id": 34,
       "shape_name": "文本框 33",
       "type": "text",
-      "max_chars": 178,
+      "max_chars": 28,
       "source_sample_chars": 89,
       "source_text": "计划目标：提高与同事、上级以及客户沟通的效率，提升团队合作。\n\n行动步骤：参加团队建设活动，提升协调与合作能力。\n\n具体计划：每周进行一次交流会议，提高在团队中的协作和决策能力。",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         191.6,
         151.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[1].body",
+      "max_lines": 2,
+      "max_width_units": 30
     },
     {
       "field": "text_35",
       "shape_id": 35,
       "shape_name": "文本框 34",
       "type": "text",
-      "max_chars": 66,
+      "max_chars": 18,
       "source_sample_chars": 33,
       "source_text": "具体计划：评估自己的任务管理方法是否有效，及时调整自己的工作方式。",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         192.2,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "annotation",
+      "max_lines": 1,
+      "max_width_units": 36
     },
     {
       "field": "text_36",
       "shape_id": 36,
       "shape_name": "文本框 35",
       "type": "text",
-      "max_chars": 200,
+      "max_chars": 28,
       "source_sample_chars": 100,
       "source_text": "计划目标：保持身心健康，提高抗压能力，保持积极的心态面对工作挑战。\n\n行动步骤：定期进行放松活动，学习情绪管理技巧，面对挑战时保持冷静。\n\n具体计划：每周进行体育锻炼，每天花时间进行冥想或深呼吸练习。",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         191.6,
         138.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[3].body",
+      "max_lines": 2,
+      "max_width_units": 30
     },
     {
       "field": "text_39",
       "shape_id": 39,
       "shape_name": "文本框 38",
       "type": "text",
-      "max_chars": 130,
+      "max_chars": 30,
       "source_sample_chars": 65,
       "source_text": "计划目标：提高工作效率，合理规划工作任务，确保在限定时间内完成工作。\n行动步骤：学习并应用时间管理方法,用时间管理工具来安排任务。",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         192.2,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "quarters[2].body",
+      "max_lines": 2,
+      "max_width_units": 30
     },
     {
       "field": "text_46",
       "shape_id": 46,
       "shape_name": "文本框 45",
       "type": "text",
-      "max_chars": 80,
+      "max_chars": 23,
       "source_sample_chars": 40,
       "source_text": "通过这样的提升计划，可以全面地提高自己的职业素养，并为未来的发展奠定坚实的基础。",
       "bounds_pt": [
@@ -223,14 +262,17 @@
         172.2,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "closing",
+      "max_lines": 1,
+      "max_width_units": 46
     },
     {
       "field": "text_45",
       "shape_id": 45,
       "shape_name": "文本框 44",
       "type": "text",
-      "max_chars": 30,
+      "max_chars": 12,
       "source_sample_chars": 15,
       "source_text": "述职汇报｜个人职业技能提升计划",
       "bounds_pt": [
@@ -239,7 +281,10 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 24
     }
   ],
   "objects": {

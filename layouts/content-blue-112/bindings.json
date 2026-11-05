@@ -6,7 +6,7 @@
       "shape_id": 5,
       "shape_name": "文本框 4",
       "type": "text",
-      "max_chars": 28,
+      "max_chars": 11,
       "source_sample_chars": 14,
       "source_text": "述职汇报｜上半年工作亮点展示",
       "bounds_pt": [
@@ -15,7 +15,10 @@
         606.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 22
     },
     {
       "field": "text_13",
@@ -31,7 +34,7 @@
         61.0,
         61.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_43",
@@ -47,7 +50,7 @@
         61.0,
         61.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_44",
@@ -63,14 +66,14 @@
         61.0,
         61.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_23",
       "shape_id": 23,
       "shape_name": "文本框 22",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 5,
       "source_text": "项目与质量",
       "bounds_pt": [
@@ -79,14 +82,17 @@
         236.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[0].heading",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_25",
       "shape_id": 25,
       "shape_name": "文本框 24",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 5,
       "source_text": "创新与技术",
       "bounds_pt": [
@@ -95,14 +101,17 @@
         236.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[1].heading",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_26",
       "shape_id": 26,
       "shape_name": "文本框 25",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 5,
       "source_text": "团队与文化",
       "bounds_pt": [
@@ -111,14 +120,17 @@
         236.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[2].heading",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_30",
       "shape_id": 30,
       "shape_name": "文本框 29",
       "type": "text",
-      "max_chars": 220,
+      "max_chars": 32,
       "source_sample_chars": 110,
       "source_text": "敏捷开发方法：引入敏捷开发方法，优化项目管理流程，提高团队响应速度，缩短开发周期，确保项目按时交付。\n客户反馈机制：建立完善的客户反馈机制，及时收集客户反馈并快速响应，确保需求得到准确满足，持续增强客户的满意度和忠诚度。",
       "bounds_pt": [
@@ -127,14 +139,17 @@
         426.1,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[0].body",
+      "max_lines": 2,
+      "max_width_units": 36
     },
     {
       "field": "text_31",
       "shape_id": 31,
       "shape_name": "文本框 30",
       "type": "text",
-      "max_chars": 228,
+      "max_chars": 31,
       "source_sample_chars": 114,
       "source_text": "AI技术应用：推动AI技术应用于产品开发中，开发智能化功能，提升产品的市场竞争力和创新性。通过数据分析、机器学习等技术。\n技术培训与分享：定期组织团队进行技术培训与知识分享，提升团队成员的技术水平和行业认知，提升团队的创新能力。",
       "bounds_pt": [
@@ -143,14 +158,17 @@
         426.1,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[1].body",
+      "max_lines": 2,
+      "max_width_units": 34
     },
     {
       "field": "text_32",
       "shape_id": 32,
       "shape_name": "文本框 31",
       "type": "text",
-      "max_chars": 222,
+      "max_chars": 31,
       "source_sample_chars": 111,
       "source_text": "沟通优化：优化团队沟通流程，确保信息流畅传递，减少沟通成本，提高工作效率。通过使用有效的沟通工具与方法。\n团队建设：通过组织团建活动和定期的互动，增强团队成员间的信任与合作，提升团队整体凝聚力，增强团队的协作精神和执行力。",
       "bounds_pt": [
@@ -159,7 +177,10 @@
         426.1,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[2].body",
+      "max_lines": 2,
+      "max_width_units": 32
     },
     {
       "field": "text_18",
@@ -175,14 +196,14 @@
         61.0,
         61.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_19",
       "shape_id": 19,
       "shape_name": "文本框 18",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 5,
       "source_text": "客户与市场",
       "bounds_pt": [
@@ -191,14 +212,17 @@
         236.5,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "items[3].heading",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_29",
       "shape_id": 29,
       "shape_name": "文本框 28",
       "type": "text",
-      "max_chars": 276,
+      "max_chars": 32,
       "source_sample_chars": 138,
       "source_text": "客户满意度显著提升：通过建立客户定期回访机制和快速响应流程，全年客户满意度评分从92分提升至98分，投诉率同比下降40%，收获客户书面表扬信5封。\n市场份额稳步扩大：成功开拓2个新区域市场，重点产品市场占有率提升5个百分点，核心客户续约率达95%，实现合同金额同比增长25%。",
       "bounds_pt": [
@@ -207,7 +231,10 @@
         426.1,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "items[3].body",
+      "max_lines": 2,
+      "max_width_units": 32
     }
   ],
   "objects": {

@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-05",
+  "batch": "blue-red-fourth-representative-batch",
+  "candidates": 8,
+  "verified_component_count": 8,
+  "static_pptx_pool_before": 18,
+  "static_pptx_pool_after": 26,
+  "verified_layouts": [
+    {
+      "layout_id": "content-blue-076",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch4-content-blue-076-blue.png",
+        "review/batch4-content-blue-076-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-102",
+      "verified_counts": [
+        5
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch4-content-blue-102-blue.png",
+        "review/batch4-content-blue-102-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-112",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch4-content-blue-112-blue.png",
+        "review/batch4-content-blue-112-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-119",
+      "verified_counts": [
+        6
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch4-content-blue-119-blue.png",
+        "review/batch4-content-blue-119-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-146",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch4-content-blue-146-blue.png",
+        "review/batch4-content-blue-146-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-181",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch4-content-blue-181-blue.png",
+        "review/batch4-content-blue-181-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-244",
+      "verified_counts": [
+        6
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch4-content-blue-244-blue.png",
+        "review/batch4-content-blue-244-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-256",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch4-content-blue-256-blue.png",
+        "review/batch4-content-blue-256-red.png"
+      ]
+    }
+  ],
+  "qa": {
+    "powerpoint_open_export": "16/16",
+    "text_overflow": "0/16",
+    "logo_and_svg_fallback": "16/16",
+    "invalid_item_count_rejected": "8/8",
+    "ordered_date_rejection": "P102 passed",
+    "long_heading_rejection": "P256 passed"
+  },
+  "limits": [
+    "fixed source item counts only",
+    "short-copy static PPTX only",
+    "motion and HTML not verified",
+    "brand review pending"
+  ]
+}
