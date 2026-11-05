@@ -1,8 +1,14 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
+  "cardinality_mode": "fixed_verified",
+  "supported_counts": [
+    3
+  ],
+  "source_count": 3,
   "candidate_counts": [],
-  "reflow_status": "not_implemented",
-  "grouping_status": "provisional_requires_manual_object_review"
+  "reflow_status": "fixed_count_only",
+  "grouping_status": "provisional_requires_manual_object_review",
+  "verified_counts": [
+    3
+  ],
+  "static_pptx_status": "verified_short_copy_draft"
 }

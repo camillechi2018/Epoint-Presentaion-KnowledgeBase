@@ -14358,7 +14358,7 @@
       "color_family": "deep-blue",
       "role": "section",
       "information_relation": "section",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-section-014",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -14389,7 +14389,11 @@
       "motion_suitability": "B",
       "cardinality_status": "not_implemented",
       "brand_policy": "default_logo; source asset locked",
-      "source_logo_present": false
+      "source_logo_present": false,
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked",
+      "semantic_review": "layouts/section-tech-014/semantic-review.json",
+      "semantic_review_status": "static_pptx_verified"
     },
     {
       "id": "section-tech-015",
@@ -14580,8 +14584,8 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "content",
-      "information_relation": "parallel-points",
-      "classification_status": "visual_initial",
+      "information_relation": "hierarchy",
+      "classification_status": "verified",
       "family_id": "tech-parallel-points-019",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -14614,7 +14618,11 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 21,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked",
+      "semantic_review": "layouts/content-tech-019/semantic-review.json",
+      "semantic_review_status": "static_pptx_verified"
     },
     {
       "id": "content-tech-020",
@@ -14812,7 +14820,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "parallel-points",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-parallel-points-024",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -14845,7 +14853,11 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked",
+      "semantic_review": "layouts/content-tech-024/semantic-review.json",
+      "semantic_review_status": "static_pptx_verified"
     },
     {
       "id": "content-tech-025",
@@ -14988,7 +15000,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "process",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-process-028",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -15021,7 +15033,11 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked",
+      "semantic_review": "layouts/content-tech-028/semantic-review.json",
+      "semantic_review_status": "static_pptx_verified"
     },
     {
       "id": "content-tech-029",
@@ -15031,7 +15047,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "comparison",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-comparison-029",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -15064,7 +15080,11 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 28,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked",
+      "semantic_review": "layouts/content-tech-029/semantic-review.json",
+      "semantic_review_status": "static_pptx_verified"
     },
     {
       "id": "content-tech-030",
@@ -15073,8 +15093,8 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "content",
-      "information_relation": "hierarchy",
-      "classification_status": "visual_initial",
+      "information_relation": "cycle",
+      "classification_status": "verified",
       "family_id": "tech-hierarchy-030",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -15107,7 +15127,11 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 37,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked",
+      "semantic_review": "layouts/content-tech-030/semantic-review.json",
+      "semantic_review_status": "static_pptx_verified"
     },
     {
       "id": "content-tech-031",
@@ -15116,8 +15140,8 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "content",
-      "information_relation": "process",
-      "classification_status": "visual_initial",
+      "information_relation": "parallel-points",
+      "classification_status": "verified",
       "family_id": "tech-process-031",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -15150,7 +15174,11 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 4,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked",
+      "semantic_review": "layouts/content-tech-031/semantic-review.json",
+      "semantic_review_status": "static_pptx_verified"
     },
     {
       "id": "content-tech-032",
@@ -15254,7 +15282,7 @@
       "color_family": "deep-blue",
       "role": "content",
       "information_relation": "parallel-points",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-parallel-points-034",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -15287,7 +15315,11 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": true,
       "source_logo_shape_id": 3,
-      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef"
+      "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
+      "pptx_support": "verified_static_draft",
+      "visual_review_status": "powerpoint_render_checked",
+      "semantic_review": "layouts/content-tech-034/semantic-review.json",
+      "semantic_review_status": "static_pptx_verified"
     },
     {
       "id": "content-tech-035",

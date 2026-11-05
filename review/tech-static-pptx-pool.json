@@ -33,7 +33,7 @@
     85
   ],
   "sample_policy": "fictitious_data_only",
-  "tested_sample_count": 39,
+  "tested_sample_count": 47,
   "title_pressure_cases": 27,
   "title_limits": {
     "1": {
@@ -98,7 +98,8 @@
     "representative_gallery": "review/tech-16-static-pptx.jpg",
     "safe_bookends_gallery": "review/tech-9-short-title.jpg",
     "additional_gallery": "review/tech-6-static-pptx-batch2.jpg",
-    "batch3_gallery": "review/tech-8-static-pptx-batch3.jpg"
+    "batch3_gallery": "review/tech-8-static-pptx-batch3.jpg",
+    "batch4_gallery": "review/tech-8-static-pptx-batch4.jpg"
   },
   "additional_pages": [
     10,
@@ -108,7 +109,7 @@
     40,
     54
   ],
-  "static_pptx_total": 39,
+  "static_pptx_total": 47,
   "additional_family_coverage": [
     "four-card-directory",
     "section",
@@ -126,5 +127,15 @@
     20,
     23,
     37
+  ],
+  "batch4_pages": [
+    14,
+    19,
+    24,
+    28,
+    29,
+    30,
+    31,
+    34
   ]
 }

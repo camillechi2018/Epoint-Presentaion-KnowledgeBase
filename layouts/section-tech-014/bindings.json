@@ -11,13 +11,14 @@
       "source_sample_chars": 6,
       "max_chars": 24,
       "typography_role": "latin_numeric",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5810562,
         2240600,
         5685529,
         1569660
-      ]
+      ],
+      "semantic_path": "part_label"
     },
     {
       "field": "text_14",
@@ -29,13 +30,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         7057054,
         3038693,
         3192544,
         923330
-      ]
+      ],
+      "semantic_path": "heading"
     },
     {
       "field": "text_15",
@@ -47,13 +49,14 @@
       "source_sample_chars": 8,
       "max_chars": 24,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         4738059,
         3982048,
         7830534,
         400110
-      ]
+      ],
+      "semantic_path": "subtitle"
     }
   ],
   "objects": {
@@ -64,14 +67,15 @@
         "shape_id": 11,
         "shape_name": "图片 10",
         "sha256": "9d5f6199350a8e4d034296b56befffe6b5e5ca45929fba6fbfaed1134b81afc3",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [],
         "bounds_emu_local": [
           0,
           0,
           12192000,
           6858000
-        ]
+        ],
+        "review_note": "固定科技装饰，不读作项目事实。"
       }
     ]
   },

@@ -11,13 +11,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1556161,
         3777493,
         1676455,
         430887
-      ]
+      ],
+      "semantic_path": "item_1.title"
     },
     {
       "field": "text_15",
@@ -29,13 +30,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5108374,
         3777493,
         1975251,
         430887
-      ]
+      ],
+      "semantic_path": "item_2.title"
     },
     {
       "field": "text_21",
@@ -47,13 +49,14 @@
       "source_sample_chars": 4,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         8752264,
         3777493,
         2090696,
         430887
-      ]
+      ],
+      "semantic_path": "item_3.title"
     },
     {
       "field": "text_10",
@@ -67,13 +70,14 @@
       "source_sample_chars": 31,
       "max_chars": 46,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         2110727,
         4402725,
         1924245,
         853804
-      ]
+      ],
+      "semantic_path": "item_1.body"
     },
     {
       "field": "text_16",
@@ -87,13 +91,14 @@
       "source_sample_chars": 41,
       "max_chars": 61,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         5108374,
         4402725,
         1975252,
         1120883
-      ]
+      ],
+      "semantic_path": "item_2.body"
     },
     {
       "field": "text_22",
@@ -107,13 +112,14 @@
       "source_sample_chars": 42,
       "max_chars": 63,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         8243607,
         4402725,
         1823152,
         1120883
-      ]
+      ],
+      "semantic_path": "item_3.body"
     },
     {
       "field": "text_2",
@@ -125,13 +131,14 @@
       "source_sample_chars": 70,
       "max_chars": 105,
       "typography_role": "chinese_body",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1957329,
         1658741,
         8277342,
         736021
-      ]
+      ],
+      "semantic_path": "top_summary"
     },
     {
       "field": "text_192",
@@ -146,13 +153,14 @@
       "source_sample_chars": 6,
       "max_chars": 24,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         3637963,
         416934,
         4916076,
         430887
-      ]
+      ],
+      "semantic_path": "heading"
     },
     {
       "field": "text_193",
@@ -167,13 +175,14 @@
       "source_sample_chars": 21,
       "max_chars": 31,
       "typography_role": "chinese_heading",
-      "semantic_role": "provisional",
+      "semantic_role": "reviewed_text",
       "bounds_emu_local": [
         1815439,
         1056165,
         8561121,
         301041
-      ]
+      ],
+      "semantic_path": "summary"
     }
   ],
   "objects": {
@@ -184,7 +193,7 @@
         "shape_id": 194,
         "shape_name": "Freeform 3076",
         "sha256": "a7987ab3608e616831f14be500efbe757d215402eda293657a9f92cf8af0ffdb",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           61,
           62
@@ -194,13 +203,14 @@
           131402,
           12171817,
           809426
-        ]
+        ],
+        "review_note": "固定科技装饰，不读作项目事实。"
       },
       {
         "shape_id": 197,
         "shape_name": "图片 196",
         "sha256": "b24518bfdd7d063a341220ad003884adaecb201e50c3c7e5e39b90948b34ca51",
-        "semantic_role": "source_media_unclassified",
+        "semantic_role": "source_decorative_locked",
         "group_path": [
           61,
           62
@@ -210,7 +220,8 @@
           651534,
           4811984,
           564680
-        ]
+        ],
+        "review_note": "固定科技装饰，不读作项目事实。"
       },
       {
         "shape_id": 4,
