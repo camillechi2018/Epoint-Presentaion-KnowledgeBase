@@ -9728,7 +9728,7 @@
       ],
       "density": "medium",
       "curation_batch": 2,
-      "batch_status": "native_five_verified_shorter_variants_pending",
+      "batch_status": "native_three_four_five_verified",
       "planned_count_tests": [
         3,
         4,
