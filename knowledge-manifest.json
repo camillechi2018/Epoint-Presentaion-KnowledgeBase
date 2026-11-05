@@ -6,7 +6,6 @@
   "files": {
     ".gitignore": "01f797f0f3bba220a65d704559a3adb2beaecf1ab31b60cdd61b163b5c3a02f1",
     "BRANCH.md": "0aade4fb01c3b752ca012db536bacc760af74cc9aad53e959ff860d7d4d88176",
-    "catalog.json": "e6352f99a97fcb3a7017dd9a17b6b4407e029ae6a5a6e0e9fdff2613ad51cfa1",
     "color-inventory-tech.json": "bc9d8608a62882c6bd9fcba07455f8065eaf4055999b29dbbfac36ee35d7b554",
     "color-inventory.json": "ceb5adb1440854226de6fcc007086b69b1e7cae49889ef12bc0e0b21a456cb39",
     "color-pair-audit.json": "704a8f1b46034e9e0cfcb1d3d33099fd3a40778da01640454aeb2295acb69d96",
@@ -2939,6 +2938,8 @@
     "source-previews/tech/P085.png": "df256d09209e352d21f60af9385cfbca2d826b95950dea0a78970eb26ddb022b",
     "review/content-blue-050.json": "9513b4fb66538186cd17fa63665ff0a7f30783d1f415d36438bf73f16898978f",
     "review/content-blue-050-red-filled.png": "0214f6153fd9d64554a2affb12cecb8aad0fe744d6c0cadf231282f7ee866182",
-    "review/content-blue-050-blue-filled.png": "24e44fa52ed33c08a9955cd3033cde82cf5dfbabd93d5c684813d8520ef6b1af"
+    "review/content-blue-050-blue-filled.png": "24e44fa52ed33c08a9955cd3033cde82cf5dfbabd93d5c684813d8520ef6b1af",
+    "catalog.json": "53a20d25562c333de16f1189177caa614a1bb2f2a738c7105bcf4cb69e5b6bab",
+    "review/curation-batch-02.json": "4ab65387b1fb1806326a10bab039af6d7100cfa740f2a897d3e763b72651d4cd"
   }
 }

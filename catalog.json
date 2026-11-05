@@ -643,7 +643,14 @@
         "percentages",
         "horizontal-sequence"
       ],
-      "density": "medium"
+      "density": "medium",
+      "curation_batch": 2,
+      "batch_status": "selected_pending_variable_validation",
+      "planned_count_tests": [
+        3,
+        4,
+        5
+      ]
     },
     {
       "id": "content-blue-016",
@@ -1069,7 +1076,14 @@
         "horizontal",
         "three-rows"
       ],
-      "density": "dense"
+      "density": "dense",
+      "curation_batch": 2,
+      "batch_status": "selected_pending_variable_validation",
+      "planned_count_tests": [
+        2,
+        3,
+        4
+      ]
     },
     {
       "id": "content-blue-026",
@@ -1537,7 +1551,14 @@
         "table",
         "multi-metric"
       ],
-      "density": "dense"
+      "density": "dense",
+      "curation_batch": 2,
+      "batch_status": "selected_pending_variable_validation",
+      "planned_count_tests": [
+        2,
+        3,
+        4
+      ]
     },
     {
       "id": "content-blue-037",
@@ -2992,7 +3013,14 @@
         "rows",
         "months"
       ],
-      "density": "medium"
+      "density": "medium",
+      "curation_batch": 2,
+      "batch_status": "selected_pending_variable_validation",
+      "planned_count_tests": [
+        3,
+        4,
+        6
+      ]
     },
     {
       "id": "content-blue-071",
@@ -4662,7 +4690,12 @@
         "metrics",
         "dashboard"
       ],
-      "density": "dense"
+      "density": "dense",
+      "curation_batch": 2,
+      "batch_status": "selected_pending_variable_validation",
+      "planned_count_tests": [
+        "module-removal-visual-balance"
+      ]
     },
     {
       "id": "content-blue-111",
@@ -8022,7 +8055,14 @@
         "native-table",
         "matrix"
       ],
-      "density": "dense"
+      "density": "dense",
+      "curation_batch": 2,
+      "batch_status": "selected_pending_variable_validation",
+      "planned_count_tests": [
+        4,
+        6,
+        8
+      ]
     },
     {
       "id": "content-blue-192",
@@ -9666,7 +9706,14 @@
         "chevron",
         "horizontal"
       ],
-      "density": "medium"
+      "density": "medium",
+      "curation_batch": 2,
+      "batch_status": "selected_pending_variable_validation",
+      "planned_count_tests": [
+        3,
+        4,
+        5
+      ]
     },
     {
       "id": "content-blue-231",
@@ -11271,7 +11318,13 @@
       "red_source_logo_shape_id": 5,
       "red_bindings": "layouts/content-blue-268/bindings-red.json",
       "red_source": "sources/red.pptx",
-      "red_source_page": 269
+      "red_source_page": 269,
+      "curation_batch": 2,
+      "batch_status": "selected_pending_variable_validation",
+      "planned_count_tests": [
+        2,
+        3
+      ]
     },
     {
       "id": "content-blue-269",

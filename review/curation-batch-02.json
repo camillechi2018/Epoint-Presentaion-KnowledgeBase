@@ -1,0 +1,76 @@
+{
+  "batch": 2,
+  "date": "2026-11-05",
+  "status": "selected_pending_validation",
+  "layouts": [
+    {
+      "layout_id": "content-blue-015",
+      "source_page": 15,
+      "planned_count_tests": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "layout_id": "content-blue-025",
+      "source_page": 25,
+      "planned_count_tests": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "layout_id": "content-blue-036",
+      "source_page": 36,
+      "planned_count_tests": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "layout_id": "content-blue-070",
+      "source_page": 70,
+      "planned_count_tests": [
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "layout_id": "content-blue-110",
+      "source_page": 110,
+      "planned_count_tests": [
+        "module-removal-visual-balance"
+      ]
+    },
+    {
+      "layout_id": "content-blue-191",
+      "source_page": 191,
+      "planned_count_tests": [
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "layout_id": "content-blue-230",
+      "source_page": 230,
+      "planned_count_tests": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "layout_id": "content-blue-268",
+      "source_page": 268,
+      "planned_count_tests": [
+        2,
+        3
+      ]
+    }
+  ]
+}
