@@ -15,7 +15,9 @@
         181.5,
         27.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "period",
+      "semantic_path": "tasks[1].period",
+      "max_lines": 1
     },
     {
       "field": "text_44",
@@ -31,7 +33,9 @@
         181.5,
         27.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "period",
+      "semantic_path": "tasks[3].period",
+      "max_lines": 1
     },
     {
       "field": "text_45",
@@ -47,7 +51,9 @@
         181.5,
         27.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "period",
+      "semantic_path": "tasks[0].period",
+      "max_lines": 1
     },
     {
       "field": "text_46",
@@ -63,7 +69,9 @@
         181.5,
         27.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "period",
+      "semantic_path": "tasks[4].period",
+      "max_lines": 1
     },
     {
       "field": "text_47",
@@ -79,7 +87,9 @@
         181.5,
         27.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "period",
+      "semantic_path": "tasks[5].period",
+      "max_lines": 1
     },
     {
       "field": "text_48",
@@ -95,7 +105,9 @@
         181.5,
         27.6
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "period",
+      "semantic_path": "tasks[2].period",
+      "max_lines": 1
     },
     {
       "field": "text_57",
@@ -111,7 +123,9 @@
         96.6,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "summary[0].label",
+      "max_lines": 1
     },
     {
       "field": "text_59",
@@ -127,7 +141,9 @@
         62.9,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "rate",
+      "semantic_path": "summary[0].rate",
+      "max_lines": 1
     },
     {
       "field": "text_61",
@@ -143,7 +159,9 @@
         96.6,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "summary[1].label",
+      "max_lines": 1
     },
     {
       "field": "text_63",
@@ -159,7 +177,9 @@
         132.3,
         67.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "rate",
+      "semantic_path": "summary[1].rate",
+      "max_lines": 1
     },
     {
       "field": "text_39",
@@ -175,14 +195,16 @@
         148.1,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note",
+      "semantic_path": "tasks[0].note",
+      "max_lines": 1
     },
     {
       "field": "text_40",
       "shape_id": 40,
       "shape_name": "文本框 39",
       "type": "text",
-      "max_chars": 32,
+      "max_chars": 24,
       "source_sample_chars": 16,
       "source_text": "保持良好的客户关系，促进长期合作",
       "bounds_pt": [
@@ -191,14 +213,16 @@
         182.3,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note",
+      "semantic_path": "tasks[1].note",
+      "max_lines": 1
     },
     {
       "field": "text_41",
       "shape_id": 41,
       "shape_name": "文本框 40",
       "type": "text",
-      "max_chars": 46,
+      "max_chars": 24,
       "source_sample_chars": 23,
       "source_text": "运用高效通讯系统，提高团队的协作效率，高效工作",
       "bounds_pt": [
@@ -207,14 +231,16 @@
         242.0,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note",
+      "semantic_path": "tasks[2].note",
+      "max_lines": 1
     },
     {
       "field": "text_42",
       "shape_id": 42,
       "shape_name": "文本框 41",
       "type": "text",
-      "max_chars": 32,
+      "max_chars": 24,
       "source_sample_chars": 16,
       "source_text": "通过数据分析，提高工作和业务效率",
       "bounds_pt": [
@@ -223,14 +249,16 @@
         181.5,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note",
+      "semantic_path": "tasks[3].note",
+      "max_lines": 1
     },
     {
       "field": "text_49",
       "shape_id": 49,
       "shape_name": "文本框 48",
       "type": "text",
-      "max_chars": 50,
+      "max_chars": 24,
       "source_sample_chars": 25,
       "source_text": "通过市场调研，发现问题，及时解决问题，调整项目战略",
       "bounds_pt": [
@@ -239,14 +267,16 @@
         265.2,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note",
+      "semantic_path": "tasks[4].note",
+      "max_lines": 1
     },
     {
       "field": "text_50",
       "shape_id": 50,
       "shape_name": "文本框 49",
       "type": "text",
-      "max_chars": 48,
+      "max_chars": 24,
       "source_sample_chars": 24,
       "source_text": "对所有员工进行系统培训，提升个人和团队的整体能力",
       "bounds_pt": [
@@ -255,7 +285,9 @@
         257.3,
         19.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "note",
+      "semantic_path": "tasks[5].note",
+      "max_lines": 1
     },
     {
       "field": "text_53",
@@ -271,7 +303,9 @@
         96.6,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "summary[2].label",
+      "max_lines": 1
     },
     {
       "field": "text_75",
@@ -287,7 +321,9 @@
         125.8,
         67.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "rate",
+      "semantic_path": "summary[2].rate",
+      "max_lines": 1
     },
     {
       "field": "text_3",
@@ -303,7 +339,9 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "page.title",
+      "max_lines": 1
     }
   ],
   "objects": {

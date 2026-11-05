@@ -1,7 +1,24 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    5
+  ],
   "source_count": 5,
   "reflow_status": "not_implemented",
-  "count_evidence": "source_preview_only; not a validated reflow range"
+  "count_evidence": "source_preview_only; not a validated reflow range",
+  "verified_counts": [
+    5
+  ],
+  "validation_status": "verified_fixed_count",
+  "render_overrides": {
+    "red": {
+      "text_color_by_shape_id": {
+        "58": "000000",
+        "60": "000000",
+        "62": "000000",
+        "64": "000000",
+        "66": "000000"
+      }
+    }
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-05",
+  "layout_id": "content-blue-015",
+  "status": "verified_static_pptx_draft_pending_review",
+  "verified_counts": [
+    5
+  ],
+  "preview_paths": [
+    "review/content-blue-015-blue-filled.png",
+    "review/content-blue-015-red-filled.png"
+  ],
+  "limits": [
+    "other counts pending reflow",
+    "HTML and motion not verified"
+  ]
+}

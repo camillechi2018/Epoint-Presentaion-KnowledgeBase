@@ -11,7 +11,6 @@
         4,
         5
       ],
-      "validation_status": "card_and_quarter_strip_reflow_required",
       "evidence": {
         "quarter_strip_segments": 4,
         "card_group_elements": [
@@ -27,7 +26,11 @@
           4,
           5
         ]
-      }
+      },
+      "validation_status": "verified_native_count_static_pptx",
+      "verified_counts": [
+        5
+      ]
     },
     {
       "layout_id": "content-blue-025",
@@ -80,13 +83,14 @@
         6
       ],
       "cardinality_decision": "fixed_no_row_add_remove",
-      "validation_status": "source_structure_reviewed_semantic_fill_pending",
       "evidence": {
         "native_table_rows": 7,
         "header_rows": 1,
         "data_rows": 6,
         "columns": 13
-      }
+      },
+      "validation_status": "rendered_demo_data_geometry_pending",
+      "verified_counts": []
     },
     {
       "layout_id": "content-blue-230",

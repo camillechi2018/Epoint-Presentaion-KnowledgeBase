@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-05",
+  "layout_id": "content-blue-191",
+  "status": "rendered_demo_data_geometry_pending",
+  "verified_counts": [],
+  "preview_paths": [
+    "review/content-blue-191-blue-filled.png",
+    "review/content-blue-191-red-filled.png"
+  ],
+  "limits": [
+    "date labels and progress graphics not bound to changed business data"
+  ]
+}

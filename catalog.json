@@ -602,9 +602,9 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "progress",
-      "information_relation": "progress-comparison",
-      "classification_status": "visual_reviewed",
-      "family_id": "progress-five-stages",
+      "information_relation": "five-project-progress",
+      "classification_status": "verified",
+      "family_id": "five-progress-cards",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-015/bindings.json",
@@ -650,7 +650,9 @@
         3,
         4,
         5
-      ]
+      ],
+      "semantic_review_status": "verified_blue_red",
+      "pptx_support": "verified_static"
     },
     {
       "id": "content-blue-016",
@@ -8025,9 +8027,9 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "data-table",
-      "information_relation": "tabular-detail",
+      "information_relation": "six-task-gantt",
       "classification_status": "visual_reviewed",
-      "family_id": "table-native-grid",
+      "family_id": "six-task-gantt",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-191/bindings.json",
@@ -8078,7 +8080,9 @@
         "data_rows": 6,
         "columns": 13,
         "reason": "Timeline bars and date labels are separate native shapes aligned to six table rows."
-      }
+      },
+      "semantic_review_status": "rendered_demo_data_geometry_pending",
+      "pptx_support": "pending_data_geometry_binding"
     },
     {
       "id": "content-blue-192",
