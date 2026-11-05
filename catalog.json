@@ -2086,9 +2086,9 @@
       "version": "1.0.0-draft",
       "collection": "new-template-content",
       "role": "comparison",
-      "information_relation": "problem-response",
-      "classification_status": "visual_reviewed",
-      "family_id": "comparison-risk-response",
+      "information_relation": "risk-response",
+      "classification_status": "verified",
+      "family_id": "risk-response-triangles",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-050/bindings.json",
@@ -2108,7 +2108,7 @@
       },
       "source_page": 50,
       "shape_count": 36,
-      "media_status": "unreviewed",
+      "media_status": "verified_brand_logo_only",
       "html_support": "not_implemented",
       "motion_support": "source_static",
       "source_mapping": {
@@ -2123,11 +2123,13 @@
       "red_source": "sources/red.pptx",
       "red_source_page": 50,
       "composition_tags": [
-        "two-sided",
-        "triangle",
-        "risk"
+        "four-risks",
+        "four-responses",
+        "two-sided"
       ],
-      "density": "medium"
+      "density": "medium",
+      "semantic_review_status": "verified_blue_red",
+      "pptx_support": "verified_static"
     },
     {
       "id": "content-blue-051",
