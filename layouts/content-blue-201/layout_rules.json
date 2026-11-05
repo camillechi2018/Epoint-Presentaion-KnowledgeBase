@@ -1,6 +1,25 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    10
+  ],
+  "source_count": 10,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    10
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "十个年份沿回折时间轴依次排列，年份须连续递增，固定十项。",
+  "consecutive_year_fields": [
+    "years[0].label",
+    "years[1].label",
+    "years[2].label",
+    "years[3].label",
+    "years[4].label",
+    "years[5].label",
+    "years[6].label",
+    "years[7].label",
+    "years[8].label",
+    "years[9].label"
+  ]
 }

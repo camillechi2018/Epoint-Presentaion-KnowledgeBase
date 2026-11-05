@@ -6,7 +6,7 @@
       "shape_id": 39,
       "shape_name": "文本框 38",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 8,
       "source_text": "数据驱动决策流程",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         225.2,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "section.title",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_28",
       "shape_id": 28,
       "shape_name": "文本框 27",
       "type": "text",
-      "max_chars": 232,
+      "max_chars": 30,
       "source_sample_chars": 116,
       "source_text": "目标定义：明确决策所需要的数据类型和分析目标。\n数据收集：从不同的内部和外部来源收集数据，如业务系统、市场调查、社交媒体、传感器等。\n数据清洗与整合：对数据进行清理，去除重复项、处理缺失值、异常值，确保数据的一致性、准确性和完整性。",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         284.6,
         106.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "cards[0].body",
+      "max_lines": 2,
+      "max_width_units": 30
     },
     {
       "field": "text_30",
       "shape_id": 30,
       "shape_name": "文本框 29",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 10,
       "source_sample_chars": 10,
       "source_text": "01.数据收集与准备",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         174.3,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[0].heading",
+      "max_lines": 1,
+      "max_width_units": 17
     },
     {
       "field": "text_31",
       "shape_id": 31,
       "shape_name": "文本框 30",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 10,
       "source_sample_chars": 10,
       "source_text": "02.数据分析与洞察",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         174.3,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[1].heading",
+      "max_lines": 1,
+      "max_width_units": 17
     },
     {
       "field": "text_32",
       "shape_id": 32,
       "shape_name": "文本框 31",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 10,
       "source_sample_chars": 10,
       "source_text": "03.决策制定与实施",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         174.3,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[2].heading",
+      "max_lines": 1,
+      "max_width_units": 17
     },
     {
       "field": "text_36",
       "shape_id": 36,
       "shape_name": "文本框 35",
       "type": "text",
-      "max_chars": 232,
+      "max_chars": 25,
       "source_sample_chars": 116,
       "source_text": "目标定义：明确决策所需要的数据类型和分析目标。\n数据收集：从不同的内部和外部来源收集数据，如业务系统、市场调查、社交媒体、传感器等。\n数据清洗与整合：对数据进行清理，去除重复项、处理缺失值、异常值，确保数据的一致性、准确性和完整性。",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         284.6,
         106.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "cards[1].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_37",
       "shape_id": 37,
       "shape_name": "文本框 36",
       "type": "text",
-      "max_chars": 314,
+      "max_chars": 27,
       "source_sample_chars": 157,
       "source_text": "分析模型选择：根据业务问题选择合适的分析方法，如回归分析、分类算法、聚类分析、预测模型等。数据分析工具可以包括统计分析软件、机器学习算法、数据可视化工具等。\n数据建模与探索：通过建立分析模型，对数据进行深入探索，识别潜在的模式、趋势和关联。利用图表、报表等工具将数据的洞察清晰地呈现出来，以便决策者能够更好地理解。",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         613.2,
         83.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "cards[2].body",
+      "max_lines": 2,
+      "max_width_units": 28
     },
     {
       "field": "text_33",
       "shape_id": 33,
       "shape_name": "矩形 32",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "分析方法",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         160.5,
         23.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "tools[0].label",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_34",
       "shape_id": 34,
       "shape_name": "矩形 33",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "分析工具",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         160.5,
         23.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "tools[1].label",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_35",
       "shape_id": 35,
       "shape_name": "矩形 34",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "建立模型",
       "bounds_pt": [
@@ -159,7 +186,10 @@
         160.5,
         23.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "tools[2].label",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_38",
@@ -175,7 +205,7 @@
         125.4,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_40",
@@ -191,7 +221,7 @@
         125.4,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_41",
@@ -207,14 +237,14 @@
         125.4,
         29.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_2",
       "shape_id": 2,
       "shape_name": "文本框 1",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 12,
       "source_sample_chars": 10,
       "source_text": "流程图｜战略决策流程",
       "bounds_pt": [
@@ -223,7 +253,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 24
     }
   ],
   "objects": {

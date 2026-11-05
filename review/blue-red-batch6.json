@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-05",
+  "batch": "blue-red-sixth-representative-batch",
+  "candidates": 8,
+  "verified_component_count": 8,
+  "static_pptx_pool_before": 34,
+  "static_pptx_pool_after": 42,
+  "verified_layouts": [
+    {
+      "layout_id": "content-blue-071",
+      "verified_counts": [
+        3
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch6-content-blue-071-blue.png",
+        "review/batch6-content-blue-071-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-106",
+      "verified_counts": [
+        5
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch6-content-blue-106-blue.png",
+        "review/batch6-content-blue-106-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-138",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch6-content-blue-138-blue.png",
+        "review/batch6-content-blue-138-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-161",
+      "verified_counts": [
+        5
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch6-content-blue-161-blue.png",
+        "review/batch6-content-blue-161-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-201",
+      "verified_counts": [
+        10
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch6-content-blue-201-blue.png",
+        "review/batch6-content-blue-201-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-231",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch6-content-blue-231-blue.png",
+        "review/batch6-content-blue-231-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-241",
+      "verified_counts": [
+        3
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch6-content-blue-241-blue.png",
+        "review/batch6-content-blue-241-red.png"
+      ]
+    },
+    {
+      "layout_id": "content-blue-249",
+      "verified_counts": [
+        4
+      ],
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "status": "verified_static_draft_pending_review",
+      "preview_paths": [
+        "review/batch6-content-blue-249-blue.png",
+        "review/batch6-content-blue-249-red.png"
+      ]
+    }
+  ],
+  "qa": {
+    "powerpoint_open_export": "16/16",
+    "text_overflow": "0/16 non-rotated text",
+    "rotated_text_manually_reviewed": "6 shapes in P241 blue/red",
+    "logo_and_svg_fallback": "16/16",
+    "invalid_item_count_rejected": "8/8",
+    "ten_year_sequence_rejection": "P201 passed",
+    "percentage_range_rejection": "P249 passed",
+    "percentage_100_percent_fit": "P249 blue/red passed",
+    "editable_shapes": "native text and shapes retained"
+  },
+  "limits": [
+    "fixed source item counts only",
+    "short-copy static PPTX only",
+    "motion and HTML not verified",
+    "brand review pending"
+  ],
+  "stress_previews": {
+    "P249_100_percent": [
+      "review/batch6-content-blue-249-blue-100pct.png",
+      "review/batch6-content-blue-249-red-100pct.png"
+    ]
+  }
+}

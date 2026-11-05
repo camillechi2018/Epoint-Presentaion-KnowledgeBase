@@ -6,7 +6,7 @@
       "shape_id": 111,
       "shape_name": "文本框 110",
       "type": "text",
-      "max_chars": 52,
+      "max_chars": 13,
       "source_sample_chars": 26,
       "source_text": "探索新的市场领域，尤其是国际市场，增加业务的多元化。",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         119.8,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[6].body",
+      "max_lines": 1,
+      "max_width_units": 26
     },
     {
       "field": "text_112",
       "shape_id": 112,
       "shape_name": "文本框 111",
       "type": "text",
-      "max_chars": 50,
+      "max_chars": 12,
       "source_sample_chars": 25,
       "source_text": "参与更高层次的战略决策，为公司的未来发展贡献意见。",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         119.8,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[7].body",
+      "max_lines": 1,
+      "max_width_units": 24
     },
     {
       "field": "text_113",
       "shape_id": 113,
       "shape_name": "文本框 112",
       "type": "text",
-      "max_chars": 52,
+      "max_chars": 14,
       "source_sample_chars": 26,
       "source_text": "成为行业内的专家或进入公司高级管理层，提升决策能力。",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         119.8,
         59.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[8].body",
+      "max_lines": 1,
+      "max_width_units": 28
     },
     {
       "field": "text_114",
       "shape_id": 114,
       "shape_name": "文本框 113",
       "type": "text",
-      "max_chars": 52,
+      "max_chars": 14,
       "source_sample_chars": 26,
       "source_text": "总结和评估过去10年的经验，决定未来的职业发展方向。",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         119.8,
         59.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[9].body",
+      "max_lines": 1,
+      "max_width_units": 28
     },
     {
       "field": "text_97",
       "shape_id": 97,
       "shape_name": "文本框 96",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2025年规划",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         119.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[0].label",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_98",
       "shape_id": 98,
       "shape_name": "文本框 97",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2026年规划",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         119.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[1].label",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_99",
       "shape_id": 99,
       "shape_name": "文本框 98",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2027年规划",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         119.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[2].label",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_100",
       "shape_id": 100,
       "shape_name": "文本框 99",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2028年规划",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         119.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[3].label",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_101",
       "shape_id": 101,
       "shape_name": "文本框 100",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2031年规划",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         119.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[6].label",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_102",
       "shape_id": 102,
       "shape_name": "文本框 101",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2032年规划",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         119.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[7].label",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_103",
       "shape_id": 103,
       "shape_name": "文本框 102",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2033年规划",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         119.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[8].label",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_104",
       "shape_id": 104,
       "shape_name": "文本框 103",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2034年规划",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         119.8,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[9].label",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_105",
       "shape_id": 105,
       "shape_name": "文本框 104",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2030年规划",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         147.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[5].label",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_106",
       "shape_id": 106,
       "shape_name": "文本框 105",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2029年规划",
       "bounds_pt": [
@@ -223,14 +262,17 @@
         147.1,
         24.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "years[4].label",
+      "max_lines": 1,
+      "max_width_units": 10
     },
     {
       "field": "text_107",
       "shape_id": 107,
       "shape_name": "文本框 106",
       "type": "text",
-      "max_chars": 48,
+      "max_chars": 12,
       "source_sample_chars": 24,
       "source_text": "通过岗位实践，了解商务行业的基本运作与工作流程。",
       "bounds_pt": [
@@ -239,14 +281,17 @@
         119.8,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[0].body",
+      "max_lines": 1,
+      "max_width_units": 24
     },
     {
       "field": "text_108",
       "shape_id": 108,
       "shape_name": "文本框 107",
       "type": "text",
-      "max_chars": 56,
+      "max_chars": 11,
       "source_sample_chars": 28,
       "source_text": "在商务领域积累更深的行业知识，成为团队中的核心成员之一。",
       "bounds_pt": [
@@ -255,14 +300,17 @@
         119.8,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[1].body",
+      "max_lines": 1,
+      "max_width_units": 22
     },
     {
       "field": "text_109",
       "shape_id": 109,
       "shape_name": "文本框 108",
       "type": "text",
-      "max_chars": 50,
+      "max_chars": 12,
       "source_sample_chars": 25,
       "source_text": "提升自己在团队中的影响力，开始建立关系网络和人脉。",
       "bounds_pt": [
@@ -271,14 +319,17 @@
         119.8,
         59.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[2].body",
+      "max_lines": 1,
+      "max_width_units": 24
     },
     {
       "field": "text_110",
       "shape_id": 110,
       "shape_name": "文本框 109",
       "type": "text",
-      "max_chars": 50,
+      "max_chars": 12,
       "source_sample_chars": 25,
       "source_text": "提升项目管理能力，能够独立负责较小规模的商务项目。",
       "bounds_pt": [
@@ -287,14 +338,17 @@
         119.8,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[3].body",
+      "max_lines": 1,
+      "max_width_units": 24
     },
     {
       "field": "text_116",
       "shape_id": 116,
       "shape_name": "文本框 115",
       "type": "text",
-      "max_chars": 44,
+      "max_chars": 13,
       "source_sample_chars": 22,
       "source_text": "成为业务部门的核心成员，承担更大范围的责任。",
       "bounds_pt": [
@@ -303,14 +357,17 @@
         179.4,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[5].body",
+      "max_lines": 1,
+      "max_width_units": 26
     },
     {
       "field": "text_117",
       "shape_id": 117,
       "shape_name": "文本框 116",
       "type": "text",
-      "max_chars": 44,
+      "max_chars": 12,
       "source_sample_chars": 22,
       "source_text": "开始负责跨部门的协调工作，担任中层管理职位。",
       "bounds_pt": [
@@ -319,14 +376,17 @@
         179.4,
         41.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "years[4].body",
+      "max_lines": 1,
+      "max_width_units": 24
     },
     {
       "field": "text_2",
       "shape_id": 2,
       "shape_name": "矩形: 圆角 1",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "高层决策",
       "bounds_pt": [
@@ -335,14 +395,17 @@
         103.7,
         31.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "corner.bottom_a",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_55",
       "shape_id": 55,
       "shape_name": "矩形: 圆角 54",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "总结评估",
       "bounds_pt": [
@@ -351,14 +414,17 @@
         103.7,
         31.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "corner.bottom_b",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_57",
       "shape_id": 57,
       "shape_name": "矩形: 圆角 56",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "积累知识",
       "bounds_pt": [
@@ -367,14 +433,17 @@
         103.7,
         31.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "corner.top_a",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_58",
       "shape_id": 58,
       "shape_name": "矩形: 圆角 57",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "提升能力",
       "bounds_pt": [
@@ -383,14 +452,17 @@
         103.7,
         31.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "corner.top_b",
+      "max_lines": 1,
+      "max_width_units": 8
     },
     {
       "field": "text_3",
       "shape_id": 3,
       "shape_name": "文本框 2",
       "type": "text",
-      "max_chars": 26,
+      "max_chars": 11,
       "source_sample_chars": 13,
       "source_text": "时间轴｜个人职业10年规划",
       "bounds_pt": [
@@ -399,7 +471,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 22
     }
   ],
   "objects": {

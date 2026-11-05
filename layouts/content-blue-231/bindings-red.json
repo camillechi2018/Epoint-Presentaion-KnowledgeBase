@@ -15,7 +15,7 @@
         62.9,
         62.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_29",
@@ -31,7 +31,7 @@
         62.9,
         62.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_30",
@@ -47,7 +47,7 @@
         62.9,
         62.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_31",
@@ -63,14 +63,14 @@
         62.9,
         62.9
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_33",
       "shape_id": 33,
       "shape_name": "矩形: 圆角 32",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "审批申请流程",
       "bounds_pt": [
@@ -79,14 +79,17 @@
         224.8,
         32.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[1].card_heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_47",
       "shape_id": 47,
       "shape_name": "矩形: 圆角 46",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 9,
       "source_text": "审批通过/拒绝通知",
       "bounds_pt": [
@@ -95,14 +98,17 @@
         224.8,
         32.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[2].card_heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_48",
       "shape_id": 48,
       "shape_name": "矩形: 圆角 47",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 7,
       "source_text": "会议结束后反馈",
       "bounds_pt": [
@@ -111,14 +117,17 @@
         224.8,
         32.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[3].card_heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_50",
       "shape_id": 50,
       "shape_name": "矩形: 圆角 49",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 2,
       "source_sample_chars": 2,
       "source_text": "审核",
       "bounds_pt": [
@@ -127,14 +136,17 @@
         43.6,
         19.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "decision.review",
+      "max_lines": 1,
+      "max_width_units": 4
     },
     {
       "field": "text_51",
       "shape_id": 51,
       "shape_name": "矩形: 圆角 50",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 2,
       "source_sample_chars": 2,
       "source_text": "检测",
       "bounds_pt": [
@@ -143,14 +155,17 @@
         43.6,
         19.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "decision.verify",
+      "max_lines": 1,
+      "max_width_units": 4
     },
     {
       "field": "text_10",
       "shape_id": 10,
       "shape_name": "文本框 9",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 7,
       "source_text": "提交会议室申请",
       "bounds_pt": [
@@ -159,14 +174,17 @@
         160.8,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[0].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_23",
       "shape_id": 23,
       "shape_name": "文本框 22",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 6,
       "source_text": "审批申请流程",
       "bounds_pt": [
@@ -175,14 +193,17 @@
         160.8,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[1].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_24",
       "shape_id": 24,
       "shape_name": "文本框 23",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 9,
       "source_text": "审批通过/拒绝通知",
       "bounds_pt": [
@@ -191,14 +212,17 @@
         160.8,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[2].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_25",
       "shape_id": 25,
       "shape_name": "文本框 24",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 7,
       "source_text": "会议结束后反馈",
       "bounds_pt": [
@@ -207,14 +231,17 @@
         160.8,
         26.7
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[3].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_32",
       "shape_id": 32,
       "shape_name": "文本框 31",
       "type": "text",
-      "max_chars": 156,
+      "max_chars": 24,
       "source_sample_chars": 78,
       "source_text": "填写详细信息：要填写会议需求，包括主题、日期、人数和设备需求等，并上传相关资料。\n提前提交申请：提前至少1-2天提交申请，确保有足够时间审批，避免时间冲突。",
       "bounds_pt": [
@@ -223,14 +250,17 @@
         224.8,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[0].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_35",
       "shape_id": 35,
       "shape_name": "文本框 34",
       "type": "text",
-      "max_chars": 102,
+      "max_chars": 24,
       "source_sample_chars": 51,
       "source_text": "部门负责人或审批人员审核申请内容，检查是否与其他预定时间冲突，若有冲突，申请人需重新选择时间或会议室。",
       "bounds_pt": [
@@ -239,14 +269,17 @@
         226.0,
         60.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[1].body",
+      "max_lines": 2,
+      "max_width_units": 26
     },
     {
       "field": "text_52",
       "shape_id": 52,
       "shape_name": "矩形: 圆角 51",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 2,
       "source_sample_chars": 2,
       "source_text": "通过",
       "bounds_pt": [
@@ -255,14 +288,17 @@
         43.6,
         19.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "decision.pass",
+      "max_lines": 1,
+      "max_width_units": 4
     },
     {
       "field": "text_36",
       "shape_id": 36,
       "shape_name": "矩形: 圆角 35",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 2,
       "source_sample_chars": 3,
       "source_text": "未通过",
       "bounds_pt": [
@@ -271,14 +307,17 @@
         43.6,
         19.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "decision.fail",
+      "max_lines": 1,
+      "max_width_units": 4
     },
     {
       "field": "text_37",
       "shape_id": 37,
       "shape_name": "矩形: 圆角 36",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 2,
       "source_sample_chars": 3,
       "source_text": "可使用",
       "bounds_pt": [
@@ -287,14 +326,17 @@
         43.6,
         19.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "decision.success",
+      "max_lines": 1,
+      "max_width_units": 4
     },
     {
       "field": "text_40",
       "shape_id": 40,
       "shape_name": "矩形: 圆角 39",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 2,
       "source_sample_chars": 2,
       "source_text": "更换",
       "bounds_pt": [
@@ -303,14 +345,17 @@
         43.6,
         19.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "decision.retry",
+      "max_lines": 1,
+      "max_width_units": 4
     },
     {
       "field": "text_49",
       "shape_id": 49,
       "shape_name": "文本框 48",
       "type": "text",
-      "max_chars": 144,
+      "max_chars": 24,
       "source_sample_chars": 72,
       "source_text": "通过通知：通过时，系统发送确认通知，包含会议室、时间、设备等详细信息。\n拒绝通知与调整建议：若申请被拒绝，系统提供拒绝原因，并建议重新调整申请。",
       "bounds_pt": [
@@ -319,14 +364,17 @@
         224.8,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[2].body",
+      "max_lines": 2,
+      "max_width_units": 26
     },
     {
       "field": "text_53",
       "shape_id": 53,
       "shape_name": "文本框 52",
       "type": "text",
-      "max_chars": 166,
+      "max_chars": 25,
       "source_sample_chars": 83,
       "source_text": "设施使用反馈：会议结束后，申请人需填写会议室使用反馈，评价设施完备性和环境舒适度。\n问题报告与改进建议：若有设备或环境问题，申请人可在反馈中报告，相关部门会进行改进。",
       "bounds_pt": [
@@ -335,14 +383,17 @@
         224.8,
         88.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[3].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_27",
       "shape_id": 27,
       "shape_name": "矩形: 圆角 26",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 7,
       "source_text": "提交会议室申请",
       "bounds_pt": [
@@ -351,14 +402,17 @@
         224.8,
         32.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[0].card_heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_2",
       "shape_id": 2,
       "shape_name": "文本框 1",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 11,
       "source_sample_chars": 10,
       "source_text": "流程图｜项目审批流程",
       "bounds_pt": [
@@ -367,7 +421,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 22
     }
   ],
   "objects": {
