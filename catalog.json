@@ -9686,6 +9686,11 @@
       "collection": "new-template-content",
       "role": "process",
       "information_relation": "five-stage-process",
+      "relation_aliases": [
+        "stage-process",
+        "three-stage-process",
+        "four-stage-process"
+      ],
       "classification_status": "verified",
       "family_id": "process-five-chevron",
       "source": "sources/blue.pptx",
