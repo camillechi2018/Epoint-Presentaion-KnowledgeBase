@@ -10,7 +10,24 @@
         3,
         4,
         5
-      ]
+      ],
+      "validation_status": "card_and_quarter_strip_reflow_required",
+      "evidence": {
+        "quarter_strip_segments": 4,
+        "card_group_elements": [
+          "rate_circle",
+          "label",
+          "card_background",
+          "title",
+          "body"
+        ],
+        "source_cards": 5,
+        "planned_counts": [
+          3,
+          4,
+          5
+        ]
+      }
     },
     {
       "layout_id": "content-blue-025",

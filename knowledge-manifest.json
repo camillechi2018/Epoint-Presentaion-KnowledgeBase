@@ -2949,9 +2949,9 @@
     "catalog.json": "cb497821754cfad547b4691eb17c520726554a720cf11516ef8561fa50e81a9b",
     "layouts/content-blue-036/layout_rules.json": "9c7375f858c86a8c88ef7d51908b073ba288281f4daf78d3386896c78da90ad7",
     "layouts/content-blue-110/layout_rules.json": "2ee36332df1f35f0ca1625faffc8edc86aa2b334a8bd6e632173c9a371d3d543",
-    "review/curation-batch-02.json": "7a53d8416f943d7e8b1225adb8692c2e596bdfa0c70f6752867dd2e7b1a7db21",
     "review/content-blue-230-red-filled.png": "6f561280655ab5a26cd3ba6025d7358149d70014ca2fa26159d94cacdd6c548d",
     "review/content-blue-230-blue-filled.png": "1200a2f6bbd1b01cd25ca7e0c2f1e7fd6f53b45dd00eddbbd3930db4f060ef8a",
-    "review/content-blue-230.json": "17f68a84a62c7d53e2b4f51fc19e4db4ea260ec8d9640c9ec15b8e16e4bb2146"
+    "review/content-blue-230.json": "17f68a84a62c7d53e2b4f51fc19e4db4ea260ec8d9640c9ec15b8e16e4bb2146",
+    "review/curation-batch-02.json": "81f4e12cd4884886785afac725a4014ea33356637de5700b6d58353f9ce3e4bc"
   }
 }
