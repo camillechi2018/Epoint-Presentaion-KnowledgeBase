@@ -25,10 +25,14 @@
       "layout_id": "content-blue-036",
       "source_page": 36,
       "planned_count_tests": [
-        2,
-        3,
         4
-      ]
+      ],
+      "cardinality_decision": "fixed_no_module_add_remove",
+      "validation_status": "source_structure_reviewed_semantic_fill_pending",
+      "evidence": {
+        "native_chart_count": 4,
+        "native_table_count": 1
+      }
     },
     {
       "layout_id": "content-blue-070",
@@ -43,8 +47,14 @@
       "layout_id": "content-blue-110",
       "source_page": 110,
       "planned_count_tests": [
-        "module-removal-visual-balance"
-      ]
+        4
+      ],
+      "cardinality_decision": "fixed_no_module_add_remove",
+      "validation_status": "source_structure_reviewed_semantic_fill_pending",
+      "evidence": {
+        "native_chart_count": 4,
+        "native_table_count": 0
+      }
     },
     {
       "layout_id": "content-blue-191",

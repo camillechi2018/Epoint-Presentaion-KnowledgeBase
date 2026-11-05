@@ -1553,12 +1553,16 @@
       ],
       "density": "dense",
       "curation_batch": 2,
-      "batch_status": "selected_pending_variable_validation",
+      "batch_status": "fixed_structure_reviewed_semantic_fill_pending",
       "planned_count_tests": [
-        2,
-        3,
         4
-      ]
+      ],
+      "cardinality_policy": "fixed_no_module_add_remove",
+      "fixed_structure_evidence": {
+        "native_chart_count": 4,
+        "native_table_count": 1,
+        "reason": "Chart modules have distinct roles and surrounding labels; removing a module needs a new designed layout."
+      }
     },
     {
       "id": "content-blue-037",
@@ -4692,10 +4696,16 @@
       ],
       "density": "dense",
       "curation_batch": 2,
-      "batch_status": "selected_pending_variable_validation",
+      "batch_status": "fixed_structure_reviewed_semantic_fill_pending",
       "planned_count_tests": [
-        "module-removal-visual-balance"
-      ]
+        4
+      ],
+      "cardinality_policy": "fixed_no_module_add_remove",
+      "fixed_structure_evidence": {
+        "native_chart_count": 4,
+        "native_table_count": 0,
+        "reason": "Chart modules have distinct roles and surrounding labels; removing a module needs a new designed layout."
+      }
     },
     {
       "id": "content-blue-111",
