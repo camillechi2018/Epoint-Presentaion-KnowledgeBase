@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "slides": [
+    {
+      "source_page": 9,
+      "click_count": 6,
+      "status": "click_state_checked_visual_review_pending",
+      "indices_match": true
+    },
+    {
+      "source_page": 38,
+      "click_count": 4,
+      "status": "click_state_checked_visual_review_pending",
+      "indices_match": true
+    },
+    {
+      "source_page": 49,
+      "click_count": 6,
+      "status": "click_state_checked_visual_review_pending",
+      "indices_match": true
+    },
+    {
+      "source_page": 51,
+      "click_count": 6,
+      "status": "click_state_checked_visual_review_pending",
+      "indices_match": true
+    },
+    {
+      "source_page": 69,
+      "click_count": 6,
+      "status": "click_state_checked_visual_review_pending",
+      "indices_match": true
+    }
+  ],
+  "method": "PowerPoint SlideShowView actual click advancement; no visual sequence, animation timing, or layout acceptance",
+  "visual_capture": "excluded_due_to_unrelated_desktop_content",
+  "normal_use": "prototype_only",
+  "status": "click_state_checked_visual_review_pending"
+}

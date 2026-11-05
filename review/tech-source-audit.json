@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "status": "source_structure_checked",
+  "source": "sources/tech.pptx",
+  "source_sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564",
+  "source_bytes": 7012151,
+  "slide_count": 85,
+  "canvas_inches": [
+    13.333,
+    7.5
+  ],
+  "catalog_entries": 85,
+  "source_previews": 85,
+  "top_level_shapes": 1889,
+  "recursive_shape_records": 6600,
+  "source_logo_pages": 71,
+  "native_charts": 12,
+  "native_tables": 0,
+  "notes_slides": 81,
+  "media_by_extension": {
+    ".jpeg": 9,
+    ".png": 21,
+    ".wdp": 5,
+    ".svg": 2
+  },
+  "color_inventory": "color-inventory-tech.json",
+  "limits": [
+    "结构和源文件核对不等于 85 页逐页内容、字体、视觉、放映验收。"
+  ]
+}

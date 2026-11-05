@@ -1,0 +1,13 @@
+{
+  "source_page": 40,
+  "component_id": "content-tech-040",
+  "information_relation": "comparison",
+  "source_item_count": 2,
+  "component_parts": "左右两主题及各自正文、两枚补充标签",
+  "content_fit_limit": "仅原生项数与短文案；长文需另测，其他项数须重新排版验收。",
+  "review_status": "static_pptx_verified",
+  "field_binding_status": "reviewed",
+  "normal_use_status": "static_pptx_verified_draft",
+  "source_text_policy": "源稿文字、数字和图片中的案例只作版式来源，不作业务事实。",
+  "verification_note": "虚构内容全字段实填、PowerPoint 渲染、文字边界、单 Logo 和媒体引用已核对；HTML、动效和扩展色分别验收。"
+}
