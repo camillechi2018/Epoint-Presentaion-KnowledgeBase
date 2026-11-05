@@ -13625,7 +13625,7 @@
       },
       "shape_count": 15,
       "media_status": "unreviewed",
-      "html_support": "not_implemented",
+      "html_support": "prototype_requires_cross_format_review",
       "motion_support": "source_static",
       "motion_suitability": "B",
       "cardinality_status": "not_implemented",
@@ -13678,7 +13678,8 @@
       "composite_required": true,
       "title_pressure_status": "tested_short_copy_only",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "html_prototype": "review/tech-cover-001-html-prototype.png"
     },
     {
       "id": "cover-tech-002",
