@@ -72,7 +72,17 @@
         3,
         4,
         5
-      ]
+      ],
+      "validation_status": "terminal_variant_design_required",
+      "evidence": {
+        "variant_counts_pending": [
+          3,
+          4
+        ],
+        "source_stage_count": 5,
+        "connector_count": 4,
+        "terminal_stage_distinct": true
+      }
     },
     {
       "layout_id": "content-blue-268",
