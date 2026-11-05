@@ -1273,11 +1273,11 @@
     "layouts/content-blue-229/layout_rules.json": "0a0ec06bcc945615c03aa2c130e3218de5b88c6aaebf46f1bcd9c91db75f59a9",
     "layouts/content-blue-229/motion.json": "300fb58d7ef05c539d184d5a97533d3daf68a17ede1422b1d3272d94f10b6502",
     "layouts/content-blue-229/spec.md": "3a4fa9547e1fb1f211aa689ff521a99dd6cb6eb0e595c1dd705868f8a4aad070",
-    "layouts/content-blue-230/bindings-red.json": "fba8751151f39a75c74844a2919d1268b20dedb5f7686d6f73c133a49e88d385",
-    "layouts/content-blue-230/bindings.json": "482664deeb39afb7564a467467a07f074c6be238479056cd9109c5024b6ddde2",
-    "layouts/content-blue-230/layout_rules.json": "9b474b3bd19b7f5d5cbb308688f3015f7eea16e23e204873858caa1860c4ad73",
+    "layouts/content-blue-230/bindings-red.json": "bac3dc9529216398cacd45aaf0d1a1083b1cb5a72c737e65ece58d4fa6db8e28",
+    "layouts/content-blue-230/bindings.json": "8128b5766784fe84a5181da3b823d290ff3b7f5826e6355554d6d611cebe6c6c",
+    "layouts/content-blue-230/layout_rules.json": "e342e981035134a4e95f660b69e8913b8eb27e0d3fea046e09113d1cff6c7ab3",
     "layouts/content-blue-230/motion.json": "300fb58d7ef05c539d184d5a97533d3daf68a17ede1422b1d3272d94f10b6502",
-    "layouts/content-blue-230/spec.md": "f275ee57b1c868765d32fda36bddcd0acb34189a13e02f73c7367b802fc5e16b",
+    "layouts/content-blue-230/spec.md": "0d7319c651887d37d33aceab9a35957bab1b666d46b50c42556c03ce7f9f8c9f",
     "layouts/content-blue-231/bindings-red.json": "2e390f3fbc49cf4545be9997db44f0dd82ec8091af611505d97637d62bad1b14",
     "layouts/content-blue-231/bindings.json": "4d51c6b626fde5917900b00a48af9efb88ebe139ba6c6c3cc52268e763105d71",
     "layouts/content-blue-231/layout_rules.json": "0a0ec06bcc945615c03aa2c130e3218de5b88c6aaebf46f1bcd9c91db75f59a9",
@@ -2946,9 +2946,12 @@
     "source-previews/tech/P083.png": "e03993ba2ccff48c1d5b1820f201ad08004c21b51068f8eae09884fbbe964bab",
     "source-previews/tech/P084.png": "a29c0ff545af9b8519613c73132d5d3711a8742598e1abb7458e9a05c3c24cdd",
     "source-previews/tech/P085.png": "df256d09209e352d21f60af9385cfbca2d826b95950dea0a78970eb26ddb022b",
-    "catalog.json": "33dbe00925decefcfe434449043a3dd47b34530e7fdf6a66e3497ced9b669aff",
+    "catalog.json": "1e4ff3364e57490788f44a3e7683cc8fb08042b45a16e7552a7f9cbf5ea0321b",
     "layouts/content-blue-036/layout_rules.json": "9c7375f858c86a8c88ef7d51908b073ba288281f4daf78d3386896c78da90ad7",
     "layouts/content-blue-110/layout_rules.json": "2ee36332df1f35f0ca1625faffc8edc86aa2b334a8bd6e632173c9a371d3d543",
-    "review/curation-batch-02.json": "886c68ee00cbe1a3237956437ca8bbb8f8e835d217c7824c24f9bf1f6ebaf7de"
+    "review/curation-batch-02.json": "886c68ee00cbe1a3237956437ca8bbb8f8e835d217c7824c24f9bf1f6ebaf7de",
+    "review/content-blue-230-red-filled.png": "6f561280655ab5a26cd3ba6025d7358149d70014ca2fa26159d94cacdd6c548d",
+    "review/content-blue-230-blue-filled.png": "1200a2f6bbd1b01cd25ca7e0c2f1e7fd6f53b45dd00eddbbd3930db4f060ef8a",
+    "review/content-blue-230.json": "17f68a84a62c7d53e2b4f51fc19e4db4ea260ec8d9640c9ec15b8e16e4bb2146"
   }
 }
