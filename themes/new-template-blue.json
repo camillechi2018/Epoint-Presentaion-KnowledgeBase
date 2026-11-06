@@ -13,7 +13,14 @@
     "accent5": "79A6FF",
     "accent6": "3277F4"
   },
-  "neutral_tokens": {"black": "000000", "white": "FFFFFF", "light_gray": "F6F9FF", "mid_gray": "D9E6FA", "dark_gray": "2D3741", "on_dark_muted": "C5D7E7"},
+  "neutral_tokens": {
+    "black": "000000",
+    "white": "FFFFFF",
+    "light_gray": "F6F9FF",
+    "mid_gray": "8BA1C4",
+    "dark_gray": "24292F",
+    "on_dark_muted": "79A6FF"
+  },
   "semantic_roles": {
     "primary": "accent1",
     "secondary": "accent2",
@@ -21,5 +28,18 @@
     "surface_light": "lt2"
   },
   "logo_color_policy": "locked; never recolor logo",
-  "object_binding_status": "pending per-object audit"
+  "object_binding_status": "pending per-object audit",
+  "free_composition_status": "source_derived_draft",
+  "free_composition_roles": {
+    "canvas": "F6F9FF",
+    "surface": "FFFFFF",
+    "text": "041D4B",
+    "muted": "435D74",
+    "primary": "0154DD",
+    "secondary": "00BDDE",
+    "tertiary": "24D3BA",
+    "soft": "E1ECFF",
+    "border": "E1ECFF",
+    "closing_canvas": "0154DD"
+  }
 }

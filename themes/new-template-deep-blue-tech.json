@@ -14,7 +14,14 @@
     "accent5": "E25B2F",
     "accent6": "70AD47"
   },
-  "neutral_tokens": {"black": "000000", "white": "FFFFFF", "light_gray": "E7E6E6", "mid_gray": "9FA0A0", "dark_gray": "2D3741", "on_dark_muted": "C5D7E7"},
+  "neutral_tokens": {
+    "black": "000000",
+    "white": "FFFFFF",
+    "light_gray": "E7E6E6",
+    "mid_gray": "5E5E5E",
+    "dark_gray": "151C2D",
+    "on_dark_muted": "D4DBE4"
+  },
   "semantic_roles": {
     "brand_primary": "accent1",
     "tech_cyan": "accent2",
@@ -23,5 +30,18 @@
     "canvas_deep": "requires_background_media_audit"
   },
   "logo_color_policy": "locked; never recolor logo",
-  "gradients_svg_charts": "per-object mapping pending"
+  "gradients_svg_charts": "per-object mapping pending",
+  "free_composition_status": "source_derived_draft",
+  "free_composition_roles": {
+    "canvas": "05193A",
+    "surface": "031634",
+    "text": "FFFFFF",
+    "muted": "D4DBE4",
+    "primary": "0F96FF",
+    "secondary": "70D9FF",
+    "tertiary": "0FFFE8",
+    "soft": "031F44",
+    "border": "65B4D5",
+    "closing_canvas": "05193A"
+  }
 }
