@@ -1,3 +1,3 @@
-# new-template-v1
+# main
 
-本分支是三份新模板的独立知识库。旧 `main` 的组件和图片不进入本分支。此初始提交只建立隔离边界；后续提交加入来源页、组件、主题和审计文件。
+本分支是新模板知识库的主分支，由原 `new-template-v1` 分支迁入。旧版 `main` 的完整内容与提交历史已迁至独立仓库 `camillechi2018/EpointPresentation-PPT-legacy-kb`。后续新模板、组件、主题和审计文件在此主分支更新。

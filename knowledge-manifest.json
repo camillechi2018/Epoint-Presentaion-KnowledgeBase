@@ -5,7 +5,7 @@
   "file_count": 3248,
   "files": {
     ".gitignore": "01f797f0f3bba220a65d704559a3adb2beaecf1ab31b60cdd61b163b5c3a02f1",
-    "BRANCH.md": "0aade4fb01c3b752ca012db536bacc760af74cc9aad53e959ff860d7d4d88176",
+    "BRANCH.md": "c6a9c3024650822dee9266a9b4f306873f0bf191b534581809e48b868f0e84b9",
     "brand/logo/logo-black.png": "6201eea404825b7769f00988057b481e923a06a4c909c81afaac1b80373e66a2",
     "brand/logo/logo-black.svg": "3087bfd2ccae4b8689f9cd388ae23ea7925e8e0084b3d0b2c1365765219a01a7",
     "brand/logo/logo-epoint-black.png": "e781111c60c5ef9dc61d04bf9ee317e446a763c2fead208992180484f6545acc",
@@ -2335,7 +2335,7 @@
     "layouts/supp-section-red-18/layout_rules.json": "cc4e676daa504a659085fb840274f3a16333f69dc20af5eededdb4994bb3341b",
     "layouts/supp-section-red-18/motion.json": "608ce124fd464e9c093b999a303052e7d66196cf7ce3a82f32ae970ae0eeb37c",
     "layouts/supp-section-red-18/spec.md": "0f79e615c7a3ddffc02c03160de69b358117f4eaf0a3cc3b1fc9468caccb6578",
-    "README.md": "f967de307923f9c42ab34f616d929d9b7a2308a2b09d9ff4b8a59e3cb71730c6",
+    "README.md": "31bcb760f00cfa4fea9e9855195dda99b0dc4ab90572846b68e69f5877a3604d",
     "review/batch3-content-blue-025-blue.png": "24953c1bfa5fb0dfe66a4a95bd7d3b42c5dd1e43a531db9ca6fa84efd06fffe9",
     "review/batch3-content-blue-025-red.png": "91b3fdbf3258a6086cabe75aa59e748f37e6c1a8dd0f72f74d80010849c088ee",
     "review/batch3-content-blue-036-blue.png": "ff301d6ed650b990ee5b88b90081f98ae549ca7097e6277fedc16d4480dea77f",
