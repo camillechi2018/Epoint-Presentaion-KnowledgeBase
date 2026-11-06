@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "layout_id": "content-blue-001",
+  "status": "static_pptx_verified_draft",
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "verified_counts": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "inputs": "fictitious two-word section labels and numbered English subtitles",
+  "outputs": 10,
+  "qa": {
+    "powerpoint_rendered": 10,
+    "text_fit_passed": 10,
+    "layout_collision_checked": [
+      "blue-2",
+      "blue-5",
+      "red-2",
+      "red-5"
+    ],
+    "layout_collision_issues": 0,
+    "visual_inspected": [
+      "blue-5",
+      "red-2"
+    ]
+  },
+  "limitations": [
+    "only static PPTX",
+    "subtitle/title capacity per bindings",
+    "other directory layouts remain fixed-count",
+    "brand draft_pending_review"
+  ]
+}

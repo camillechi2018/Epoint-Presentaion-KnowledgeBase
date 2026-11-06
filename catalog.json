@@ -10,7 +10,7 @@
       "role": "directory",
       "information_relation": "navigation",
       "classification_status": "verified",
-      "family_id": "directory-six-grid",
+      "family_id": "directory-flex-grid",
       "source": "sources/blue.pptx",
       "example": "sources/blue.pptx",
       "bindings": "layouts/content-blue-001/bindings.json",
@@ -41,8 +41,8 @@
       "red_source": "sources/red.pptx",
       "red_source_page": 1,
       "composition_tags": [
-        "six-items",
-        "grid",
+        "two-to-six-items",
+        "adaptive-grid",
         "chapter-navigation"
       ],
       "density": "sparse",

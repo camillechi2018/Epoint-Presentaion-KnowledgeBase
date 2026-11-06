@@ -1,10 +1,61 @@
 {
-  "cardinality_mode": "fixed",
+  "cardinality_mode": "directory_grid_3x2",
   "supported_counts": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "verified_counts": [
+    2,
+    3,
+    4,
+    5,
     6
   ],
   "source_count": 6,
-  "reflow_status": "not_applicable",
-  "count_evidence": "blue/red source geometry equal; fixed count visually reviewed",
-  "validation_status": "verified_fixed_count"
+  "reflow_status": "blue_red_powerpoint_rendered",
+  "count_evidence": "Blue/red 2-6 items filled with independent fictitious text; PowerPoint rendered 10 PPTX; 10/10 text-fit pass; 2/5 item layouts inspected",
+  "validation_status": "verified",
+  "anchor_shape_ids": [
+    73,
+    74,
+    75,
+    72,
+    71,
+    70
+  ],
+  "units": [
+    [
+      73,
+      25,
+      3
+    ],
+    [
+      74,
+      26,
+      4
+    ],
+    [
+      75,
+      27,
+      6
+    ],
+    [
+      72,
+      29,
+      9
+    ],
+    [
+      71,
+      30,
+      10
+    ],
+    [
+      70,
+      31,
+      11
+    ]
+  ]
 }
