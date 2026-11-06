@@ -1,0 +1,370 @@
+{
+  "supp-directory-01-blue": {
+    "theme": "blue",
+    "item_count": 6,
+    "texts": {
+      "page.title": "目录",
+      "items[0].title": "经营概览",
+      "items[1].title": "收入成本",
+      "items[2].title": "质量改进",
+      "items[3].title": "客户服务",
+      "items[4].title": "项目推进",
+      "items[5].title": "后续计划"
+    }
+  },
+  "supp-directory-01-red": {
+    "theme": "red",
+    "item_count": 6,
+    "texts": {
+      "page.title": "目录",
+      "items[0].title": "经营概览",
+      "items[1].title": "收入成本",
+      "items[2].title": "质量改进",
+      "items[3].title": "客户服务",
+      "items[4].title": "项目推进",
+      "items[5].title": "后续计划"
+    }
+  },
+  "supp-directory-02-blue": {
+    "theme": "blue",
+    "item_count": 6,
+    "texts": {
+      "page.title": "目录",
+      "items[0].title": "经营概览",
+      "items[1].title": "收入成本",
+      "items[2].title": "质量改进",
+      "items[3].title": "客户服务",
+      "items[4].title": "项目推进",
+      "items[5].title": "后续计划"
+    }
+  },
+  "supp-directory-02-red": {
+    "theme": "red",
+    "item_count": 6,
+    "texts": {
+      "page.title": "目录",
+      "items[0].title": "经营概览",
+      "items[1].title": "收入成本",
+      "items[2].title": "质量改进",
+      "items[3].title": "客户服务",
+      "items[4].title": "项目推进",
+      "items[5].title": "后续计划"
+    }
+  },
+  "supp-directory-03-blue": {
+    "theme": "blue",
+    "item_count": 6,
+    "texts": {
+      "page.title": "目录",
+      "items[0].title": "经营概览",
+      "items[1].title": "收入成本",
+      "items[2].title": "质量改进",
+      "items[3].title": "客户服务",
+      "items[4].title": "项目推进",
+      "items[5].title": "后续计划"
+    }
+  },
+  "supp-directory-03-red": {
+    "theme": "red",
+    "item_count": 6,
+    "texts": {
+      "page.title": "目录",
+      "items[0].title": "经营概览",
+      "items[1].title": "收入成本",
+      "items[2].title": "质量改进",
+      "items[3].title": "客户服务",
+      "items[4].title": "项目推进",
+      "items[5].title": "后续计划"
+    }
+  },
+  "supp-directory-04-blue": {
+    "theme": "blue",
+    "item_count": 6,
+    "texts": {
+      "page.title": "目录",
+      "items[0].title": "经营概览",
+      "items[1].title": "收入成本",
+      "items[2].title": "质量改进",
+      "items[3].title": "客户服务",
+      "items[4].title": "项目推进",
+      "items[5].title": "后续计划"
+    }
+  },
+  "supp-directory-04-red": {
+    "theme": "red",
+    "item_count": 6,
+    "texts": {
+      "page.title": "目录",
+      "items[0].title": "经营概览",
+      "items[1].title": "收入成本",
+      "items[2].title": "质量改进",
+      "items[3].title": "客户服务",
+      "items[4].title": "项目推进",
+      "items[5].title": "后续计划"
+    }
+  },
+  "supp-section-01-blue": {
+    "theme": "blue",
+    "item_count": 1,
+    "texts": {
+      "section.title": "经营概览",
+      "section.subtitle": "业务回顾",
+      "section.number": "01."
+    }
+  },
+  "supp-section-01-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "section.title": "经营概览",
+      "section.subtitle": "业务回顾",
+      "section.number": "01."
+    }
+  },
+  "supp-section-02-blue": {
+    "theme": "blue",
+    "item_count": 1,
+    "texts": {
+      "section.number": "01",
+      "section.title": "经营概览"
+    }
+  },
+  "supp-section-02-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "section.number": "01",
+      "section.title": "经营概览"
+    }
+  },
+  "supp-section-03-blue": {
+    "theme": "blue",
+    "item_count": 1,
+    "texts": {
+      "section.title": "经营概览",
+      "section.subtitle": "业务回顾",
+      "section.part": "PART 01"
+    }
+  },
+  "supp-section-03-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "section.title": "经营概览",
+      "section.subtitle": "业务回顾",
+      "section.part": "PART 01"
+    }
+  },
+  "supp-closing-01-blue": {
+    "theme": "blue",
+    "item_count": 1,
+    "texts": {
+      "closing.title": "THANK YOU",
+      "closing.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-closing-01-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "closing.title": "THANK YOU",
+      "closing.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-directory-04-red-variant-red": {
+    "theme": "red",
+    "item_count": 6,
+    "texts": {
+      "page.title": "目录",
+      "items[0].title": "经营概览",
+      "items[1].title": "收入成本",
+      "items[2].title": "质量改进",
+      "items[3].title": "客户服务",
+      "items[4].title": "项目推进",
+      "items[5].title": "后续计划"
+    }
+  },
+  "supp-section-blue-08-blue": {
+    "theme": "blue",
+    "item_count": 1,
+    "texts": {
+      "section.title": "经营概览",
+      "section.subtitle": "业务回顾",
+      "section.number": "01"
+    }
+  },
+  "supp-section-blue-09-blue": {
+    "theme": "blue",
+    "item_count": 1,
+    "texts": {
+      "section.title": "经营概览",
+      "section.number": "01",
+      "section.subtitle": "业务回顾"
+    }
+  },
+  "supp-section-red-13-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "section.title": "经营概览",
+      "section.header": "2026年经营报告",
+      "section.part": "PART.1"
+    }
+  },
+  "supp-section-red-17-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "section.header": "2026年经营报告",
+      "section.title": "经营概览",
+      "section.number": "01"
+    }
+  },
+  "supp-section-red-18-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "section.title": "经营概览",
+      "section.number": "01"
+    }
+  },
+  "supp-closing-02-blue": {
+    "theme": "blue",
+    "item_count": 1,
+    "texts": {
+      "closing.title": "THANK YOU",
+      "closing.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-closing-02-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "closing.title": "THANK YOU",
+      "closing.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-closing-03-blue": {
+    "theme": "blue",
+    "item_count": 1,
+    "texts": {
+      "closing.title": "THANK YOU",
+      "closing.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-closing-03-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "closing.title": "THANK YOU",
+      "closing.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-closing-blue-13-blue": {
+    "theme": "blue",
+    "item_count": 1,
+    "texts": {
+      "closing.title": "THANK YOU",
+      "closing.subtitle": "THANKS",
+      "closing.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-closing-blue-14-blue": {
+    "theme": "blue",
+    "item_count": 1,
+    "texts": {
+      "closing.title": "感谢观看",
+      "closing.subtitle": "THANK YOU"
+    }
+  },
+  "supp-closing-red-19-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "closing.subtitle": "THANKS",
+      "closing.title": "感谢观看",
+      "closing.note": "经营复盘与行动计划"
+    }
+  },
+  "supp-closing-red-23-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "closing.title": "THANK YOU",
+      "closing.subtitle": "THANKS",
+      "closing.date": "2026/11/06",
+      "closing.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-closing-red-24-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "closing.title": "感谢观看",
+      "closing.subtitle": "THANK YOU",
+      "closing.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-cover-red-01-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "cover.title": "年度经营分析报告",
+      "cover.english": "ANNUAL BUSINESS REVIEW",
+      "cover.presenter": "汇报人：新点软件",
+      "cover.subtitle": "经营成果与改进计划"
+    }
+  },
+  "supp-cover-red-02-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "cover.presenter": "汇报人：新点软件",
+      "cover.title": "年度经营分析报告",
+      "cover.kicker": "2026 REPORT"
+    }
+  },
+  "supp-cover-red-03-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "cover.title": "年度经营分析报告",
+      "cover.kicker": "年度汇报",
+      "cover.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-cover-red-04-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "cover.title": "年度经营分析报告",
+      "cover.kicker": "2026 REPORT",
+      "cover.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-cover-red-05-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "cover.title": "年度经营\n分析报告",
+      "cover.kicker": "2026 REPORT",
+      "cover.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-cover-red-06-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "cover.title": "年度经营报告",
+      "cover.presenter": "汇报人：新点软件"
+    }
+  },
+  "supp-cover-red-07-red": {
+    "theme": "red",
+    "item_count": 1,
+    "texts": {
+      "cover.title": "年度经营分析报告",
+      "cover.presenter": "汇报人：新点软件"
+    }
+  }
+}

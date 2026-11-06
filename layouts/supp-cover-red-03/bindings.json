@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "标题",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "工作总结汇报模板",
+      "bounds_pt": [
+        52.0,
+        265.6,
+        672.5,
+        142.7
+      ],
+      "semantic_role": "title",
+      "semantic_path": "cover.title",
+      "max_width_units": 16,
+      "max_lines": 1
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "副标题",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "模板内容",
+      "bounds_pt": [
+        52.0,
+        89.3,
+        672.5,
+        168.3
+      ],
+      "semantic_role": "kicker",
+      "semantic_path": "cover.kicker",
+      "max_width_units": 8,
+      "max_lines": 1
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "署名",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "汇报人：新点软件",
+      "bounds_pt": [
+        94.5,
+        414.4,
+        226.8,
+        39.7
+      ],
+      "semantic_role": "presenter",
+      "semantic_path": "cover.presenter",
+      "max_width_units": 16,
+      "max_lines": 1
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "semantic_role": "brand_logo_locked",
+        "asset_sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e"
+      }
+    ]
+  },
+  "review": "semantic fields; short-copy PowerPoint render and capacity boundary verified"
+}

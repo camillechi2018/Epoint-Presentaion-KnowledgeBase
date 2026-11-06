@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "标题",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "目标回顾",
+      "bounds_pt": [
+        270.8,
+        246.9,
+        633.2,
+        90.7
+      ],
+      "semantic_role": "title",
+      "semantic_path": "section.title",
+      "max_width_units": 8,
+      "max_lines": 1
+    },
+    {
+      "field": "text_5",
+      "shape_id": 5,
+      "shape_name": "副标题",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 5,
+      "source_text": "章节副标题",
+      "bounds_pt": [
+        410.2,
+        347.9,
+        493.8,
+        48.5
+      ],
+      "semantic_role": "subtitle",
+      "semantic_path": "section.subtitle",
+      "max_width_units": 8,
+      "max_lines": 1
+    },
+    {
+      "field": "text_6",
+      "shape_id": 6,
+      "shape_name": "节编号",
+      "type": "text",
+      "max_chars": 3,
+      "source_sample_chars": 3,
+      "source_text": "01.",
+      "bounds_pt": [
+        409.9,
+        116.0,
+        493.8,
+        121.8
+      ],
+      "semantic_role": "number",
+      "semantic_path": "section.number",
+      "max_width_units": 3,
+      "max_lines": 1
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "semantic fields; short-copy PowerPoint render and capacity boundary verified"
+}

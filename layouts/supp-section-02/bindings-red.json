@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_2",
+      "shape_id": 2,
+      "shape_name": "文本占位符 1",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        198.0,
+        119.3,
+        575.2,
+        137.4
+      ],
+      "semantic_role": "number",
+      "semantic_path": "section.number",
+      "max_width_units": 2,
+      "max_lines": 1
+    },
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "标题 3",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "目标回顾",
+      "bounds_pt": [
+        213.2,
+        256.8,
+        533.5,
+        222.3
+      ],
+      "semantic_role": "title",
+      "semantic_path": "section.title",
+      "max_width_units": 8,
+      "max_lines": 1
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "semantic fields; short-copy PowerPoint render and capacity boundary verified"
+}

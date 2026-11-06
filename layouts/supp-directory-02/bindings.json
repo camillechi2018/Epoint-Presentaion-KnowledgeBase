@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "标题",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "目录",
+      "bounds_pt": [
+        66.2,
+        2.3,
+        563.5,
+        85.2
+      ],
+      "semantic_role": "title",
+      "semantic_path": "page.title",
+      "max_width_units": 4,
+      "max_lines": 1
+    },
+    {
+      "field": "text_25",
+      "shape_id": 25,
+      "shape_name": "项标题",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "目标回顾",
+      "bounds_pt": [
+        67.2,
+        322.7,
+        126.2,
+        88.0
+      ],
+      "semantic_role": "title",
+      "semantic_path": "items[0].title",
+      "max_width_units": 8,
+      "max_lines": 1
+    },
+    {
+      "field": "text_31",
+      "shape_id": 31,
+      "shape_name": "项标题",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 7,
+      "source_text": "工作成果\n展示",
+      "bounds_pt": [
+        206.9,
+        322.7,
+        126.2,
+        88.0
+      ],
+      "semantic_role": "title",
+      "semantic_path": "items[1].title",
+      "max_width_units": 8,
+      "max_lines": 1
+    },
+    {
+      "field": "text_33",
+      "shape_id": 33,
+      "shape_name": "项标题",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 5,
+      "source_text": "不足与改进",
+      "bounds_pt": [
+        346.8,
+        322.7,
+        126.2,
+        88.0
+      ],
+      "semantic_role": "title",
+      "semantic_path": "items[2].title",
+      "max_width_units": 8,
+      "max_lines": 1
+    },
+    {
+      "field": "text_35",
+      "shape_id": 35,
+      "shape_name": "项标题",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 5,
+      "source_text": "学习与成长",
+      "bounds_pt": [
+        486.7,
+        322.7,
+        126.2,
+        88.0
+      ],
+      "semantic_role": "title",
+      "semantic_path": "items[3].title",
+      "max_width_units": 8,
+      "max_lines": 1
+    },
+    {
+      "field": "text_39",
+      "shape_id": 39,
+      "shape_name": "项标题",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 7,
+      "source_text": "明年工作\n计划",
+      "bounds_pt": [
+        626.6,
+        322.7,
+        126.2,
+        88.0
+      ],
+      "semantic_role": "title",
+      "semantic_path": "items[4].title",
+      "max_width_units": 8,
+      "max_lines": 1
+    },
+    {
+      "field": "text_43",
+      "shape_id": 43,
+      "shape_name": "项标题",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 5,
+      "source_text": "感谢与展望",
+      "bounds_pt": [
+        766.5,
+        322.7,
+        126.2,
+        88.0
+      ],
+      "semantic_role": "title",
+      "semantic_path": "items[5].title",
+      "max_width_units": 8,
+      "max_lines": 1
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "semantic fields; short-copy PowerPoint render and capacity boundary verified"
+}

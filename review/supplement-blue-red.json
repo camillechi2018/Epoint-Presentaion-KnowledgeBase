@@ -1,0 +1,611 @@
+{
+  "status": "verified_static_draft",
+  "physical_pages": 38,
+  "layout_records": 28,
+  "variant_renders": 38,
+  "fixed_count_only": true,
+  "text_fit": "38/38 pass",
+  "logo": "38/38 one visible source or added logo",
+  "svg_fallback": "38/38 pass",
+  "limits": [
+    "no motion or HTML",
+    "supplemental native colors are not yet mapped to cross-palette variables",
+    "short-copy capacity only"
+  ],
+  "layouts": [
+    {
+      "id": "supp-directory-01",
+      "role": "directory",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "fixed_count": 6,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 1,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-directory-01-blue.pptx",
+          "png": "supp-directory-01-blue.png"
+        },
+        {
+          "theme": "red",
+          "source_page": 9,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-directory-01-red.pptx",
+          "png": "supp-directory-01-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-directory-02",
+      "role": "directory",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "fixed_count": 6,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 2,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-directory-02-blue.pptx",
+          "png": "supp-directory-02-blue.png"
+        },
+        {
+          "theme": "red",
+          "source_page": 10,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-directory-02-red.pptx",
+          "png": "supp-directory-02-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-directory-03",
+      "role": "directory",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "fixed_count": 6,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 3,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-directory-03-blue.pptx",
+          "png": "supp-directory-03-blue.png"
+        },
+        {
+          "theme": "red",
+          "source_page": 12,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-directory-03-red.pptx",
+          "png": "supp-directory-03-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-directory-04",
+      "role": "directory",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "fixed_count": 6,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 4,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-directory-04-blue.pptx",
+          "png": "supp-directory-04-blue.png"
+        },
+        {
+          "theme": "red",
+          "source_page": 8,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-directory-04-red.pptx",
+          "png": "supp-directory-04-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-section-01",
+      "role": "section",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 5,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-section-01-blue.pptx",
+          "png": "supp-section-01-blue.png"
+        },
+        {
+          "theme": "red",
+          "source_page": 14,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-section-01-red.pptx",
+          "png": "supp-section-01-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-section-02",
+      "role": "section",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 6,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-section-02-blue.pptx",
+          "png": "supp-section-02-blue.png"
+        },
+        {
+          "theme": "red",
+          "source_page": 15,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-section-02-red.pptx",
+          "png": "supp-section-02-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-section-03",
+      "role": "section",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 7,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-section-03-blue.pptx",
+          "png": "supp-section-03-blue.png"
+        },
+        {
+          "theme": "red",
+          "source_page": 16,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-section-03-red.pptx",
+          "png": "supp-section-03-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-01",
+      "role": "closing",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 10,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-closing-01-blue.pptx",
+          "png": "supp-closing-01-blue.png"
+        },
+        {
+          "theme": "red",
+          "source_page": 20,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-closing-01-red.pptx",
+          "png": "supp-closing-01-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-directory-04-red-variant",
+      "role": "directory",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 6,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 11,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-directory-04-red-variant-red.pptx",
+          "png": "supp-directory-04-red-variant-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-section-blue-08",
+      "role": "section",
+      "themes": [
+        "blue"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 8,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-section-blue-08-blue.pptx",
+          "png": "supp-section-blue-08-blue.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-section-blue-09",
+      "role": "section",
+      "themes": [
+        "blue"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 9,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-section-blue-09-blue.pptx",
+          "png": "supp-section-blue-09-blue.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-section-red-13",
+      "role": "section",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 13,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-section-red-13-red.pptx",
+          "png": "supp-section-red-13-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-section-red-17",
+      "role": "section",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 17,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-section-red-17-red.pptx",
+          "png": "supp-section-red-17-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-section-red-18",
+      "role": "section",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 18,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-section-red-18-red.pptx",
+          "png": "supp-section-red-18-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-02",
+      "role": "closing",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 11,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-closing-02-blue.pptx",
+          "png": "supp-closing-02-blue.png"
+        },
+        {
+          "theme": "red",
+          "source_page": 21,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-closing-02-red.pptx",
+          "png": "supp-closing-02-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-03",
+      "role": "closing",
+      "themes": [
+        "blue",
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 12,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-closing-03-blue.pptx",
+          "png": "supp-closing-03-blue.png"
+        },
+        {
+          "theme": "red",
+          "source_page": 22,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-closing-03-red.pptx",
+          "png": "supp-closing-03-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-blue-13",
+      "role": "closing",
+      "themes": [
+        "blue"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 13,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-closing-blue-13-blue.pptx",
+          "png": "supp-closing-blue-13-blue.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-blue-14",
+      "role": "closing",
+      "themes": [
+        "blue"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 14,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-closing-blue-14-blue.pptx",
+          "png": "supp-closing-blue-14-blue.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-red-19",
+      "role": "closing",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 19,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-closing-red-19-red.pptx",
+          "png": "supp-closing-red-19-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-red-23",
+      "role": "closing",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 23,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-closing-red-23-red.pptx",
+          "png": "supp-closing-red-23-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-red-24",
+      "role": "closing",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 24,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-closing-red-24-red.pptx",
+          "png": "supp-closing-red-24-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-01",
+      "role": "cover",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 1,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-cover-red-01-red.pptx",
+          "png": "supp-cover-red-01-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-02",
+      "role": "cover",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 2,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-cover-red-02-red.pptx",
+          "png": "supp-cover-red-02-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-03",
+      "role": "cover",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 3,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-cover-red-03-red.pptx",
+          "png": "supp-cover-red-03-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-04",
+      "role": "cover",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 4,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-cover-red-04-red.pptx",
+          "png": "supp-cover-red-04-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-05",
+      "role": "cover",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 5,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-cover-red-05-red.pptx",
+          "png": "supp-cover-red-05-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-06",
+      "role": "cover",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 6,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-cover-red-06-red.pptx",
+          "png": "supp-cover-red-06-red.png"
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-07",
+      "role": "cover",
+      "themes": [
+        "red"
+      ],
+      "fixed_count": 1,
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 7,
+          "logo_count": 1,
+          "svg_passed": true,
+          "pptx": "supp-cover-red-07-red.pptx",
+          "png": "supp-cover-red-07-red.png"
+        }
+      ]
+    }
+  ]
+}

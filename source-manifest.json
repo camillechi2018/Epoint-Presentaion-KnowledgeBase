@@ -21,6 +21,18 @@
       "sha256": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564",
       "page_count": 85,
       "style_family": "deep-blue-tech"
+    },
+    "blue-supplement": {
+      "filename": "01蓝色-补充.pptx",
+      "sha256": "b0e9e1f8b7c7071a6eb5cbda1c969080da93b3666f8fa10da543d7b47d1485ec",
+      "page_count": 14,
+      "relationship": "extends-existing-minimal-color"
+    },
+    "red-supplement": {
+      "filename": "02红色-补充.pptx",
+      "sha256": "ec67eb8c9f5123e073a0ea5eb01f8d439a1669bd39c82ee31df9366553df3a16",
+      "page_count": 24,
+      "relationship": "extends-existing-minimal-color"
     }
   },
   "exact_top_level_pairs": 287,

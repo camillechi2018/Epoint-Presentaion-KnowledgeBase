@@ -5566,5 +5566,309 @@
     "variant": "deep-blue-tech",
     "source_pptx": "sources/tech.pptx",
     "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 1,
+    "component_id": "supp-directory-01",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 2,
+    "component_id": "supp-directory-02",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 3,
+    "component_id": "supp-directory-03",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 4,
+    "component_id": "supp-directory-04",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 5,
+    "component_id": "supp-section-01",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 6,
+    "component_id": "supp-section-02",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 7,
+    "component_id": "supp-section-03",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 8,
+    "component_id": "supp-section-blue-08",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 9,
+    "component_id": "supp-section-blue-09",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 10,
+    "component_id": "supp-closing-01",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 11,
+    "component_id": "supp-closing-02",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 12,
+    "component_id": "supp-closing-03",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 13,
+    "component_id": "supp-closing-blue-13",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "blue-supplement",
+    "page": 14,
+    "component_id": "supp-closing-blue-14",
+    "variant": "blue",
+    "source_pptx": "sources/blue-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 1,
+    "component_id": "supp-cover-red-01",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 2,
+    "component_id": "supp-cover-red-02",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 3,
+    "component_id": "supp-cover-red-03",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 4,
+    "component_id": "supp-cover-red-04",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 5,
+    "component_id": "supp-cover-red-05",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 6,
+    "component_id": "supp-cover-red-06",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 7,
+    "component_id": "supp-cover-red-07",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 8,
+    "component_id": "supp-directory-04",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 9,
+    "component_id": "supp-directory-01",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 10,
+    "component_id": "supp-directory-02",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 11,
+    "component_id": "supp-directory-04-red-variant",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 12,
+    "component_id": "supp-directory-03",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 13,
+    "component_id": "supp-section-red-13",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 14,
+    "component_id": "supp-section-01",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 15,
+    "component_id": "supp-section-02",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 16,
+    "component_id": "supp-section-03",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 17,
+    "component_id": "supp-section-red-17",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 18,
+    "component_id": "supp-section-red-18",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 19,
+    "component_id": "supp-closing-red-19",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 20,
+    "component_id": "supp-closing-01",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 21,
+    "component_id": "supp-closing-02",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 22,
+    "component_id": "supp-closing-03",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 23,
+    "component_id": "supp-closing-red-23",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
+  },
+  {
+    "source": "red-supplement",
+    "page": 24,
+    "component_id": "supp-closing-red-24",
+    "variant": "red",
+    "source_pptx": "sources/red-supplement.pptx",
+    "extraction_status": "indexed"
   }
 ]

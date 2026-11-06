@@ -1,18 +1,20 @@
 {
   "status": "pass",
-  "physical_pages": 696,
-  "component_entries": 409,
-  "exact_pair_candidates": 287,
-  "source_logo_entries": 359,
+  "physical_pages": 734,
+  "component_entries": 437,
+  "exact_pair_candidates": 297,
+  "source_logo_entries": 374,
   "visual_reviewed_entries": 1,
   "motion_prototype_entries": 7,
   "source_counts": {
     "blue": 295,
     "red": 296,
     "cover": 20,
-    "tech": 85
+    "tech": 85,
+    "blue-supplement": 14,
+    "red-supplement": 24
   },
-  "manifest_files": 3083,
+  "manifest_files": 3247,
   "issues": [],
   "issue_count": 0,
   "limits": [

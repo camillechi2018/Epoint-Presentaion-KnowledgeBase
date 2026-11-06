@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_4",
+      "shape_id": 4,
+      "shape_name": "标题",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "THANK YOU",
+      "bounds_pt": [
+        66.0,
+        111.8,
+        828.0,
+        161.0
+      ],
+      "semantic_role": "title",
+      "semantic_path": "closing.title",
+      "max_width_units": 9,
+      "max_lines": 1
+    },
+    {
+      "field": "text_10",
+      "shape_id": 10,
+      "shape_name": "署名",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "汇报人：新点软件",
+      "bounds_pt": [
+        300.0,
+        311.0,
+        361.8,
+        53.4
+      ],
+      "semantic_role": "presenter",
+      "semantic_path": "closing.presenter",
+      "max_width_units": 16,
+      "max_lines": 1
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 18,
+        "shape_name": "图片 17",
+        "semantic_role": "brand_logo_locked",
+        "asset_sha256": "816529addf3b8652c660355da27bd8306c8b569389d6717b17be969f188f7b9c"
+      }
+    ]
+  },
+  "review": "semantic fields; short-copy PowerPoint render and capacity boundary verified"
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "文本框 10",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 7,
+      "source_text": "新点产品发布会",
+      "bounds_pt": [
+        81.0,
+        148.1,
+        744.1,
+        70.2
+      ],
+      "semantic_role": "title",
+      "semantic_path": "cover.title",
+      "max_width_units": 16,
+      "max_lines": 1
+    },
+    {
+      "field": "text_15",
+      "shape_id": 15,
+      "shape_name": "文本框 14",
+      "type": "text",
+      "max_chars": 22,
+      "source_sample_chars": 27,
+      "source_text": "EPOINT PRODUCT LAUNCH EVENT",
+      "bounds_pt": [
+        81.0,
+        219.5,
+        660.1,
+        43.5
+      ],
+      "semantic_role": "english",
+      "semantic_path": "cover.english",
+      "max_width_units": 22,
+      "max_lines": 1
+    },
+    {
+      "field": "text_97",
+      "shape_id": 97,
+      "shape_name": "文本框 96",
+      "type": "text",
+      "max_chars": 8,
+      "source_sample_chars": 8,
+      "source_text": "演讲人：新点软件",
+      "bounds_pt": [
+        0.1,
+        0.4,
+        0.3,
+        0.0
+      ],
+      "semantic_role": "presenter",
+      "semantic_path": "cover.presenter",
+      "max_width_units": 16,
+      "max_lines": 1
+    },
+    {
+      "field": "text_14",
+      "shape_id": 14,
+      "shape_name": "文本框 13",
+      "type": "text",
+      "max_chars": 9,
+      "source_sample_chars": 9,
+      "source_text": "战略定位与营销赋能",
+      "bounds_pt": [
+        80.4,
+        279.0,
+        660.1,
+        55.6
+      ],
+      "semantic_role": "subtitle",
+      "semantic_path": "cover.subtitle",
+      "max_width_units": 18,
+      "max_lines": 1
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": [
+      {
+        "shape_id": 5,
+        "shape_name": "图片 4",
+        "semantic_role": "source_visual_locked",
+        "asset_sha256": "b59f7d99d584ad7a6fc336307daa9c46d26b23339880376834abbffc8d3304ba"
+      },
+      {
+        "shape_id": 3,
+        "shape_name": "图片 2",
+        "semantic_role": "brand_logo_locked",
+        "asset_sha256": "8b7526dd7d11f48fc4bbe88514d086744d0ff0936f9acd2103160ee5e06c5270"
+      }
+    ]
+  },
+  "review": "semantic fields; short-copy PowerPoint render and capacity boundary verified"
+}

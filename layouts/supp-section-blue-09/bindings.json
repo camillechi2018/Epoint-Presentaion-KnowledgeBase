@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "fields": [
+    {
+      "field": "text_7",
+      "shape_id": 7,
+      "shape_name": "标题",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 4,
+      "source_text": "目标回顾",
+      "bounds_pt": [
+        425.3,
+        218.1,
+        416.3,
+        80.0
+      ],
+      "semantic_role": "title",
+      "semantic_path": "section.title",
+      "max_width_units": 8,
+      "max_lines": 1
+    },
+    {
+      "field": "text_9",
+      "shape_id": 9,
+      "shape_name": "文本占位符 8",
+      "type": "text",
+      "max_chars": 2,
+      "source_sample_chars": 2,
+      "source_text": "01",
+      "bounds_pt": [
+        175.1,
+        218.0,
+        189.8,
+        105.6
+      ],
+      "semantic_role": "number",
+      "semantic_path": "section.number",
+      "max_width_units": 2,
+      "max_lines": 1
+    },
+    {
+      "field": "text_11",
+      "shape_id": 11,
+      "shape_name": "副标题 10",
+      "type": "text",
+      "max_chars": 4,
+      "source_sample_chars": 12,
+      "source_text": "Goals Review",
+      "bounds_pt": [
+        432.3,
+        305.6,
+        416.3,
+        35.6
+      ],
+      "semantic_role": "subtitle",
+      "semantic_path": "section.subtitle",
+      "max_width_units": 8,
+      "max_lines": 1
+    }
+  ],
+  "objects": {
+    "charts": [],
+    "tables": [],
+    "images": []
+  },
+  "review": "semantic fields; short-copy PowerPoint render and capacity boundary verified"
+}
