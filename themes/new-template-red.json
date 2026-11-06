@@ -2,6 +2,8 @@
   "id": "new-template-red",
   "status": "provisional",
   "color_slots": {
+    "dk1": "000000",
+    "lt1": "FFFFFF",
     "dk2": "3E0000",
     "lt2": "FFFFFF",
     "accent1": "930000",
@@ -11,6 +13,7 @@
     "accent5": "DAB67F",
     "accent6": "FF9E73"
   },
+  "neutral_tokens": {"black": "000000", "white": "FFFFFF", "light_gray": "F8F5F4", "mid_gray": "E7E6E6", "dark_gray": "2D3741", "on_dark_muted": "E8D5D2"},
   "semantic_roles": {
     "primary": "accent1",
     "secondary": "accent2",

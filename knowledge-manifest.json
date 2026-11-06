@@ -2335,7 +2335,7 @@
     "layouts/supp-section-red-18/layout_rules.json": "cc4e676daa504a659085fb840274f3a16333f69dc20af5eededdb4994bb3341b",
     "layouts/supp-section-red-18/motion.json": "608ce124fd464e9c093b999a303052e7d66196cf7ce3a82f32ae970ae0eeb37c",
     "layouts/supp-section-red-18/spec.md": "0f79e615c7a3ddffc02c03160de69b358117f4eaf0a3cc3b1fc9468caccb6578",
-    "README.md": "31bcb760f00cfa4fea9e9855195dda99b0dc4ab90572846b68e69f5877a3604d",
+    "README.md": "3af5398b946f5f2eff4a888919f61d8197a175a01f4b67f163b406cac063d15e",
     "review/batch3-content-blue-025-blue.png": "24953c1bfa5fb0dfe66a4a95bd7d3b42c5dd1e43a531db9ca6fa84efd06fffe9",
     "review/batch3-content-blue-025-red.png": "91b3fdbf3258a6086cabe75aa59e748f37e6c1a8dd0f72f74d80010849c088ee",
     "review/batch3-content-blue-036-blue.png": "ff301d6ed650b990ee5b88b90081f98ae549ca7097e6277fedc16d4480dea77f",
@@ -3247,10 +3247,10 @@
     "sources/red-supplement.pptx": "ec67eb8c9f5123e073a0ea5eb01f8d439a1669bd39c82ee31df9366553df3a16",
     "sources/red.pptx": "a4d5f725f5d4ee045cc35b32611eb9917800b181dd6f3e242324581404e56104",
     "sources/tech.pptx": "e79ac2cfc2c634dc4040b8541ddca88173e87933960e346b4518ed1fa6e35564",
-    "themes/new-template-blue.json": "295ea05695a08ea682cd97c9590fac6d3c1c19fad33c70af1fbb785858d342fb",
-    "themes/new-template-deep-blue-tech.json": "e76a0cd63bbfd7f3329bc53df7efa8dd19ea821a8465bb816b117c2a70d73c08",
-    "themes/new-template-green-experimental.json": "4ebafba16ea9e879a973e68afd0e189d2f173e370283457fae4e4713e7fd3263",
-    "themes/new-template-red.json": "7fd5bcef03ecef1fe9e3fb99062734b513de1d209ad3fd6bbae0b6b2d11acfbc",
+    "themes/new-template-blue.json": "2af2206c5a9301b4a61182931d6a994051c3c436501b4930e4299a475751e2cc",
+    "themes/new-template-deep-blue-tech.json": "9796823bf0ac6c02f055034c6ef44424f5d4ffb4c00c5efe93f4aafa712b3fa4",
+    "themes/new-template-green-experimental.json": "293e981c0b58e023f8a4a6c25143e7ade05734e74217db11c3fe03cb568537f3",
+    "themes/new-template-red.json": "852670f3ed1690ef7775ab73d6167869e06d759157fad795fb59993c2e6f4ecc",
     "typography/deep-blue-tech.json": "57fb15a3fa8b09257e4cb1a7fce4af4c6697ad4e7adc55d0ed87d5896d3c4cff"
   }
 }

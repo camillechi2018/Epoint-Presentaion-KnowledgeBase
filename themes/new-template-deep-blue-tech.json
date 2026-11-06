@@ -14,6 +14,7 @@
     "accent5": "E25B2F",
     "accent6": "70AD47"
   },
+  "neutral_tokens": {"black": "000000", "white": "FFFFFF", "light_gray": "E7E6E6", "mid_gray": "9FA0A0", "dark_gray": "2D3741", "on_dark_muted": "C5D7E7"},
   "semantic_roles": {
     "brand_primary": "accent1",
     "tech_cyan": "accent2",
