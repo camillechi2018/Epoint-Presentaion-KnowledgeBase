@@ -1,0 +1,804 @@
+{
+  "status": "validation_failed_for_both_expansions",
+  "scope": "28 layout records, 38 native color variants",
+  "cross_palette_recolor": {
+    "status": "not_verified",
+    "reason": "Theme slot remapping leaves explicit RGB in layouts and masters and does not recolor source images or locked brand assets",
+    "theme_slot_references_over_38_page_paths": 4252,
+    "explicit_rgb_references_over_38_page_paths": 463,
+    "source_pictures_over_38_pages": 20,
+    "experimental_green_directory_01": {
+      "theme_slots_changed": 248,
+      "explicit_unmapped_on_slide": 12,
+      "visual_preview": "color-test-green.png"
+    },
+    "next_gate": "Map explicit RGB/gradients in slide, layout and master to semantic roles; keep logo locked; classify photos by palette; render every output palette"
+  },
+  "long_copy": {
+    "status": "not_verified",
+    "method": "Replace every editable semantic text field with longer content in a disposable copy, bypassing current safe input limits to measure physical fit",
+    "baseline_short_copy": "38/38 PowerPoint renders passed",
+    "stress_variants": 38,
+    "stress_failed_variants": 38,
+    "overflow_shapes": 57,
+    "next_gate": "Per-field length and line-break matrix, then reflow or font/box revisions and PowerPoint render approval"
+  },
+  "layouts": [
+    {
+      "id": "supp-directory-01",
+      "role": "directory",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 1,
+          "explicit_color_nodes_in_slide_layout_master": 14,
+          "theme_slot_nodes_in_slide_layout_master": 71,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        },
+        {
+          "theme": "red",
+          "source_page": 9,
+          "explicit_color_nodes_in_slide_layout_master": 14,
+          "theme_slot_nodes_in_slide_layout_master": 71,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-directory-02",
+      "role": "directory",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 2,
+          "explicit_color_nodes_in_slide_layout_master": 18,
+          "theme_slot_nodes_in_slide_layout_master": 177,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        },
+        {
+          "theme": "red",
+          "source_page": 10,
+          "explicit_color_nodes_in_slide_layout_master": 42,
+          "theme_slot_nodes_in_slide_layout_master": 207,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-directory-03",
+      "role": "directory",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 3,
+          "explicit_color_nodes_in_slide_layout_master": 36,
+          "theme_slot_nodes_in_slide_layout_master": 144,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        },
+        {
+          "theme": "red",
+          "source_page": 12,
+          "explicit_color_nodes_in_slide_layout_master": 12,
+          "theme_slot_nodes_in_slide_layout_master": 153,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-directory-04",
+      "role": "directory",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 4,
+          "explicit_color_nodes_in_slide_layout_master": 18,
+          "theme_slot_nodes_in_slide_layout_master": 182,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        },
+        {
+          "theme": "red",
+          "source_page": 8,
+          "explicit_color_nodes_in_slide_layout_master": 18,
+          "theme_slot_nodes_in_slide_layout_master": 182,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-section-01",
+      "role": "section",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 5,
+          "explicit_color_nodes_in_slide_layout_master": 0,
+          "theme_slot_nodes_in_slide_layout_master": 117,
+          "picture_count": 0,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 5,
+              "shape_name": "副标题"
+            }
+          ]
+        },
+        {
+          "theme": "red",
+          "source_page": 14,
+          "explicit_color_nodes_in_slide_layout_master": 14,
+          "theme_slot_nodes_in_slide_layout_master": 308,
+          "picture_count": 0,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 5,
+              "shape_name": "副标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-section-02",
+      "role": "section",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 6,
+          "explicit_color_nodes_in_slide_layout_master": 0,
+          "theme_slot_nodes_in_slide_layout_master": 79,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "Title 3"
+            }
+          ]
+        },
+        {
+          "theme": "red",
+          "source_page": 15,
+          "explicit_color_nodes_in_slide_layout_master": 0,
+          "theme_slot_nodes_in_slide_layout_master": 79,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "Title 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-section-03",
+      "role": "section",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 7,
+          "explicit_color_nodes_in_slide_layout_master": 1,
+          "theme_slot_nodes_in_slide_layout_master": 140,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        },
+        {
+          "theme": "red",
+          "source_page": 16,
+          "explicit_color_nodes_in_slide_layout_master": 1,
+          "theme_slot_nodes_in_slide_layout_master": 140,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-01",
+      "role": "closing",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 10,
+          "explicit_color_nodes_in_slide_layout_master": 2,
+          "theme_slot_nodes_in_slide_layout_master": 134,
+          "picture_count": 1,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 10,
+              "shape_name": "署名"
+            }
+          ]
+        },
+        {
+          "theme": "red",
+          "source_page": 20,
+          "explicit_color_nodes_in_slide_layout_master": 2,
+          "theme_slot_nodes_in_slide_layout_master": 134,
+          "picture_count": 1,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 10,
+              "shape_name": "署名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-directory-04-red-variant",
+      "role": "directory",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 11,
+          "explicit_color_nodes_in_slide_layout_master": 42,
+          "theme_slot_nodes_in_slide_layout_master": 121,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-section-blue-08",
+      "role": "section",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 8,
+          "explicit_color_nodes_in_slide_layout_master": 16,
+          "theme_slot_nodes_in_slide_layout_master": 63,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-section-blue-09",
+      "role": "section",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 9,
+          "explicit_color_nodes_in_slide_layout_master": 3,
+          "theme_slot_nodes_in_slide_layout_master": 99,
+          "picture_count": 0,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 7,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 11,
+              "shape_name": "Subtitle 10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-section-red-13",
+      "role": "section",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 13,
+          "explicit_color_nodes_in_slide_layout_master": 0,
+          "theme_slot_nodes_in_slide_layout_master": 51,
+          "picture_count": 0,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "小李PPT22"
+            },
+            {
+              "shape_id": 7,
+              "shape_name": "TextBox 6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-section-red-17",
+      "role": "section",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 17,
+          "explicit_color_nodes_in_slide_layout_master": 2,
+          "theme_slot_nodes_in_slide_layout_master": 65,
+          "picture_count": 0,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 7,
+              "shape_name": "TextBox 6"
+            },
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-section-red-18",
+      "role": "section",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 18,
+          "explicit_color_nodes_in_slide_layout_master": 3,
+          "theme_slot_nodes_in_slide_layout_master": 99,
+          "picture_count": 0,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 7,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-02",
+      "role": "closing",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 11,
+          "explicit_color_nodes_in_slide_layout_master": 2,
+          "theme_slot_nodes_in_slide_layout_master": 60,
+          "picture_count": 1,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 10,
+              "shape_name": "署名"
+            }
+          ]
+        },
+        {
+          "theme": "red",
+          "source_page": 21,
+          "explicit_color_nodes_in_slide_layout_master": 2,
+          "theme_slot_nodes_in_slide_layout_master": 63,
+          "picture_count": 1,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 10,
+              "shape_name": "署名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-03",
+      "role": "closing",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 12,
+          "explicit_color_nodes_in_slide_layout_master": 37,
+          "theme_slot_nodes_in_slide_layout_master": 101,
+          "picture_count": 1,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        },
+        {
+          "theme": "red",
+          "source_page": 22,
+          "explicit_color_nodes_in_slide_layout_master": 37,
+          "theme_slot_nodes_in_slide_layout_master": 101,
+          "picture_count": 1,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-blue-13",
+      "role": "closing",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 13,
+          "explicit_color_nodes_in_slide_layout_master": 22,
+          "theme_slot_nodes_in_slide_layout_master": 61,
+          "picture_count": 1,
+          "long_copy_overflow_count": 3,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 5,
+              "shape_name": "副标题"
+            },
+            {
+              "shape_id": 10,
+              "shape_name": "署名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-blue-14",
+      "role": "closing",
+      "variants": [
+        {
+          "theme": "blue",
+          "source_page": 14,
+          "explicit_color_nodes_in_slide_layout_master": 0,
+          "theme_slot_nodes_in_slide_layout_master": 121,
+          "picture_count": 1,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-red-19",
+      "role": "closing",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 19,
+          "explicit_color_nodes_in_slide_layout_master": 5,
+          "theme_slot_nodes_in_slide_layout_master": 102,
+          "picture_count": 2,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 16,
+              "shape_name": "TextBox 15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-red-23",
+      "role": "closing",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 23,
+          "explicit_color_nodes_in_slide_layout_master": 22,
+          "theme_slot_nodes_in_slide_layout_master": 61,
+          "picture_count": 1,
+          "long_copy_overflow_count": 3,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 5,
+              "shape_name": "副标题"
+            },
+            {
+              "shape_id": 10,
+              "shape_name": "署名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-closing-red-24",
+      "role": "closing",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 24,
+          "explicit_color_nodes_in_slide_layout_master": 0,
+          "theme_slot_nodes_in_slide_layout_master": 121,
+          "picture_count": 1,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 10,
+              "shape_name": "署名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-01",
+      "role": "cover",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 1,
+          "explicit_color_nodes_in_slide_layout_master": 7,
+          "theme_slot_nodes_in_slide_layout_master": 115,
+          "picture_count": 2,
+          "long_copy_overflow_count": 3,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 11,
+              "shape_name": "TextBox 10"
+            },
+            {
+              "shape_id": 15,
+              "shape_name": "TextBox 14"
+            },
+            {
+              "shape_id": 97,
+              "shape_name": "TextBox 96"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-02",
+      "role": "cover",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 2,
+          "explicit_color_nodes_in_slide_layout_master": 6,
+          "theme_slot_nodes_in_slide_layout_master": 42,
+          "picture_count": 1,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 5,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-03",
+      "role": "cover",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 3,
+          "explicit_color_nodes_in_slide_layout_master": 0,
+          "theme_slot_nodes_in_slide_layout_master": 124,
+          "picture_count": 1,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 10,
+              "shape_name": "署名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-04",
+      "role": "cover",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 4,
+          "explicit_color_nodes_in_slide_layout_master": 2,
+          "theme_slot_nodes_in_slide_layout_master": 135,
+          "picture_count": 1,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 10,
+              "shape_name": "署名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-05",
+      "role": "cover",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 5,
+          "explicit_color_nodes_in_slide_layout_master": 2,
+          "theme_slot_nodes_in_slide_layout_master": 64,
+          "picture_count": 1,
+          "long_copy_overflow_count": 2,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            },
+            {
+              "shape_id": 10,
+              "shape_name": "署名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-06",
+      "role": "cover",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 6,
+          "explicit_color_nodes_in_slide_layout_master": 21,
+          "theme_slot_nodes_in_slide_layout_master": 62,
+          "picture_count": 1,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 10,
+              "shape_name": "署名"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "supp-cover-red-07",
+      "role": "cover",
+      "variants": [
+        {
+          "theme": "red",
+          "source_page": 7,
+          "explicit_color_nodes_in_slide_layout_master": 40,
+          "theme_slot_nodes_in_slide_layout_master": 103,
+          "picture_count": 1,
+          "long_copy_overflow_count": 1,
+          "long_copy_overflow_shapes": [
+            {
+              "shape_id": 4,
+              "shape_name": "标题"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
