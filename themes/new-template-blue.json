@@ -13,7 +13,7 @@
     "accent5": "79A6FF",
     "accent6": "3277F4"
   },
-  "neutral_tokens": {"black": "000000", "white": "FFFFFF", "light_gray": "F6F9FF", "mid_gray": "E7E6E6", "dark_gray": "2D3741", "on_dark_muted": "C5D7E7"},
+  "neutral_tokens": {"black": "000000", "white": "FFFFFF", "light_gray": "F6F9FF", "mid_gray": "D9E6FA", "dark_gray": "2D3741", "on_dark_muted": "C5D7E7"},
   "semantic_roles": {
     "primary": "accent1",
     "secondary": "accent2",
