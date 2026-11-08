@@ -657,7 +657,8 @@
       ],
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
-      "canonical_relation": "progress"
+      "canonical_relation": "progress",
+      "search_label": "五项进度卡"
     },
     {
       "id": "content-blue-016",
@@ -1093,7 +1094,8 @@
       ],
       "pptx_support": "verified_static",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "四季度里程碑矩阵"
     },
     {
       "id": "content-blue-026",
@@ -1575,7 +1577,8 @@
       },
       "pptx_support": "verified_static",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "data-chart"
+      "canonical_relation": "data-chart",
+      "search_label": "四图一表经营看板"
     },
     {
       "id": "content-blue-037",
@@ -2168,7 +2171,8 @@
       "density": "medium",
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
-      "canonical_relation": "comparison"
+      "canonical_relation": "comparison",
+      "search_label": "风险与应对"
     },
     {
       "id": "content-blue-051",
@@ -2610,7 +2614,8 @@
       },
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "四步工作流程"
     },
     {
       "id": "content-blue-061",
@@ -3042,7 +3047,8 @@
       ],
       "pptx_support": "verified_static",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "schedule"
+      "canonical_relation": "schedule",
+      "search_label": "六项目年度三阶段排期"
     },
     {
       "id": "content-blue-071",
@@ -3088,7 +3094,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "schedule"
+      "canonical_relation": "schedule",
+      "search_label": "三阶段六任务安排"
     },
     {
       "id": "content-blue-072",
@@ -3298,7 +3305,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "parallel-points"
+      "canonical_relation": "parallel-points",
+      "search_label": "四方向工作展望"
     },
     {
       "id": "content-blue-077",
@@ -3504,7 +3512,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "summary"
+      "canonical_relation": "summary",
+      "search_label": "三目标达成概览"
     },
     {
       "id": "content-blue-082",
@@ -3844,7 +3853,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "四方向发展路径"
     },
     {
       "id": "content-blue-090",
@@ -3974,7 +3984,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "四目标工作环"
     },
     {
       "id": "content-blue-093",
@@ -4398,7 +4409,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "五节点项目时间线"
     },
     {
       "id": "content-blue-103",
@@ -4566,7 +4578,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "summary"
+      "canonical_relation": "summary",
+      "search_label": "五项工作成果清单"
     },
     {
       "id": "content-blue-107",
@@ -4841,7 +4854,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "summary"
+      "canonical_relation": "summary",
+      "search_label": "四项成果清单"
     },
     {
       "id": "content-blue-113",
@@ -5139,7 +5153,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "六步问题解决法"
     },
     {
       "id": "content-blue-120",
@@ -5269,7 +5284,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "四项重点工作执行方式"
     },
     {
       "id": "content-blue-123",
@@ -5315,7 +5331,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "comparison"
+      "canonical_relation": "comparison",
+      "search_label": "三组风险与应对"
     },
     {
       "id": "content-blue-124",
@@ -5403,7 +5420,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_five_smart_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "SMART 五维目标框架"
     },
     {
       "id": "content-blue-126",
@@ -5533,7 +5551,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "四种协作改进举措"
     },
     {
       "id": "content-blue-129",
@@ -5579,7 +5598,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "comparison"
+      "canonical_relation": "comparison",
+      "search_label": "四种创新工作方式"
     },
     {
       "id": "content-blue-130",
@@ -5752,7 +5772,8 @@
       ],
       "density": "high",
       "pptx_support": "verified_static",
-      "canonical_relation": "comparison"
+      "canonical_relation": "comparison",
+      "search_label": "三组问题与措施"
     },
     {
       "id": "content-blue-134",
@@ -5840,7 +5861,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_two_pairs_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "comparison"
+      "canonical_relation": "comparison",
+      "search_label": "两组问题与改进措施"
     },
     {
       "id": "content-blue-136",
@@ -5970,7 +5992,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "comparison"
+      "canonical_relation": "comparison",
+      "search_label": "双维度四象限平衡"
     },
     {
       "id": "content-blue-139",
@@ -6138,7 +6161,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "四项能力提升计划"
     },
     {
       "id": "content-blue-143",
@@ -6184,7 +6208,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "四项管理能力提升"
     },
     {
       "id": "content-blue-144",
@@ -6314,7 +6339,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "四季度能力提升阶梯"
     },
     {
       "id": "content-blue-147",
@@ -6360,7 +6386,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "五节点能力成长路径"
     },
     {
       "id": "content-blue-148",
@@ -6448,7 +6475,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "五项能力提升计划"
     },
     {
       "id": "content-blue-150",
@@ -6498,7 +6526,8 @@
       "density": "medium",
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
-      "canonical_relation": "parallel-points"
+      "canonical_relation": "parallel-points",
+      "search_label": "五项并列要点"
     },
     {
       "id": "content-blue-151",
@@ -6586,7 +6615,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "三目标靶心"
     },
     {
       "id": "content-blue-153",
@@ -6796,7 +6826,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "schedule"
+      "canonical_relation": "schedule",
+      "search_label": "四任务季度执行计划"
     },
     {
       "id": "content-blue-158",
@@ -6926,7 +6957,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "summary"
+      "canonical_relation": "summary",
+      "search_label": "四方面年度工作总结"
     },
     {
       "id": "content-blue-161",
@@ -6972,7 +7004,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "五方向发展展望"
     },
     {
       "id": "content-blue-162",
@@ -7736,7 +7769,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "summary"
+      "canonical_relation": "summary",
+      "search_label": "四领域双亮点展示"
     },
     {
       "id": "content-blue-181",
@@ -7782,7 +7816,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "四层能力成长"
     },
     {
       "id": "content-blue-182",
@@ -7828,7 +7863,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "四象限重点工作方法"
     },
     {
       "id": "content-blue-183",
@@ -8215,7 +8251,8 @@
       },
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
-      "canonical_relation": "data-table"
+      "canonical_relation": "data-table",
+      "search_label": "六任务甘特排期"
     },
     {
       "id": "content-blue-192",
@@ -8555,7 +8592,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "五年发展时间轴"
     },
     {
       "id": "content-blue-200",
@@ -8643,7 +8681,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "十年规划时间轴"
     },
     {
       "id": "content-blue-202",
@@ -8689,7 +8728,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "五阶段十年发展路线"
     },
     {
       "id": "content-blue-203",
@@ -8777,7 +8817,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "上半年六个月工作时间线"
     },
     {
       "id": "content-blue-205",
@@ -8907,7 +8948,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "四季度工作计划"
     },
     {
       "id": "content-blue-208",
@@ -8953,7 +8995,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "schedule"
+      "canonical_relation": "schedule",
+      "search_label": "四季度交错工作计划"
     },
     {
       "id": "content-blue-209",
@@ -9209,7 +9252,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "六个月项目推进时间线"
     },
     {
       "id": "content-blue-215",
@@ -9902,7 +9946,8 @@
       ],
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "五阶段流程"
     },
     {
       "id": "content-blue-231",
@@ -9948,7 +9993,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "四步申请审批流程"
     },
     {
       "id": "content-blue-232",
@@ -10120,7 +10166,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "四阶段项目里程碑"
     },
     {
       "id": "content-blue-236",
@@ -10334,7 +10381,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "六步问题处理闭环"
     },
     {
       "id": "content-blue-241",
@@ -10380,7 +10428,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "三阶段数据决策流程"
     },
     {
       "id": "content-blue-242",
@@ -10510,7 +10559,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "summary"
+      "canonical_relation": "summary",
+      "search_label": "六维阶段总结"
     },
     {
       "id": "content-blue-245",
@@ -10598,7 +10648,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "五步项目推进流程"
     },
     {
       "id": "content-blue-247",
@@ -10644,7 +10695,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "comparison"
+      "canonical_relation": "comparison",
+      "search_label": "五方向改变与成效"
     },
     {
       "id": "content-blue-248",
@@ -10732,7 +10784,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "四层品牌价值模型"
     },
     {
       "id": "content-blue-250",
@@ -10862,7 +10915,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "三阶段项目逻辑"
     },
     {
       "id": "content-blue-253",
@@ -10908,7 +10962,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "五步品牌推进"
     },
     {
       "id": "content-blue-254",
@@ -10954,7 +11009,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "comparison"
+      "canonical_relation": "comparison",
+      "search_label": "四组问题与方案"
     },
     {
       "id": "content-blue-255",
@@ -11042,7 +11098,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "四步执行流程"
     },
     {
       "id": "content-blue-257",
@@ -11130,7 +11187,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "四步往返工作路径"
     },
     {
       "id": "content-blue-259",
@@ -11224,7 +11282,8 @@
       "replace_source_logo": true,
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
-      "canonical_relation": "cycle"
+      "canonical_relation": "cycle",
+      "search_label": "四步循环闭环"
     },
     {
       "id": "content-blue-261",
@@ -11354,7 +11413,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "framework"
+      "canonical_relation": "framework",
+      "search_label": "六项重点工作环"
     },
     {
       "id": "content-blue-264",
@@ -11573,7 +11633,8 @@
       ],
       "pptx_support": "verified_static",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "data-chart"
+      "canonical_relation": "data-chart",
+      "search_label": "年度营收成本利润分析"
     },
     {
       "id": "content-blue-269",
@@ -11665,7 +11726,8 @@
       "density": "medium",
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
-      "canonical_relation": "data-chart"
+      "canonical_relation": "data-chart",
+      "search_label": "双指标趋势"
     },
     {
       "id": "content-blue-271",
@@ -12045,7 +12107,8 @@
       ],
       "density": "high",
       "pptx_support": "verified_static",
-      "canonical_relation": "data-table"
+      "canonical_relation": "data-table",
+      "search_label": "季度明细表"
     },
     {
       "id": "content-blue-280",
@@ -12595,7 +12658,8 @@
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
-      "canonical_relation": "data-chart"
+      "canonical_relation": "data-chart",
+      "search_label": "四季度营收成本分析"
     },
     {
       "id": "content-blue-293",
@@ -15037,7 +15101,7 @@
       "style_family": "deep-blue-tech",
       "color_family": "deep-blue",
       "role": "content",
-      "information_relation": "process",
+      "information_relation": "key-points",
       "classification_status": "verified",
       "family_id": "tech-process-021",
       "source": "sources/tech.pptx",
@@ -15076,7 +15140,7 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-021/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "process"
+      "canonical_relation": "parallel-points"
     },
     {
       "id": "content-tech-022",

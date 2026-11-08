@@ -2,6 +2,8 @@
 
 `relation-taxonomy.json` 是已验收版式的信息关系索引：158 条 `classification_status=verified` 记录写入 `canonical_relation`，保留原 `information_relation` 作为具体结构名。检索可用统一类型或中英文同义词；具体结构名仍精确匹配。未验收记录不因建立索引而升级。封面、目录、章节和封底保持角色独立，正文跨角色匹配只在明确关系且已验收时使用；主题、项数、容量等门槛不变。
 
+已验收版式中有 64 条根据组件说明登记 `search_label`，用于候选排序，不作为放宽准入的证据。科技风 P021 对照已验收语义记录修正为“三项重点”关系；固定项数缺 `verified_counts` 的旧组件由 Skill 依据原生固定数量或静态验收记录判断，未验证数量不参与自动选版。
+
 科技风现有 54 个中间页和 5 封面、4 封底，共 63 页完成固定项数短文静态 PPTX 草稿验收。63 个虚构内容样张经 PowerPoint 渲染、文字边界、单 Logo、媒体回退检查；封面封底做了 27 档标题压力测试，超限文案会被拒绝。P038 只验收原生 4 步，P069 只验收原生 6 行；变项数、动效、HTML 与换色仍按各自原型或未实现状态处理。详情见 `review/tech-static-pptx-pool.json`，[第六批视觉总览](review/tech-8-static-pptx-batch6.jpg)。
 
 来源为 01蓝色系、02红色系、20页封面（比例16-9）、03深蓝-科技风及提供的 Logo。现以 `main` 为主分支，原 `new-template-v1` 保留为迁移前参考；当前状态 `draft_pending_review`。
