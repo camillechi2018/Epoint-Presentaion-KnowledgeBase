@@ -66,7 +66,7 @@
       "group_path": [],
       "source_text": "岗位工作概述",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -75,7 +75,9 @@
         2108269,
         461665
       ],
-      "semantic_path": "item_1.title"
+      "semantic_path": "item_1.title",
+      "max_width_units": 8,
+      "max_lines": 1
     },
     {
       "field": "text_15",
@@ -85,7 +87,7 @@
       "group_path": [],
       "source_text": "Job description",
       "source_sample_chars": 15,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -94,7 +96,9 @@
         1117614,
         246221
       ],
-      "semantic_path": "item_1.english"
+      "semantic_path": "item_1.english",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_21",
@@ -104,7 +108,7 @@
       "group_path": [],
       "source_text": "工作完成情况",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -113,7 +117,9 @@
         2108269,
         461665
       ],
-      "semantic_path": "item_2.title"
+      "semantic_path": "item_2.title",
+      "max_width_units": 8,
+      "max_lines": 1
     },
     {
       "field": "text_23",
@@ -123,7 +129,7 @@
       "group_path": [],
       "source_text": "Work completion",
       "source_sample_chars": 15,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -132,7 +138,9 @@
         1228221,
         246221
       ],
-      "semantic_path": "item_2.english"
+      "semantic_path": "item_2.english",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_25",
@@ -142,7 +150,7 @@
       "group_path": [],
       "source_text": "成功案例展示",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -151,7 +159,9 @@
         2108269,
         461665
       ],
-      "semantic_path": "item_3.title"
+      "semantic_path": "item_3.title",
+      "max_width_units": 8,
+      "max_lines": 1
     },
     {
       "field": "text_26",
@@ -161,7 +171,7 @@
       "group_path": [],
       "source_text": "Successful case presentation",
       "source_sample_chars": 28,
-      "max_chars": 42,
+      "max_chars": 8,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -170,7 +180,9 @@
         1983235,
         246221
       ],
-      "semantic_path": "item_3.english"
+      "semantic_path": "item_3.english",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_28",
@@ -180,7 +192,7 @@
       "group_path": [],
       "source_text": "经验不足分享",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -189,7 +201,9 @@
         2108269,
         461665
       ],
-      "semantic_path": "item_4.title"
+      "semantic_path": "item_4.title",
+      "max_width_units": 8,
+      "max_lines": 1
     },
     {
       "field": "text_29",
@@ -199,7 +213,7 @@
       "group_path": [],
       "source_text": "Experience sharing",
       "source_sample_chars": 18,
-      "max_chars": 27,
+      "max_chars": 8,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -208,7 +222,9 @@
         1353256,
         246221
       ],
-      "semantic_path": "item_4.english"
+      "semantic_path": "item_4.english",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_30",
@@ -218,7 +234,7 @@
       "group_path": [],
       "source_text": "未来岗位规划",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -227,7 +243,9 @@
         2108269,
         461665
       ],
-      "semantic_path": "item_5.title"
+      "semantic_path": "item_5.title",
+      "max_width_units": 8,
+      "max_lines": 1
     },
     {
       "field": "text_31",
@@ -237,7 +255,7 @@
       "group_path": [],
       "source_text": "Future job planning",
       "source_sample_chars": 19,
-      "max_chars": 28,
+      "max_chars": 8,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -246,7 +264,9 @@
         1380506,
         246221
       ],
-      "semantic_path": "item_5.english"
+      "semantic_path": "item_5.english",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_34",

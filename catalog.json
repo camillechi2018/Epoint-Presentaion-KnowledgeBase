@@ -48,7 +48,8 @@
       ],
       "density": "sparse",
       "pptx_support": "verified_static",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "directory_long_copy_status": "verified_static_pptx_draft"
     },
     {
       "id": "content-blue-002",
@@ -14282,7 +14283,8 @@
       "composition_tags": [
         "two-to-six-items",
         "directory"
-      ]
+      ],
+      "directory_long_copy_status": "verified_static_pptx_draft"
     },
     {
       "id": "directory-tech-007",
@@ -14331,7 +14333,8 @@
       "composition_tags": [
         "two-to-six-items",
         "directory"
-      ]
+      ],
+      "directory_long_copy_status": "verified_static_pptx_draft"
     },
     {
       "id": "directory-tech-008",
@@ -14380,7 +14383,8 @@
       "composition_tags": [
         "two-to-six-items",
         "directory"
-      ]
+      ],
+      "directory_long_copy_status": "verified_static_pptx_draft"
     },
     {
       "id": "directory-tech-009",
@@ -14427,7 +14431,8 @@
       "composition_tags": [
         "two-to-six-items",
         "directory"
-      ]
+      ],
+      "directory_long_copy_status": "verified_static_pptx_draft"
     },
     {
       "id": "directory-tech-010",
@@ -14476,7 +14481,8 @@
       "composition_tags": [
         "two-to-six-items",
         "directory"
-      ]
+      ],
+      "directory_long_copy_status": "verified_static_pptx_draft"
     },
     {
       "id": "section-tech-011",
@@ -17984,7 +17990,8 @@
       "red_preview": "source-previews/red-supplement/P009.png",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "directory_long_copy_status": "verified_static_pptx_draft"
     },
     {
       "id": "supp-directory-02",
@@ -18037,7 +18044,8 @@
       "red_preview": "source-previews/red-supplement/P010.png",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "directory_long_copy_status": "verified_static_pptx_draft"
     },
     {
       "id": "supp-directory-03",
@@ -18090,7 +18098,8 @@
       "red_preview": "source-previews/red-supplement/P012.png",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "directory_long_copy_status": "verified_static_pptx_draft"
     },
     {
       "id": "supp-directory-04",
@@ -18143,7 +18152,8 @@
       "red_preview": "source-previews/red-supplement/P008.png",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "directory_long_copy_status": "verified_static_pptx_draft"
     },
     {
       "id": "supp-section-01",
@@ -18410,7 +18420,8 @@
       "color_binding_status": "native_blue_red_palette; supplemental token audit pending",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "directory_long_copy_status": "verified_static_pptx_draft"
     },
     {
       "id": "supp-section-blue-08",

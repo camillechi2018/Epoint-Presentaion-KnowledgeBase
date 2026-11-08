@@ -1,0 +1,30 @@
+{
+  "scope": "Editable PPTX static directory item copy only",
+  "status": "verified_draft_pending_human_review",
+  "themes": ["blue", "red", "deep-blue-tech"],
+  "layout_count": 11,
+  "style_theme_count_cases": 16,
+  "full_item_count_cases": 102,
+  "real_library_powerpoint_text_fit_passed": 102,
+  "real_library_powerpoint_text_overflows": 0,
+  "planner_and_filler_over_limit_rejections": 11,
+  "per_layout_cjk_limits": {
+    "content-blue-001": {"title": 4, "subtitle": 16},
+    "supp-directory-01": {"title": 8},
+    "supp-directory-02": {"title": 8},
+    "supp-directory-03": {"title": 8},
+    "supp-directory-04": {"title": 8},
+    "supp-directory-04-red-variant": {"title": 8},
+    "directory-tech-006": {"title": 8, "subtitle": 12},
+    "directory-tech-007": {"title": 4, "subtitle": 8},
+    "directory-tech-008": {"title": 8, "subtitle": 12},
+    "directory-tech-009": {"title": 4, "subtitle": 11},
+    "directory-tech-010": {"title": 6, "subtitle": 12}
+  },
+  "notes": [
+    "One title/subtitle pressure copy was applied to all items in each case, with all item counts and supported themes covered.",
+    "content-blue-001 subtitle box was expanded to contain the two rendered lines; the 8-item blue sample passed the PowerPoint layout check afterward.",
+    "PowerPoint ink and other visual details still require final deck review; the source heading in directory-tech-009 has a pre-existing baseline warning.",
+    "Long copy outside the registered per-layout limits is rejected or requires another layout or a split directory."
+  ]
+}

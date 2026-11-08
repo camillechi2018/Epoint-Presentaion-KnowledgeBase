@@ -1,5 +1,5 @@
 {
-  "scope": "editable PPTX directory pages with short copy",
+  "scope": "editable PPTX directory pages with registered short and long copy profiles",
   "simple_layout_ids": [
     "content-blue-001",
     "supp-directory-01",
@@ -25,7 +25,7 @@
   "planner_out_of_range_rejected": 11,
   "limits": [
     "Draft pending human brand approval",
-    "Short copy only; long titles and subtitles must obey field limits",
+    "Long titles and subtitles must obey the per-layout limits in review/directory-longcopy-validation.json",
     "No verified HTML or animation support from this test"
   ]
 }

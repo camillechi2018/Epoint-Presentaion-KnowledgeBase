@@ -25,7 +25,7 @@
       "shape_id": 3,
       "shape_name": "项标题",
       "type": "text",
-      "max_chars": 4,
+      "max_chars": 8,
       "source_sample_chars": 4,
       "source_text": "目标回顾",
       "bounds_pt": [
@@ -36,7 +36,7 @@
       ],
       "semantic_role": "title",
       "semantic_path": "items[0].title",
-      "max_width_units": 8,
+      "max_width_units": 16,
       "max_lines": 1
     },
     {
@@ -44,7 +44,7 @@
       "shape_id": 28,
       "shape_name": "项标题",
       "type": "text",
-      "max_chars": 4,
+      "max_chars": 8,
       "source_sample_chars": 6,
       "source_text": "工作成果展示",
       "bounds_pt": [
@@ -55,7 +55,7 @@
       ],
       "semantic_role": "title",
       "semantic_path": "items[1].title",
-      "max_width_units": 8,
+      "max_width_units": 16,
       "max_lines": 1
     },
     {
@@ -63,7 +63,7 @@
       "shape_id": 32,
       "shape_name": "项标题",
       "type": "text",
-      "max_chars": 4,
+      "max_chars": 8,
       "source_sample_chars": 5,
       "source_text": "不足与改进",
       "bounds_pt": [
@@ -74,7 +74,7 @@
       ],
       "semantic_role": "title",
       "semantic_path": "items[2].title",
-      "max_width_units": 8,
+      "max_width_units": 16,
       "max_lines": 1
     },
     {
@@ -82,7 +82,7 @@
       "shape_id": 34,
       "shape_name": "项标题",
       "type": "text",
-      "max_chars": 4,
+      "max_chars": 8,
       "source_sample_chars": 5,
       "source_text": "学习与成长",
       "bounds_pt": [
@@ -93,7 +93,7 @@
       ],
       "semantic_role": "title",
       "semantic_path": "items[3].title",
-      "max_width_units": 8,
+      "max_width_units": 16,
       "max_lines": 1
     },
     {
@@ -101,7 +101,7 @@
       "shape_id": 38,
       "shape_name": "项标题",
       "type": "text",
-      "max_chars": 4,
+      "max_chars": 8,
       "source_sample_chars": 6,
       "source_text": "明年工作计划",
       "bounds_pt": [
@@ -112,7 +112,7 @@
       ],
       "semantic_role": "title",
       "semantic_path": "items[4].title",
-      "max_width_units": 8,
+      "max_width_units": 16,
       "max_lines": 1
     },
     {
@@ -120,7 +120,7 @@
       "shape_id": 42,
       "shape_name": "项标题",
       "type": "text",
-      "max_chars": 4,
+      "max_chars": 8,
       "source_sample_chars": 5,
       "source_text": "感谢与展望",
       "bounds_pt": [
@@ -131,7 +131,7 @@
       ],
       "semantic_role": "title",
       "semantic_path": "items[5].title",
-      "max_width_units": 8,
+      "max_width_units": 16,
       "max_lines": 1
     }
   ],

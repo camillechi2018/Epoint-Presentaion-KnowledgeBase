@@ -6,7 +6,7 @@
       "shape_id": 25,
       "shape_name": "文本框 24",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 4,
       "source_text": "目标回顾",
       "bounds_pt": [
@@ -17,7 +17,7 @@
       ],
       "semantic_role": "navigation_title",
       "semantic_path": "items[0].title",
-      "max_width_units": 12,
+      "max_width_units": 8,
       "max_lines": 1
     },
     {
@@ -25,7 +25,7 @@
       "shape_id": 29,
       "shape_name": "文本框 28",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 5,
       "source_text": "学习与成长",
       "bounds_pt": [
@@ -36,7 +36,7 @@
       ],
       "semantic_role": "navigation_title",
       "semantic_path": "items[3].title",
-      "max_width_units": 12,
+      "max_width_units": 8,
       "max_lines": 1
     },
     {
@@ -44,7 +44,7 @@
       "shape_id": 3,
       "shape_name": "文本框 2",
       "type": "text",
-      "max_chars": 52,
+      "max_chars": 16,
       "source_sample_chars": 26,
       "source_text": "Review of Early Year Goals",
       "bounds_pt": [
@@ -55,15 +55,15 @@
       ],
       "semantic_role": "navigation_subtitle",
       "semantic_path": "items[0].subtitle",
-      "max_width_units": 26,
-      "max_lines": 2
+      "max_width_units": 32,
+      "max_lines": 1
     },
     {
       "field": "text_9",
       "shape_id": 9,
       "shape_name": "文本框 8",
       "type": "text",
-      "max_chars": 48,
+      "max_chars": 16,
       "source_sample_chars": 24,
       "source_text": "Enhancement and Learning",
       "bounds_pt": [
@@ -74,15 +74,15 @@
       ],
       "semantic_role": "navigation_subtitle",
       "semantic_path": "items[3].subtitle",
-      "max_width_units": 26,
-      "max_lines": 2
+      "max_width_units": 32,
+      "max_lines": 1
     },
     {
       "field": "text_26",
       "shape_id": 26,
       "shape_name": "文本框 25",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "工作成果展示",
       "bounds_pt": [
@@ -93,7 +93,7 @@
       ],
       "semantic_role": "navigation_title",
       "semantic_path": "items[1].title",
-      "max_width_units": 12,
+      "max_width_units": 8,
       "max_lines": 1
     },
     {
@@ -101,7 +101,7 @@
       "shape_id": 30,
       "shape_name": "文本框 29",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 6,
       "source_text": "明年工作计划",
       "bounds_pt": [
@@ -112,7 +112,7 @@
       ],
       "semantic_role": "navigation_title",
       "semantic_path": "items[4].title",
-      "max_width_units": 12,
+      "max_width_units": 8,
       "max_lines": 1
     },
     {
@@ -120,7 +120,7 @@
       "shape_id": 4,
       "shape_name": "文本框 3",
       "type": "text",
-      "max_chars": 66,
+      "max_chars": 16,
       "source_sample_chars": 33,
       "source_text": "Presentation of Work Achievements",
       "bounds_pt": [
@@ -131,15 +131,15 @@
       ],
       "semantic_role": "navigation_subtitle",
       "semantic_path": "items[1].subtitle",
-      "max_width_units": 26,
-      "max_lines": 2
+      "max_width_units": 32,
+      "max_lines": 1
     },
     {
       "field": "text_10",
       "shape_id": 10,
       "shape_name": "文本框 9",
       "type": "text",
-      "max_chars": 82,
+      "max_chars": 16,
       "source_sample_chars": 41,
       "source_text": "Work Plan for the Second Half of the Year",
       "bounds_pt": [
@@ -150,15 +150,15 @@
       ],
       "semantic_role": "navigation_subtitle",
       "semantic_path": "items[4].subtitle",
-      "max_width_units": 26,
-      "max_lines": 2
+      "max_width_units": 32,
+      "max_lines": 1
     },
     {
       "field": "text_27",
       "shape_id": 27,
       "shape_name": "文本框 26",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 5,
       "source_text": "不足与改进",
       "bounds_pt": [
@@ -169,7 +169,7 @@
       ],
       "semantic_role": "navigation_title",
       "semantic_path": "items[2].title",
-      "max_width_units": 12,
+      "max_width_units": 8,
       "max_lines": 1
     },
     {
@@ -177,7 +177,7 @@
       "shape_id": 31,
       "shape_name": "文本框 30",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 4,
       "source_sample_chars": 5,
       "source_text": "感谢与展望",
       "bounds_pt": [
@@ -188,7 +188,7 @@
       ],
       "semantic_role": "navigation_title",
       "semantic_path": "items[5].title",
-      "max_width_units": 12,
+      "max_width_units": 8,
       "max_lines": 1
     },
     {
@@ -196,7 +196,7 @@
       "shape_id": 6,
       "shape_name": "文本框 5",
       "type": "text",
-      "max_chars": 58,
+      "max_chars": 16,
       "source_sample_chars": 29,
       "source_text": "Shortcomings and Improvements",
       "bounds_pt": [
@@ -207,15 +207,15 @@
       ],
       "semantic_role": "navigation_subtitle",
       "semantic_path": "items[2].subtitle",
-      "max_width_units": 26,
-      "max_lines": 2
+      "max_width_units": 32,
+      "max_lines": 1
     },
     {
       "field": "text_11",
       "shape_id": 11,
       "shape_name": "文本框 10",
       "type": "text",
-      "max_chars": 38,
+      "max_chars": 16,
       "source_sample_chars": 19,
       "source_text": "Summary and Outlook",
       "bounds_pt": [
@@ -226,8 +226,8 @@
       ],
       "semantic_role": "navigation_subtitle",
       "semantic_path": "items[5].subtitle",
-      "max_width_units": 26,
-      "max_lines": 2
+      "max_width_units": 32,
+      "max_lines": 1
     },
     {
       "field": "text_7",

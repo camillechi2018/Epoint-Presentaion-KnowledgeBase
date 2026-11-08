@@ -9,7 +9,7 @@
       "group_path": [],
       "source_text": "可以在这里输入章节标题",
       "source_sample_chars": 11,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -18,7 +18,9 @@
         3544354,
         448738
       ],
-      "semantic_path": "item_1.title"
+      "semantic_path": "item_1.title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_17",
@@ -28,7 +30,7 @@
       "group_path": [],
       "source_text": "YOU CAN ENTER TITLE NOUNS HERE",
       "source_sample_chars": 30,
-      "max_chars": 45,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -37,7 +39,9 @@
         3693640,
         253916
       ],
-      "semantic_path": "item_1.english"
+      "semantic_path": "item_1.english",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_22",
@@ -47,7 +51,7 @@
       "group_path": [],
       "source_text": "可以在这里输入章节标题",
       "source_sample_chars": 11,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -56,7 +60,9 @@
         3544354,
         448738
       ],
-      "semantic_path": "item_2.title"
+      "semantic_path": "item_2.title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_24",
@@ -66,7 +72,7 @@
       "group_path": [],
       "source_text": "YOU CAN ENTER TITLE NOUNS HERE",
       "source_sample_chars": 30,
-      "max_chars": 45,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -75,7 +81,9 @@
         3693640,
         253916
       ],
-      "semantic_path": "item_2.english"
+      "semantic_path": "item_2.english",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_35",
@@ -85,7 +93,7 @@
       "group_path": [],
       "source_text": "可以在这里输入章节标题",
       "source_sample_chars": 11,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -94,7 +102,9 @@
         3544354,
         448738
       ],
-      "semantic_path": "item_3.title"
+      "semantic_path": "item_3.title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_36",
@@ -104,7 +114,7 @@
       "group_path": [],
       "source_text": "YOU CAN ENTER TITLE NOUNS HERE",
       "source_sample_chars": 30,
-      "max_chars": 45,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -113,7 +123,9 @@
         3693640,
         253916
       ],
-      "semantic_path": "item_3.english"
+      "semantic_path": "item_3.english",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_40",
@@ -123,7 +135,7 @@
       "group_path": [],
       "source_text": "可以在这里输入章节标题",
       "source_sample_chars": 11,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -132,7 +144,9 @@
         3544354,
         448738
       ],
-      "semantic_path": "item_4.title"
+      "semantic_path": "item_4.title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_44",
@@ -142,7 +156,7 @@
       "group_path": [],
       "source_text": "YOU CAN ENTER TITLE NOUNS HERE",
       "source_sample_chars": 30,
-      "max_chars": 45,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -151,7 +165,9 @@
         3693640,
         253916
       ],
-      "semantic_path": "item_4.english"
+      "semantic_path": "item_4.english",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_48",
@@ -161,7 +177,7 @@
       "group_path": [],
       "source_text": "可以在这里输入章节标题",
       "source_sample_chars": 11,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -170,7 +186,9 @@
         3544354,
         448738
       ],
-      "semantic_path": "item_5.title"
+      "semantic_path": "item_5.title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_49",
@@ -180,7 +198,7 @@
       "group_path": [],
       "source_text": "YOU CAN ENTER TITLE NOUNS HERE",
       "source_sample_chars": 30,
-      "max_chars": 45,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -189,7 +207,9 @@
         3693640,
         253916
       ],
-      "semantic_path": "item_5.english"
+      "semantic_path": "item_5.english",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_10",

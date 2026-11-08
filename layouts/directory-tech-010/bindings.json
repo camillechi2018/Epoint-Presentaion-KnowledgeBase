@@ -71,7 +71,7 @@
       ],
       "source_text": "工作回顾总结",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -80,7 +80,9 @@
         2339103,
         523220
       ],
-      "semantic_path": "item_1.title"
+      "semantic_path": "item_1.title",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_89",
@@ -93,7 +95,7 @@
       ],
       "source_text": "Work Review and Summary",
       "source_sample_chars": 23,
-      "max_chars": 34,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -102,7 +104,9 @@
         2484976,
         246221
       ],
-      "semantic_path": "item_1.english"
+      "semantic_path": "item_1.english",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_98",
@@ -136,7 +140,7 @@
       ],
       "source_text": "能力提升路径",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -145,7 +149,9 @@
         2339103,
         523220
       ],
-      "semantic_path": "item_2.title"
+      "semantic_path": "item_2.title",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_101",
@@ -158,7 +164,7 @@
       ],
       "source_text": "Skill Enhancement Path",
       "source_sample_chars": 22,
-      "max_chars": 33,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -167,7 +173,9 @@
         2196435,
         246221
       ],
-      "semantic_path": "item_2.english"
+      "semantic_path": "item_2.english",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_112",
@@ -201,7 +209,7 @@
       ],
       "source_text": "问题反思改进",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -210,7 +218,9 @@
         2339103,
         523220
       ],
-      "semantic_path": "item_3.title"
+      "semantic_path": "item_3.title",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_115",
@@ -223,7 +233,7 @@
       ],
       "source_text": "Reflection and Improvement",
       "source_sample_chars": 26,
-      "max_chars": 39,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -232,7 +242,9 @@
         2598788,
         246221
       ],
-      "semantic_path": "item_3.english"
+      "semantic_path": "item_3.english",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_126",
@@ -266,7 +278,7 @@
       ],
       "source_text": "未来目标展望",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -275,7 +287,9 @@
         2339103,
         523220
       ],
-      "semantic_path": "item_4.title"
+      "semantic_path": "item_4.title",
+      "max_width_units": 12,
+      "max_lines": 1
     },
     {
       "field": "text_129",
@@ -288,7 +302,7 @@
       ],
       "source_text": "Future Goals Outlook",
       "source_sample_chars": 20,
-      "max_chars": 30,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -297,7 +311,9 @@
         1996059,
         246221
       ],
-      "semantic_path": "item_4.english"
+      "semantic_path": "item_4.english",
+      "max_width_units": 24,
+      "max_lines": 1
     }
   ],
   "objects": {

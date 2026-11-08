@@ -28,7 +28,7 @@
       "group_path": [],
       "source_text": "年度工作\n概述",
       "source_sample_chars": 7,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -37,7 +37,9 @@
         1816145,
         830997
       ],
-      "semantic_path": "chapter_1.title"
+      "semantic_path": "chapter_1.title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_42",
@@ -47,7 +49,7 @@
       "group_path": [],
       "source_text": "核心成果\n展示",
       "source_sample_chars": 7,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -56,7 +58,9 @@
         1997616,
         830997
       ],
-      "semantic_path": "chapter_2.title"
+      "semantic_path": "chapter_2.title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_49",
@@ -66,7 +70,7 @@
       "group_path": [],
       "source_text": "问题与\n不足分析",
       "source_sample_chars": 8,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -75,7 +79,9 @@
         1997616,
         830997
       ],
-      "semantic_path": "chapter_3.title"
+      "semantic_path": "chapter_3.title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_58",
@@ -85,7 +91,7 @@
       "group_path": [],
       "source_text": "经验与\n成长总结",
       "source_sample_chars": 8,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -94,7 +100,9 @@
         1997616,
         830997
       ],
-      "semantic_path": "chapter_4.title"
+      "semantic_path": "chapter_4.title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_66",
@@ -104,7 +112,7 @@
       "group_path": [],
       "source_text": "明年\n目标与计划",
       "source_sample_chars": 8,
-      "max_chars": 24,
+      "max_chars": 8,
       "typography_role": "chinese_heading",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -113,7 +121,9 @@
         1997616,
         830997
       ],
-      "semantic_path": "chapter_5.title"
+      "semantic_path": "chapter_5.title",
+      "max_width_units": 16,
+      "max_lines": 1
     },
     {
       "field": "text_67",
@@ -237,7 +247,7 @@
       "group_path": [],
       "source_text": "Annual Work Overview",
       "source_sample_chars": 20,
-      "max_chars": 30,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -246,7 +256,9 @@
         1382110,
         461665
       ],
-      "semantic_path": "chapter_1.english"
+      "semantic_path": "chapter_1.english",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_74",
@@ -256,7 +268,7 @@
       "group_path": [],
       "source_text": "Display of core achievements",
       "source_sample_chars": 28,
-      "max_chars": 42,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -265,7 +277,9 @@
         1699408,
         461665
       ],
-      "semantic_path": "chapter_2.english"
+      "semantic_path": "chapter_2.english",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_75",
@@ -275,7 +289,7 @@
       "group_path": [],
       "source_text": "Analysis of problems \nand Deficiencies",
       "source_sample_chars": 38,
-      "max_chars": 57,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -284,7 +298,9 @@
         1997616,
         461665
       ],
-      "semantic_path": "chapter_3.english"
+      "semantic_path": "chapter_3.english",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_76",
@@ -294,7 +310,7 @@
       "group_path": [],
       "source_text": "Summary of \nExperience Growth",
       "source_sample_chars": 29,
-      "max_chars": 43,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -303,7 +319,9 @@
         1887875,
         461665
       ],
-      "semantic_path": "chapter_4.english"
+      "semantic_path": "chapter_4.english",
+      "max_width_units": 24,
+      "max_lines": 1
     },
     {
       "field": "text_77",
@@ -313,7 +331,7 @@
       "group_path": [],
       "source_text": "Target plan \nfor next year",
       "source_sample_chars": 26,
-      "max_chars": 39,
+      "max_chars": 12,
       "typography_role": "latin_numeric",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -322,7 +340,9 @@
         1539700,
         461665
       ],
-      "semantic_path": "chapter_5.english"
+      "semantic_path": "chapter_5.english",
+      "max_width_units": 24,
+      "max_lines": 1
     }
   ],
   "objects": {
