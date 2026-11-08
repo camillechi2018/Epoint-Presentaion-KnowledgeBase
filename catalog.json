@@ -49,7 +49,8 @@
       "density": "sparse",
       "pptx_support": "verified_static",
       "semantic_review_status": "verified_blue_red",
-      "directory_long_copy_status": "verified_static_pptx_draft"
+      "directory_long_copy_status": "verified_static_pptx_draft",
+      "canonical_relation": "navigation"
     },
     {
       "id": "content-blue-002",
@@ -97,7 +98,8 @@
       "semantic_review_status": "verified_blue_red",
       "chapter_number_scope": [
         1
-      ]
+      ],
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "content-blue-003",
@@ -654,7 +656,8 @@
         5
       ],
       "semantic_review_status": "verified_blue_red",
-      "pptx_support": "verified_static"
+      "pptx_support": "verified_static",
+      "canonical_relation": "progress"
     },
     {
       "id": "content-blue-016",
@@ -1089,7 +1092,8 @@
         4
       ],
       "pptx_support": "verified_static",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-blue-026",
@@ -1570,7 +1574,8 @@
         "reason": "Chart modules have distinct roles and surrounding labels; removing a module needs a new designed layout."
       },
       "pptx_support": "verified_static",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "data-chart"
     },
     {
       "id": "content-blue-037",
@@ -2162,7 +2167,8 @@
       ],
       "density": "medium",
       "semantic_review_status": "verified_blue_red",
-      "pptx_support": "verified_static"
+      "pptx_support": "verified_static",
+      "canonical_relation": "comparison"
     },
     {
       "id": "content-blue-051",
@@ -2603,7 +2609,8 @@
         "validation": "browser_open_keyboard_reveal_and_visual_review_only"
       },
       "semantic_review_status": "verified_blue_red",
-      "pptx_support": "verified_static"
+      "pptx_support": "verified_static",
+      "canonical_relation": "process"
     },
     {
       "id": "content-blue-061",
@@ -3034,7 +3041,8 @@
         6
       ],
       "pptx_support": "verified_static",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "schedule"
     },
     {
       "id": "content-blue-071",
@@ -3079,7 +3087,8 @@
       "red_source_page": 71,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "schedule"
     },
     {
       "id": "content-blue-072",
@@ -3288,7 +3297,8 @@
       "red_source_page": 76,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "parallel-points"
     },
     {
       "id": "content-blue-077",
@@ -3493,7 +3503,8 @@
       "red_source_page": 81,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "summary"
     },
     {
       "id": "content-blue-082",
@@ -3832,7 +3843,8 @@
       "red_source_page": 89,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-090",
@@ -3961,7 +3973,8 @@
       "red_source_page": 92,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-093",
@@ -4384,7 +4397,8 @@
       "red_source_page": 102,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-blue-103",
@@ -4551,7 +4565,8 @@
       "red_source_page": 106,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "summary"
     },
     {
       "id": "content-blue-107",
@@ -4825,7 +4840,8 @@
       "red_source_page": 112,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "summary"
     },
     {
       "id": "content-blue-113",
@@ -5122,7 +5138,8 @@
       "red_source_page": 119,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "process"
     },
     {
       "id": "content-blue-120",
@@ -5251,7 +5268,8 @@
       "red_source_page": 122,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-123",
@@ -5296,7 +5314,8 @@
       "red_source_page": 123,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "comparison"
     },
     {
       "id": "content-blue-124",
@@ -5383,7 +5402,8 @@
       "red_source_page": 125,
       "pptx_support": "verified_static",
       "batch_status": "fixed_five_smart_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-126",
@@ -5512,7 +5532,8 @@
       "red_source_page": 128,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-129",
@@ -5557,7 +5578,8 @@
       "red_source_page": 129,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "comparison"
     },
     {
       "id": "content-blue-130",
@@ -5729,7 +5751,8 @@
         "aligned-rows"
       ],
       "density": "high",
-      "pptx_support": "verified_static"
+      "pptx_support": "verified_static",
+      "canonical_relation": "comparison"
     },
     {
       "id": "content-blue-134",
@@ -5816,7 +5839,8 @@
       "red_source_page": 135,
       "pptx_support": "verified_static",
       "batch_status": "fixed_two_pairs_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "comparison"
     },
     {
       "id": "content-blue-136",
@@ -5945,7 +5969,8 @@
       "red_source_page": 138,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "comparison"
     },
     {
       "id": "content-blue-139",
@@ -6112,7 +6137,8 @@
       "red_source_page": 142,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-143",
@@ -6157,7 +6183,8 @@
       "red_source_page": 143,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-144",
@@ -6286,7 +6313,8 @@
       "red_source_page": 146,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-blue-147",
@@ -6331,7 +6359,8 @@
       "red_source_page": 147,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-blue-148",
@@ -6418,7 +6447,8 @@
       "red_source_page": 149,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-150",
@@ -6467,7 +6497,8 @@
       ],
       "density": "medium",
       "semantic_review_status": "verified_blue_red",
-      "pptx_support": "verified_static"
+      "pptx_support": "verified_static",
+      "canonical_relation": "parallel-points"
     },
     {
       "id": "content-blue-151",
@@ -6554,7 +6585,8 @@
       "red_source_page": 152,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-153",
@@ -6763,7 +6795,8 @@
       "red_source_page": 157,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "schedule"
     },
     {
       "id": "content-blue-158",
@@ -6892,7 +6925,8 @@
       "red_source_page": 160,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "summary"
     },
     {
       "id": "content-blue-161",
@@ -6937,7 +6971,8 @@
       "red_source_page": 161,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-162",
@@ -7700,7 +7735,8 @@
       "red_source_page": 180,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "summary"
     },
     {
       "id": "content-blue-181",
@@ -7745,7 +7781,8 @@
       "red_source_page": 181,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-182",
@@ -7790,7 +7827,8 @@
       "red_source_page": 182,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-183",
@@ -8176,7 +8214,8 @@
         "reason": "Timeline bars and date labels are separate native shapes aligned to six table rows."
       },
       "semantic_review_status": "verified_blue_red",
-      "pptx_support": "verified_static"
+      "pptx_support": "verified_static",
+      "canonical_relation": "data-table"
     },
     {
       "id": "content-blue-192",
@@ -8515,7 +8554,8 @@
       "red_source_page": 199,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-blue-200",
@@ -8602,7 +8642,8 @@
       "red_source_page": 201,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-blue-202",
@@ -8647,7 +8688,8 @@
       "red_source_page": 202,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-blue-203",
@@ -8734,7 +8776,8 @@
       "red_source_page": 204,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-blue-205",
@@ -8863,7 +8906,8 @@
       "red_source_page": 207,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-blue-208",
@@ -8908,7 +8952,8 @@
       "red_source_page": 208,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "schedule"
     },
     {
       "id": "content-blue-209",
@@ -9163,7 +9208,8 @@
       "red_source_page": 214,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-blue-215",
@@ -9855,7 +9901,8 @@
         5
       ],
       "semantic_review_status": "verified_blue_red",
-      "pptx_support": "verified_static"
+      "pptx_support": "verified_static",
+      "canonical_relation": "process"
     },
     {
       "id": "content-blue-231",
@@ -9900,7 +9947,8 @@
       "red_source_page": 231,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "process"
     },
     {
       "id": "content-blue-232",
@@ -10071,7 +10119,8 @@
       "red_source_page": 235,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "process"
     },
     {
       "id": "content-blue-236",
@@ -10284,7 +10333,8 @@
       "red_source_page": 240,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "process"
     },
     {
       "id": "content-blue-241",
@@ -10329,7 +10379,8 @@
       "red_source_page": 241,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "process"
     },
     {
       "id": "content-blue-242",
@@ -10458,7 +10509,8 @@
       "red_source_page": 244,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "summary"
     },
     {
       "id": "content-blue-245",
@@ -10545,7 +10597,8 @@
       "red_source_page": 246,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "process"
     },
     {
       "id": "content-blue-247",
@@ -10590,7 +10643,8 @@
       "red_source_page": 247,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "comparison"
     },
     {
       "id": "content-blue-248",
@@ -10677,7 +10731,8 @@
       "red_source_page": 249,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-250",
@@ -10806,7 +10861,8 @@
       "red_source_page": 253,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "process"
     },
     {
       "id": "content-blue-253",
@@ -10851,7 +10907,8 @@
       "red_source_page": 254,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "process"
     },
     {
       "id": "content-blue-254",
@@ -10896,7 +10953,8 @@
       "red_source_page": 255,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "comparison"
     },
     {
       "id": "content-blue-255",
@@ -10983,7 +11041,8 @@
       "red_source_page": 257,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "process"
     },
     {
       "id": "content-blue-257",
@@ -11070,7 +11129,8 @@
       "red_source_page": 259,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "process"
     },
     {
       "id": "content-blue-259",
@@ -11163,7 +11223,8 @@
       "density": "medium",
       "replace_source_logo": true,
       "semantic_review_status": "verified_blue_red",
-      "pptx_support": "verified_static"
+      "pptx_support": "verified_static",
+      "canonical_relation": "cycle"
     },
     {
       "id": "content-blue-261",
@@ -11292,7 +11353,8 @@
       "red_source_page": 264,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "framework"
     },
     {
       "id": "content-blue-264",
@@ -11510,7 +11572,8 @@
         3
       ],
       "pptx_support": "verified_static",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "data-chart"
     },
     {
       "id": "content-blue-269",
@@ -11601,7 +11664,8 @@
       ],
       "density": "medium",
       "semantic_review_status": "verified_blue_red",
-      "pptx_support": "verified_static"
+      "pptx_support": "verified_static",
+      "canonical_relation": "data-chart"
     },
     {
       "id": "content-blue-271",
@@ -11980,7 +12044,8 @@
         "quarterly-table-insights"
       ],
       "density": "high",
-      "pptx_support": "verified_static"
+      "pptx_support": "verified_static",
+      "canonical_relation": "data-table"
     },
     {
       "id": "content-blue-280",
@@ -12529,7 +12594,8 @@
       "red_source_page": 293,
       "pptx_support": "verified_static",
       "batch_status": "fixed_native_count_verified",
-      "semantic_review_status": "verified_blue_red"
+      "semantic_review_status": "verified_blue_red",
+      "canonical_relation": "data-chart"
     },
     {
       "id": "content-blue-293",
@@ -13923,7 +13989,8 @@
       "title_pressure_status": "tested_short_copy_only",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "html_prototype": "review/tech-cover-001-html-prototype.png"
+      "html_prototype": "review/tech-cover-001-html-prototype.png",
+      "canonical_relation": "visual-story"
     },
     {
       "id": "cover-tech-002",
@@ -14012,7 +14079,8 @@
       "composite_required": true,
       "title_pressure_status": "tested_short_copy_only",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "visual-story"
     },
     {
       "id": "cover-tech-003",
@@ -14086,7 +14154,8 @@
       "composite_required": false,
       "title_pressure_status": "tested_short_copy_only",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "visual-story"
     },
     {
       "id": "cover-tech-004",
@@ -14160,7 +14229,8 @@
       "composite_required": false,
       "title_pressure_status": "tested_short_copy_only",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "visual-story"
     },
     {
       "id": "cover-tech-005",
@@ -14234,7 +14304,8 @@
       "composite_required": false,
       "title_pressure_status": "tested_short_copy_only",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "visual-story"
     },
     {
       "id": "directory-tech-006",
@@ -14284,7 +14355,8 @@
         "two-to-six-items",
         "directory"
       ],
-      "directory_long_copy_status": "verified_static_pptx_draft"
+      "directory_long_copy_status": "verified_static_pptx_draft",
+      "canonical_relation": "navigation"
     },
     {
       "id": "directory-tech-007",
@@ -14334,7 +14406,8 @@
         "two-to-six-items",
         "directory"
       ],
-      "directory_long_copy_status": "verified_static_pptx_draft"
+      "directory_long_copy_status": "verified_static_pptx_draft",
+      "canonical_relation": "navigation"
     },
     {
       "id": "directory-tech-008",
@@ -14384,7 +14457,8 @@
         "two-to-six-items",
         "directory"
       ],
-      "directory_long_copy_status": "verified_static_pptx_draft"
+      "directory_long_copy_status": "verified_static_pptx_draft",
+      "canonical_relation": "navigation"
     },
     {
       "id": "directory-tech-009",
@@ -14432,7 +14506,8 @@
         "two-to-six-items",
         "directory"
       ],
-      "directory_long_copy_status": "verified_static_pptx_draft"
+      "directory_long_copy_status": "verified_static_pptx_draft",
+      "canonical_relation": "navigation"
     },
     {
       "id": "directory-tech-010",
@@ -14482,7 +14557,8 @@
         "two-to-six-items",
         "directory"
       ],
-      "directory_long_copy_status": "verified_static_pptx_draft"
+      "directory_long_copy_status": "verified_static_pptx_draft",
+      "canonical_relation": "navigation"
     },
     {
       "id": "section-tech-011",
@@ -14527,7 +14603,8 @@
       "semantic_review": "layouts/section-tech-011/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "section-tech-012",
@@ -14572,7 +14649,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/section-tech-012/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "section-tech-013",
@@ -14617,7 +14695,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/section-tech-013/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "section-tech-014",
@@ -14662,7 +14741,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/section-tech-014/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "section-tech-015",
@@ -14707,7 +14787,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/section-tech-015/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "content-tech-016",
@@ -14754,7 +14835,8 @@
       "semantic_review": "layouts/content-tech-016/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "hierarchy"
     },
     {
       "id": "content-tech-017",
@@ -14801,7 +14883,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-017/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "metrics"
     },
     {
       "id": "content-tech-018",
@@ -14848,7 +14931,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-018/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "hierarchy"
     },
     {
       "id": "content-tech-019",
@@ -14895,7 +14979,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-019/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "hierarchy"
     },
     {
       "id": "content-tech-020",
@@ -14942,7 +15027,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-020/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "parallel-points"
     },
     {
       "id": "content-tech-021",
@@ -14989,7 +15075,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-021/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "process"
     },
     {
       "id": "content-tech-022",
@@ -15036,7 +15123,8 @@
       "semantic_review": "layouts/content-tech-022/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "hierarchy"
     },
     {
       "id": "content-tech-023",
@@ -15083,7 +15171,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-023/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "parallel-points"
     },
     {
       "id": "content-tech-024",
@@ -15130,7 +15219,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-024/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "parallel-points"
     },
     {
       "id": "content-tech-025",
@@ -15220,7 +15310,8 @@
       "semantic_review": "layouts/content-tech-026/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "comparison"
     },
     {
       "id": "content-tech-027",
@@ -15310,7 +15401,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-028/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "process"
     },
     {
       "id": "content-tech-029",
@@ -15357,7 +15449,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-029/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "comparison"
     },
     {
       "id": "content-tech-030",
@@ -15404,7 +15497,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-030/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "cycle"
     },
     {
       "id": "content-tech-031",
@@ -15451,7 +15545,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-031/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "parallel-points"
     },
     {
       "id": "content-tech-032",
@@ -15498,7 +15593,8 @@
       "semantic_review": "layouts/content-tech-032/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "process"
     },
     {
       "id": "content-tech-033",
@@ -15545,7 +15641,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-033/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "parallel-points"
     },
     {
       "id": "content-tech-034",
@@ -15592,7 +15689,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-034/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "parallel-points"
     },
     {
       "id": "content-tech-035",
@@ -15725,7 +15823,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-037/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "parallel-points"
     },
     {
       "id": "content-tech-038",
@@ -15774,7 +15873,8 @@
       "item_group_status": "reviewed_internal_prototype",
       "item_group_field_count": 12,
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "process"
     },
     {
       "id": "content-tech-039",
@@ -15864,7 +15964,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-040/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "comparison"
     },
     {
       "id": "content-tech-041",
@@ -15954,7 +16055,8 @@
       "semantic_review": "layouts/content-tech-042/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "cycle"
     },
     {
       "id": "content-tech-043",
@@ -16001,7 +16103,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-043/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "parallel-points"
     },
     {
       "id": "content-tech-044",
@@ -16091,7 +16194,8 @@
       "semantic_review": "layouts/content-tech-045/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "process"
     },
     {
       "id": "content-tech-046",
@@ -16138,7 +16242,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-046/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "cycle"
     },
     {
       "id": "content-tech-047",
@@ -16185,7 +16290,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-047/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "process"
     },
     {
       "id": "content-tech-048",
@@ -16232,7 +16338,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-048/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "parallel-points"
     },
     {
       "id": "content-tech-049",
@@ -16412,7 +16519,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-052/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "hierarchy"
     },
     {
       "id": "content-tech-053",
@@ -16459,7 +16567,8 @@
       "semantic_review": "layouts/content-tech-053/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "metrics"
     },
     {
       "id": "content-tech-054",
@@ -16506,7 +16615,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-054/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "process"
     },
     {
       "id": "content-tech-055",
@@ -16553,7 +16663,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-055/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "single-focus"
     },
     {
       "id": "content-tech-056",
@@ -16600,7 +16711,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-056/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "process"
     },
     {
       "id": "content-tech-057",
@@ -16647,7 +16759,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-057/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "hierarchy"
     },
     {
       "id": "content-tech-058",
@@ -16694,7 +16807,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-058/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "cycle"
     },
     {
       "id": "content-tech-059",
@@ -16741,7 +16855,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-059/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "hierarchy"
     },
     {
       "id": "content-tech-060",
@@ -16788,7 +16903,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-060/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "hierarchy"
     },
     {
       "id": "content-tech-061",
@@ -16835,7 +16951,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-061/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "hierarchy"
     },
     {
       "id": "content-tech-062",
@@ -16925,7 +17042,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-063/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-tech-064",
@@ -16972,7 +17090,8 @@
       "semantic_review": "layouts/content-tech-064/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-tech-065",
@@ -17019,7 +17138,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-065/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "timeline"
     },
     {
       "id": "content-tech-066",
@@ -17066,7 +17186,8 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-066/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "canonical_relation": "timeline"
     },
     {
       "id": "data-chart-tech-067",
@@ -17201,7 +17322,8 @@
       "semantic_review": "layouts/schedule-tech-069/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "schedule"
     },
     {
       "id": "data-chart-tech-070",
@@ -17291,7 +17413,8 @@
       "semantic_review": "layouts/data-chart-tech-071/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "data-chart"
     },
     {
       "id": "data-chart-tech-072",
@@ -17467,7 +17590,8 @@
       "semantic_review": "layouts/data-chart-tech-075/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "data-chart"
     },
     {
       "id": "data-chart-tech-076",
@@ -17557,7 +17681,8 @@
       "semantic_review": "layouts/content-tech-077/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "hierarchy"
     },
     {
       "id": "content-tech-078",
@@ -17733,7 +17858,8 @@
       "semantic_review": "layouts/content-tech-081/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "cycle"
     },
     {
       "id": "closing-tech-082",
@@ -17784,7 +17910,8 @@
       "closing_match_status": "original_plus_logo_pending_review",
       "title_pressure_status": "tested_short_copy_only",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "closing-message"
     },
     {
       "id": "closing-tech-083",
@@ -17835,7 +17962,8 @@
       "closing_match_status": "original_plus_logo_pending_review",
       "title_pressure_status": "tested_short_copy_only",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "closing-message"
     },
     {
       "id": "closing-tech-084",
@@ -17886,7 +18014,8 @@
       "closing_match_status": "original_plus_logo_pending_review",
       "title_pressure_status": "tested_short_copy_only",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "closing-message"
     },
     {
       "id": "closing-tech-085",
@@ -17937,7 +18066,8 @@
       "closing_match_status": "original_plus_logo_pending_review",
       "title_pressure_status": "tested_short_copy_only",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "canonical_relation": "closing-message"
     },
     {
       "id": "supp-directory-01",
@@ -17991,7 +18121,8 @@
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
       "title_pressure_status": "tested_short_copy_only",
-      "directory_long_copy_status": "verified_static_pptx_draft"
+      "directory_long_copy_status": "verified_static_pptx_draft",
+      "canonical_relation": "navigation"
     },
     {
       "id": "supp-directory-02",
@@ -18045,7 +18176,8 @@
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
       "title_pressure_status": "tested_short_copy_only",
-      "directory_long_copy_status": "verified_static_pptx_draft"
+      "directory_long_copy_status": "verified_static_pptx_draft",
+      "canonical_relation": "navigation"
     },
     {
       "id": "supp-directory-03",
@@ -18099,7 +18231,8 @@
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
       "title_pressure_status": "tested_short_copy_only",
-      "directory_long_copy_status": "verified_static_pptx_draft"
+      "directory_long_copy_status": "verified_static_pptx_draft",
+      "canonical_relation": "navigation"
     },
     {
       "id": "supp-directory-04",
@@ -18153,7 +18286,8 @@
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
       "title_pressure_status": "tested_short_copy_only",
-      "directory_long_copy_status": "verified_static_pptx_draft"
+      "directory_long_copy_status": "verified_static_pptx_draft",
+      "canonical_relation": "navigation"
     },
     {
       "id": "supp-section-01",
@@ -18206,7 +18340,8 @@
       "red_preview": "source-previews/red-supplement/P014.png",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "supp-section-02",
@@ -18259,7 +18394,8 @@
       "red_preview": "source-previews/red-supplement/P015.png",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "supp-section-03",
@@ -18312,7 +18448,8 @@
       "red_preview": "source-previews/red-supplement/P016.png",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "supp-closing-01",
@@ -18373,7 +18510,8 @@
       "source_logo_asset_sha256": "35a430df238f5df5c3bf2b97c8a4e12a9c7681eb1b53602f184b3c9f6c35a81c",
       "red_source_logo_shape_id": 3,
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "closing-message"
     },
     {
       "id": "supp-directory-04-red-variant",
@@ -18421,7 +18559,8 @@
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
       "title_pressure_status": "tested_short_copy_only",
-      "directory_long_copy_status": "verified_static_pptx_draft"
+      "directory_long_copy_status": "verified_static_pptx_draft",
+      "canonical_relation": "navigation"
     },
     {
       "id": "supp-section-blue-08",
@@ -18468,7 +18607,8 @@
       "color_binding_status": "native_blue_red_palette; supplemental token audit pending",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "supp-section-blue-09",
@@ -18515,7 +18655,8 @@
       "color_binding_status": "native_blue_red_palette; supplemental token audit pending",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "supp-section-red-13",
@@ -18562,7 +18703,8 @@
       "color_binding_status": "native_blue_red_palette; supplemental token audit pending",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "supp-section-red-17",
@@ -18609,7 +18751,8 @@
       "color_binding_status": "native_blue_red_palette; supplemental token audit pending",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "supp-section-red-18",
@@ -18656,7 +18799,8 @@
       "color_binding_status": "native_blue_red_palette; supplemental token audit pending",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "chapter-divider"
     },
     {
       "id": "supp-closing-02",
@@ -18717,7 +18861,8 @@
       "red_source_logo_shape_id": 5,
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "closing-message"
     },
     {
       "id": "supp-closing-03",
@@ -18778,7 +18923,8 @@
       "red_source_logo_shape_id": 3,
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "closing-message"
     },
     {
       "id": "supp-closing-blue-13",
@@ -18832,7 +18978,8 @@
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "closing-message"
     },
     {
       "id": "supp-closing-blue-14",
@@ -18886,7 +19033,8 @@
       "source_logo_asset_sha256": "35a430df238f5df5c3bf2b97c8a4e12a9c7681eb1b53602f184b3c9f6c35a81c",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "closing-message"
     },
     {
       "id": "supp-closing-red-19",
@@ -18940,7 +19088,8 @@
       "source_logo_asset_sha256": "8b7526dd7d11f48fc4bbe88514d086744d0ff0936f9acd2103160ee5e06c5270",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "closing-message"
     },
     {
       "id": "supp-closing-red-23",
@@ -18994,7 +19143,8 @@
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "closing-message"
     },
     {
       "id": "supp-closing-red-24",
@@ -19048,7 +19198,8 @@
       "source_logo_asset_sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "closing-message"
     },
     {
       "id": "supp-cover-red-01",
@@ -19103,7 +19254,8 @@
       "source_logo_asset_sha256": "8b7526dd7d11f48fc4bbe88514d086744d0ff0936f9acd2103160ee5e06c5270",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "visual-story"
     },
     {
       "id": "supp-cover-red-02",
@@ -19158,7 +19310,8 @@
       "source_logo_asset_sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "visual-story"
     },
     {
       "id": "supp-cover-red-03",
@@ -19213,7 +19366,8 @@
       "source_logo_asset_sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "visual-story"
     },
     {
       "id": "supp-cover-red-04",
@@ -19268,7 +19422,8 @@
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "visual-story"
     },
     {
       "id": "supp-cover-red-05",
@@ -19323,7 +19478,8 @@
       "source_logo_asset_sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "visual-story"
     },
     {
       "id": "supp-cover-red-06",
@@ -19378,7 +19534,8 @@
       "source_logo_asset_sha256": "7306baafb37406e1d6d666d68d3559622065d007ef0ff83cc6c1b9a86c147cef",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "visual-story"
     },
     {
       "id": "supp-cover-red-07",
@@ -19433,10 +19590,12 @@
       "source_logo_asset_sha256": "43d9d8ddfbf2991e99b6d571b7a7e7962279ccb078b45ba7d945836e6a21566e",
       "semantic_review_status": "verified_short_copy",
       "visual_review_status": "powerpoint_render_checked",
-      "title_pressure_status": "tested_short_copy_only"
+      "title_pressure_status": "tested_short_copy_only",
+      "canonical_relation": "visual-story"
     }
   ],
   "pairing_method": "exact top-level shape signatures; provisional",
   "physical_pages": 696,
-  "component_entries": 409
+  "component_entries": 409,
+  "relation_taxonomy": "relation-taxonomy.json"
 }
