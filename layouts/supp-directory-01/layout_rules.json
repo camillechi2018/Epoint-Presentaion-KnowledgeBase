@@ -1,17 +1,127 @@
 {
-  "cardinality_mode": "fixed",
+  "cardinality_mode": "directory_reflow",
   "supported_counts": [
-    6
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
   ],
   "source_count": 6,
-  "reflow_status": "not_applicable",
-  "validation_status": "verified_fixed_count",
-  "count_evidence": "native count; semantic fill and 1600x900 PowerPoint render checked",
+  "reflow_status": "verified_short_copy_draft",
+  "validation_status": "verified",
+  "count_evidence": "Blue/red simple and deep-blue tech directory variants: all supported item counts filled; 102 PowerPoint PPTX opened and passed text-fit audit; endpoint layouts visually reviewed. Short copy only; draft pending review.",
   "verified_counts": [
-    6
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
   ],
   "title_pressure_test": {
     "safe_title_chars": 2,
     "status": "tested_short_copy_only"
+  },
+  "directory_layout": "plain_two_column",
+  "directory_units": [
+    {
+      "shape_ids": [
+        2,
+        3
+      ],
+      "anchor_shape_id": 2,
+      "text_shape_ids": {
+        "title": 3,
+        "number": 2
+      },
+      "number_shape_id": 2
+    },
+    {
+      "shape_ids": [
+        9,
+        12
+      ],
+      "anchor_shape_id": 9,
+      "text_shape_ids": {
+        "title": 12,
+        "number": 9
+      },
+      "number_shape_id": 9
+    },
+    {
+      "shape_ids": [
+        15,
+        16
+      ],
+      "anchor_shape_id": 15,
+      "text_shape_ids": {
+        "title": 16,
+        "number": 15
+      },
+      "number_shape_id": 15
+    },
+    {
+      "shape_ids": [
+        17,
+        18
+      ],
+      "anchor_shape_id": 17,
+      "text_shape_ids": {
+        "title": 18,
+        "number": 17
+      },
+      "number_shape_id": 17
+    },
+    {
+      "shape_ids": [
+        19,
+        20
+      ],
+      "anchor_shape_id": 19,
+      "text_shape_ids": {
+        "title": 20,
+        "number": 19
+      },
+      "number_shape_id": 19
+    },
+    {
+      "shape_ids": [
+        21,
+        22
+      ],
+      "anchor_shape_id": 21,
+      "text_shape_ids": {
+        "title": 22,
+        "number": 21
+      },
+      "number_shape_id": 21
+    }
+  ],
+  "directory_item_fields": [
+    {
+      "title": "text_3"
+    },
+    {
+      "title": "text_12"
+    },
+    {
+      "title": "text_16"
+    },
+    {
+      "title": "text_18"
+    },
+    {
+      "title": "text_20"
+    },
+    {
+      "title": "text_22"
+    }
+  ],
+  "directory_heading_fields": {
+    "text_4": "目录"
   }
 }

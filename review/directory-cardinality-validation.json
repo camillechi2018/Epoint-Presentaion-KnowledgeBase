@@ -1,0 +1,31 @@
+{
+  "scope": "editable PPTX directory pages with short copy",
+  "simple_layout_ids": [
+    "content-blue-001",
+    "supp-directory-01",
+    "supp-directory-02",
+    "supp-directory-03",
+    "supp-directory-04",
+    "supp-directory-04-red-variant"
+  ],
+  "simple_counts": [2, 3, 4, 5, 6, 7, 8],
+  "simple_theme_note": "The final supplemental variant is red-only; the other five have blue and red sources.",
+  "tech_layout_ids": [
+    "directory-tech-006",
+    "directory-tech-007",
+    "directory-tech-008",
+    "directory-tech-009",
+    "directory-tech-010"
+  ],
+  "tech_counts": [2, 3, 4, 5, 6],
+  "pptx_cases": 102,
+  "powerpoint_open_and_text_fit_passed": 102,
+  "normal_fill_without_internal_draft_passed": 32,
+  "planner_count_selection_passed": 102,
+  "planner_out_of_range_rejected": 11,
+  "limits": [
+    "Draft pending human brand approval",
+    "Short copy only; long titles and subtitles must obey field limits",
+    "No verified HTML or animation support from this test"
+  ]
+}

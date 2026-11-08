@@ -1,17 +1,131 @@
 {
-  "cardinality_mode": "fixed_verified",
+  "cardinality_mode": "directory_reflow",
   "supported_counts": [
-    5
+    2,
+    3,
+    4,
+    5,
+    6
   ],
   "source_count": 5,
   "candidate_counts": [],
-  "reflow_status": "fixed_count_only",
+  "reflow_status": "verified_short_copy_draft",
   "grouping_status": "provisional_requires_manual_object_review",
   "verified_counts": [
-    5
+    2,
+    3,
+    4,
+    5,
+    6
   ],
   "static_pptx_status": "verified_short_copy_draft",
   "font_size_overrides_pt": {
     "54": 57
-  }
+  },
+  "validation_status": "verified",
+  "directory_layout": "tech_arc",
+  "directory_units": [
+    {
+      "shape_ids": [
+        136,
+        16,
+        17
+      ],
+      "anchor_shape_id": 136,
+      "text_shape_ids": {
+        "title": 16,
+        "subtitle": 17,
+        "number": 124
+      },
+      "number_shape_id": 124
+    },
+    {
+      "shape_ids": [
+        137,
+        22,
+        24
+      ],
+      "anchor_shape_id": 137,
+      "text_shape_ids": {
+        "title": 22,
+        "subtitle": 24,
+        "number": 138
+      },
+      "number_shape_id": 138
+    },
+    {
+      "shape_ids": [
+        150,
+        35,
+        36
+      ],
+      "anchor_shape_id": 150,
+      "text_shape_ids": {
+        "title": 35,
+        "subtitle": 36,
+        "number": 151
+      },
+      "number_shape_id": 151
+    },
+    {
+      "shape_ids": [
+        163,
+        40,
+        44
+      ],
+      "anchor_shape_id": 163,
+      "text_shape_ids": {
+        "title": 40,
+        "subtitle": 44,
+        "number": 164
+      },
+      "number_shape_id": 164
+    },
+    {
+      "shape_ids": [
+        176,
+        48,
+        49
+      ],
+      "anchor_shape_id": 176,
+      "text_shape_ids": {
+        "title": 48,
+        "subtitle": 49,
+        "number": 177
+      },
+      "number_shape_id": 177
+    }
+  ],
+  "directory_item_fields": [
+    {
+      "title": "text_16",
+      "subtitle": "text_17",
+      "number": "text_124"
+    },
+    {
+      "title": "text_22",
+      "subtitle": "text_24",
+      "number": "text_138"
+    },
+    {
+      "title": "text_35",
+      "subtitle": "text_36",
+      "number": "text_151"
+    },
+    {
+      "title": "text_40",
+      "subtitle": "text_44",
+      "number": "text_164"
+    },
+    {
+      "title": "text_48",
+      "subtitle": "text_49",
+      "number": "text_177"
+    }
+  ],
+  "directory_heading_fields": {
+    "text_54": "目录",
+    "text_10": "CONTENTS"
+  },
+  "count_evidence": "Blue/red simple and deep-blue tech directory variants: all supported item counts filled; 102 PowerPoint PPTX opened and passed text-fit audit; endpoint layouts visually reviewed. Short copy only; draft pending review."
 }

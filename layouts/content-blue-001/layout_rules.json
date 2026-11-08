@@ -1,22 +1,26 @@
 {
-  "cardinality_mode": "directory_grid_3x2",
+  "cardinality_mode": "directory_reflow",
   "supported_counts": [
     2,
     3,
     4,
     5,
-    6
+    6,
+    7,
+    8
   ],
   "verified_counts": [
     2,
     3,
     4,
     5,
-    6
+    6,
+    7,
+    8
   ],
   "source_count": 6,
-  "reflow_status": "blue_red_powerpoint_rendered",
-  "count_evidence": "Blue/red 2-6 items filled with independent fictitious text; PowerPoint rendered 10 PPTX; 10/10 text-fit pass; 2/5 item layouts inspected",
+  "reflow_status": "verified_short_copy_draft",
+  "count_evidence": "Blue/red simple and deep-blue tech directory variants: all supported item counts filled; 102 PowerPoint PPTX opened and passed text-fit audit; endpoint layouts visually reviewed. Short copy only; draft pending review.",
   "validation_status": "verified",
   "anchor_shape_ids": [
     73,
@@ -57,5 +61,113 @@
       31,
       11
     ]
-  ]
+  ],
+  "directory_layout": "primary_grid",
+  "directory_units": [
+    {
+      "shape_ids": [
+        73,
+        25,
+        3
+      ],
+      "anchor_shape_id": 73,
+      "text_shape_ids": {
+        "title": 25,
+        "subtitle": 3
+      }
+    },
+    {
+      "shape_ids": [
+        74,
+        26,
+        4
+      ],
+      "anchor_shape_id": 74,
+      "text_shape_ids": {
+        "title": 26,
+        "subtitle": 4
+      }
+    },
+    {
+      "shape_ids": [
+        75,
+        27,
+        6
+      ],
+      "anchor_shape_id": 75,
+      "text_shape_ids": {
+        "title": 27,
+        "subtitle": 6
+      }
+    },
+    {
+      "shape_ids": [
+        72,
+        29,
+        9
+      ],
+      "anchor_shape_id": 72,
+      "text_shape_ids": {
+        "title": 29,
+        "subtitle": 9
+      }
+    },
+    {
+      "shape_ids": [
+        71,
+        30,
+        10
+      ],
+      "anchor_shape_id": 71,
+      "text_shape_ids": {
+        "title": 30,
+        "subtitle": 10
+      }
+    },
+    {
+      "shape_ids": [
+        70,
+        31,
+        11
+      ],
+      "anchor_shape_id": 70,
+      "text_shape_ids": {
+        "title": 31,
+        "subtitle": 11
+      }
+    }
+  ],
+  "directory_item_fields": [
+    {
+      "title": "text_25",
+      "subtitle": "text_3"
+    },
+    {
+      "title": "text_26",
+      "subtitle": "text_4"
+    },
+    {
+      "title": "text_27",
+      "subtitle": "text_6"
+    },
+    {
+      "title": "text_29",
+      "subtitle": "text_9"
+    },
+    {
+      "title": "text_30",
+      "subtitle": "text_10"
+    },
+    {
+      "title": "text_31",
+      "subtitle": "text_11"
+    }
+  ],
+  "directory_heading_fields": {
+    "text_7": "目录"
+  },
+  "directory_primary_rgb_by_theme": {
+    "blue": "0154DD",
+    "red": "930000"
+  }
 }

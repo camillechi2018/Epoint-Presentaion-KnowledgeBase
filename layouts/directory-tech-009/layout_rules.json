@@ -15,9 +15,9 @@
     5,
     6
   ],
-  "reflow_status": "internal_prototype",
+  "reflow_status": "verified_short_copy_draft",
   "grouping_status": "provisional_requires_manual_object_review",
-  "validation_status": "prototype_requires_visual_review",
+  "validation_status": "verified",
   "units": [
     [
       47,
@@ -218,5 +218,49 @@
     193,
     194
   ],
-  "row_strip_ids": []
+  "row_strip_ids": [],
+  "directory_item_fields": [
+    {
+      "title": "text_43",
+      "subtitle": "text_44",
+      "number": "text_45"
+    },
+    {
+      "title": "text_140",
+      "subtitle": "text_141",
+      "number": "text_139"
+    },
+    {
+      "title": "text_169",
+      "subtitle": "text_170",
+      "number": "text_168"
+    },
+    {
+      "title": "text_258",
+      "subtitle": "text_259",
+      "number": "text_257"
+    },
+    {
+      "title": "text_230",
+      "subtitle": "text_231",
+      "number": "text_229"
+    },
+    {
+      "title": "text_202",
+      "subtitle": "text_203",
+      "number": "text_201"
+    }
+  ],
+  "directory_heading_fields": {
+    "text_2": "CONTENTS",
+    "text_3": "目录"
+  },
+  "verified_counts": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "count_evidence": "Blue/red simple and deep-blue tech directory variants: all supported item counts filled; 102 PowerPoint PPTX opened and passed text-fit audit; endpoint layouts visually reviewed. Short copy only; draft pending review."
 }

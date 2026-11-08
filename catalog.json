@@ -25,7 +25,7 @@
       "status": "draft_pending_review",
       "capacity": {
         "body_slots": 13,
-        "item_title_slots": 6,
+        "item_title_slots": 8,
         "cell_max_chars": 20
       },
       "source_page": 1,
@@ -41,9 +41,10 @@
       "red_source": "sources/red.pptx",
       "red_source_page": 1,
       "composition_tags": [
-        "two-to-six-items",
         "adaptive-grid",
-        "chapter-navigation"
+        "chapter-navigation",
+        "two-to-eight-items",
+        "directory"
       ],
       "density": "sparse",
       "pptx_support": "verified_static",
@@ -14263,7 +14264,7 @@
       "status": "draft_pending_review",
       "capacity": {
         "body_slots": 17,
-        "item_title_slots": 5,
+        "item_title_slots": 6,
         "cell_max_chars": 20
       },
       "shape_count": 27,
@@ -14277,7 +14278,11 @@
       "semantic_review": "layouts/directory-tech-006/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
-      "visual_review_status": "powerpoint_render_checked"
+      "visual_review_status": "powerpoint_render_checked",
+      "composition_tags": [
+        "two-to-six-items",
+        "directory"
+      ]
     },
     {
       "id": "directory-tech-007",
@@ -14308,7 +14313,7 @@
       "status": "draft_pending_review",
       "capacity": {
         "body_slots": 17,
-        "item_title_slots": 0,
+        "item_title_slots": 6,
         "cell_max_chars": 20
       },
       "shape_count": 20,
@@ -14322,7 +14327,11 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/directory-tech-007/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "composition_tags": [
+        "two-to-six-items",
+        "directory"
+      ]
     },
     {
       "id": "directory-tech-008",
@@ -14353,7 +14362,7 @@
       "status": "draft_pending_review",
       "capacity": {
         "body_slots": 17,
-        "item_title_slots": 0,
+        "item_title_slots": 6,
         "cell_max_chars": 20
       },
       "shape_count": 82,
@@ -14367,7 +14376,11 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/directory-tech-008/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "composition_tags": [
+        "two-to-six-items",
+        "directory"
+      ]
     },
     {
       "id": "directory-tech-009",
@@ -14377,7 +14390,7 @@
       "color_family": "deep-blue",
       "role": "directory",
       "information_relation": "navigation",
-      "classification_status": "visual_initial",
+      "classification_status": "verified",
       "family_id": "tech-navigation-009",
       "source": "sources/tech.pptx",
       "example": "sources/tech.pptx",
@@ -14410,7 +14423,11 @@
       "brand_policy": "default_logo; source asset locked",
       "source_logo_present": false,
       "item_group_status": "field_membership_reviewed_geometry_pending",
-      "item_group_field_count": 18
+      "item_group_field_count": 18,
+      "composition_tags": [
+        "two-to-six-items",
+        "directory"
+      ]
     },
     {
       "id": "directory-tech-010",
@@ -14441,7 +14458,7 @@
       "status": "draft_pending_review",
       "capacity": {
         "body_slots": 14,
-        "item_title_slots": 0,
+        "item_title_slots": 6,
         "cell_max_chars": 20
       },
       "shape_count": 65,
@@ -14455,7 +14472,11 @@
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/directory-tech-010/semantic-review.json",
-      "semantic_review_status": "static_pptx_verified"
+      "semantic_review_status": "static_pptx_verified",
+      "composition_tags": [
+        "two-to-six-items",
+        "directory"
+      ]
     },
     {
       "id": "section-tech-011",
@@ -17939,7 +17960,7 @@
       "status": "draft_pending_review",
       "capacity": {
         "body_slots": 7,
-        "item_title_slots": 6,
+        "item_title_slots": 8,
         "cell_max_chars": 20
       },
       "shape_count": 13,
@@ -17951,7 +17972,7 @@
       "cardinality_status": "verified_fixed_count",
       "composition_tags": [
         "directory",
-        "directory-six-paired-circles"
+        "two-to-eight-items"
       ],
       "color_family": "blue",
       "style": "blue-red-minimal",
@@ -17992,7 +18013,7 @@
       "status": "draft_pending_review",
       "capacity": {
         "body_slots": 7,
-        "item_title_slots": 6,
+        "item_title_slots": 8,
         "cell_max_chars": 20
       },
       "shape_count": 26,
@@ -18004,7 +18025,7 @@
       "cardinality_status": "verified_fixed_count",
       "composition_tags": [
         "directory",
-        "directory-six-vertical-cards"
+        "two-to-eight-items"
       ],
       "color_family": "blue",
       "style": "blue-red-minimal",
@@ -18045,7 +18066,7 @@
       "status": "draft_pending_review",
       "capacity": {
         "body_slots": 7,
-        "item_title_slots": 6,
+        "item_title_slots": 8,
         "cell_max_chars": 20
       },
       "shape_count": 25,
@@ -18057,7 +18078,7 @@
       "cardinality_status": "verified_fixed_count",
       "composition_tags": [
         "directory",
-        "directory-six-horizontal"
+        "two-to-eight-items"
       ],
       "color_family": "blue",
       "style": "blue-red-minimal",
@@ -18098,7 +18119,7 @@
       "status": "draft_pending_review",
       "capacity": {
         "body_slots": 7,
-        "item_title_slots": 6,
+        "item_title_slots": 8,
         "cell_max_chars": 20
       },
       "shape_count": 20,
@@ -18110,7 +18131,7 @@
       "cardinality_status": "verified_fixed_count",
       "composition_tags": [
         "directory",
-        "directory-six-double-cards"
+        "two-to-eight-items"
       ],
       "color_family": "blue",
       "style": "blue-red-minimal",
@@ -18369,7 +18390,7 @@
       "status": "draft_pending_review",
       "capacity": {
         "body_slots": 7,
-        "item_title_slots": 6,
+        "item_title_slots": 8,
         "cell_max_chars": 20
       },
       "shape_count": 20,
@@ -18381,7 +18402,7 @@
       "cardinality_status": "verified_fixed_count",
       "composition_tags": [
         "directory",
-        "directory-six-double-cards"
+        "two-to-eight-items"
       ],
       "color_family": "red",
       "style": "blue-red-minimal",
