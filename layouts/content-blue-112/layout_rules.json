@@ -9,5 +9,17 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四条编号栏与右侧说明一一对应，数量固定为四。"
+  "count_evidence": "四条编号栏与右侧说明一一对应，数量固定为四。",
+  "body_text_presentation": {
+    "font_size_pt": 16,
+    "vertical_anchor": "middle",
+    "word_wrap": true,
+    "max_rendered_lines": 2,
+    "rows": [
+      {"heading": "items[0].heading", "body": "items[0].body"},
+      {"heading": "items[1].heading", "body": "items[1].body"},
+      {"heading": "items[2].heading", "body": "items[2].body"},
+      {"heading": "items[3].heading", "body": "items[3].body"}
+    ]
+  }
 }

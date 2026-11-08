@@ -142,7 +142,7 @@
       "semantic_role": "body",
       "semantic_path": "items[0].body",
       "max_lines": 2,
-      "max_width_units": 36
+      "max_width_units": 64
     },
     {
       "field": "text_31",
@@ -161,7 +161,7 @@
       "semantic_role": "body",
       "semantic_path": "items[1].body",
       "max_lines": 2,
-      "max_width_units": 34
+      "max_width_units": 64
     },
     {
       "field": "text_32",
@@ -180,7 +180,7 @@
       "semantic_role": "body",
       "semantic_path": "items[2].body",
       "max_lines": 2,
-      "max_width_units": 32
+      "max_width_units": 64
     },
     {
       "field": "text_18",
@@ -234,7 +234,7 @@
       "semantic_role": "body",
       "semantic_path": "items[3].body",
       "max_lines": 2,
-      "max_width_units": 32
+      "max_width_units": 64
     }
   ],
   "objects": {

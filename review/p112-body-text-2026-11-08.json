@@ -1,0 +1,21 @@
+{
+  "layout_id": "content-blue-112",
+  "status": "verified_static_draft_pending_review",
+  "scope": "four fixed items; body text only; editable PPTX",
+  "themes": ["blue", "red"],
+  "body_font_size_pt": 16,
+  "source_body_font_size_pt": 10,
+  "alignment": "body text box center aligned to matching heading center; vertical anchor middle",
+  "wrapping": "automatic; at most two rendered lines in tested long copy",
+  "body_max_chars": [32, 31, 31, 32],
+  "samples": [
+    "review/p112-body-blue-short.png",
+    "review/p112-body-blue-long.png",
+    "review/p112-body-red-short.png",
+    "review/p112-body-red-long.png"
+  ],
+  "powerpoint_rendered_samples": 4,
+  "body_fields_checked": 16,
+  "text_boundary_overflow_count": 0,
+  "limitations": ["four item count fixed", "other fields unchanged", "motion and HTML unverified", "draft pending manual brand approval"]
+}
