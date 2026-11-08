@@ -13163,7 +13163,7 @@
       "collection": "new-template-covers",
       "role": "cover",
       "information_relation": "visual-story",
-      "classification_status": "provisional",
+      "classification_status": "verified",
       "family_id": "cover-002",
       "source": "sources/cover.pptx",
       "example": "sources/cover.pptx",
@@ -13179,7 +13179,8 @@
       "capacity": {
         "body_slots": 4,
         "item_title_slots": 0,
-        "cell_max_chars": 20
+        "cell_max_chars": 20,
+        "main_title_max_fullwidth_chars": 8
       },
       "source_page": 2,
       "shape_count": 11,
@@ -13197,7 +13198,9 @@
       "stock_code_default": "688232",
       "slogan_locked": null,
       "source_logo_present": true,
-      "background_image": "cover-images/P02.jpg"
+      "background_image": "cover-images/P02.jpg",
+      "semantic_review_status": "verified",
+      "pptx_support": "static_verified_draft"
     },
     {
       "id": "cover-03",

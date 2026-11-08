@@ -1,0 +1,17 @@
+{
+  "layout_id": "cover-02",
+  "status": "static_pptx_verified_draft",
+  "theme": "blue",
+  "title_safe_fullwidth_chars": 8,
+  "samples": [
+    "6-Han main title",
+    "8-Han main title"
+  ],
+  "powerpoint_export": "passed",
+  "text_bounds": "passed",
+  "source_logo": "preserved",
+  "editable_text": true,
+  "long_title_9_chars": "rejected_after_overflow_test",
+  "html_support": "not_verified",
+  "motion_support": "not_verified"
+}
