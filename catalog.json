@@ -15253,7 +15253,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "hierarchy"
+      "canonical_relation": "hierarchy",
+      "search_label": "五方向职业发展环",
+      "matching_use": "中心目标、五个发展方向及对应解释齐全",
+      "matching_avoid": "仅有五条平铺要点或缺少中心目标"
     },
     {
       "id": "content-tech-017",
@@ -15352,7 +15355,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-018/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "hierarchy"
+      "canonical_relation": "hierarchy",
+      "search_label": "三层目标落地金字塔",
+      "matching_use": "三个有先后层级的实施层及两侧保障条件齐全",
+      "matching_avoid": "仅有三条并列事项或缺两侧保障条件"
     },
     {
       "id": "content-tech-019",
@@ -15400,7 +15406,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-019/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "hierarchy"
+      "canonical_relation": "hierarchy",
+      "search_label": "品牌心智占位模型",
+      "matching_use": "中心定位与五个外围支撑维度均有解释",
+      "matching_avoid": "普通五要点或没有中心品牌定位"
     },
     {
       "id": "content-tech-020",
@@ -15499,7 +15508,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-021/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "parallel-points"
+      "canonical_relation": "parallel-points",
+      "search_label": "三大工作亮点",
+      "matching_use": "三项亮点各有标题、短结论和解释",
+      "matching_avoid": "超过三项、长篇正文或各项缺解释"
     },
     {
       "id": "content-tech-022",
@@ -15547,7 +15559,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "hierarchy"
+      "canonical_relation": "hierarchy",
+      "search_label": "三层团队文化要素",
+      "matching_use": "三层文化主题分别有关键词和说明",
+      "matching_avoid": "没有层级关系的普通三项清单"
     },
     {
       "id": "content-tech-023",
@@ -15646,7 +15661,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-024/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "parallel-points"
+      "canonical_relation": "parallel-points",
+      "search_label": "三项压力与双工具支撑",
+      "matching_use": "上层三项问题及下层两种工具各有标题与说明",
+      "matching_avoid": "只有五项平列内容或缺工具说明"
     },
     {
       "id": "content-tech-025",
@@ -15737,7 +15755,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "comparison"
+      "canonical_relation": "comparison",
+      "search_label": "四类风险问题诊断",
+      "matching_use": "四个风险象限均有标题与解释",
+      "matching_avoid": "两组对比或风险项少于四项"
     },
     {
       "id": "content-tech-027",
@@ -15828,7 +15849,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-028/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "双阶段实施路径",
+      "matching_use": "两个连续阶段各有名称和左右支撑要素",
+      "matching_avoid": "两个普通并列事项或缺阶段支撑要素"
     },
     {
       "id": "content-tech-029",
@@ -15927,7 +15951,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-030/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "cycle"
+      "canonical_relation": "cycle",
+      "search_label": "双环平台生态",
+      "matching_use": "两个互促生态环及下方三项成果齐全",
+      "matching_avoid": "简单双项对比或无闭环关系"
     },
     {
       "id": "content-tech-031",
@@ -16026,7 +16053,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "四步团队沟通机制",
+      "matching_use": "四个有次序的步骤各有标题和较长说明",
+      "matching_avoid": "只有四个短标签或步骤无先后"
     },
     {
       "id": "content-tech-033",
@@ -16125,7 +16155,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-034/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "parallel-points"
+      "canonical_relation": "parallel-points",
+      "search_label": "五项团队治理机制",
+      "matching_use": "五个并列机制均有标题及说明",
+      "matching_avoid": "不足五项或单项说明过长"
     },
     {
       "id": "content-tech-035",
@@ -16259,7 +16292,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-037/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "parallel-points"
+      "canonical_relation": "parallel-points",
+      "search_label": "三维精准营销框架",
+      "matching_use": "三种并列策略各有标题和短说明",
+      "matching_avoid": "不足三维或没有并列关系"
     },
     {
       "id": "content-tech-038",
@@ -16309,7 +16345,10 @@
       "item_group_field_count": 12,
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "四步产品目标路径",
+      "matching_use": "四个按顺序推进的目标各有标题和解释",
+      "matching_avoid": "四项独立成果或超过四步"
     },
     {
       "id": "content-tech-039",
@@ -16494,7 +16533,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "cycle"
+      "canonical_relation": "cycle",
+      "search_label": "四象限品质增长闭环",
+      "matching_use": "围绕中心结论的四项循环保障均有说明",
+      "matching_avoid": "普通四格清单或没有中心闭环主题"
     },
     {
       "id": "content-tech-043",
@@ -16542,7 +16584,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-043/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "parallel-points"
+      "canonical_relation": "parallel-points",
+      "search_label": "三项资源投入计划",
+      "matching_use": "三类资源各有名称、用途和投入说明",
+      "matching_avoid": "仅有三个数字或缺各项说明"
     },
     {
       "id": "content-tech-044",
@@ -16633,7 +16678,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "四步 AI 叙事流程",
+      "matching_use": "四个连续步骤各有标题、说明和顺序",
+      "matching_avoid": "无先后关系或步骤不足四项"
     },
     {
       "id": "content-tech-046",
@@ -16681,7 +16729,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-046/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "cycle"
+      "canonical_relation": "cycle",
+      "search_label": "三项技术中台应用循环",
+      "matching_use": "三项应用围绕同一中台互相支撑",
+      "matching_avoid": "三项无关联的案例清单或无中心中台"
     },
     {
       "id": "content-tech-047",
@@ -16729,7 +16780,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-047/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "五环节生态能力链",
+      "matching_use": "五个环节形成完整链条且有中心生态主题",
+      "matching_avoid": "只有五个孤立标签或缺链条关系"
     },
     {
       "id": "content-tech-048",
@@ -16777,7 +16831,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-048/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "parallel-points"
+      "canonical_relation": "parallel-points",
+      "search_label": "四项长效经营方法",
+      "matching_use": "四种方法各有名称和短解释并汇总至上层目标",
+      "matching_avoid": "不足四项或没有总目标"
     },
     {
       "id": "content-tech-049",
@@ -16958,7 +17015,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-052/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "hierarchy"
+      "canonical_relation": "hierarchy",
+      "search_label": "六场景能力覆盖层级",
+      "matching_use": "六个应用场景和上层能力主张齐全",
+      "matching_avoid": "只有六个普通要点或无层级主张"
     },
     {
       "id": "content-tech-053",
@@ -17006,7 +17066,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "metrics"
+      "canonical_relation": "metrics",
+      "search_label": "三指标年度业绩",
+      "matching_use": "三项同口径数值、指标名和解释均齐全",
+      "matching_avoid": "缺单位或只提供单个大数字"
     },
     {
       "id": "content-tech-054",
@@ -17054,7 +17117,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-054/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "四象限远程办公指南",
+      "matching_use": "四个方面各有标题和多条说明",
+      "matching_avoid": "仅有四个短标签或文字超过各格容量"
     },
     {
       "id": "content-tech-055",
@@ -17102,7 +17168,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-055/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "single-focus"
+      "canonical_relation": "single-focus",
+      "search_label": "单主题文化宣言",
+      "matching_use": "一个核心主张配一段较长解释",
+      "matching_avoid": "多项并列信息或需要数值图表"
     },
     {
       "id": "content-tech-056",
@@ -17150,7 +17219,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-056/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "process"
+      "canonical_relation": "process",
+      "search_label": "五项职业成长关键",
+      "matching_use": "中心成长目标与五项支撑能力均有说明",
+      "matching_avoid": "普通五点清单或缺中心成长目标"
     },
     {
       "id": "content-tech-057",
@@ -17198,7 +17270,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-057/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "hierarchy"
+      "canonical_relation": "hierarchy",
+      "search_label": "六个产业生态案例",
+      "matching_use": "六个案例各有名称与简短描述并归属一个共同主题",
+      "matching_avoid": "案例不足六项或无共同主题"
     },
     {
       "id": "content-tech-058",
@@ -17246,7 +17321,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-058/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "cycle"
+      "canonical_relation": "cycle",
+      "search_label": "六方开放生态合作圈",
+      "matching_use": "中心计划与六类合作角色或渠道齐全",
+      "matching_avoid": "普通六项列表或无中心协作关系"
     },
     {
       "id": "content-tech-059",
@@ -17294,7 +17372,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-059/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "hierarchy"
+      "canonical_relation": "hierarchy",
+      "search_label": "五层 AI 能力图谱",
+      "matching_use": "一个技术核心与五层能力及解释齐全",
+      "matching_avoid": "仅有五条平铺要点或缺技术核心"
     },
     {
       "id": "content-tech-060",
@@ -17342,7 +17423,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-060/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "hierarchy"
+      "canonical_relation": "hierarchy",
+      "search_label": "四维企业战略优势",
+      "matching_use": "中心优势与四个维度各有说明",
+      "matching_avoid": "没有中心优势或不足四维"
     },
     {
       "id": "content-tech-061",
@@ -17390,7 +17474,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-061/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "hierarchy"
+      "canonical_relation": "hierarchy",
+      "search_label": "三维科技生态建设",
+      "matching_use": "中心生态与三类建设举措及说明齐全",
+      "matching_avoid": "普通三条要点或缺中心生态"
     },
     {
       "id": "content-tech-062",
@@ -17481,7 +17568,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-063/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "五节点企业成长曲线",
+      "matching_use": "五个有时间顺序的里程碑各有日期、事件和说明",
+      "matching_avoid": "日期不完整或事件不能排序"
     },
     {
       "id": "content-tech-064",
@@ -17529,7 +17619,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "五节点技术演进时间线",
+      "matching_use": "五个连续时间节点各有标题与说明",
+      "matching_avoid": "无明确时间点或只是普通流程"
     },
     {
       "id": "content-tech-065",
@@ -17577,7 +17670,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-065/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "五节点项目合作时间线",
+      "matching_use": "五个日期与合作里程碑一一对应",
+      "matching_avoid": "少于五个有依据的日期或仅有阶段名"
     },
     {
       "id": "content-tech-066",
@@ -17625,7 +17721,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-066/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "timeline"
+      "canonical_relation": "timeline",
+      "search_label": "七节点发展里程碑",
+      "matching_use": "七个有序年份与事件简介齐全",
+      "matching_avoid": "年份不足七个或年份内容未经材料证实"
     },
     {
       "id": "data-chart-tech-067",
@@ -17761,7 +17860,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "schedule"
+      "canonical_relation": "schedule",
+      "search_label": "六时段活动日程",
+      "matching_use": "六个时段均有时间、事项和负责人",
+      "matching_avoid": "缺负责人、时段不足六个或没有活动日程"
     },
     {
       "id": "data-chart-tech-070",
@@ -17852,7 +17954,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "data-chart"
+      "canonical_relation": "data-chart",
+      "search_label": "折扣转化率折线分析",
+      "matching_use": "折扣区间及对应转化率有真实数据，并有解释结论",
+      "matching_avoid": "缺原始数列、单位或需沿用模板示例数值"
     },
     {
       "id": "data-chart-tech-072",
@@ -18029,7 +18134,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "data-chart"
+      "canonical_relation": "data-chart",
+      "search_label": "目标达成组合图表",
+      "matching_use": "逐期目标值与实际值、三项侧边指标均有真实数据",
+      "matching_avoid": "缺逐期数据、单位或只有孤立 KPI"
     },
     {
       "id": "data-chart-tech-076",
@@ -18120,7 +18228,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "hierarchy"
+      "canonical_relation": "hierarchy",
+      "search_label": "四层用户画像金字塔",
+      "matching_use": "四层人群各有名称、占比和特征",
+      "matching_avoid": "人群不足四层、占比未核实或无法自洽"
     },
     {
       "id": "content-tech-078",
@@ -18297,7 +18408,10 @@
       "semantic_review_status": "static_pptx_verified",
       "pptx_support": "verified_static_draft",
       "visual_review_status": "powerpoint_render_checked",
-      "canonical_relation": "cycle"
+      "canonical_relation": "cycle",
+      "search_label": "三阶段服务增长闭环",
+      "matching_use": "三阶段增长动作各有标题与说明并构成循环",
+      "matching_avoid": "三项无因果关系的独立举措"
     },
     {
       "id": "closing-tech-082",
