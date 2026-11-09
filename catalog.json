@@ -15301,7 +15301,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-017/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "metrics"
+      "canonical_relation": "metrics",
+      "search_label": "中心主题与四项能力指标",
+      "matching_use": "中心主题、基础主题和四组指标的名称、标签、数值齐全；固定四项。",
+      "matching_avoid": "仅有四个 KPI 数字、缺中心与基础主题时不适用。"
     },
     {
       "id": "content-tech-018",
@@ -15445,7 +15448,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-020/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "parallel-points"
+      "canonical_relation": "parallel-points",
+      "search_label": "中心主题与六项技术方向",
+      "matching_use": "围绕一个中心主题展示左右各三项同权方向；固定六项。",
+      "matching_avoid": "少于六项或需要逐项长正文时不适用。"
     },
     {
       "id": "content-tech-021",
@@ -15589,7 +15595,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-023/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "parallel-points"
+      "canonical_relation": "parallel-points",
+      "search_label": "双工具能力对照",
+      "matching_use": "两类工具或方案各有标题和较长说明，并有总括说明。",
+      "matching_avoid": "仅有两个简短标签或没有总括说明时不适用。"
     },
     {
       "id": "content-tech-024",
@@ -15867,7 +15876,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-029/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "comparison"
+      "canonical_relation": "comparison",
+      "search_label": "两类人群画像对比",
+      "matching_use": "两组对象各有标题和说明，另有底部结论与总括说明。",
+      "matching_avoid": "无共同维度、底部结论或总括说明时不适用。"
     },
     {
       "id": "content-tech-030",
@@ -15963,7 +15975,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-031/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "parallel-points"
+      "canonical_relation": "parallel-points",
+      "search_label": "三项机制与上层总结",
+      "matching_use": "三项并列机制各有标题、正文，并有上层总结与页面摘要。",
+      "matching_avoid": "仅有三张独立卡片、无上层总结时不适用。"
     },
     {
       "id": "content-tech-032",
@@ -16059,7 +16074,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-033/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "parallel-points"
+      "canonical_relation": "parallel-points",
+      "search_label": "五项适应策略与结论",
+      "matching_use": "五项策略各有标题、说明，并有底部结论与摘要。",
+      "matching_avoid": "项数少于五项、缺结论或说明过长时不适用。"
     },
     {
       "id": "content-tech-034",
@@ -16382,7 +16400,10 @@
       "visual_review_status": "powerpoint_render_checked",
       "semantic_review": "layouts/content-tech-040/semantic-review.json",
       "semantic_review_status": "static_pptx_verified",
-      "canonical_relation": "comparison"
+      "canonical_relation": "comparison",
+      "search_label": "双向能力复盘",
+      "matching_use": "两类能力各有标题、长说明和两项标签，并有总体摘要。",
+      "matching_avoid": "只有普通左右对比、缺四项标签时不适用。"
     },
     {
       "id": "content-tech-041",
