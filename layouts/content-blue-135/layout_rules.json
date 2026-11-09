@@ -9,5 +9,11 @@
     2
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "two issue/action pairs surround shared center rings and four-step plan"
+  "count_evidence": "two issue/action pairs surround shared center rings and four-step plan",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

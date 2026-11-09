@@ -9,5 +9,11 @@
     3
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "三个横向阶段各绑定两张任务卡，固定三阶段、六任务。"
+  "count_evidence": "三个横向阶段各绑定两张任务卡，固定三阶段、六任务。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

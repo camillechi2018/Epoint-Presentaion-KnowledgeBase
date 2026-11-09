@@ -9,5 +9,11 @@
     3
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "三段汇流箭头与三个说明区域及三个方法标签固定绑定。"
+  "count_evidence": "三段汇流箭头与三个说明区域及三个方法标签固定绑定。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

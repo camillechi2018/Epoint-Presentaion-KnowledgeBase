@@ -1,5 +1,7 @@
 # 新模板独立知识库
 
+普通正文专项修整（2026-11-09）：已验收蓝红组件中 35 个来源页的 `body`、`step_body` 或 `item_detail` 字段带显式粗体，现已在各组件 `layout_rules.json.normal_body_weight` 登记普通字重，并为每个组件提供蓝红 `ready_source_by_theme` 可编辑单页与 `ready_preview_by_theme` 效果图。**生成或直接复用时读取 ready 资产；`source`／`red_source` 只作原稿追溯。**P112 右侧另去掉自动序号；P106 蓝版另固化白色画布与五块浅蓝衬底。字号尚未批量放大：P106、P112 分别已验收 15、16 pt，其余 33 个组件的调整优先级见本地字号排查报告，须逐项实填和渲染后再开放。普通正文组件清单见 `review/normal-body-component-ids.json`。
+
 `relation-taxonomy.json` 是已验收版式的信息关系索引：158 条 `classification_status=verified` 记录写入 `canonical_relation`，保留原 `information_relation` 作为具体结构名。检索可用统一类型或中英文同义词；具体结构名仍精确匹配。未验收记录不因建立索引而升级。封面、目录、章节和封底保持角色独立，正文跨角色匹配只在明确关系且已验收时使用；主题、项数、容量等门槛不变。
 
 已验收版式中有 64 条根据组件说明登记 `search_label`，用于候选排序，不作为放宽准入的证据。科技风 P021 对照已验收语义记录修正为“三项重点”关系；固定项数缺 `verified_counts` 的旧组件由 Skill 依据原生固定数量或静态验收记录判断，未验证数量不参与自动选版。

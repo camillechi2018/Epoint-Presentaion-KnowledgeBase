@@ -17,5 +17,11 @@
     "months[3].date",
     "months[4].date",
     "months[5].date"
-  ]
+  ],
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

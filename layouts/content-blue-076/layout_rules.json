@@ -9,5 +9,11 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四个象限与中心环相互绑定，方向数固定为四。"
+  "count_evidence": "四个象限与中心环相互绑定，方向数固定为四。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

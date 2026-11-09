@@ -9,5 +9,11 @@
     5
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "五列能力标题、目标行动和阶梯图形固定对应。"
+  "count_evidence": "五列能力标题、目标行动和阶梯图形固定对应。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

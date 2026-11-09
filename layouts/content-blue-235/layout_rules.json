@@ -9,5 +9,11 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四个阶段标题、正文、提示及底部阶段标签固定对应。"
+  "count_evidence": "四个阶段标题、正文、提示及底部阶段标签固定对应。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

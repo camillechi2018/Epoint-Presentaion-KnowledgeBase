@@ -9,5 +9,11 @@
     5
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "五个栏目各有两段正文和两个标签，固定五列。"
+  "count_evidence": "五个栏目各有两段正文和两个标签，固定五列。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

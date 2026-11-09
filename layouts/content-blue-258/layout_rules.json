@@ -9,5 +9,11 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四个固定 STEP 节点与两侧四个信息框对应。"
+  "count_evidence": "四个固定 STEP 节点与两侧四个信息框对应。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

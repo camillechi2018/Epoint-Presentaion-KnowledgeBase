@@ -9,5 +9,11 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四级阶梯与四项能力说明固定对应。"
+  "count_evidence": "四级阶梯与四项能力说明固定对应。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

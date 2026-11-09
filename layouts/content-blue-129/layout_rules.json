@@ -9,5 +9,11 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四个象限的标题、竖排编号和两条说明绑定，底部有统一结论。"
+  "count_evidence": "四个象限的标题、竖排编号和两条说明绑定，底部有统一结论。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

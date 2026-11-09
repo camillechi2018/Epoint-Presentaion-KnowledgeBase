@@ -6,5 +6,11 @@
   "source_count": 5,
   "reflow_status": "not_implemented",
   "count_evidence": "source_preview_only; not a validated reflow range",
-  "validation_status": "verified_fixed_count"
+  "validation_status": "verified_fixed_count",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "item_detail"
+    ]
+  }
 }

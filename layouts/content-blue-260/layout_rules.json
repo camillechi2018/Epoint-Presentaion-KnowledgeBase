@@ -9,5 +9,11 @@
   "validation_status": "verified_fixed_count",
   "drop_shape_ids": [
     34
-  ]
+  ],
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "step_body"
+    ]
+  }
 }

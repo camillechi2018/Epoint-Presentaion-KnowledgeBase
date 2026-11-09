@@ -615,7 +615,7 @@
       "spec": "layouts/content-blue-015/spec.md",
       "layout_rules": "layouts/content-blue-015/layout_rules.json",
       "motion": "layouts/content-blue-015/motion.json",
-      "preview": "source-previews/blue/P015.png",
+      "preview": "layouts/content-blue-015/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -658,7 +658,17 @@
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
       "canonical_relation": "progress",
-      "search_label": "五项进度卡"
+      "search_label": "五项进度卡",
+      "original_preview": "source-previews/blue/P015.png",
+      "red_preview": "layouts/content-blue-015/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-015/ready-blue.pptx",
+        "red": "layouts/content-blue-015/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-015/ready-blue.png",
+        "red": "layouts/content-blue-015/ready-red.png"
+      }
     },
     {
       "id": "content-blue-016",
@@ -2562,7 +2572,7 @@
       "spec": "layouts/content-blue-060/spec.md",
       "layout_rules": "layouts/content-blue-060/layout_rules.json",
       "motion": "layouts/content-blue-060/motion.json",
-      "preview": "source-previews/blue/P060.png",
+      "preview": "layouts/content-blue-060/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -2615,7 +2625,17 @@
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
       "canonical_relation": "process",
-      "search_label": "四步工作流程"
+      "search_label": "四步工作流程",
+      "original_preview": "source-previews/blue/P060.png",
+      "red_preview": "layouts/content-blue-060/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-060/ready-blue.pptx",
+        "red": "layouts/content-blue-060/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-060/ready-blue.png",
+        "red": "layouts/content-blue-060/ready-red.png"
+      }
     },
     {
       "id": "content-blue-061",
@@ -3064,7 +3084,7 @@
       "spec": "layouts/content-blue-071/spec.md",
       "layout_rules": "layouts/content-blue-071/layout_rules.json",
       "motion": "layouts/content-blue-071/motion.json",
-      "preview": "source-previews/blue/P071.png",
+      "preview": "layouts/content-blue-071/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -3095,7 +3115,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "schedule",
-      "search_label": "三阶段六任务安排"
+      "search_label": "三阶段六任务安排",
+      "original_preview": "source-previews/blue/P071.png",
+      "red_preview": "layouts/content-blue-071/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-071/ready-blue.pptx",
+        "red": "layouts/content-blue-071/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-071/ready-blue.png",
+        "red": "layouts/content-blue-071/ready-red.png"
+      }
     },
     {
       "id": "content-blue-072",
@@ -3275,7 +3305,7 @@
       "spec": "layouts/content-blue-076/spec.md",
       "layout_rules": "layouts/content-blue-076/layout_rules.json",
       "motion": "layouts/content-blue-076/motion.json",
-      "preview": "source-previews/blue/P076.png",
+      "preview": "layouts/content-blue-076/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -3306,7 +3336,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "parallel-points",
-      "search_label": "四方向工作展望"
+      "search_label": "四方向工作展望",
+      "original_preview": "source-previews/blue/P076.png",
+      "red_preview": "layouts/content-blue-076/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-076/ready-blue.pptx",
+        "red": "layouts/content-blue-076/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-076/ready-blue.png",
+        "red": "layouts/content-blue-076/ready-red.png"
+      }
     },
     {
       "id": "content-blue-077",
@@ -3482,7 +3522,7 @@
       "spec": "layouts/content-blue-081/spec.md",
       "layout_rules": "layouts/content-blue-081/layout_rules.json",
       "motion": "layouts/content-blue-081/motion.json",
-      "preview": "source-previews/blue/P081.png",
+      "preview": "layouts/content-blue-081/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -3513,7 +3553,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "summary",
-      "search_label": "三目标达成概览"
+      "search_label": "三目标达成概览",
+      "original_preview": "source-previews/blue/P081.png",
+      "red_preview": "layouts/content-blue-081/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-081/ready-blue.pptx",
+        "red": "layouts/content-blue-081/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-081/ready-blue.png",
+        "red": "layouts/content-blue-081/ready-red.png"
+      }
     },
     {
       "id": "content-blue-082",
@@ -3823,7 +3873,7 @@
       "spec": "layouts/content-blue-089/spec.md",
       "layout_rules": "layouts/content-blue-089/layout_rules.json",
       "motion": "layouts/content-blue-089/motion.json",
-      "preview": "source-previews/blue/P089.png",
+      "preview": "layouts/content-blue-089/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -3854,7 +3904,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "四方向发展路径"
+      "search_label": "四方向发展路径",
+      "original_preview": "source-previews/blue/P089.png",
+      "red_preview": "layouts/content-blue-089/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-089/ready-blue.pptx",
+        "red": "layouts/content-blue-089/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-089/ready-blue.png",
+        "red": "layouts/content-blue-089/ready-red.png"
+      }
     },
     {
       "id": "content-blue-090",
@@ -3954,7 +4014,7 @@
       "spec": "layouts/content-blue-092/spec.md",
       "layout_rules": "layouts/content-blue-092/layout_rules.json",
       "motion": "layouts/content-blue-092/motion.json",
-      "preview": "source-previews/blue/P092.png",
+      "preview": "layouts/content-blue-092/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -3985,7 +4045,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "四目标工作环"
+      "search_label": "四目标工作环",
+      "original_preview": "source-previews/blue/P092.png",
+      "red_preview": "layouts/content-blue-092/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-092/ready-blue.pptx",
+        "red": "layouts/content-blue-092/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-092/ready-blue.png",
+        "red": "layouts/content-blue-092/ready-red.png"
+      }
     },
     {
       "id": "content-blue-093",
@@ -5143,7 +5213,7 @@
       "spec": "layouts/content-blue-119/spec.md",
       "layout_rules": "layouts/content-blue-119/layout_rules.json",
       "motion": "layouts/content-blue-119/motion.json",
-      "preview": "source-previews/blue/P119.png",
+      "preview": "layouts/content-blue-119/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -5174,7 +5244,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "六步问题解决法"
+      "search_label": "六步问题解决法",
+      "original_preview": "source-previews/blue/P119.png",
+      "red_preview": "layouts/content-blue-119/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-119/ready-blue.pptx",
+        "red": "layouts/content-blue-119/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-119/ready-blue.png",
+        "red": "layouts/content-blue-119/ready-red.png"
+      }
     },
     {
       "id": "content-blue-120",
@@ -5274,7 +5354,7 @@
       "spec": "layouts/content-blue-122/spec.md",
       "layout_rules": "layouts/content-blue-122/layout_rules.json",
       "motion": "layouts/content-blue-122/motion.json",
-      "preview": "source-previews/blue/P122.png",
+      "preview": "layouts/content-blue-122/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -5305,7 +5385,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "四项重点工作执行方式"
+      "search_label": "四项重点工作执行方式",
+      "original_preview": "source-previews/blue/P122.png",
+      "red_preview": "layouts/content-blue-122/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-122/ready-blue.pptx",
+        "red": "layouts/content-blue-122/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-122/ready-blue.png",
+        "red": "layouts/content-blue-122/ready-red.png"
+      }
     },
     {
       "id": "content-blue-123",
@@ -5541,7 +5631,7 @@
       "spec": "layouts/content-blue-128/spec.md",
       "layout_rules": "layouts/content-blue-128/layout_rules.json",
       "motion": "layouts/content-blue-128/motion.json",
-      "preview": "source-previews/blue/P128.png",
+      "preview": "layouts/content-blue-128/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -5572,7 +5662,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "四种协作改进举措"
+      "search_label": "四种协作改进举措",
+      "original_preview": "source-previews/blue/P128.png",
+      "red_preview": "layouts/content-blue-128/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-128/ready-blue.pptx",
+        "red": "layouts/content-blue-128/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-128/ready-blue.png",
+        "red": "layouts/content-blue-128/ready-red.png"
+      }
     },
     {
       "id": "content-blue-129",
@@ -5588,7 +5688,7 @@
       "spec": "layouts/content-blue-129/spec.md",
       "layout_rules": "layouts/content-blue-129/layout_rules.json",
       "motion": "layouts/content-blue-129/motion.json",
-      "preview": "source-previews/blue/P129.png",
+      "preview": "layouts/content-blue-129/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -5619,7 +5719,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "comparison",
-      "search_label": "四种创新工作方式"
+      "search_label": "四种创新工作方式",
+      "original_preview": "source-previews/blue/P129.png",
+      "red_preview": "layouts/content-blue-129/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-129/ready-blue.pptx",
+        "red": "layouts/content-blue-129/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-129/ready-blue.png",
+        "red": "layouts/content-blue-129/ready-red.png"
+      }
     },
     {
       "id": "content-blue-130",
@@ -5851,7 +5961,7 @@
       "spec": "layouts/content-blue-135/spec.md",
       "layout_rules": "layouts/content-blue-135/layout_rules.json",
       "motion": "layouts/content-blue-135/motion.json",
-      "preview": "source-previews/blue/P135.png",
+      "preview": "layouts/content-blue-135/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -5882,7 +5992,17 @@
       "batch_status": "fixed_two_pairs_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "comparison",
-      "search_label": "两组问题与改进措施"
+      "search_label": "两组问题与改进措施",
+      "original_preview": "source-previews/blue/P135.png",
+      "red_preview": "layouts/content-blue-135/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-135/ready-blue.pptx",
+        "red": "layouts/content-blue-135/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-135/ready-blue.png",
+        "red": "layouts/content-blue-135/ready-red.png"
+      }
     },
     {
       "id": "content-blue-136",
@@ -6198,7 +6318,7 @@
       "spec": "layouts/content-blue-143/spec.md",
       "layout_rules": "layouts/content-blue-143/layout_rules.json",
       "motion": "layouts/content-blue-143/motion.json",
-      "preview": "source-previews/blue/P143.png",
+      "preview": "layouts/content-blue-143/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -6229,7 +6349,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "四项管理能力提升"
+      "search_label": "四项管理能力提升",
+      "original_preview": "source-previews/blue/P143.png",
+      "red_preview": "layouts/content-blue-143/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-143/ready-blue.pptx",
+        "red": "layouts/content-blue-143/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-143/ready-blue.png",
+        "red": "layouts/content-blue-143/ready-red.png"
+      }
     },
     {
       "id": "content-blue-144",
@@ -6329,7 +6459,7 @@
       "spec": "layouts/content-blue-146/spec.md",
       "layout_rules": "layouts/content-blue-146/layout_rules.json",
       "motion": "layouts/content-blue-146/motion.json",
-      "preview": "source-previews/blue/P146.png",
+      "preview": "layouts/content-blue-146/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -6360,7 +6490,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
-      "search_label": "四季度能力提升阶梯"
+      "search_label": "四季度能力提升阶梯",
+      "original_preview": "source-previews/blue/P146.png",
+      "red_preview": "layouts/content-blue-146/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-146/ready-blue.pptx",
+        "red": "layouts/content-blue-146/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-146/ready-blue.png",
+        "red": "layouts/content-blue-146/ready-red.png"
+      }
     },
     {
       "id": "content-blue-147",
@@ -6376,7 +6516,7 @@
       "spec": "layouts/content-blue-147/spec.md",
       "layout_rules": "layouts/content-blue-147/layout_rules.json",
       "motion": "layouts/content-blue-147/motion.json",
-      "preview": "source-previews/blue/P147.png",
+      "preview": "layouts/content-blue-147/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -6407,7 +6547,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
-      "search_label": "五节点能力成长路径"
+      "search_label": "五节点能力成长路径",
+      "original_preview": "source-previews/blue/P147.png",
+      "red_preview": "layouts/content-blue-147/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-147/ready-blue.pptx",
+        "red": "layouts/content-blue-147/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-147/ready-blue.png",
+        "red": "layouts/content-blue-147/ready-red.png"
+      }
     },
     {
       "id": "content-blue-148",
@@ -6465,7 +6615,7 @@
       "spec": "layouts/content-blue-149/spec.md",
       "layout_rules": "layouts/content-blue-149/layout_rules.json",
       "motion": "layouts/content-blue-149/motion.json",
-      "preview": "source-previews/blue/P149.png",
+      "preview": "layouts/content-blue-149/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -6496,7 +6646,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "五项能力提升计划"
+      "search_label": "五项能力提升计划",
+      "original_preview": "source-previews/blue/P149.png",
+      "red_preview": "layouts/content-blue-149/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-149/ready-blue.pptx",
+        "red": "layouts/content-blue-149/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-149/ready-blue.png",
+        "red": "layouts/content-blue-149/ready-red.png"
+      }
     },
     {
       "id": "content-blue-150",
@@ -6512,7 +6672,7 @@
       "spec": "layouts/content-blue-150/spec.md",
       "layout_rules": "layouts/content-blue-150/layout_rules.json",
       "motion": "layouts/content-blue-150/motion.json",
-      "preview": "source-previews/blue/P150.png",
+      "preview": "layouts/content-blue-150/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -6547,7 +6707,17 @@
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
       "canonical_relation": "parallel-points",
-      "search_label": "五项并列要点"
+      "search_label": "五项并列要点",
+      "original_preview": "source-previews/blue/P150.png",
+      "red_preview": "layouts/content-blue-150/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-150/ready-blue.pptx",
+        "red": "layouts/content-blue-150/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-150/ready-blue.png",
+        "red": "layouts/content-blue-150/ready-red.png"
+      }
     },
     {
       "id": "content-blue-151",
@@ -6605,7 +6775,7 @@
       "spec": "layouts/content-blue-152/spec.md",
       "layout_rules": "layouts/content-blue-152/layout_rules.json",
       "motion": "layouts/content-blue-152/motion.json",
-      "preview": "source-previews/blue/P152.png",
+      "preview": "layouts/content-blue-152/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -6636,7 +6806,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "三目标靶心"
+      "search_label": "三目标靶心",
+      "original_preview": "source-previews/blue/P152.png",
+      "red_preview": "layouts/content-blue-152/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-152/ready-blue.pptx",
+        "red": "layouts/content-blue-152/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-152/ready-blue.png",
+        "red": "layouts/content-blue-152/ready-red.png"
+      }
     },
     {
       "id": "content-blue-153",
@@ -6816,7 +6996,7 @@
       "spec": "layouts/content-blue-157/spec.md",
       "layout_rules": "layouts/content-blue-157/layout_rules.json",
       "motion": "layouts/content-blue-157/motion.json",
-      "preview": "source-previews/blue/P157.png",
+      "preview": "layouts/content-blue-157/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -6847,7 +7027,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "schedule",
-      "search_label": "四任务季度执行计划"
+      "search_label": "四任务季度执行计划",
+      "original_preview": "source-previews/blue/P157.png",
+      "red_preview": "layouts/content-blue-157/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-157/ready-blue.pptx",
+        "red": "layouts/content-blue-157/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-157/ready-blue.png",
+        "red": "layouts/content-blue-157/ready-red.png"
+      }
     },
     {
       "id": "content-blue-158",
@@ -6994,7 +7184,7 @@
       "spec": "layouts/content-blue-161/spec.md",
       "layout_rules": "layouts/content-blue-161/layout_rules.json",
       "motion": "layouts/content-blue-161/motion.json",
-      "preview": "source-previews/blue/P161.png",
+      "preview": "layouts/content-blue-161/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -7025,7 +7215,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "五方向发展展望"
+      "search_label": "五方向发展展望",
+      "original_preview": "source-previews/blue/P161.png",
+      "red_preview": "layouts/content-blue-161/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-161/ready-blue.pptx",
+        "red": "layouts/content-blue-161/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-161/ready-blue.png",
+        "red": "layouts/content-blue-161/ready-red.png"
+      }
     },
     {
       "id": "content-blue-162",
@@ -7806,7 +8006,7 @@
       "spec": "layouts/content-blue-181/spec.md",
       "layout_rules": "layouts/content-blue-181/layout_rules.json",
       "motion": "layouts/content-blue-181/motion.json",
-      "preview": "source-previews/blue/P181.png",
+      "preview": "layouts/content-blue-181/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -7837,7 +8037,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "四层能力成长"
+      "search_label": "四层能力成长",
+      "original_preview": "source-previews/blue/P181.png",
+      "red_preview": "layouts/content-blue-181/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-181/ready-blue.pptx",
+        "red": "layouts/content-blue-181/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-181/ready-blue.png",
+        "red": "layouts/content-blue-181/ready-red.png"
+      }
     },
     {
       "id": "content-blue-182",
@@ -7853,7 +8063,7 @@
       "spec": "layouts/content-blue-182/spec.md",
       "layout_rules": "layouts/content-blue-182/layout_rules.json",
       "motion": "layouts/content-blue-182/motion.json",
-      "preview": "source-previews/blue/P182.png",
+      "preview": "layouts/content-blue-182/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -7884,7 +8094,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "四象限重点工作方法"
+      "search_label": "四象限重点工作方法",
+      "original_preview": "source-previews/blue/P182.png",
+      "red_preview": "layouts/content-blue-182/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-182/ready-blue.pptx",
+        "red": "layouts/content-blue-182/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-182/ready-blue.png",
+        "red": "layouts/content-blue-182/ready-red.png"
+      }
     },
     {
       "id": "content-blue-183",
@@ -8582,7 +8802,7 @@
       "spec": "layouts/content-blue-199/spec.md",
       "layout_rules": "layouts/content-blue-199/layout_rules.json",
       "motion": "layouts/content-blue-199/motion.json",
-      "preview": "source-previews/blue/P199.png",
+      "preview": "layouts/content-blue-199/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -8613,7 +8833,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
-      "search_label": "五年发展时间轴"
+      "search_label": "五年发展时间轴",
+      "original_preview": "source-previews/blue/P199.png",
+      "red_preview": "layouts/content-blue-199/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-199/ready-blue.pptx",
+        "red": "layouts/content-blue-199/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-199/ready-blue.png",
+        "red": "layouts/content-blue-199/ready-red.png"
+      }
     },
     {
       "id": "content-blue-200",
@@ -8938,7 +9168,7 @@
       "spec": "layouts/content-blue-207/spec.md",
       "layout_rules": "layouts/content-blue-207/layout_rules.json",
       "motion": "layouts/content-blue-207/motion.json",
-      "preview": "source-previews/blue/P207.png",
+      "preview": "layouts/content-blue-207/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -8969,7 +9199,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
-      "search_label": "四季度工作计划"
+      "search_label": "四季度工作计划",
+      "original_preview": "source-previews/blue/P207.png",
+      "red_preview": "layouts/content-blue-207/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-207/ready-blue.pptx",
+        "red": "layouts/content-blue-207/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-207/ready-blue.png",
+        "red": "layouts/content-blue-207/ready-red.png"
+      }
     },
     {
       "id": "content-blue-208",
@@ -9242,7 +9482,7 @@
       "spec": "layouts/content-blue-214/spec.md",
       "layout_rules": "layouts/content-blue-214/layout_rules.json",
       "motion": "layouts/content-blue-214/motion.json",
-      "preview": "source-previews/blue/P214.png",
+      "preview": "layouts/content-blue-214/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -9273,7 +9513,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
-      "search_label": "六个月项目推进时间线"
+      "search_label": "六个月项目推进时间线",
+      "original_preview": "source-previews/blue/P214.png",
+      "red_preview": "layouts/content-blue-214/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-214/ready-blue.pptx",
+        "red": "layouts/content-blue-214/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-214/ready-blue.png",
+        "red": "layouts/content-blue-214/ready-red.png"
+      }
     },
     {
       "id": "content-blue-215",
@@ -9983,7 +10233,7 @@
       "spec": "layouts/content-blue-231/spec.md",
       "layout_rules": "layouts/content-blue-231/layout_rules.json",
       "motion": "layouts/content-blue-231/motion.json",
-      "preview": "source-previews/blue/P231.png",
+      "preview": "layouts/content-blue-231/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -10014,7 +10264,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "四步申请审批流程"
+      "search_label": "四步申请审批流程",
+      "original_preview": "source-previews/blue/P231.png",
+      "red_preview": "layouts/content-blue-231/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-231/ready-blue.pptx",
+        "red": "layouts/content-blue-231/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-231/ready-blue.png",
+        "red": "layouts/content-blue-231/ready-red.png"
+      }
     },
     {
       "id": "content-blue-232",
@@ -10156,7 +10416,7 @@
       "spec": "layouts/content-blue-235/spec.md",
       "layout_rules": "layouts/content-blue-235/layout_rules.json",
       "motion": "layouts/content-blue-235/motion.json",
-      "preview": "source-previews/blue/P235.png",
+      "preview": "layouts/content-blue-235/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -10187,7 +10447,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "四阶段项目里程碑"
+      "search_label": "四阶段项目里程碑",
+      "original_preview": "source-previews/blue/P235.png",
+      "red_preview": "layouts/content-blue-235/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-235/ready-blue.pptx",
+        "red": "layouts/content-blue-235/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-235/ready-blue.png",
+        "red": "layouts/content-blue-235/ready-red.png"
+      }
     },
     {
       "id": "content-blue-236",
@@ -10371,7 +10641,7 @@
       "spec": "layouts/content-blue-240/spec.md",
       "layout_rules": "layouts/content-blue-240/layout_rules.json",
       "motion": "layouts/content-blue-240/motion.json",
-      "preview": "source-previews/blue/P240.png",
+      "preview": "layouts/content-blue-240/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -10402,7 +10672,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "六步问题处理闭环"
+      "search_label": "六步问题处理闭环",
+      "original_preview": "source-previews/blue/P240.png",
+      "red_preview": "layouts/content-blue-240/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-240/ready-blue.pptx",
+        "red": "layouts/content-blue-240/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-240/ready-blue.png",
+        "red": "layouts/content-blue-240/ready-red.png"
+      }
     },
     {
       "id": "content-blue-241",
@@ -10418,7 +10698,7 @@
       "spec": "layouts/content-blue-241/spec.md",
       "layout_rules": "layouts/content-blue-241/layout_rules.json",
       "motion": "layouts/content-blue-241/motion.json",
-      "preview": "source-previews/blue/P241.png",
+      "preview": "layouts/content-blue-241/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -10449,7 +10729,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "三阶段数据决策流程"
+      "search_label": "三阶段数据决策流程",
+      "original_preview": "source-previews/blue/P241.png",
+      "red_preview": "layouts/content-blue-241/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-241/ready-blue.pptx",
+        "red": "layouts/content-blue-241/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-241/ready-blue.png",
+        "red": "layouts/content-blue-241/ready-red.png"
+      }
     },
     {
       "id": "content-blue-242",
@@ -10999,7 +11289,7 @@
       "spec": "layouts/content-blue-254/spec.md",
       "layout_rules": "layouts/content-blue-254/layout_rules.json",
       "motion": "layouts/content-blue-254/motion.json",
-      "preview": "source-previews/blue/P254.png",
+      "preview": "layouts/content-blue-254/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -11030,7 +11320,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "comparison",
-      "search_label": "四组问题与方案"
+      "search_label": "四组问题与方案",
+      "original_preview": "source-previews/blue/P254.png",
+      "red_preview": "layouts/content-blue-254/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-254/ready-blue.pptx",
+        "red": "layouts/content-blue-254/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-254/ready-blue.png",
+        "red": "layouts/content-blue-254/ready-red.png"
+      }
     },
     {
       "id": "content-blue-255",
@@ -11088,7 +11388,7 @@
       "spec": "layouts/content-blue-256/spec.md",
       "layout_rules": "layouts/content-blue-256/layout_rules.json",
       "motion": "layouts/content-blue-256/motion.json",
-      "preview": "source-previews/blue/P256.png",
+      "preview": "layouts/content-blue-256/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -11119,7 +11419,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "四步执行流程"
+      "search_label": "四步执行流程",
+      "original_preview": "source-previews/blue/P256.png",
+      "red_preview": "layouts/content-blue-256/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-256/ready-blue.pptx",
+        "red": "layouts/content-blue-256/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-256/ready-blue.png",
+        "red": "layouts/content-blue-256/ready-red.png"
+      }
     },
     {
       "id": "content-blue-257",
@@ -11177,7 +11487,7 @@
       "spec": "layouts/content-blue-258/spec.md",
       "layout_rules": "layouts/content-blue-258/layout_rules.json",
       "motion": "layouts/content-blue-258/motion.json",
-      "preview": "source-previews/blue/P258.png",
+      "preview": "layouts/content-blue-258/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -11208,7 +11518,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "四步往返工作路径"
+      "search_label": "四步往返工作路径",
+      "original_preview": "source-previews/blue/P258.png",
+      "red_preview": "layouts/content-blue-258/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-258/ready-blue.pptx",
+        "red": "layouts/content-blue-258/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-258/ready-blue.png",
+        "red": "layouts/content-blue-258/ready-red.png"
+      }
     },
     {
       "id": "content-blue-259",
@@ -11266,7 +11586,7 @@
       "spec": "layouts/content-blue-260/spec.md",
       "layout_rules": "layouts/content-blue-260/layout_rules.json",
       "motion": "layouts/content-blue-260/motion.json",
-      "preview": "source-previews/blue/P260.png",
+      "preview": "layouts/content-blue-260/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -11303,7 +11623,17 @@
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
       "canonical_relation": "cycle",
-      "search_label": "四步循环闭环"
+      "search_label": "四步循环闭环",
+      "original_preview": "source-previews/blue/P260.png",
+      "red_preview": "layouts/content-blue-260/ready-red.png",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-260/ready-blue.pptx",
+        "red": "layouts/content-blue-260/ready-red.pptx"
+      },
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-260/ready-blue.png",
+        "red": "layouts/content-blue-260/ready-red.png"
+      }
     },
     {
       "id": "content-blue-261",

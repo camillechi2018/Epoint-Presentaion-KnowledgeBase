@@ -18,10 +18,28 @@
     "remove_bullets": true,
     "max_rendered_lines": 2,
     "rows": [
-      {"heading": "items[0].heading", "body": "items[0].body"},
-      {"heading": "items[1].heading", "body": "items[1].body"},
-      {"heading": "items[2].heading", "body": "items[2].body"},
-      {"heading": "items[3].heading", "body": "items[3].body"}
+      {
+        "heading": "items[0].heading",
+        "body": "items[0].body"
+      },
+      {
+        "heading": "items[1].heading",
+        "body": "items[1].body"
+      },
+      {
+        "heading": "items[2].heading",
+        "body": "items[2].body"
+      },
+      {
+        "heading": "items[3].heading",
+        "body": "items[3].body"
+      }
+    ]
+  },
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
     ]
   }
 }

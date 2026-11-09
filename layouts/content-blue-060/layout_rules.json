@@ -61,5 +61,11 @@
         "28": 52
       }
     }
+  },
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "step_body"
+    ]
   }
 }

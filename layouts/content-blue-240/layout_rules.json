@@ -9,5 +9,11 @@
     6
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "蛇形路径上方从左至右为一至三步，下方从右至左为四至六步。"
+  "count_evidence": "蛇形路径上方从左至右为一至三步，下方从右至左为四至六步。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

@@ -16,5 +16,11 @@
     "done": "kpis.done.value",
     "pending": "kpis.pending.value",
     "rate": "kpis.rate.value"
+  },
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
   }
 }

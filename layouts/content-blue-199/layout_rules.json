@@ -16,5 +16,11 @@
     "years[2].label",
     "years[3].label",
     "years[4].label"
-  ]
+  ],
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

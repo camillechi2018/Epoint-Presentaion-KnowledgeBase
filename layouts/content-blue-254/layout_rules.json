@@ -9,5 +9,11 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四列各由问题、说明、方案和图形构成，固定四组。"
+  "count_evidence": "四列各由问题、说明、方案和图形构成，固定四组。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

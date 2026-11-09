@@ -9,5 +9,11 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四条输入箭头、四张说明卡及审核分支构成固定四步闭环。"
+  "count_evidence": "四条输入箭头、四张说明卡及审核分支构成固定四步闭环。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

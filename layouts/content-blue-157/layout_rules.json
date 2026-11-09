@@ -23,5 +23,11 @@
       4,
       4
     ]
+  },
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
   }
 }

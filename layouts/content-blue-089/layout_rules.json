@@ -9,5 +9,11 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四个栏目各有两个标签、两段正文和一条总结，固定四列。"
+  "count_evidence": "四个栏目各有两个标签、两段正文和一条总结，固定四列。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

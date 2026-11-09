@@ -31,5 +31,11 @@
       "field": "steps[4].label",
       "suffix": "05"
     }
-  ]
+  ],
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

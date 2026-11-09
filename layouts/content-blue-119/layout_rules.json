@@ -9,5 +9,11 @@
     6
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "六个图标、编号、说明围绕中心构图，数量固定为六。"
+  "count_evidence": "六个图标、编号、说明围绕中心构图，数量固定为六。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

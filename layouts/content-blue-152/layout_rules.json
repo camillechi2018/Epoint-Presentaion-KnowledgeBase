@@ -9,5 +9,11 @@
     3
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "三条箭头共同指向靶心，固定三个目标。"
+  "count_evidence": "三条箭头共同指向靶心，固定三个目标。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

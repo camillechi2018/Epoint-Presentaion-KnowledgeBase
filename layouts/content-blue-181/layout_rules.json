@@ -9,5 +9,11 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四层同心圆与四项说明一一对应，固定四层。"
+  "count_evidence": "四层同心圆与四项说明一一对应，固定四层。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

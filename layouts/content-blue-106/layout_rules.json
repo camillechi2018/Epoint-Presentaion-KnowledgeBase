@@ -18,7 +18,13 @@
   },
   "backing_shapes_by_theme": {
     "blue": {
-      "shape_ids": [45, 48, 50, 52, 54],
+      "shape_ids": [
+        45,
+        48,
+        50,
+        52,
+        54
+      ],
       "expected_rgb": "F6F9FF"
     }
   },
@@ -26,11 +32,32 @@
     "font_size_pt": 15,
     "body_box_height_pt": 58,
     "rows": [
-      {"heading": "items[0].heading", "body": "items[0].body"},
-      {"heading": "items[1].heading", "body": "items[1].body"},
-      {"heading": "items[2].heading", "body": "items[2].body"},
-      {"heading": "items[3].heading", "body": "items[3].body"},
-      {"heading": "items[4].heading", "body": "items[4].body"}
+      {
+        "heading": "items[0].heading",
+        "body": "items[0].body"
+      },
+      {
+        "heading": "items[1].heading",
+        "body": "items[1].body"
+      },
+      {
+        "heading": "items[2].heading",
+        "body": "items[2].body"
+      },
+      {
+        "heading": "items[3].heading",
+        "body": "items[3].body"
+      },
+      {
+        "heading": "items[4].heading",
+        "body": "items[4].body"
+      }
+    ]
+  },
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
     ]
   }
 }

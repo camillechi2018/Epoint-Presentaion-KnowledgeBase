@@ -9,5 +9,11 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "中心四扇区与四角说明一一对应，固定四项。"
+  "count_evidence": "中心四扇区与四角说明一一对应，固定四项。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

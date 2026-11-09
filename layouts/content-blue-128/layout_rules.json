@@ -9,5 +9,11 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四个菱形图标与四栏正文及底部成对标签绑定，固定四项。"
+  "count_evidence": "四个菱形图标与四栏正文及底部成对标签绑定，固定四项。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  }
 }

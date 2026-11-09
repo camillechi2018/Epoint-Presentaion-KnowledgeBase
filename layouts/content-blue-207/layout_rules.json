@@ -18,5 +18,11 @@
       "quarters[2].label",
       "quarters[3].label"
     ]
+  },
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
   }
 }
