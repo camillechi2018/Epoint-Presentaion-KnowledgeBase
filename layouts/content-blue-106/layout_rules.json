@@ -13,6 +13,15 @@
   "page_background_role_by_theme": {
     "blue": "surface"
   },
+  "page_background_expected_rgb_by_theme": {
+    "blue": "FFFFFF"
+  },
+  "backing_shapes_by_theme": {
+    "blue": {
+      "shape_ids": [45, 48, 50, 52, 54],
+      "expected_rgb": "F6F9FF"
+    }
+  },
   "body_text_presentation": {
     "font_size_pt": 15,
     "body_box_height_pt": 58,

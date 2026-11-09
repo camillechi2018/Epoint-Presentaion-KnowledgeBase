@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-11-09",
+  "status": "verified_editable_draft",
+  "components": [
+    {
+      "layout_id": "content-blue-106",
+      "problem": "blue canvas matched five pale-blue backing shapes",
+      "ready_sources": [
+        "layouts/content-blue-106/ready-blue.pptx",
+        "layouts/content-blue-106/ready-red.pptx"
+      ],
+      "ready_previews": [
+        "layouts/content-blue-106/ready-blue.png",
+        "layouts/content-blue-106/ready-red.png"
+      ],
+      "blue_canvas_rgb": "FFFFFF",
+      "blue_backing_rgb": "F6F9FF",
+      "blue_backing_shape_ids": [
+        45,
+        48,
+        50,
+        52,
+        54
+      ],
+      "native_canvas_shape": "brand:canvas:surface",
+      "source_pages": "blue/red P106"
+    },
+    {
+      "layout_id": "content-blue-112",
+      "problem": "body retained automatic numbering and bold source text",
+      "ready_sources": [
+        "layouts/content-blue-112/ready-blue.pptx",
+        "layouts/content-blue-112/ready-red.pptx"
+      ],
+      "ready_previews": [
+        "layouts/content-blue-112/ready-blue.png",
+        "layouts/content-blue-112/ready-red.png"
+      ],
+      "body_font_pt": 16,
+      "body_bold": false,
+      "body_auto_number": false,
+      "source_pages": "blue/red P112"
+    }
+  ],
+  "verification": {
+    "ready_pptx_rendered": 4,
+    "filled_pptx_rendered": 4,
+    "filled_text_overflows": 0,
+    "filled_layout_collisions": 0,
+    "all_ready_templates_editable": true,
+    "original_sources_preserved": true
+  },
+  "limitations": [
+    "4/5 row count remains fixed",
+    "example labels are placeholders",
+    "draft pending brand approval"
+  ]
+}

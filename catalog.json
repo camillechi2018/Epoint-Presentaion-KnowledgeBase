@@ -4548,7 +4548,7 @@
       "spec": "layouts/content-blue-106/spec.md",
       "layout_rules": "layouts/content-blue-106/layout_rules.json",
       "motion": "layouts/content-blue-106/motion.json",
-      "preview": "source-previews/blue/P106.png",
+      "preview": "layouts/content-blue-106/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -4579,7 +4579,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "summary",
-      "search_label": "五项工作成果清单"
+      "search_label": "五项工作成果清单",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-106/ready-blue.pptx",
+        "red": "layouts/content-blue-106/ready-red.pptx"
+      },
+      "original_preview": "source-previews/blue/P106.png",
+      "red_preview": "layouts/content-blue-106/ready-red.png",
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-106/ready-blue.png",
+        "red": "layouts/content-blue-106/ready-red.png"
+      }
     },
     {
       "id": "content-blue-107",
@@ -4824,7 +4834,7 @@
       "spec": "layouts/content-blue-112/spec.md",
       "layout_rules": "layouts/content-blue-112/layout_rules.json",
       "motion": "layouts/content-blue-112/motion.json",
-      "preview": "source-previews/blue/P112.png",
+      "preview": "layouts/content-blue-112/ready-blue.png",
       "themes": [
         "blue",
         "red"
@@ -4855,7 +4865,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "summary",
-      "search_label": "四项成果清单"
+      "search_label": "四项成果清单",
+      "ready_source_by_theme": {
+        "blue": "layouts/content-blue-112/ready-blue.pptx",
+        "red": "layouts/content-blue-112/ready-red.pptx"
+      },
+      "original_preview": "source-previews/blue/P112.png",
+      "red_preview": "layouts/content-blue-112/ready-red.png",
+      "ready_preview_by_theme": {
+        "blue": "layouts/content-blue-112/ready-blue.png",
+        "red": "layouts/content-blue-112/ready-red.png"
+      }
     },
     {
       "id": "content-blue-113",
