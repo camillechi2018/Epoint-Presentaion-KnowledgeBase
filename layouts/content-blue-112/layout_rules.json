@@ -14,6 +14,8 @@
     "font_size_pt": 16,
     "vertical_anchor": "middle",
     "word_wrap": true,
+    "normal_weight": true,
+    "remove_bullets": true,
     "max_rendered_lines": 2,
     "rows": [
       {"heading": "items[0].heading", "body": "items[0].body"},

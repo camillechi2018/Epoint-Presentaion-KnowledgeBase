@@ -1,0 +1,23 @@
+{
+  "component": "content-blue-112",
+  "date": "2026-11-09",
+  "change": "Right side body is 16 pt regular weight with bullet and automatic numbering removed; left 01-04 remains",
+  "themes": [
+    "blue",
+    "red"
+  ],
+  "samples": [
+    "short",
+    "long"
+  ],
+  "powerpoint_rendered": 4,
+  "text_fit_passed": true,
+  "text_overflows": 0,
+  "layout_issues": 0,
+  "editable_text": true,
+  "limits": [
+    "four fixed rows",
+    "max two lines per body",
+    "field lengths remain 32/31/31/32"
+  ]
+}
