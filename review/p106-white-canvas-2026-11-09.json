@@ -1,0 +1,16 @@
+{
+  "component": "content-blue-106",
+  "date": "2026-11-09",
+  "theme": "blue",
+  "original_canvas_rgb": "F6F9FF",
+  "new_canvas_role": "surface",
+  "new_canvas_rgb": "FFFFFF",
+  "five_native_backing_shapes_rgb": "F6F9FF",
+  "native_shapes_preserved": true,
+  "powerpoint_rendered": true,
+  "text_fit_passed": true,
+  "text_overflows": 0,
+  "layout_issues": 0,
+  "red_theme": "unchanged",
+  "preview": "review/p106-white-canvas-blue.png"
+}

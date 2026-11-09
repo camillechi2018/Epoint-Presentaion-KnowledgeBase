@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "version": "1.0.0-draft",
   "status": "draft_pending_review",
-  "file_count": 3268,
+  "file_count": 3270,
   "files": {
     ".gitignore": "01f797f0f3bba220a65d704559a3adb2beaecf1ab31b60cdd61b163b5c3a02f1",
     "BRANCH.md": "c6a9c3024650822dee9266a9b4f306873f0bf191b534581809e48b868f0e84b9",
@@ -617,9 +617,9 @@
     "layouts/content-blue-105/spec.md": "1dbb70c99281d7e3b4f482dcc90ee5f7d41b1f4f97981e84011feb2ad6ad37d3",
     "layouts/content-blue-106/bindings-red.json": "cef9f4f55d8d2ad5808c82f5cda9b8e637c50a139c383783761c81bf570a66c0",
     "layouts/content-blue-106/bindings.json": "674be09f40b80d3f4c811d2cd0af1480258cf929b528d086eb5f24f024c6c081",
-    "layouts/content-blue-106/layout_rules.json": "27f83347cfbc189b12329f01a22a608aa154604b775569eaebf20dd0e57b5688",
+    "layouts/content-blue-106/layout_rules.json": "d64c7bf8407e6a04dc9998f8853618526e087f42b1ad30dda550a00e2a815662",
     "layouts/content-blue-106/motion.json": "300fb58d7ef05c539d184d5a97533d3daf68a17ede1422b1d3272d94f10b6502",
-    "layouts/content-blue-106/spec.md": "b02c1e78f16c4c7a530b43d553aba748b430800ba365584e52c99f006e6dcdad",
+    "layouts/content-blue-106/spec.md": "22f4707d36ec9df469ca53328810d7c40cfeb0dbc542de792def83cb6bb60287",
     "layouts/content-blue-107/bindings-red.json": "66313c769076514396022821a0582f64fbb1309ec1f51194439ad030917a6462",
     "layouts/content-blue-107/bindings.json": "c40473732304f0ff33a12914d048b1f0401cc7d4eec102a992b99193cc289185",
     "layouts/content-blue-107/layout_rules.json": "0a0ec06bcc945615c03aa2c130e3218de5b88c6aaebf46f1bcd9c91db75f59a9",
@@ -3271,6 +3271,8 @@
     "review/p112-normal-body-blue-short.png": "d3aecf329f8462de110b2f2aba149c69112da39e3bc885ef33bf420865275cfe",
     "review/p112-normal-body-blue-long.png": "5245ff2390c46adc890ffdba6e92cec1f84bcd749317a2fb0ca640378fac4a93",
     "review/p112-normal-body-red-short.png": "011de12d21b41bb9dcfa5b5d967074d7fe3a52a3a918e9837bcbf1db927ed650",
-    "review/p112-normal-body-red-long.png": "d2b4fba46b33fb031338e67e75af4c2ecc2f3124947cf071236bc24d915aaa3d"
+    "review/p112-normal-body-red-long.png": "d2b4fba46b33fb031338e67e75af4c2ecc2f3124947cf071236bc24d915aaa3d",
+    "review/p106-white-canvas-2026-11-09.json": "fef20ca825573c81b782bc0aa28b03287122535ecd303394a5c5a515ca468602",
+    "review/p106-white-canvas-blue.png": "86605f61d19115c64d783c34379165589be8e46a57f945e4d938279ecb294a57"
   }
 }

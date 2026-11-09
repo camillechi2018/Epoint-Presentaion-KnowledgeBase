@@ -10,6 +10,9 @@
   ],
   "validation_status": "verified_fixed_count",
   "count_evidence": "五个编号、图标、横条和说明固定对应。",
+  "page_background_role_by_theme": {
+    "blue": "surface"
+  },
   "body_text_presentation": {
     "font_size_pt": 15,
     "body_box_height_pt": 58,
