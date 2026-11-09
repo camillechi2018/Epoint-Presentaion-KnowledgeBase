@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "version": "1.0.0-draft",
   "status": "draft_pending_review",
-  "file_count": 3258,
+  "file_count": 3263,
   "files": {
     ".gitignore": "01f797f0f3bba220a65d704559a3adb2beaecf1ab31b60cdd61b163b5c3a02f1",
     "BRANCH.md": "c6a9c3024650822dee9266a9b4f306873f0bf191b534581809e48b868f0e84b9",
@@ -617,9 +617,9 @@
     "layouts/content-blue-105/spec.md": "1dbb70c99281d7e3b4f482dcc90ee5f7d41b1f4f97981e84011feb2ad6ad37d3",
     "layouts/content-blue-106/bindings-red.json": "cef9f4f55d8d2ad5808c82f5cda9b8e637c50a139c383783761c81bf570a66c0",
     "layouts/content-blue-106/bindings.json": "674be09f40b80d3f4c811d2cd0af1480258cf929b528d086eb5f24f024c6c081",
-    "layouts/content-blue-106/layout_rules.json": "ff63237468b76736ae033fec1da7d9bf6157bebb05a73c0d2d391fc4907f653f",
+    "layouts/content-blue-106/layout_rules.json": "27f83347cfbc189b12329f01a22a608aa154604b775569eaebf20dd0e57b5688",
     "layouts/content-blue-106/motion.json": "300fb58d7ef05c539d184d5a97533d3daf68a17ede1422b1d3272d94f10b6502",
-    "layouts/content-blue-106/spec.md": "dcc39c616e3b66a8e3cb23917f415a77544718af6a9039f1cca30b61d15e8cce",
+    "layouts/content-blue-106/spec.md": "b02c1e78f16c4c7a530b43d553aba748b430800ba365584e52c99f006e6dcdad",
     "layouts/content-blue-107/bindings-red.json": "66313c769076514396022821a0582f64fbb1309ec1f51194439ad030917a6462",
     "layouts/content-blue-107/bindings.json": "c40473732304f0ff33a12914d048b1f0401cc7d4eec102a992b99193cc289185",
     "layouts/content-blue-107/layout_rules.json": "0a0ec06bcc945615c03aa2c130e3218de5b88c6aaebf46f1bcd9c91db75f59a9",
@@ -3261,6 +3261,11 @@
     "review/p112-body-blue-short.png": "a9f5fa2822895fc5de4f6c65d4ae5864c6637d129996714209484a0e97064dfd",
     "review/p112-body-blue-long.png": "bf0e538c3fe0be29573ec0b635e404ea7e764bb2c4d25f27ed40bc57fc6efd10",
     "review/p112-body-red-short.png": "0cf6941bcbcfa9ad60b500f7ac46718ff48d99676dba6ca1b95b59e9668397cb",
-    "review/p112-body-red-long.png": "78ebe7da3cf37b1590d689d652ad00dee45695ac0dba4ecbb8bd196d84d5ae20"
+    "review/p112-body-red-long.png": "78ebe7da3cf37b1590d689d652ad00dee45695ac0dba4ecbb8bd196d84d5ae20",
+    "review/p106-body-text-2026-11-09.json": "debac0241057dd21f642825bed72407c29f41fbfffe2a264edbaee30f78124b9",
+    "review/p106-body-text-blue-short.png": "f74bfb967985aac9f9a242827dd42e93d943fc83d5d3ab7d98810e9abf875da8",
+    "review/p106-body-text-red-short.png": "f39d10a433a83491cf16dca6cfa9418679e52ad86f694cd89593785e8f656ac3",
+    "review/p106-body-text-blue-two-line.png": "4aba46021584aec3636417c757633b05df120a6a8545eb8df5578fa3bf8dd01e",
+    "review/p106-body-text-red-two-line.png": "eaf271c4fc80fef29a4270b06f96f9b4b6da1ebe04743d8e7e9adc97cadd15a8"
   }
 }

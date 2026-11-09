@@ -1,0 +1,15 @@
+{
+  "layout_id": "content-blue-106",
+  "status": "verified_static_draft",
+  "scope": "five fixed rows; blue/red; short and explicit two-line Chinese text",
+  "body_font_size_pt": 15,
+  "body_box_height_pt": 58,
+  "alignment": "body box centered on matching heading; text vertically centered within body box",
+  "samples": [
+    {"theme": "blue", "copy": "short", "preview": "review/p106-body-text-blue-short.png", "overflow_count": 0},
+    {"theme": "red", "copy": "short", "preview": "review/p106-body-text-red-short.png", "overflow_count": 0},
+    {"theme": "blue", "copy": "two_line", "preview": "review/p106-body-text-blue-two-line.png", "overflow_count": 0},
+    {"theme": "red", "copy": "two_line", "preview": "review/p106-body-text-red-two-line.png", "overflow_count": 0}
+  ],
+  "limitations": ["five rows only", "bindings field limits remain", "motion and HTML unverified"]
+}
