@@ -12,5 +12,8 @@
   "text_overflows": 0,
   "layout_issues": 0,
   "red_theme": "unchanged",
-  "preview": "review/p106-white-canvas-blue.png"
+  "preview": "review/p106-white-canvas-blue.png",
+  "assembled_preview": "review/p106-white-canvas-blue-assembled.png",
+  "assembled_deck_rendered": true,
+  "native_canvas_shape": "brand:canvas:surface"
 }
