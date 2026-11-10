@@ -1,0 +1,2110 @@
+{
+  "schema_version": "1.0",
+  "status": "verified_capacity_draft_pending_final_deck_review",
+  "scope": "50 structural layouts, 62 theme variants: cover, directory, section, closing",
+  "method": "Combined multi-field stress fill plus PowerPoint text fit; semantic fill and representative contact-sheet inspection. Directory counts and copy from directory-longcopy-validation.json.",
+  "planning_rule": "Tested characters are empirical reference values, not a universal text guarantee. Always apply current bindings max_chars/max_lines/max_width_units, fill the selected page, inspect PowerPoint rendering and final deck.",
+  "source_example_policy": "All editable cover, section, and closing text fields must be supplied with real nonempty content. Omitted fields cannot retain source examples.",
+  "records": [
+    {
+      "layout_id": "closing-tech-082",
+      "theme": "deep-blue-tech",
+      "role": "closing",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "thanks_title": {
+          "field": "text_22",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "english_label": {
+          "field": "text_25",
+          "registered_max_chars": 6,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 6,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "closing-tech-083",
+      "theme": "deep-blue-tech",
+      "role": "closing",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "english_label": {
+          "field": "text_338",
+          "registered_max_chars": 6,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 6,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "latin"
+        },
+        "thanks_title": {
+          "field": "text_339",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "closing-tech-084",
+      "theme": "deep-blue-tech",
+      "role": "closing",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "thanks_title": {
+          "field": "text_29",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "english_label": {
+          "field": "text_61",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 6,
+          "semantic_sample_tested_chars": 9,
+          "tested_planning_chars": 9,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "closing-tech-085",
+      "theme": "deep-blue-tech",
+      "role": "closing",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "project_subtitle": {
+          "field": "text_5",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "mixed_or_cjk"
+        },
+        "thanks_title": {
+          "field": "text_6",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-closing-01",
+      "theme": "blue",
+      "role": "closing",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "closing.title": {
+          "field": "text_4",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 9,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 9,
+          "tested_planning_chars": 9,
+          "sample_script": "latin"
+        },
+        "closing.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 7,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 7,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-closing-01",
+      "theme": "red",
+      "role": "closing",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "closing.title": {
+          "field": "text_4",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 9,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 9,
+          "tested_planning_chars": 9,
+          "sample_script": "latin"
+        },
+        "closing.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 7,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 7,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-closing-02",
+      "theme": "blue",
+      "role": "closing",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "closing.title": {
+          "field": "text_4",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 9,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 9,
+          "tested_planning_chars": 9,
+          "sample_script": "latin"
+        },
+        "closing.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 7,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 7,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-closing-02",
+      "theme": "red",
+      "role": "closing",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "closing.title": {
+          "field": "text_4",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 9,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 9,
+          "tested_planning_chars": 9,
+          "sample_script": "latin"
+        },
+        "closing.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 7,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 7,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-closing-03",
+      "theme": "blue",
+      "role": "closing",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "closing.title": {
+          "field": "text_4",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 9,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 9,
+          "tested_planning_chars": 9,
+          "sample_script": "latin"
+        },
+        "closing.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 7,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 7,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-closing-03",
+      "theme": "red",
+      "role": "closing",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "closing.title": {
+          "field": "text_4",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 9,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 9,
+          "tested_planning_chars": 9,
+          "sample_script": "latin"
+        },
+        "closing.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 7,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 7,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-closing-blue-13",
+      "theme": "blue",
+      "role": "closing",
+      "combined_stress_profile": "short",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "closing.title": {
+          "field": "text_4",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 9,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 9,
+          "tested_planning_chars": 9,
+          "sample_script": "latin"
+        },
+        "closing.subtitle": {
+          "field": "text_5",
+          "registered_max_chars": 6,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 6,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "latin"
+        },
+        "closing.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 3,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 7,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-closing-blue-14",
+      "theme": "blue",
+      "role": "closing",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "closing.title": {
+          "field": "text_4",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "closing.subtitle": {
+          "field": "text_5",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 9,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 9,
+          "tested_planning_chars": 9,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-closing-red-19",
+      "theme": "red",
+      "role": "closing",
+      "combined_stress_profile": "short",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "closing.subtitle": {
+          "field": "text_19",
+          "registered_max_chars": 6,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 6,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "latin"
+        },
+        "closing.title": {
+          "field": "text_16",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "closing.note": {
+          "field": "text_8",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 18,
+          "combined_stress_tested_chars": 9,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 9,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-closing-red-23",
+      "theme": "red",
+      "role": "closing",
+      "combined_stress_profile": "short",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "closing.title": {
+          "field": "text_4",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 9,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 9,
+          "tested_planning_chars": 9,
+          "sample_script": "latin"
+        },
+        "closing.subtitle": {
+          "field": "text_5",
+          "registered_max_chars": 6,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 6,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "latin"
+        },
+        "closing.date": {
+          "field": "text_7",
+          "registered_max_chars": 10,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 10,
+          "combined_stress_tested_chars": 10,
+          "semantic_sample_tested_chars": 10,
+          "tested_planning_chars": 10,
+          "sample_script": "latin"
+        },
+        "closing.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 3,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 7,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-closing-red-24",
+      "theme": "red",
+      "role": "closing",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "closing.title": {
+          "field": "text_4",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "closing.subtitle": {
+          "field": "text_5",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 9,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 9,
+          "tested_planning_chars": 9,
+          "sample_script": "latin"
+        },
+        "closing.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 7,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 7,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "cover-02",
+      "theme": "blue",
+      "role": "cover",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "cover.subtitle": {
+          "field": "text_12",
+          "registered_max_chars": 12,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 12,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 12,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.title": {
+          "field": "text_13",
+          "registered_max_chars": 8,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.english_subtitle": {
+          "field": "text_14",
+          "registered_max_chars": 27,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 27,
+          "semantic_sample_tested_chars": 20,
+          "tested_planning_chars": 27,
+          "sample_script": "latin"
+        },
+        "cover.presenter": {
+          "field": "text_2",
+          "registered_max_chars": 8,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "cover-tech-001",
+      "theme": "deep-blue-tech",
+      "role": "cover",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "english_title": {
+          "field": "text_4",
+          "registered_max_chars": 30,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 30,
+          "semantic_sample_tested_chars": 20,
+          "tested_planning_chars": 30,
+          "sample_script": "latin"
+        },
+        "title": {
+          "field": "text_6",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        },
+        "presenter": {
+          "field": "text_15",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 9,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 9,
+          "sample_script": "mixed_or_cjk"
+        },
+        "date": {
+          "field": "text_16",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 13,
+          "semantic_sample_tested_chars": 8,
+          "tested_planning_chars": 13,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "cover-tech-002",
+      "theme": "deep-blue-tech",
+      "role": "cover",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "main_title": {
+          "field": "text_6",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        },
+        "title": {
+          "field": "text_7",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "date": {
+          "field": "text_13",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 13,
+          "semantic_sample_tested_chars": 8,
+          "tested_planning_chars": 13,
+          "sample_script": "mixed_or_cjk"
+        },
+        "presenter": {
+          "field": "text_17",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 9,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 9,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "cover-tech-003",
+      "theme": "deep-blue-tech",
+      "role": "cover",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "title": {
+          "field": "text_9",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "mixed_or_cjk"
+        },
+        "subtitle": {
+          "field": "text_10",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "cover-tech-004",
+      "theme": "deep-blue-tech",
+      "role": "cover",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "title": {
+          "field": "text_7",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        },
+        "place_date": {
+          "field": "text_8",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 8,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "cover-tech-005",
+      "theme": "deep-blue-tech",
+      "role": "cover",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "title": {
+          "field": "text_23",
+          "registered_max_chars": 6,
+          "registered_max_lines": 1,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 6,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "mixed_or_cjk"
+        },
+        "speaker": {
+          "field": "text_33",
+          "registered_max_chars": 25,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 17,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 17,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-cover-red-01",
+      "theme": "red",
+      "role": "cover",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "cover.title": {
+          "field": "text_11",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.english": {
+          "field": "text_15",
+          "registered_max_chars": 22,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 22,
+          "combined_stress_tested_chars": 22,
+          "semantic_sample_tested_chars": 20,
+          "tested_planning_chars": 22,
+          "sample_script": "latin"
+        },
+        "cover.presenter": {
+          "field": "text_97",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.subtitle": {
+          "field": "text_14",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 18,
+          "combined_stress_tested_chars": 9,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 9,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-cover-red-02",
+      "theme": "red",
+      "role": "cover",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "cover.presenter": {
+          "field": "text_6",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.title": {
+          "field": "text_5",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.kicker": {
+          "field": "text_7",
+          "registered_max_chars": 11,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 11,
+          "combined_stress_tested_chars": 11,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 11,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-cover-red-03",
+      "theme": "red",
+      "role": "cover",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "cover.title": {
+          "field": "text_4",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.kicker": {
+          "field": "text_5",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-cover-red-04",
+      "theme": "red",
+      "role": "cover",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "cover.title": {
+          "field": "text_4",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.kicker": {
+          "field": "text_5",
+          "registered_max_chars": 11,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 11,
+          "combined_stress_tested_chars": 11,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 11,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-cover-red-05",
+      "theme": "red",
+      "role": "cover",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "cover.title": {
+          "field": "text_4",
+          "registered_max_chars": 9,
+          "registered_max_lines": 2,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.kicker": {
+          "field": "text_5",
+          "registered_max_chars": 11,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 11,
+          "combined_stress_tested_chars": 11,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 11,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 7,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 7,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-cover-red-06",
+      "theme": "red",
+      "role": "cover",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "cover.title": {
+          "field": "text_4",
+          "registered_max_chars": 6,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 12,
+          "combined_stress_tested_chars": 6,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-cover-red-07",
+      "theme": "red",
+      "role": "cover",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "cover.title": {
+          "field": "text_4",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        },
+        "cover.presenter": {
+          "field": "text_10",
+          "registered_max_chars": 8,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 8,
+          "semantic_sample_tested_chars": 7,
+          "tested_planning_chars": 8,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "content-blue-002",
+      "theme": "blue",
+      "role": "section",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "chapter.title": {
+          "field": "text_4",
+          "registered_max_chars": 24,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 10,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "chapter.subtitle": {
+          "field": "text_5",
+          "registered_max_chars": 24,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 24,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "page.title": {
+          "field": "text_7",
+          "registered_max_chars": 24,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "chapter.label": {
+          "field": "text_15",
+          "registered_max_chars": 24,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 6,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "content-blue-002",
+      "theme": "red",
+      "role": "section",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "chapter.title": {
+          "field": "text_4",
+          "registered_max_chars": 24,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 10,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "chapter.subtitle": {
+          "field": "text_5",
+          "registered_max_chars": 24,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 24,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "page.title": {
+          "field": "text_7",
+          "registered_max_chars": 24,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 16,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "chapter.label": {
+          "field": "text_15",
+          "registered_max_chars": 24,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 6,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "section-tech-011",
+      "theme": "deep-blue-tech",
+      "role": "section",
+      "combined_stress_profile": "short",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section_number": {
+          "field": "text_10",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 2,
+          "tested_planning_chars": 2,
+          "sample_script": "latin"
+        },
+        "heading": {
+          "field": "text_11",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "english_subtitle": {
+          "field": "text_12",
+          "registered_max_chars": 25,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 6,
+          "semantic_sample_tested_chars": 13,
+          "tested_planning_chars": 13,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "section-tech-012",
+      "theme": "deep-blue-tech",
+      "role": "section",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section_number": {
+          "field": "text_10",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 1,
+          "semantic_sample_tested_chars": 1,
+          "tested_planning_chars": 1,
+          "sample_script": "latin"
+        },
+        "part_label": {
+          "field": "text_11",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "heading": {
+          "field": "text_14",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "subtitle": {
+          "field": "text_15",
+          "registered_max_chars": 31,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "section-tech-013",
+      "theme": "deep-blue-tech",
+      "role": "section",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "heading": {
+          "field": "text_10",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "subtitle": {
+          "field": "text_13",
+          "registered_max_chars": 25,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "part_label": {
+          "field": "text_9",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 7,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 7,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "section-tech-014",
+      "theme": "deep-blue-tech",
+      "role": "section",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "part_label": {
+          "field": "text_13",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 6,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "latin"
+        },
+        "heading": {
+          "field": "text_14",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "subtitle": {
+          "field": "text_15",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "section-tech-015",
+      "theme": "deep-blue-tech",
+      "role": "section",
+      "combined_stress_profile": "normal",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "heading": {
+          "field": "text_5",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "english_heading": {
+          "field": "text_6",
+          "registered_max_chars": 30,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 19,
+          "semantic_sample_tested_chars": 13,
+          "tested_planning_chars": 19,
+          "sample_script": "latin"
+        },
+        "section_number": {
+          "field": "text_3",
+          "registered_max_chars": 24,
+          "registered_max_lines": null,
+          "registered_max_width_units": null,
+          "combined_stress_tested_chars": 1,
+          "semantic_sample_tested_chars": 1,
+          "tested_planning_chars": 1,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-section-01",
+      "theme": "blue",
+      "role": "section",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section.title": {
+          "field": "text_4",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.subtitle": {
+          "field": "text_5",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.number": {
+          "field": "text_6",
+          "registered_max_chars": 3,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 3,
+          "combined_stress_tested_chars": 3,
+          "semantic_sample_tested_chars": 3,
+          "tested_planning_chars": 3,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-section-01",
+      "theme": "red",
+      "role": "section",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section.title": {
+          "field": "text_4",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.subtitle": {
+          "field": "text_5",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.number": {
+          "field": "text_6",
+          "registered_max_chars": 3,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 3,
+          "combined_stress_tested_chars": 3,
+          "semantic_sample_tested_chars": 3,
+          "tested_planning_chars": 3,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-section-02",
+      "theme": "blue",
+      "role": "section",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section.number": {
+          "field": "text_2",
+          "registered_max_chars": 2,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 2,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 2,
+          "tested_planning_chars": 2,
+          "sample_script": "latin"
+        },
+        "section.title": {
+          "field": "text_4",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-section-02",
+      "theme": "red",
+      "role": "section",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section.number": {
+          "field": "text_2",
+          "registered_max_chars": 2,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 2,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 2,
+          "tested_planning_chars": 2,
+          "sample_script": "latin"
+        },
+        "section.title": {
+          "field": "text_4",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-section-03",
+      "theme": "blue",
+      "role": "section",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section.title": {
+          "field": "text_4",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.subtitle": {
+          "field": "text_5",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.part": {
+          "field": "text_6",
+          "registered_max_chars": 7,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 7,
+          "combined_stress_tested_chars": 7,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 7,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-section-03",
+      "theme": "red",
+      "role": "section",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section.title": {
+          "field": "text_4",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.subtitle": {
+          "field": "text_5",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.part": {
+          "field": "text_6",
+          "registered_max_chars": 7,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 7,
+          "combined_stress_tested_chars": 7,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 7,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-section-blue-08",
+      "theme": "blue",
+      "role": "section",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section.title": {
+          "field": "text_4",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.subtitle": {
+          "field": "text_5",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.number": {
+          "field": "text_6",
+          "registered_max_chars": 2,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 2,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 2,
+          "tested_planning_chars": 2,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-section-blue-09",
+      "theme": "blue",
+      "role": "section",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section.title": {
+          "field": "text_7",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.number": {
+          "field": "text_9",
+          "registered_max_chars": 2,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 2,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 2,
+          "tested_planning_chars": 2,
+          "sample_script": "latin"
+        },
+        "section.subtitle": {
+          "field": "text_11",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-section-red-13",
+      "theme": "red",
+      "role": "section",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section.title": {
+          "field": "text_4",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.header": {
+          "field": "text_7",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 14,
+          "combined_stress_tested_chars": 9,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 9,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.part": {
+          "field": "text_15",
+          "registered_max_chars": 6,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 6,
+          "combined_stress_tested_chars": 6,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 6,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-section-red-17",
+      "theme": "red",
+      "role": "section",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section.header": {
+          "field": "text_7",
+          "registered_max_chars": 9,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 14,
+          "combined_stress_tested_chars": 9,
+          "semantic_sample_tested_chars": 6,
+          "tested_planning_chars": 9,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.title": {
+          "field": "text_4",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.number": {
+          "field": "text_6",
+          "registered_max_chars": 2,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 2,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 2,
+          "tested_planning_chars": 2,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "supp-section-red-18",
+      "theme": "red",
+      "role": "section",
+      "combined_stress_profile": "limit",
+      "stress_powerpoint_text_fit": "pass",
+      "semantic_sample_fill": "pass",
+      "semantic_sample_powerpoint_text_fit": "pass",
+      "visual_review": "sample_contact_sheet_passed",
+      "fields": {
+        "section.title": {
+          "field": "text_7",
+          "registered_max_chars": 4,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 8,
+          "combined_stress_tested_chars": 4,
+          "semantic_sample_tested_chars": 4,
+          "tested_planning_chars": 4,
+          "sample_script": "mixed_or_cjk"
+        },
+        "section.number": {
+          "field": "text_9",
+          "registered_max_chars": 2,
+          "registered_max_lines": 1,
+          "registered_max_width_units": 2,
+          "combined_stress_tested_chars": 2,
+          "semantic_sample_tested_chars": 2,
+          "tested_planning_chars": 2,
+          "sample_script": "latin"
+        }
+      }
+    },
+    {
+      "layout_id": "content-blue-001",
+      "theme": "blue",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tested_item_title_cjk_chars": 4,
+      "tested_item_subtitle_cjk_chars": 16,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "content-blue-001",
+      "theme": "red",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tested_item_title_cjk_chars": 4,
+      "tested_item_subtitle_cjk_chars": 16,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "directory-tech-006",
+      "theme": "deep-blue-tech",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tested_item_title_cjk_chars": 8,
+      "tested_item_subtitle_cjk_chars": 12,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "directory-tech-007",
+      "theme": "deep-blue-tech",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tested_item_title_cjk_chars": 4,
+      "tested_item_subtitle_cjk_chars": 8,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "directory-tech-008",
+      "theme": "deep-blue-tech",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tested_item_title_cjk_chars": 8,
+      "tested_item_subtitle_cjk_chars": 12,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "directory-tech-009",
+      "theme": "deep-blue-tech",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tested_item_title_cjk_chars": 4,
+      "tested_item_subtitle_cjk_chars": 11,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "directory-tech-010",
+      "theme": "deep-blue-tech",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tested_item_title_cjk_chars": 6,
+      "tested_item_subtitle_cjk_chars": 12,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "supp-directory-01",
+      "theme": "blue",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tested_item_title_cjk_chars": 8,
+      "tested_item_subtitle_cjk_chars": null,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "supp-directory-01",
+      "theme": "red",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tested_item_title_cjk_chars": 8,
+      "tested_item_subtitle_cjk_chars": null,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "supp-directory-02",
+      "theme": "blue",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tested_item_title_cjk_chars": 8,
+      "tested_item_subtitle_cjk_chars": null,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "supp-directory-02",
+      "theme": "red",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tested_item_title_cjk_chars": 8,
+      "tested_item_subtitle_cjk_chars": null,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "supp-directory-03",
+      "theme": "blue",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tested_item_title_cjk_chars": 8,
+      "tested_item_subtitle_cjk_chars": null,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "supp-directory-03",
+      "theme": "red",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tested_item_title_cjk_chars": 8,
+      "tested_item_subtitle_cjk_chars": null,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "supp-directory-04",
+      "theme": "blue",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tested_item_title_cjk_chars": 8,
+      "tested_item_subtitle_cjk_chars": null,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "supp-directory-04",
+      "theme": "red",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tested_item_title_cjk_chars": 8,
+      "tested_item_subtitle_cjk_chars": null,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    },
+    {
+      "layout_id": "supp-directory-04-red-variant",
+      "theme": "red",
+      "role": "directory",
+      "supported_item_counts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tested_item_title_cjk_chars": 8,
+      "tested_item_subtitle_cjk_chars": null,
+      "powerpoint_text_fit": "pass_all_supported_counts",
+      "visual_review": "pending_final_deck_review"
+    }
+  ]
+}

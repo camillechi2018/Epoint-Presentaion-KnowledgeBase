@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "version": "1.0.0-draft",
   "status": "draft_pending_review",
-  "file_count": 3416,
+  "file_count": 3417,
   "files": {
     ".gitignore": "01f797f0f3bba220a65d704559a3adb2beaecf1ab31b60cdd61b163b5c3a02f1",
     "BRANCH.md": "c6a9c3024650822dee9266a9b4f306873f0bf191b534581809e48b868f0e84b9",
@@ -2656,6 +2656,7 @@
     "review/p112-normal-body-blue-short.png": "d3aecf329f8462de110b2f2aba149c69112da39e3bc885ef33bf420865275cfe",
     "review/p112-normal-body-red-long.png": "d2b4fba46b33fb031338e67e75af4c2ecc2f3124947cf071236bc24d915aaa3d",
     "review/p112-normal-body-red-short.png": "011de12d21b41bb9dcfa5b5d967074d7fe3a52a3a918e9837bcbf1db927ed650",
+    "review/structure-page-capacity.json": "ac0d34a13feae9c8cf074a60207b03e2f7842197066f0b88d490b9870031ba9d",
     "review/supplement-blue-red.json": "df9925d3c9b0f15ee0eecb5b339baef36990b0569812c47219bc5ceb24b7800b",
     "review/supplement-color-longcopy-qa.json": "87699ccc37e11d9cf7b900d1a573bc3b4eb16b61062874499164fe27654cc7a4",
     "review/supplement-static-samples.json": "6dca4091e17ac1b50576a86d191af347a52808b8dfec41bbec5b0827b97eb3fd",
