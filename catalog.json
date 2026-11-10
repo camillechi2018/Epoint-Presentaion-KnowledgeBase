@@ -1110,7 +1110,7 @@
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
       "search_label": "四季度里程碑矩阵",
-      "matching_policy": "structural",
+      "matching_policy": "data_contract",
       "structure_type": "timeline",
       "matching_activation": "classified_pending_trial"
     },
@@ -3117,7 +3117,7 @@
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "schedule",
       "search_label": "六项目年度三阶段排期",
-      "matching_policy": "structural",
+      "matching_policy": "data_contract",
       "structure_type": "schedule",
       "matching_activation": "classified_pending_trial"
     },
@@ -3179,7 +3179,34 @@
       },
       "matching_policy": "structural",
       "structure_type": "schedule",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "schedule",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "phases[0].heading",
+          "phases[1].heading",
+          "phases[2].heading",
+          "phases[0].tasks[0].heading",
+          "phases[0].tasks[0].body",
+          "phases[0].tasks[1].heading",
+          "phases[0].tasks[1].body",
+          "phases[1].tasks[0].heading",
+          "phases[1].tasks[0].body",
+          "phases[1].tasks[1].heading",
+          "phases[1].tasks[1].body",
+          "phases[2].tasks[0].heading",
+          "phases[2].tasks[0].body",
+          "phases[2].tasks[1].heading",
+          "phases[2].tasks[1].body"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-072",
@@ -3988,7 +4015,43 @@
       },
       "matching_policy": "structural",
       "structure_type": "framework",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "items[0].heading",
+          "items[1].heading",
+          "items[2].heading",
+          "items[3].heading",
+          "items[0].tag_a",
+          "items[0].tag_b",
+          "items[1].tag_a",
+          "items[1].tag_b",
+          "items[2].tag_a",
+          "items[2].tag_b",
+          "items[3].tag_a",
+          "items[3].tag_b",
+          "items[0].body_a",
+          "items[0].body_b",
+          "items[1].body_a",
+          "items[1].body_b",
+          "items[2].body_a",
+          "items[2].body_b",
+          "items[3].body_a",
+          "items[3].body_b",
+          "items[0].summary",
+          "items[1].summary",
+          "items[2].summary",
+          "items[3].summary",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-090",
@@ -4132,7 +4195,32 @@
       },
       "matching_policy": "structural",
       "structure_type": "framework",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "center.title",
+          "goals[0].body",
+          "goals[1].body",
+          "goals[2].body",
+          "goals[3].body",
+          "goals[0].heading",
+          "goals[1].heading",
+          "goals[3].heading",
+          "goals[2].heading",
+          "goals[0].short",
+          "goals[1].short",
+          "goals[2].short",
+          "goals[3].short",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-093",
@@ -4558,7 +4646,7 @@
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
       "search_label": "五节点项目时间线",
-      "matching_policy": "structural",
+      "matching_policy": "data_contract",
       "structure_type": "timeline",
       "matching_activation": "classified_pending_trial"
     },
@@ -5561,7 +5649,32 @@
       },
       "matching_policy": "structural",
       "structure_type": "framework",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "methods[2].heading",
+          "methods[1].heading",
+          "methods[3].heading",
+          "methods[0].heading",
+          "methods[0].body_a",
+          "methods[0].body_b",
+          "methods[1].body_a",
+          "methods[1].body_b",
+          "methods[2].body_a",
+          "methods[2].body_b",
+          "methods[3].body_a",
+          "methods[3].body_b",
+          "center.title",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-123",
@@ -5922,7 +6035,37 @@
       },
       "matching_policy": "structural",
       "structure_type": "comparison",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "comparison",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "methods[0].body_a",
+          "methods[0].heading",
+          "methods[0].vertical",
+          "methods[1].vertical",
+          "methods[2].vertical",
+          "methods[3].vertical",
+          "methods[0].body_b",
+          "methods[2].body_a",
+          "methods[2].heading",
+          "methods[1].body_a",
+          "methods[1].body_b",
+          "methods[1].heading",
+          "methods[2].body_b",
+          "methods[3].body_a",
+          "methods[3].heading",
+          "methods[3].body_b",
+          "summary.heading",
+          "summary.body",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-130",
@@ -6545,33 +6688,26 @@
       "structure_type": "framework",
       "matching_contract": {
         "policy": "structural",
-        "structure_type": "four-around-center",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
         "content_types": [
-          "cards"
+          "template_fields"
         ],
-        "verified_counts": [
-          4
+        "required_binding_paths": [
+          "center.title",
+          "items[0].body",
+          "items[1].body",
+          "items[2].body",
+          "items[3].body",
+          "items[0].heading",
+          "items[1].heading",
+          "items[2].heading",
+          "items[3].heading",
+          "page.title"
         ],
-        "item_fields": [
-          "title",
-          "body"
-        ],
-        "required_content_fields": [
-          "center.title"
-        ],
-        "compatible_relations": [
-          "parallel-points",
-          "framework",
-          "summary"
-        ],
-        "input_schema": "cards.center.v1",
-        "scenario_tags": [
-          "能力",
-          "要点",
-          "支撑"
-        ]
+        "access_mode": "field_complete"
       },
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready"
     },
     {
       "id": "content-blue-143",
@@ -6631,7 +6767,27 @@
       },
       "matching_policy": "structural",
       "structure_type": "framework",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "abilities[0].heading",
+          "abilities[1].heading",
+          "abilities[2].heading",
+          "abilities[3].heading",
+          "abilities[0].body",
+          "abilities[1].body",
+          "abilities[2].body",
+          "abilities[3].body",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-144",
@@ -6773,7 +6929,7 @@
         "blue": "layouts/content-blue-146/ready-blue.png",
         "red": "layouts/content-blue-146/ready-red.png"
       },
-      "matching_policy": "structural",
+      "matching_policy": "data_contract",
       "structure_type": "timeline",
       "matching_activation": "classified_pending_trial"
     },
@@ -6835,7 +6991,35 @@
       },
       "matching_policy": "structural",
       "structure_type": "timeline",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "timeline",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "section.title",
+          "steps[0].goal",
+          "steps[1].goal",
+          "steps[2].goal",
+          "steps[3].goal",
+          "steps[4].goal",
+          "steps[0].label",
+          "steps[0].body",
+          "steps[1].label",
+          "steps[1].body",
+          "steps[2].label",
+          "steps[2].body",
+          "steps[3].label",
+          "steps[3].body",
+          "steps[4].label",
+          "steps[4].body",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-148",
@@ -6937,7 +7121,31 @@
       },
       "matching_policy": "structural",
       "structure_type": "framework",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "abilities[0].heading",
+          "abilities[1].heading",
+          "abilities[2].heading",
+          "abilities[3].heading",
+          "abilities[4].heading",
+          "abilities[0].body",
+          "abilities[1].body",
+          "abilities[2].body",
+          "abilities[3].body",
+          "abilities[4].body",
+          "footer.summary",
+          "section.title",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-150",
@@ -7342,7 +7550,7 @@
         "red": "layouts/content-blue-157/ready-red.png"
       },
       "replace_source_logo": true,
-      "matching_policy": "structural",
+      "matching_policy": "data_contract",
       "structure_type": "schedule",
       "matching_activation": "classified_pending_trial"
     },
@@ -7478,8 +7686,39 @@
       "search_label": "四方面年度工作总结",
       "matching_policy": "structural",
       "structure_type": "ordered-steps",
-      "matching_activation": "classified_pending_trial",
-      "visual_invariant": "横向箭头把四组内容组织为推进过程；只有真实先后关系可按通用结构复用"
+      "matching_activation": "structure_ready",
+      "visual_invariant": "横向箭头把四组内容组织为推进过程；只有真实先后关系可按通用结构复用",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "ordered-steps",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "areas[0].heading",
+          "areas[2].heading",
+          "areas[3].heading",
+          "areas[1].heading",
+          "areas[0].point_a",
+          "areas[0].point_b",
+          "areas[1].point_a",
+          "areas[1].point_b",
+          "areas[3].point_a",
+          "areas[3].point_b",
+          "areas[2].point_a",
+          "areas[2].point_b",
+          "conclusion.body",
+          "conclusion.heading",
+          "page.title",
+          "summary[0].label",
+          "summary[1].label",
+          "summary[2].label",
+          "summary[3].label",
+          "summary.year"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-161",
@@ -7539,7 +7778,44 @@
       },
       "matching_policy": "structural",
       "structure_type": "framework",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "items[0].heading",
+          "items[1].heading",
+          "items[2].heading",
+          "items[3].heading",
+          "items[4].heading",
+          "items[0].body_a",
+          "items[0].body_b",
+          "items[1].body_a",
+          "items[1].body_b",
+          "items[2].body_a",
+          "items[2].body_b",
+          "items[3].body_a",
+          "items[3].body_b",
+          "items[4].body_a",
+          "items[4].body_b",
+          "items[0].tag_a",
+          "items[0].tag_b",
+          "items[1].tag_a",
+          "items[1].tag_b",
+          "items[2].tag_a",
+          "items[2].tag_b",
+          "items[3].tag_a",
+          "items[3].tag_b",
+          "items[4].tag_a",
+          "items[4].tag_b",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-162",
@@ -9333,7 +9609,7 @@
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
       "search_label": "十年规划时间轴",
-      "matching_policy": "structural",
+      "matching_policy": "data_contract",
       "structure_type": "timeline",
       "matching_activation": "classified_pending_trial"
     },
@@ -9383,7 +9659,7 @@
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
       "search_label": "五阶段十年发展路线",
-      "matching_policy": "structural",
+      "matching_policy": "data_contract",
       "structure_type": "timeline",
       "matching_activation": "classified_pending_trial"
     },
@@ -9715,7 +9991,7 @@
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "schedule",
       "search_label": "四季度交错工作计划",
-      "matching_policy": "structural",
+      "matching_policy": "data_contract",
       "structure_type": "schedule",
       "matching_activation": "classified_pending_trial"
     },
@@ -10785,7 +11061,7 @@
         "blue": "layouts/content-blue-231/ready-blue.png",
         "red": "layouts/content-blue-231/ready-red.png"
       },
-      "matching_policy": "structural",
+      "matching_policy": "semantic_strict",
       "structure_type": "process",
       "matching_activation": "classified_pending_trial"
     },
@@ -10973,7 +11249,31 @@
       },
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "stages[0].heading",
+          "stages[1].heading",
+          "stages[2].heading",
+          "stages[3].heading",
+          "stages[0].body",
+          "stages[1].body",
+          "stages[2].body",
+          "stages[3].body",
+          "stages[0].note",
+          "stages[1].note",
+          "stages[2].note",
+          "stages[3].note",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-236",
@@ -11284,7 +11584,29 @@
       },
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "section.title",
+          "cards[0].body",
+          "steps[0].heading",
+          "steps[1].heading",
+          "steps[2].heading",
+          "cards[1].body",
+          "cards[2].body",
+          "tools[0].label",
+          "tools[1].label",
+          "tools[2].label",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-242",
@@ -11418,7 +11740,33 @@
       "search_label": "六维阶段总结",
       "matching_policy": "structural",
       "structure_type": "summary",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "summary",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "center.title",
+          "center.subtitle",
+          "aspects[0].heading",
+          "aspects[0].body",
+          "aspects[2].heading",
+          "aspects[2].body",
+          "aspects[4].heading",
+          "aspects[4].body",
+          "aspects[1].heading",
+          "aspects[1].body",
+          "aspects[3].heading",
+          "aspects[3].body",
+          "aspects[5].heading",
+          "aspects[5].body"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-245",
@@ -11510,7 +11858,29 @@
       "search_label": "五步项目推进流程",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "steps[0].heading",
+          "steps[1].heading",
+          "steps[2].heading",
+          "steps[3].heading",
+          "steps[4].heading",
+          "steps[0].body",
+          "steps[1].body",
+          "steps[2].body",
+          "steps[3].body",
+          "steps[4].body",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-247",
@@ -11558,7 +11928,7 @@
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "comparison",
       "search_label": "五方向改变与成效",
-      "matching_policy": "structural",
+      "matching_policy": "semantic_strict",
       "structure_type": "comparison",
       "matching_activation": "classified_pending_trial"
     },
@@ -11787,7 +12157,37 @@
       "search_label": "三阶段项目逻辑",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "stages[0].heading",
+          "stages[1].heading",
+          "stages[2].heading",
+          "links[1].label",
+          "links[0].label",
+          "stages[0].item_a",
+          "stages[0].item_b",
+          "stages[0].item_c",
+          "stages[1].item_a",
+          "stages[1].item_b",
+          "stages[1].item_c",
+          "stages[2].item_a",
+          "stages[2].item_b",
+          "stages[2].item_c",
+          "stages[0].summary",
+          "stages[1].summary",
+          "stages[2].summary",
+          "footer.caption",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-253",
@@ -11837,7 +12237,30 @@
       "search_label": "五步品牌推进",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "steps[3].heading",
+          "steps[0].heading",
+          "steps[4].heading",
+          "steps[2].heading",
+          "steps[1].heading",
+          "steps[0].body",
+          "steps[1].body",
+          "steps[2].body",
+          "steps[3].body",
+          "steps[4].body",
+          "center.title",
+          "page.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-254",
@@ -12084,7 +12507,30 @@
       "search_label": "五阶段工作流程 五个上升阶段固定对应五组说明，STEP 编号锁定。 5项 固定项数",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "stages[0].heading",
+          "stages[1].heading",
+          "stages[2].heading",
+          "stages[3].heading",
+          "stages[4].heading",
+          "stages[0].body",
+          "stages[2].body",
+          "stages[3].body",
+          "stages[4].body",
+          "stages[1].body",
+          "section.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-258",
@@ -12224,7 +12670,7 @@
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
       "search_label": "五阶段活动推进 固定五阶段，日期连续递增；百分比须有材料依据，不得凭空生成。 5项 固定项数",
-      "matching_policy": "structural",
+      "matching_policy": "data_contract",
       "structure_type": "timeline",
       "matching_activation": "classified_pending_trial"
     },
@@ -12476,7 +12922,33 @@
       "search_label": "六项重点工作环",
       "matching_policy": "structural",
       "structure_type": "framework",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "framework",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "center.title",
+          "items[0].heading",
+          "items[0].body",
+          "items[3].heading",
+          "items[3].body",
+          "items[2].heading",
+          "items[2].body",
+          "items[5].heading",
+          "items[5].body",
+          "items[1].heading",
+          "items[1].body",
+          "items[4].heading",
+          "items[4].body",
+          "page.title",
+          "footer.summary"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-264",
@@ -12526,7 +12998,31 @@
       "search_label": "六阶段曲折流程 六步折返路径，第四至第六步以视觉顺序为准。 6项 固定项数",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "steps[0].heading",
+          "steps[1].heading",
+          "steps[2].heading",
+          "steps[5].heading",
+          "steps[4].heading",
+          "steps[3].heading",
+          "steps[0].body",
+          "steps[1].body",
+          "steps[2].body",
+          "steps[3].body",
+          "steps[4].body",
+          "steps[5].body"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-265",
@@ -12576,7 +13072,36 @@
       "search_label": "四阶段环形流程 四步圆环，中心中文标题限四字；英文副标题与 STEP 编号固定。 4项 固定项数",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "page.title",
+          "center.title",
+          "stages[0].heading",
+          "stages[0].body",
+          "stages[1].heading",
+          "stages[1].body",
+          "stages[2].heading",
+          "stages[2].body",
+          "stages[3].heading",
+          "stages[3].body",
+          "stages[0].tag_a",
+          "stages[0].tag_b",
+          "stages[1].tag_a",
+          "stages[1].tag_b",
+          "stages[2].tag_a",
+          "stages[2].tag_b",
+          "stages[3].tag_a",
+          "stages[3].tag_b"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-blue-266",
@@ -16264,7 +16789,31 @@
       "matching_avoid": "普通五要点或没有中心品牌定位",
       "matching_policy": "structural",
       "structure_type": "hierarchy",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "center.topic",
+          "center.body",
+          "item_1.title",
+          "item_2.body",
+          "item_3.body",
+          "item_3.title",
+          "item_1.subtitle",
+          "item_4.body",
+          "item_5.body",
+          "item_5.title",
+          "item_4.title",
+          "heading",
+          "summary"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-020",
@@ -16470,7 +17019,29 @@
       "matching_avoid": "没有层级关系的普通三项清单",
       "matching_policy": "structural",
       "structure_type": "hierarchy",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "heading",
+          "layer_3.pyramid",
+          "layer_2.pyramid",
+          "layer_1.pyramid",
+          "layer_3.badge",
+          "layer_1.description",
+          "layer_2.description",
+          "layer_3.description",
+          "layer_2.badge",
+          "layer_1.badge",
+          "summary"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-023",
@@ -16524,7 +17095,24 @@
       "matching_avoid": "仅有两个简短标签或没有总括说明时不适用。",
       "matching_policy": "structural",
       "structure_type": "parallel-points",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "heading",
+          "summary",
+          "left.body",
+          "right.body",
+          "right.title",
+          "left.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-024",
@@ -16578,7 +17166,30 @@
       "matching_avoid": "只有五项平列内容或缺工具说明",
       "matching_policy": "structural",
       "structure_type": "parallel-points",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "tool_1.body",
+          "tool_2.body",
+          "step_1.title",
+          "step_1.body",
+          "step_2.title",
+          "step_2.body",
+          "step_3.title",
+          "step_3.body",
+          "tool_2.title",
+          "heading",
+          "summary",
+          "tool_1.title"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-025",
@@ -16944,7 +17555,28 @@
       "matching_avoid": "简单双项对比或无闭环关系",
       "matching_policy": "structural",
       "structure_type": "cycle",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "cycle",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "heading",
+          "left.title",
+          "left.body",
+          "right.title",
+          "right.body",
+          "goal",
+          "metric_3",
+          "metric_2",
+          "metric_1",
+          "summary"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-031",
@@ -16996,7 +17628,7 @@
       "search_label": "三项机制与上层总结",
       "matching_use": "三项并列机制各有标题、正文，并有上层总结与页面摘要。",
       "matching_avoid": "仅有三张独立卡片、无上层总结时不适用。",
-      "matching_policy": "structural",
+      "matching_policy": "semantic_strict",
       "structure_type": "parallel-points",
       "matching_activation": "classified_pending_trial"
     },
@@ -17052,7 +17684,36 @@
       "matching_avoid": "只有四个短标签或步骤无先后",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "item_1.title",
+          "item_1.number",
+          "item_1.body_a",
+          "item_1.body_b",
+          "item_2.title",
+          "item_2.number",
+          "item_2.body_a",
+          "item_2.body_b",
+          "item_3.title",
+          "item_3.number",
+          "item_3.body_a",
+          "item_3.body_b",
+          "item_4.title",
+          "item_4.number",
+          "item_4.body_a",
+          "item_4.body_b",
+          "heading",
+          "summary"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-033",
@@ -17927,7 +18588,27 @@
       "matching_avoid": "三项无关联的案例清单或无中心中台",
       "matching_policy": "structural",
       "structure_type": "cycle",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "cycle",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "heading",
+          "item_1.body",
+          "item_1.title",
+          "item_2.body",
+          "item_2.title",
+          "item_3.body",
+          "item_3.title",
+          "center.topic",
+          "summary"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-047",
@@ -17981,7 +18662,32 @@
       "matching_avoid": "只有五个孤立标签或缺链条关系",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "heading",
+          "step_1.body",
+          "step_2.body",
+          "step_3.body",
+          "step_4.body",
+          "step_5.body",
+          "center.topic",
+          "center.subtitle",
+          "step_1.symbol",
+          "step_2.symbol",
+          "step_3.symbol",
+          "step_4.symbol",
+          "step_5.symbol",
+          "summary"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-048",
@@ -18258,7 +18964,31 @@
       "matching_avoid": "只有六个普通要点或无层级主张",
       "matching_policy": "structural",
       "structure_type": "hierarchy",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "scene_1",
+          "scene_2",
+          "scene_3",
+          "scene_4",
+          "scene_5",
+          "scene_6",
+          "scope_1",
+          "scope_2",
+          "scope_3",
+          "scope_4",
+          "top_conclusion",
+          "heading",
+          "summary"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-053",
@@ -18442,7 +19172,20 @@
       "matching_avoid": "多项并列信息或需要数值图表",
       "matching_policy": "structural",
       "structure_type": "single-focus",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "single-focus",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "heading",
+          "body"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-056",
@@ -18494,7 +19237,7 @@
       "search_label": "五项职业成长关键",
       "matching_use": "中心成长目标与五项支撑能力均有说明",
       "matching_avoid": "普通五点清单或缺中心成长目标",
-      "matching_policy": "structural",
+      "matching_policy": "semantic_strict",
       "structure_type": "process",
       "matching_activation": "classified_pending_trial"
     },
@@ -18550,7 +19293,32 @@
       "matching_avoid": "案例不足六项或无共同主题",
       "matching_policy": "structural",
       "structure_type": "hierarchy",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "case_1.title",
+          "case_1.subtitle",
+          "case_2.title",
+          "case_2.subtitle",
+          "case_3.title",
+          "case_3.subtitle",
+          "case_4.title",
+          "case_4.subtitle",
+          "case_5.title",
+          "case_5.subtitle",
+          "case_6.title",
+          "case_6.subtitle",
+          "heading",
+          "summary"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-058",
@@ -18604,7 +19372,28 @@
       "matching_avoid": "普通六项列表或无中心协作关系",
       "matching_policy": "structural",
       "structure_type": "cycle",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "cycle",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "heading",
+          "summary",
+          "center.topic",
+          "center.subtitle",
+          "partner_1",
+          "partner_2",
+          "partner_3",
+          "partner_4",
+          "partner_5",
+          "partner_6"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-059",
@@ -18658,7 +19447,31 @@
       "matching_avoid": "仅有五条平铺要点或缺技术核心",
       "matching_policy": "structural",
       "structure_type": "hierarchy",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "heading",
+          "summary",
+          "center.topic",
+          "capability_1.title",
+          "capability_1.body",
+          "capability_2.title",
+          "capability_2.body",
+          "capability_3.title",
+          "capability_3.body",
+          "capability_4.title",
+          "capability_4.body",
+          "capability_5.title",
+          "capability_5.body"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-060",
@@ -18712,7 +19525,29 @@
       "matching_avoid": "没有中心优势或不足四维",
       "matching_policy": "structural",
       "structure_type": "hierarchy",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "heading",
+          "pillar_1.title",
+          "pillar_2.title",
+          "pillar_2.body",
+          "pillar_3.title",
+          "pillar_4.title",
+          "pillar_4.body",
+          "pillar_3.body",
+          "pillar_1.body",
+          "center.topic",
+          "summary"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-061",
@@ -18766,7 +19601,28 @@
       "matching_avoid": "普通三条要点或缺中心生态",
       "matching_policy": "structural",
       "structure_type": "hierarchy",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "heading",
+          "pillar_1.body",
+          "pillar_1.title",
+          "pillar_2.title",
+          "pillar_2.body",
+          "pillar_3.title",
+          "pillar_3.body",
+          "pillar_3.detail",
+          "pillar_1.detail",
+          "center.topic"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "content-tech-062",
@@ -19094,7 +19950,26 @@
       "matching_avoid": "年份不足七个或年份内容未经材料证实",
       "matching_policy": "structural",
       "structure_type": "timeline",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "structure_ready",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "timeline",
+        "input_schema": "template_fields.v1",
+        "content_types": [
+          "template_fields"
+        ],
+        "required_binding_paths": [
+          "heading",
+          "milestone_1",
+          "milestone_2",
+          "milestone_3",
+          "milestone_4",
+          "milestone_5",
+          "milestone_6",
+          "milestone_7"
+        ],
+        "access_mode": "field_complete"
+      }
     },
     {
       "id": "data-chart-tech-067",
@@ -19639,7 +20514,7 @@
       "search_label": "四层用户画像金字塔",
       "matching_use": "四层人群各有名称、占比和特征",
       "matching_avoid": "人群不足四层、占比未核实或无法自洽",
-      "matching_policy": "structural",
+      "matching_policy": "data_contract",
       "structure_type": "hierarchy",
       "matching_activation": "classified_pending_trial"
     },
