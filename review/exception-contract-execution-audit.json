@@ -1,0 +1,1903 @@
+{
+  "schema_version": "1.0",
+  "scope": "approved body exception contracts",
+  "counts": {
+    "data_contract": 22,
+    "semantic_strict": 19
+  },
+  "rows": [
+    {
+      "id": "content-blue-015",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "progress",
+      "information_relation": "five-project-progress",
+      "structure_type": "progress",
+      "invariants": [],
+      "required_semantic_paths": [
+        "items[0].rate",
+        "items[1].rate",
+        "items[2].rate",
+        "items[3].rate",
+        "items[4].rate",
+        "quarters[0]",
+        "quarters[2]",
+        "quarters[3]",
+        "quarters[1]",
+        "items[0].rate_label",
+        "items[1].rate_label",
+        "items[2].rate_label",
+        "items[3].rate_label",
+        "items[4].rate_label",
+        "items[0].body",
+        "items[1].body",
+        "items[2].body",
+        "items[3].body",
+        "items[4].body",
+        "page.title",
+        "page.section",
+        "page.summary",
+        "items[0].title",
+        "items[1].title",
+        "items[2].title",
+        "items[3].title",
+        "items[4].title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "five-project-progress",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-025",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "timeline",
+      "information_relation": "quarter-milestone-matrix",
+      "structure_type": "timeline",
+      "invariants": [],
+      "required_semantic_paths": [
+        "page.title",
+        "quarters[0].milestones[0].title",
+        "quarters[0].milestones[0].body",
+        "quarters[0].milestones[1].title",
+        "quarters[0].milestones[1].body",
+        "quarters[0].milestones[2].title",
+        "quarters[0].milestones[3].title",
+        "quarters[1].milestones[0].title",
+        "quarters[1].milestones[1].title",
+        "quarters[1].milestones[2].title",
+        "quarters[1].milestones[3].title",
+        "quarters[2].milestones[0].title",
+        "quarters[2].milestones[1].title",
+        "quarters[2].milestones[2].title",
+        "quarters[2].milestones[3].title",
+        "quarters[3].milestones[0].title",
+        "quarters[3].milestones[1].title",
+        "quarters[3].milestones[2].title",
+        "quarters[3].milestones[3].title",
+        "quarters[1].milestones[0].body",
+        "quarters[1].milestones[1].body",
+        "quarters[1].milestones[2].body",
+        "quarters[1].milestones[3].body",
+        "quarters[2].milestones[0].body",
+        "quarters[2].milestones[1].body",
+        "quarters[2].milestones[2].body",
+        "quarters[2].milestones[3].body",
+        "quarters[3].milestones[0].body",
+        "quarters[3].milestones[1].body",
+        "quarters[3].milestones[2].body",
+        "quarters[3].milestones[3].body",
+        "quarters[0].milestones[2].body",
+        "quarters[0].milestones[3].body",
+        "quarters[0].label",
+        "quarters[0].focus",
+        "quarters[0].period",
+        "quarters[1].label",
+        "quarters[1].focus",
+        "quarters[1].period",
+        "quarters[2].label",
+        "quarters[2].focus",
+        "quarters[2].period",
+        "quarters[3].label",
+        "quarters[3].focus",
+        "quarters[3].period"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "quarter-milestone-matrix",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-036",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "data-chart",
+      "information_relation": "multi-metric-finance-dashboard",
+      "structure_type": "data-chart",
+      "invariants": [],
+      "required_semantic_paths": [
+        "page.title",
+        "metrics.visitors.label",
+        "metrics.visitors.value",
+        "metrics.deals.label",
+        "metrics.deals.value",
+        "metrics.revenue.label",
+        "metrics.revenue.value",
+        "metrics.cost.label",
+        "metrics.cost.value",
+        "metrics.balance.label",
+        "metrics.balance.value",
+        "metrics.visitors.note",
+        "metrics.deals.note",
+        "metrics.revenue.note",
+        "metrics.cost.note",
+        "metrics.balance.note",
+        "chart.callouts[0]",
+        "chart.callouts[1]",
+        "chart.callouts[2]",
+        "chart.callouts[3]",
+        "shares[0].value",
+        "shares[0].label",
+        "shares[0].english",
+        "shares[1].value",
+        "shares[1].label",
+        "shares[1].english",
+        "shares[2].value",
+        "shares[2].english",
+        "shares[2].label"
+      ],
+      "rule_keys": [
+        "four_chart_table_consistency"
+      ],
+      "executable_checks": [
+        "plan_deck.eligible:data_source_missing",
+        "fill_layout:four_chart_table_consistency",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "multi-metric-finance-dashboard",
+        "all_required_bindings": true,
+        "source_data_required": true
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": true
+      },
+      "status": "program_rule_present_meaning_review_pending",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-050",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "comparison",
+      "information_relation": "risk-response",
+      "structure_type": "risk-response",
+      "invariants": [
+        "风险与措施逐项对应"
+      ],
+      "required_semantic_paths": [
+        "page.title",
+        "page.risk_heading",
+        "page.response_heading",
+        "risks[0].detail",
+        "risks[1].detail",
+        "responses[0].detail",
+        "responses[1].detail",
+        "risks[2].detail",
+        "risks[3].detail",
+        "responses[2].detail",
+        "responses[3].detail",
+        "responses[1].detail_2",
+        "responses[3].detail_2",
+        "principles[0]",
+        "principles[1]",
+        "principles[2]",
+        "risks[0].title",
+        "risks[1].title",
+        "risks[2].title",
+        "risks[3].title",
+        "responses[0].title",
+        "responses[1].title",
+        "responses[2].title",
+        "responses[3].title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "risk-response",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-070",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "schedule",
+      "information_relation": "six-project-year-schedule",
+      "structure_type": "schedule",
+      "invariants": [],
+      "required_semantic_paths": [
+        "page.title",
+        "tasks[0].stages[0]",
+        "tasks[0].stages[1]",
+        "tasks[0].stages[2]",
+        "tasks[1].stages[0]",
+        "tasks[1].stages[1]",
+        "tasks[1].stages[2]",
+        "tasks[2].stages[0]",
+        "tasks[2].stages[1]",
+        "tasks[2].stages[2]",
+        "tasks[3].stages[0]",
+        "tasks[3].stages[1]",
+        "tasks[3].stages[2]",
+        "tasks[4].stages[0]",
+        "tasks[4].stages[1]",
+        "tasks[4].stages[2]",
+        "tasks[5].stages[0]",
+        "tasks[5].stages[1]",
+        "tasks[5].stages[2]",
+        "tasks[0].level",
+        "tasks[1].level",
+        "tasks[2].level",
+        "tasks[3].level",
+        "tasks[4].level",
+        "tasks[5].level",
+        "tasks[0].code",
+        "tasks[1].code",
+        "tasks[2].code",
+        "tasks[3].code",
+        "tasks[4].code",
+        "tasks[5].code",
+        "tasks[0].name",
+        "tasks[1].name",
+        "tasks[2].name",
+        "tasks[3].name",
+        "tasks[4].name",
+        "tasks[5].name"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "six-project-year-schedule",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-076",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "content",
+      "information_relation": "four-direction-outlook",
+      "structure_type": "four-part-cycle",
+      "invariants": [
+        "四部分之间存在真实循环关系",
+        "中心标题与每段短标签均来自材料"
+      ],
+      "required_semantic_paths": [
+        "page.title",
+        "directions[0].body",
+        "directions[0].heading",
+        "directions[3].heading",
+        "directions[1].heading",
+        "directions[2].heading",
+        "directions[1].body",
+        "directions[3].body",
+        "directions[2].body",
+        "directions[0].short",
+        "center.title",
+        "directions[1].short",
+        "directions[2].short",
+        "directions[3].short"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "cycle",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-081",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "summary",
+      "information_relation": "three-goal-achievement",
+      "structure_type": "summary",
+      "invariants": [],
+      "required_semantic_paths": [
+        "page.title",
+        "goals[0].heading",
+        "goals[1].heading",
+        "goals[2].heading",
+        "goals[0].body",
+        "goals[1].body",
+        "goals[2].body",
+        "kpis.total.label",
+        "kpis.done.label",
+        "kpis.pending.label",
+        "kpis.rate.label",
+        "kpis.total.value",
+        "kpis.done.value",
+        "kpis.pending.value",
+        "kpis.rate.value",
+        "summary.label",
+        "goals[0].tag_a",
+        "goals[0].tag_b",
+        "goals[1].tag_a",
+        "goals[1].tag_b",
+        "goals[2].tag_a",
+        "goals[2].tag_b"
+      ],
+      "rule_keys": [
+        "goal_kpi_consistency"
+      ],
+      "executable_checks": [
+        "fill_layout:goal_kpi_consistency",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "three-goal-achievement",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "program_rule_present_meaning_review_pending",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-102",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "timeline",
+      "information_relation": "five-milestone-roadmap",
+      "structure_type": "timeline",
+      "invariants": [],
+      "required_semantic_paths": [
+        "range.start",
+        "range.end",
+        "milestones[0].body",
+        "milestones[0].heading",
+        "milestones[0].date",
+        "milestones[1].body",
+        "milestones[1].heading",
+        "milestones[1].date",
+        "milestones[2].body",
+        "milestones[2].heading",
+        "milestones[2].date",
+        "milestones[3].body",
+        "milestones[3].heading",
+        "milestones[3].date",
+        "milestones[4].body",
+        "milestones[4].heading",
+        "milestones[4].date",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "five-milestone-roadmap",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-119",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "process",
+      "information_relation": "six-step-problem-solving",
+      "structure_type": "process",
+      "invariants": [],
+      "required_semantic_paths": [
+        "page.title",
+        "center.focus[0]",
+        "center.focus[1]",
+        "center.focus[2]",
+        "center.focus[3]",
+        "center.title",
+        "steps[0].heading",
+        "steps[0].body",
+        "steps[1].heading",
+        "steps[1].body",
+        "steps[2].heading",
+        "steps[2].body",
+        "steps[3].heading",
+        "steps[3].body",
+        "steps[4].heading",
+        "steps[4].body",
+        "steps[5].heading",
+        "steps[5].body"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "six-step-problem-solving",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-123",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "comparison",
+      "information_relation": "three-risk-response-pairs",
+      "structure_type": "comparison",
+      "invariants": [],
+      "required_semantic_paths": [
+        "risks[0].heading",
+        "risks[1].heading",
+        "risks[2].heading",
+        "responses[0].heading",
+        "responses[1].heading",
+        "responses[2].heading",
+        "risks[0].body",
+        "risks[1].body",
+        "risks[2].body",
+        "responses[0].body",
+        "responses[2].body",
+        "responses[1].body",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "three-risk-response-pairs",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-125",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "framework",
+      "information_relation": "smart-goal-framework",
+      "structure_type": "smart-five",
+      "invariants": [
+        "SMART 五维逐项对应"
+      ],
+      "required_semantic_paths": [
+        "dimensions[0].evidence[0]",
+        "dimensions[0].evidence[1]",
+        "dimensions[0].evidence[2]",
+        "dimensions[1].evidence[0]",
+        "dimensions[1].evidence[1]",
+        "dimensions[1].evidence[2]",
+        "dimensions[2].evidence[0]",
+        "dimensions[2].evidence[1]",
+        "dimensions[2].evidence[2]",
+        "dimensions[3].evidence[0]",
+        "dimensions[3].evidence[1]",
+        "dimensions[3].evidence[2]",
+        "dimensions[4].evidence[0]",
+        "dimensions[4].evidence[1]",
+        "dimensions[4].evidence[2]",
+        "dimensions[0].description",
+        "dimensions[1].description",
+        "dimensions[2].description",
+        "dimensions[3].description",
+        "dimensions[4].description",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "smart-goal-framework",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-128",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "framework",
+      "information_relation": "four-improvement-practices",
+      "structure_type": "framework",
+      "invariants": [],
+      "required_semantic_paths": [
+        "practices[0].heading",
+        "practices[1].heading",
+        "practices[2].heading",
+        "practices[3].heading",
+        "practices[0].tag_a",
+        "practices[0].tag_b",
+        "practices[1].tag_a",
+        "practices[1].tag_b",
+        "practices[2].tag_a",
+        "practices[2].tag_b",
+        "practices[3].tag_a",
+        "practices[3].tag_b",
+        "practices[0].body",
+        "practices[1].body",
+        "practices[2].body",
+        "practices[3].body",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "four-improvement-practices",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-135",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "comparison",
+      "information_relation": "issue-action-two-pairs",
+      "structure_type": "comparison",
+      "invariants": [],
+      "required_semantic_paths": [
+        "plan.steps[0]",
+        "plan.steps[1]",
+        "plan.steps[2]",
+        "plan.steps[3]",
+        "page.title",
+        "issues[0].tags[0]",
+        "issues[0].tags[1]",
+        "issues[0].tags[2]",
+        "issues[0].title",
+        "issues[1].title",
+        "actions[0].title",
+        "actions[1].title",
+        "issues[1].tags[0]",
+        "issues[1].tags[1]",
+        "issues[1].tags[2]",
+        "actions[0].tags[0]",
+        "actions[0].tags[1]",
+        "actions[0].tags[2]",
+        "actions[1].tags[0]",
+        "actions[1].tags[1]",
+        "actions[1].tags[2]",
+        "center.issue_label",
+        "center.action_label",
+        "issues[0].body",
+        "issues[1].body",
+        "actions[0].body",
+        "actions[1].body",
+        "plan.label",
+        "center.team_label",
+        "center.personal_label"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "issue-action-two-pairs",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-138",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "comparison",
+      "information_relation": "two-dimension-four-quadrant-balance",
+      "structure_type": "comparison",
+      "invariants": [],
+      "required_semantic_paths": [
+        "quadrants[0].tag_a",
+        "quadrants[0].tag_b",
+        "quadrants[1].tag_a",
+        "quadrants[1].tag_b",
+        "quadrants[2].tag_a",
+        "quadrants[2].tag_b",
+        "quadrants[3].tag_a",
+        "quadrants[3].tag_b",
+        "center.top",
+        "center.bottom",
+        "quadrants[0].body",
+        "quadrants[0].heading",
+        "quadrants[2].body",
+        "quadrants[2].heading",
+        "quadrants[1].body",
+        "quadrants[1].heading",
+        "quadrants[3].body",
+        "quadrants[3].heading",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "two-dimension-four-quadrant-balance",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-146",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "timeline",
+      "information_relation": "four-quarter-capability-plan",
+      "structure_type": "timeline",
+      "invariants": [],
+      "required_semantic_paths": [
+        "goals[0].heading",
+        "goals[1].heading",
+        "goals[2].heading",
+        "goals[3].heading",
+        "quarters[0].label",
+        "quarters[1].label",
+        "quarters[2].label",
+        "quarters[3].label",
+        "quarters[0].body",
+        "quarters[1].body",
+        "annotation",
+        "quarters[3].body",
+        "quarters[2].body",
+        "closing",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "four-quarter-capability-plan",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-150",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "parallel",
+      "information_relation": "parallel-items",
+      "structure_type": "ordered-steps",
+      "invariants": [],
+      "required_semantic_paths": [
+        "items[0].detail_1",
+        "items[0].title",
+        "items[0].detail_2",
+        "items[1].detail_1",
+        "items[1].title",
+        "items[1].detail_2",
+        "items[2].detail_1",
+        "items[2].title",
+        "items[2].detail_2",
+        "items[3].detail_1",
+        "items[3].title",
+        "items[3].detail_2",
+        "items[4].detail_1",
+        "items[4].title",
+        "items[4].detail_2",
+        "items[0].footer",
+        "items[1].footer",
+        "items[2].footer",
+        "items[3].footer",
+        "items[4].footer",
+        "page.title",
+        "page.summary"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "ordered-steps",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-152",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "framework",
+      "information_relation": "three-goal-target",
+      "structure_type": "goal-convergence",
+      "invariants": [],
+      "required_semantic_paths": [
+        "page.title",
+        "goals[0].body",
+        "goals[1].body",
+        "goals[2].body",
+        "goals[0].heading",
+        "goals[1].heading",
+        "goals[2].heading"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "goal-convergence",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-157",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "schedule",
+      "information_relation": "four-task-quarter-plan",
+      "structure_type": "schedule",
+      "invariants": [],
+      "required_semantic_paths": [
+        "page.title",
+        "tasks[0].period",
+        "tasks[3].period",
+        "tasks[0].label",
+        "tasks[1].label",
+        "tasks[2].label",
+        "tasks[3].label",
+        "tasks[1].period",
+        "tasks[2].period",
+        "quarters[0].heading",
+        "quarters[1].heading",
+        "tasks[0].goal",
+        "tasks[0].heading",
+        "tasks[0].method",
+        "tasks[1].goal",
+        "tasks[1].heading",
+        "tasks[1].method",
+        "tasks[2].goal",
+        "tasks[2].heading",
+        "tasks[2].method",
+        "tasks[3].goal",
+        "tasks[3].heading",
+        "tasks[3].method"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "four-task-quarter-plan",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-182",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "framework",
+      "information_relation": "four-method-execution-quadrants",
+      "structure_type": "framework",
+      "invariants": [],
+      "required_semantic_paths": [
+        "methods[0].heading",
+        "methods[2].heading",
+        "methods[1].heading",
+        "methods[3].heading",
+        "center.title",
+        "methods[0].body",
+        "methods[2].body",
+        "methods[1].body",
+        "methods[3].body",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "four-method-execution-quadrants",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-191",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "data-table",
+      "information_relation": "six-task-gantt",
+      "structure_type": "data-table",
+      "invariants": [],
+      "required_semantic_paths": [
+        "tasks[1].period",
+        "tasks[3].period",
+        "tasks[0].period",
+        "tasks[4].period",
+        "tasks[5].period",
+        "tasks[2].period",
+        "summary[0].label",
+        "summary[0].rate",
+        "summary[1].label",
+        "summary[1].rate",
+        "tasks[0].note",
+        "tasks[1].note",
+        "tasks[2].note",
+        "tasks[3].note",
+        "tasks[4].note",
+        "tasks[5].note",
+        "summary[2].label",
+        "summary[2].rate",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "six-task-gantt",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-201",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "timeline",
+      "information_relation": "ten-year-roadmap",
+      "structure_type": "timeline",
+      "invariants": [],
+      "required_semantic_paths": [
+        "years[6].body",
+        "years[7].body",
+        "years[8].body",
+        "years[9].body",
+        "years[0].label",
+        "years[1].label",
+        "years[2].label",
+        "years[3].label",
+        "years[6].label",
+        "years[7].label",
+        "years[8].label",
+        "years[9].label",
+        "years[5].label",
+        "years[4].label",
+        "years[0].body",
+        "years[1].body",
+        "years[2].body",
+        "years[3].body",
+        "years[5].body",
+        "years[4].body",
+        "corner.bottom_a",
+        "corner.bottom_b",
+        "corner.top_a",
+        "corner.top_b",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "ten-year-roadmap",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-202",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "timeline",
+      "information_relation": "five-stage-ten-year-roadmap",
+      "structure_type": "timeline",
+      "invariants": [],
+      "required_semantic_paths": [
+        "stages[1].label",
+        "stages[2].label",
+        "stages[3].label",
+        "stages[4].label",
+        "stages[0].label",
+        "section.title",
+        "stages[0].heading",
+        "stages[0].body",
+        "stages[1].heading",
+        "stages[1].body",
+        "stages[2].heading",
+        "stages[2].body",
+        "stages[3].heading",
+        "stages[3].body",
+        "stages[4].heading",
+        "stages[4].body",
+        "stages[4].skill_body",
+        "stages[3].skill_body",
+        "stages[3].skill_label",
+        "stages[4].skill_label",
+        "stages[0].period",
+        "stages[1].period",
+        "stages[2].period",
+        "stages[3].period",
+        "stages[4].period",
+        "section.intro",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "five-stage-ten-year-roadmap",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-208",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "schedule",
+      "information_relation": "four-quarter-alternating-plan",
+      "structure_type": "schedule",
+      "invariants": [],
+      "required_semantic_paths": [
+        "quarters[0].heading",
+        "quarters[0].short",
+        "quarters[1].short",
+        "quarters[2].short",
+        "quarters[3].short",
+        "quarters[1].heading",
+        "quarters[2].heading",
+        "quarters[3].heading",
+        "quarters[0].body",
+        "quarters[1].body",
+        "quarters[2].body",
+        "quarters[3].body",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "four-quarter-alternating-plan",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-231",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "process",
+      "information_relation": "four-step-approval-process",
+      "structure_type": "process",
+      "invariants": [],
+      "required_semantic_paths": [
+        "steps[1].card_heading",
+        "steps[2].card_heading",
+        "steps[3].card_heading",
+        "decision.review",
+        "decision.verify",
+        "steps[0].heading",
+        "steps[1].heading",
+        "steps[2].heading",
+        "steps[3].heading",
+        "steps[0].body",
+        "steps[1].body",
+        "decision.pass",
+        "decision.fail",
+        "decision.success",
+        "decision.retry",
+        "steps[2].body",
+        "steps[3].body",
+        "steps[0].card_heading",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "four-step-approval-process",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-247",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "comparison",
+      "information_relation": "five-change-outcome-columns",
+      "structure_type": "comparison",
+      "invariants": [],
+      "required_semantic_paths": [
+        "items[0].heading",
+        "items[1].heading",
+        "items[2].heading",
+        "items[3].heading",
+        "items[4].heading",
+        "items[0].change",
+        "items[0].outcome",
+        "items[1].change",
+        "items[1].outcome",
+        "items[2].change",
+        "items[2].outcome",
+        "items[3].change",
+        "items[3].outcome",
+        "items[4].change",
+        "items[4].outcome",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "five-change-outcome-columns",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-249",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "framework",
+      "information_relation": "four-layer-brand-value",
+      "structure_type": "framework",
+      "invariants": [],
+      "required_semantic_paths": [
+        "levels[0].label",
+        "levels[1].label",
+        "levels[2].label",
+        "levels[3].label",
+        "details[0].body",
+        "details[0].heading",
+        "details[1].body",
+        "details[1].heading",
+        "details[2].body",
+        "details[2].heading",
+        "details[3].body",
+        "details[3].heading",
+        "page.title",
+        "metrics[0].value",
+        "metrics[1].value",
+        "metrics[0].body",
+        "metrics[1].body"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "four-layer-brand-value",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-254",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "comparison",
+      "information_relation": "four-issue-solution-columns",
+      "structure_type": "comparison",
+      "invariants": [],
+      "required_semantic_paths": [
+        "pairs[0].issue.heading",
+        "pairs[0].issue.body",
+        "pairs[0].solution",
+        "pairs[1].issue.heading",
+        "pairs[1].issue.body",
+        "pairs[1].solution",
+        "pairs[2].issue.heading",
+        "pairs[2].issue.body",
+        "pairs[2].solution",
+        "pairs[3].issue.heading",
+        "pairs[3].issue.body",
+        "pairs[3].solution",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "four-issue-solution-columns",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-259",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "timeline",
+      "information_relation": "five-stage-event-plan",
+      "structure_type": "timeline",
+      "invariants": [],
+      "required_semantic_paths": [
+        "section.title",
+        "stages[0].heading",
+        "stages[0].date",
+        "stages[0].body",
+        "stages[1].heading",
+        "stages[1].date",
+        "stages[1].body",
+        "stages[2].heading",
+        "stages[2].date",
+        "stages[2].body",
+        "stages[3].heading",
+        "stages[3].date",
+        "stages[3].body",
+        "stages[4].heading",
+        "stages[4].date",
+        "stages[4].body",
+        "footer.summary",
+        "metrics.progress.value",
+        "page.title"
+      ],
+      "rule_keys": [
+        "long_copy_validation"
+      ],
+      "executable_checks": [
+        "fill_layout:long_copy_validation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "five-stage-event-plan",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "program_rule_present_meaning_review_pending",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-260",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "cycle",
+      "information_relation": "cyclical-process",
+      "structure_type": "cycle",
+      "invariants": [],
+      "required_semantic_paths": [
+        "steps[0].body",
+        "steps[0].title",
+        "steps[0].number",
+        "steps[1].number",
+        "steps[3].number",
+        "steps[2].number",
+        "steps[1].body",
+        "steps[1].title",
+        "source.ghost_header",
+        "steps[3].body",
+        "steps[3].title",
+        "steps[2].body",
+        "steps[2].title",
+        "page.title"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "cyclical-process",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-262",
+      "policy": "semantic_strict",
+      "style_family": null,
+      "role": "process",
+      "information_relation": "four-step-planning-cycle",
+      "structure_type": "process",
+      "invariants": [],
+      "required_semantic_paths": [
+        "center.title",
+        "steps[0].body",
+        "steps[0].heading",
+        "steps[3].body",
+        "steps[3].heading",
+        "steps[1].body",
+        "steps[1].heading",
+        "steps[2].body",
+        "steps[2].heading",
+        "page.title"
+      ],
+      "rule_keys": [
+        "long_copy_validation"
+      ],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:long_copy_validation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "four-step-planning-cycle",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "program_rule_present_meaning_review_pending",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-268",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "data-chart",
+      "information_relation": "annual-revenue-cost-profit",
+      "structure_type": "data-chart",
+      "invariants": [],
+      "required_semantic_paths": [
+        "page.title",
+        "chart.callouts[0]",
+        "chart.callouts[1]",
+        "chart.callouts[2]",
+        "chart.callouts[3]",
+        "metrics.revenue.label",
+        "metrics.revenue.value",
+        "metrics.revenue.english",
+        "metrics.cost.label",
+        "metrics.cost.value",
+        "metrics.cost.english",
+        "metrics.profit.label",
+        "metrics.profit.value",
+        "metrics.profit.english",
+        "analysis.title",
+        "analysis.paragraphs[0]",
+        "analysis.paragraphs[1]"
+      ],
+      "rule_keys": [
+        "annual_finance_consistency"
+      ],
+      "executable_checks": [
+        "plan_deck.eligible:data_source_missing",
+        "fill_layout:annual_finance_consistency",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "annual-revenue-cost-profit",
+        "all_required_bindings": true,
+        "source_data_required": true
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": true
+      },
+      "status": "program_rule_present_meaning_review_pending",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-270",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "data-chart",
+      "information_relation": "two-metric-period-trend",
+      "structure_type": "data-chart",
+      "invariants": [],
+      "required_semantic_paths": [
+        "page.title",
+        "metrics[0].value",
+        "metrics[0].caption",
+        "metrics[0].chart_title",
+        "metrics[0].insight",
+        "metrics[1].value",
+        "metrics[1].caption",
+        "metrics[1].chart_title",
+        "metrics[1].insight"
+      ],
+      "rule_keys": [
+        "paired_chart_consistency"
+      ],
+      "executable_checks": [
+        "plan_deck.eligible:data_source_missing",
+        "fill_layout:paired_chart_consistency",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "two-metric-period-trend",
+        "all_required_bindings": true,
+        "source_data_required": true
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": true
+      },
+      "status": "program_rule_present_meaning_review_pending",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-279",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "data-table",
+      "information_relation": "quarterly-detail",
+      "structure_type": "data-table",
+      "invariants": [],
+      "required_semantic_paths": [
+        "page.title",
+        "page.section_title",
+        "quarter_rates[1]",
+        "quarter_rates[2]",
+        "quarter_rates[3]",
+        "quarter_rates[0]",
+        "page.rate_title",
+        "notes[0].title",
+        "notes[1].title",
+        "notes[0].body",
+        "notes[1].body"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "quarterly-detail",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-blue-292",
+      "policy": "data_contract",
+      "style_family": null,
+      "role": "data-chart",
+      "information_relation": "quarter-revenue-cost-analysis",
+      "structure_type": "data-chart",
+      "invariants": [],
+      "required_semantic_paths": [
+        "page.title",
+        "analysis.heading",
+        "metrics.revenue.value",
+        "metrics.cost.value",
+        "metrics.growth.value",
+        "metrics.growth.label",
+        "chart.heading",
+        "chart.legend_revenue",
+        "chart.legend_cost",
+        "metrics.revenue.label",
+        "metrics.cost.label",
+        "analysis.summary",
+        "analysis.outlook"
+      ],
+      "rule_keys": [
+        "annual_two_series_consistency"
+      ],
+      "executable_checks": [
+        "plan_deck.eligible:data_source_missing",
+        "fill_layout:annual_two_series_consistency",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "quarter-revenue-cost-analysis",
+        "all_required_bindings": true,
+        "source_data_required": true
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": true
+      },
+      "status": "program_rule_present_meaning_review_pending",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-tech-017",
+      "policy": "data_contract",
+      "style_family": "deep-blue-tech",
+      "role": "content",
+      "information_relation": "metrics",
+      "structure_type": "metrics",
+      "invariants": [],
+      "required_semantic_paths": [
+        "center.topic",
+        "metric_1.label",
+        "metric_2.label",
+        "metric_3.label",
+        "metric_4.label",
+        "foundation.topic",
+        "metric_1.value",
+        "metric_1.name",
+        "metric_2.value",
+        "metric_2.name",
+        "metric_3.value",
+        "metric_3.name",
+        "metric_4.value",
+        "metric_4.name",
+        "heading",
+        "summary"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "metrics",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-tech-031",
+      "policy": "semantic_strict",
+      "style_family": "deep-blue-tech",
+      "role": "content",
+      "information_relation": "parallel-points",
+      "structure_type": "parallel-points",
+      "invariants": [],
+      "required_semantic_paths": [
+        "item_1.title",
+        "item_2.title",
+        "item_3.title",
+        "item_1.body",
+        "item_2.body",
+        "item_3.body",
+        "top_summary",
+        "heading",
+        "summary"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "parallel-points",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-tech-053",
+      "policy": "data_contract",
+      "style_family": "deep-blue-tech",
+      "role": "content",
+      "information_relation": "metrics",
+      "structure_type": "metrics",
+      "invariants": [],
+      "required_semantic_paths": [
+        "heading",
+        "metric_3.label",
+        "metric_1.value",
+        "metric_2.value",
+        "metric_3.value",
+        "metric_1.label",
+        "metric_1.body",
+        "metric_2.label",
+        "metric_2.body",
+        "metric_3.body"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "metrics",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-tech-056",
+      "policy": "semantic_strict",
+      "style_family": "deep-blue-tech",
+      "role": "content",
+      "information_relation": "process",
+      "structure_type": "process",
+      "invariants": [],
+      "required_semantic_paths": [
+        "item_1.title",
+        "item_1.body",
+        "item_2.body",
+        "item_2.title",
+        "item_3.body",
+        "item_3.title",
+        "item_4.body",
+        "item_4.title",
+        "item_5.body",
+        "item_5.title",
+        "center.count",
+        "heading",
+        "summary"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.matches_strict_contract:required_relation",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "process",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": "unrelated-independent-points",
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "data-chart-tech-071",
+      "policy": "data_contract",
+      "style_family": "deep-blue-tech",
+      "role": "data-chart",
+      "information_relation": "data-chart",
+      "structure_type": "data-chart",
+      "invariants": [],
+      "required_semantic_paths": [
+        "heading",
+        "summary",
+        "conclusion",
+        "chart_caption"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.eligible:data_source_missing",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "data-chart",
+        "all_required_bindings": true,
+        "source_data_required": true
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": true
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "data-chart-tech-075",
+      "policy": "data_contract",
+      "style_family": "deep-blue-tech",
+      "role": "data-chart",
+      "information_relation": "data-chart",
+      "structure_type": "data-chart",
+      "invariants": [],
+      "required_semantic_paths": [
+        "kpi_1.label",
+        "kpi_1.value",
+        "kpi_2.label",
+        "kpi_2.value",
+        "kpi_3.label",
+        "kpi_3.value",
+        "heading",
+        "chart_label",
+        "trend_note"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "plan_deck.eligible:data_source_missing",
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "data-chart",
+        "all_required_bindings": true,
+        "source_data_required": true
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": true
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    },
+    {
+      "id": "content-tech-077",
+      "policy": "data_contract",
+      "style_family": "deep-blue-tech",
+      "role": "content",
+      "information_relation": "hierarchy",
+      "structure_type": "hierarchy",
+      "invariants": [],
+      "required_semantic_paths": [
+        "tier_1.label",
+        "tier_2.label",
+        "tier_3.label",
+        "tier_4.label",
+        "tier_1.description",
+        "tier_2.description",
+        "tier_3.description",
+        "tier_4.description",
+        "pyramid_caption",
+        "pyramid_summary",
+        "heading",
+        "tier_1.ratio_label",
+        "tier_1.ratio",
+        "tier_2.ratio_label",
+        "tier_2.ratio",
+        "tier_3.ratio_label",
+        "tier_3.ratio",
+        "tier_4.ratio_label",
+        "tier_4.ratio"
+      ],
+      "rule_keys": [],
+      "executable_checks": [
+        "fill_layout:required_binding_fields_and_limits"
+      ],
+      "positive_fixture": {
+        "information_relation": "hierarchy",
+        "all_required_bindings": true,
+        "source_data_required": false
+      },
+      "negative_fixture": {
+        "information_relation": null,
+        "missing_required_binding": true,
+        "missing_source_data": false
+      },
+      "status": "pending_meaning_review",
+      "review_reason": "关系标签与字段存在；固定图形/图表口径仍需人工核对真实材料，未自行签收。"
+    }
+  ]
+}

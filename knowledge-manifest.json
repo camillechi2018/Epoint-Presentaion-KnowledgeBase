@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "version": "1.0.0-draft",
   "status": "draft_pending_review",
-  "file_count": 3440,
+  "file_count": 3441,
   "files": {
     ".gitignore": "01f797f0f3bba220a65d704559a3adb2beaecf1ab31b60cdd61b163b5c3a02f1",
     "BRANCH.md": "c6a9c3024650822dee9266a9b4f306873f0bf191b534581809e48b868f0e84b9",
@@ -3443,6 +3443,7 @@
     "review/structural-longcopy-crosscheck-2026-11-10.md": "fb913b7162930937e6d0346893720bc6ef9c139b7f5ba09eb886064da4f1e717",
     "review/structural-remaining53-batch16-2026-11-10.md": "4f08d72058bb24b1833378c49fcb5eb7959a2a3c363a9f27a5e42506ab925fed",
     "review/structural-semantic-unbinding-2026-11-10.md": "0d11185277589ca21352f418312d938b98a98114b411e33f86fdccc40301bc3f",
-    "review/body-capacity-preflight-policy.json": "965f832fc51f223d0a16d489e5cc979d948f5332c70f71974114833fd895f495"
+    "review/body-capacity-preflight-policy.json": "965f832fc51f223d0a16d489e5cc979d948f5332c70f71974114833fd895f495",
+    "review/exception-contract-execution-audit.json": "f0013b46d783a46ddc93b0c99fcee2325a514482e5237be6267ec34dfa07f091"
   }
 }
