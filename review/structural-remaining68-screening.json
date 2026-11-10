@@ -63,9 +63,9 @@
     {
       "id": "content-blue-133",
       "first_pass": "text_fill_and_powerpoint_render",
-      "reason_category": "field_mapping_and_capacity",
-      "auto_matching_activated": false,
-      "next_gate": "field_mapping_and_capacity"
+      "reason_category": null,
+      "auto_matching_activated": true,
+      "next_gate": "pilot_verified_after_cross_business_trial"
     },
     {
       "id": "content-blue-142",
@@ -175,9 +175,9 @@
     {
       "id": "content-blue-230",
       "first_pass": "text_fill_and_powerpoint_render",
-      "reason_category": "field_mapping_and_capacity",
-      "auto_matching_activated": false,
-      "next_gate": "field_mapping_and_capacity"
+      "reason_category": null,
+      "auto_matching_activated": true,
+      "next_gate": "pilot_verified_after_cross_business_trial"
     },
     {
       "id": "content-blue-231",

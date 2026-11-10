@@ -6099,7 +6099,35 @@
       "search_label": "三组问题与措施",
       "matching_policy": "structural",
       "structure_type": "comparison",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "comparison",
+        "content_types": [
+          "problem_action_pairs"
+        ],
+        "verified_counts": [
+          3
+        ],
+        "item_fields": [
+          "problem_title",
+          "problem_body",
+          "action_title",
+          "action_body"
+        ],
+        "required_content_fields": [
+          "axis_top",
+          "axis_bottom",
+          "problem_label",
+          "action_label"
+        ],
+        "compatible_relations": [
+          "comparison",
+          "problem-solution",
+          "problem-action"
+        ],
+        "input_schema": "problem_action_pairs.v1"
+      }
     },
     {
       "id": "content-blue-134",
@@ -10677,7 +10705,29 @@
       "search_label": "五阶段流程",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "content_types": [
+          "phase_goal_activity_output"
+        ],
+        "verified_counts": [
+          5
+        ],
+        "item_fields": [
+          "title",
+          "goal",
+          "activity",
+          "output"
+        ],
+        "compatible_relations": [
+          "process",
+          "stage-process",
+          "roadmap"
+        ],
+        "input_schema": "phase_goal_activity_output.v1"
+      }
     },
     {
       "id": "content-blue-231",
