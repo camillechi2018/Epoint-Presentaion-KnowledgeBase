@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "version": "1.0.0-draft",
   "status": "draft_pending_review",
-  "file_count": 3424,
+  "file_count": 3425,
   "files": {
     ".gitignore": "01f797f0f3bba220a65d704559a3adb2beaecf1ab31b60cdd61b163b5c3a02f1",
     "BRANCH.md": "c6a9c3024650822dee9266a9b4f306873f0bf191b534581809e48b868f0e84b9",
@@ -18,7 +18,7 @@
     "brand/logo/logo-white.svg": "8a88f37c17458a889c9acb62c224e148f62e1a164256be9e71a7611c1b3e7570",
     "brand/logo/logo.png": "fc7c0355681062dc1736d071660d71cfe83a7abbfc5542e52d9688f9425789ad",
     "brand/logo/logo.svg": "4245bf98e06c00ef7351e0d24018b5edfd363a455a11af2040bcd439d7f611e2",
-    "catalog.json": "91e24e5468d2576313a2c4495f8f6bc1dd2351c052b7a0bdf8ba986ac7696260",
+    "catalog.json": "6d084d038eb5a262e9f4449b5396b6ef866b21d75adfabe0ee3ce733dacd5347",
     "closing-assets/tech/P082-composition.json": "7b1bb4212b67108ce98ca340cdc40f1040561f15498bbb6ec97da984d0f381d0",
     "closing-assets/tech/P083-composition.json": "b5c83820dc324411eaafa54423ccab4227bb6298e24b253c216f0375875a2e83",
     "closing-assets/tech/P084-composition.json": "946ea654f01b40f6d9f67f7a370ba398dc6bfed52f067d3894d36aa0c5fdcd53",
@@ -677,8 +677,8 @@
     "layouts/content-blue-111/layout_rules.json": "0a0ec06bcc945615c03aa2c130e3218de5b88c6aaebf46f1bcd9c91db75f59a9",
     "layouts/content-blue-111/motion.json": "300fb58d7ef05c539d184d5a97533d3daf68a17ede1422b1d3272d94f10b6502",
     "layouts/content-blue-111/spec.md": "2bdf94f8ee40997f48707de2a8a62d3b2fd0b46f361b66e82b8057159434804b",
-    "layouts/content-blue-112/bindings-red.json": "0ec7a11df6ff23085cb9f35a0679c82994bb5b81476162050e096ec23f35485f",
-    "layouts/content-blue-112/bindings.json": "debb1f197c8879fef071fb3821aaeb30c26ff0825d18b87e9bbdab7dfd16e0a6",
+    "layouts/content-blue-112/bindings-red.json": "687fb9f119a1eb5255b5efa0b7eb919d2e4b5c76c65c415b24dc19e85c9092d7",
+    "layouts/content-blue-112/bindings.json": "907b81fad67162764724bccd2a2b2800dc88334218a3c0bc61d989cb6bbf44b8",
     "layouts/content-blue-112/layout_rules.json": "7970373196a33d1dbb4b43b040548b02ff0dc820a3927f1add39c51740c2c83c",
     "layouts/content-blue-112/motion.json": "300fb58d7ef05c539d184d5a97533d3daf68a17ede1422b1d3272d94f10b6502",
     "layouts/content-blue-112/ready-blue.png": "30947ce0424ee95d45cd9f646f209b1157bef11d718a697075f70b2a6ab216d8",
@@ -3427,6 +3427,7 @@
     "review/style-galleries/blue-cover.png": "f3300e97a125374403e087ff22343d4137601571dd21519d333e524479ca9464",
     "review/style-galleries/red-cover.png": "b7fd23f7973900b7d5b7e6a9c869939c50166076f3ff2f5624877f546d766e27",
     "review/style-galleries/tech-cover.png": "a5f3184e972066eb2040828c4f972da7c56993adff02b5125768b1be377defba",
-    "LICENSE": "e71dcf33890b124e6ed084ee65053d4b01c60b72955e210a6ba43f2f57665d2d"
+    "LICENSE": "e71dcf33890b124e6ed084ee65053d4b01c60b72955e210a6ba43f2f57665d2d",
+    "review/matching-policy-inventory.json": "8bffd14b713e3dd2cdd1fa2af3c29750c71ace038b4a20cb1055d8bffdcd5d4d"
   }
 }

@@ -668,7 +668,11 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-015/ready-blue.png",
         "red": "layouts/content-blue-015/ready-red.png"
-      }
+      },
+      "matching_policy": "data_contract",
+      "structure_type": "progress",
+      "data_contract_note": "沿用现有图表或指标字段、数据来源、单位和计算约束；未审定前不跨结构扩展。",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-016",
@@ -1105,7 +1109,10 @@
       "pptx_support": "verified_static",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
-      "search_label": "四季度里程碑矩阵"
+      "search_label": "四季度里程碑矩阵",
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-026",
@@ -1588,7 +1595,11 @@
       "pptx_support": "verified_static",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "data-chart",
-      "search_label": "四图一表经营看板"
+      "search_label": "四图一表经营看板",
+      "matching_policy": "data_contract",
+      "structure_type": "data-chart",
+      "data_contract_note": "沿用现有图表或指标字段、数据来源、单位和计算约束；未审定前不跨结构扩展。",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-037",
@@ -2182,7 +2193,19 @@
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
       "canonical_relation": "comparison",
-      "search_label": "风险与应对"
+      "search_label": "风险与应对",
+      "matching_contract": {
+        "policy": "semantic_strict",
+        "structure_type": "risk-response",
+        "required_relation": "risk-response",
+        "invariants": [
+          "风险与措施逐项对应"
+        ]
+      },
+      "matching_policy": "semantic_strict",
+      "structure_type": "comparison",
+      "semantic_invariant": "风险和应对必须逐项对应",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-051",
@@ -2635,7 +2658,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-060/ready-blue.png",
         "red": "layouts/content-blue-060/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-061",
@@ -3068,7 +3094,10 @@
       "pptx_support": "verified_static",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "schedule",
-      "search_label": "六项目年度三阶段排期"
+      "search_label": "六项目年度三阶段排期",
+      "matching_policy": "structural",
+      "structure_type": "schedule",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-071",
@@ -3125,7 +3154,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-071/ready-blue.png",
         "red": "layouts/content-blue-071/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "schedule",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-072",
@@ -3346,7 +3378,20 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-076/ready-blue.png",
         "red": "layouts/content-blue-076/ready-red.png"
-      }
+      },
+      "matching_contract": {
+        "policy": "semantic_strict",
+        "structure_type": "four-part-cycle",
+        "required_relation": "cycle",
+        "invariants": [
+          "四部分之间存在真实循环关系",
+          "中心标题与每段短标签均来自材料"
+        ]
+      },
+      "matching_policy": "semantic_strict",
+      "structure_type": "parallel-points",
+      "semantic_invariant": "四段环形箭头表示真实闭环",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-077",
@@ -3563,7 +3608,11 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-081/ready-blue.png",
         "red": "layouts/content-blue-081/ready-red.png"
-      }
+      },
+      "matching_policy": "data_contract",
+      "structure_type": "summary",
+      "data_contract_note": "沿用现有图表或指标字段、数据来源、单位和计算约束；未审定前不跨结构扩展。",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-082",
@@ -3914,7 +3963,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-089/ready-blue.png",
         "red": "layouts/content-blue-089/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "framework",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-090",
@@ -4055,7 +4107,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-092/ready-blue.png",
         "red": "layouts/content-blue-092/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "framework",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-093",
@@ -4480,7 +4535,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
-      "search_label": "五节点项目时间线"
+      "search_label": "五节点项目时间线",
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-103",
@@ -4659,7 +4717,46 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-106/ready-blue.png",
         "red": "layouts/content-blue-106/ready-red.png"
-      }
+      },
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-five",
+        "content_types": [
+          "cards"
+        ],
+        "verified_counts": [
+          5
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "cards.title_body.v1",
+        "scenario_tags": [
+          "成果",
+          "亮点",
+          "能力"
+        ],
+        "compatible_relations": [
+          "parallel-points",
+          "summary"
+        ],
+        "generic_drop_shape_ids": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          59,
+          60,
+          61,
+          62,
+          63
+        ]
+      },
+      "matching_policy": "structural",
+      "structure_type": "summary",
+      "matching_activation": "pilot_verified"
     },
     {
       "id": "content-blue-107",
@@ -4945,7 +5042,41 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-112/ready-blue.png",
         "red": "layouts/content-blue-112/ready-red.png"
-      }
+      },
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-four",
+        "content_types": [
+          "cards"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "cards.title_body.v1",
+        "scenario_tags": [
+          "成果",
+          "亮点",
+          "展望"
+        ],
+        "compatible_relations": [
+          "parallel-points",
+          "summary"
+        ],
+        "generic_drop_shape_ids": [
+          20,
+          21,
+          22,
+          27,
+          42
+        ]
+      },
+      "matching_policy": "structural",
+      "structure_type": "summary",
+      "matching_activation": "pilot_verified"
     },
     {
       "id": "content-blue-113",
@@ -5254,6 +5385,16 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-119/ready-blue.png",
         "red": "layouts/content-blue-119/ready-red.png"
+      },
+      "matching_policy": "semantic_strict",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial",
+      "matching_contract": {
+        "policy": "semantic_strict",
+        "required_relation": "six-step-problem-solving",
+        "exact_binding_relations": [
+          "six-step-problem-solving"
+        ]
       }
     },
     {
@@ -5395,7 +5536,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-122/ready-blue.png",
         "red": "layouts/content-blue-122/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "framework",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-123",
@@ -5442,7 +5586,11 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "comparison",
-      "search_label": "三组风险与应对"
+      "search_label": "三组风险与应对",
+      "matching_policy": "semantic_strict",
+      "structure_type": "comparison",
+      "semantic_invariant": "三组风险和应对必须逐项对应",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-124",
@@ -5531,7 +5679,19 @@
       "batch_status": "fixed_five_smart_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "SMART 五维目标框架"
+      "search_label": "SMART 五维目标框架",
+      "matching_contract": {
+        "policy": "semantic_strict",
+        "structure_type": "smart-five",
+        "required_relation": "smart-goal-framework",
+        "invariants": [
+          "SMART 五维逐项对应"
+        ]
+      },
+      "matching_policy": "semantic_strict",
+      "structure_type": "framework",
+      "semantic_invariant": "SMART 字母与五维定义不可改写",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-126",
@@ -5672,7 +5832,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-128/ready-blue.png",
         "red": "layouts/content-blue-128/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "framework",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-129",
@@ -5729,7 +5892,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-129/ready-blue.png",
         "red": "layouts/content-blue-129/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "comparison",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-130",
@@ -5903,7 +6069,10 @@
       "density": "high",
       "pptx_support": "verified_static",
       "canonical_relation": "comparison",
-      "search_label": "三组问题与措施"
+      "search_label": "三组问题与措施",
+      "matching_policy": "structural",
+      "structure_type": "comparison",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-134",
@@ -6002,6 +6171,16 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-135/ready-blue.png",
         "red": "layouts/content-blue-135/ready-red.png"
+      },
+      "matching_policy": "semantic_strict",
+      "structure_type": "comparison",
+      "matching_activation": "classified_pending_trial",
+      "matching_contract": {
+        "policy": "semantic_strict",
+        "required_relation": "issue-action-two-pairs",
+        "exact_binding_relations": [
+          "issue-action-two-pairs"
+        ]
       }
     },
     {
@@ -6133,7 +6312,11 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "comparison",
-      "search_label": "双维度四象限平衡"
+      "search_label": "双维度四象限平衡",
+      "matching_policy": "semantic_strict",
+      "structure_type": "comparison",
+      "semantic_invariant": "两条真实维度定义四个象限",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-139",
@@ -6302,7 +6485,38 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "四项能力提升计划"
+      "search_label": "四项能力提升计划",
+      "matching_policy": "structural",
+      "structure_type": "framework",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "four-around-center",
+        "content_types": [
+          "cards"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "required_content_fields": [
+          "center.title"
+        ],
+        "compatible_relations": [
+          "parallel-points",
+          "framework",
+          "summary"
+        ],
+        "input_schema": "cards.center.v1",
+        "scenario_tags": [
+          "能力",
+          "要点",
+          "支撑"
+        ]
+      },
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-143",
@@ -6359,7 +6573,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-143/ready-blue.png",
         "red": "layouts/content-blue-143/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "framework",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-144",
@@ -6500,7 +6717,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-146/ready-blue.png",
         "red": "layouts/content-blue-146/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-147",
@@ -6557,7 +6777,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-147/ready-blue.png",
         "red": "layouts/content-blue-147/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-148",
@@ -6656,7 +6879,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-149/ready-blue.png",
         "red": "layouts/content-blue-149/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "framework",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-150",
@@ -6717,6 +6943,17 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-150/ready-blue.png",
         "red": "layouts/content-blue-150/ready-red.png"
+      },
+      "matching_policy": "semantic_strict",
+      "structure_type": "ordered-steps",
+      "matching_activation": "classified_pending_trial",
+      "matching_contract": {
+        "policy": "semantic_strict",
+        "required_relation": "ordered-steps",
+        "exact_binding_relations": [
+          "parallel-items"
+        ],
+        "invariant": "单向箭头及五个节点要求输入确有先后顺序；五条独立事实不可使用"
       }
     },
     {
@@ -6816,6 +7053,17 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-152/ready-blue.png",
         "red": "layouts/content-blue-152/ready-red.png"
+      },
+      "matching_policy": "semantic_strict",
+      "structure_type": "goal-convergence",
+      "matching_activation": "classified_pending_trial",
+      "matching_contract": {
+        "policy": "semantic_strict",
+        "required_relation": "goal-convergence",
+        "exact_binding_relations": [
+          "three-goal-target"
+        ],
+        "invariant": "三条箭头共同指向同一目标；三个互不相关的目标不可使用"
       }
     },
     {
@@ -7038,7 +7286,10 @@
         "blue": "layouts/content-blue-157/ready-blue.png",
         "red": "layouts/content-blue-157/ready-red.png"
       },
-      "replace_source_logo": true
+      "replace_source_logo": true,
+      "matching_policy": "structural",
+      "structure_type": "schedule",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-158",
@@ -7169,7 +7420,11 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "summary",
-      "search_label": "四方面年度工作总结"
+      "search_label": "四方面年度工作总结",
+      "matching_policy": "structural",
+      "structure_type": "ordered-steps",
+      "matching_activation": "classified_pending_trial",
+      "visual_invariant": "横向箭头把四组内容组织为推进过程；只有真实先后关系可按通用结构复用"
     },
     {
       "id": "content-blue-161",
@@ -7226,7 +7481,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-161/ready-blue.png",
         "red": "layouts/content-blue-161/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "framework",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-162",
@@ -7991,7 +8249,11 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "summary",
-      "search_label": "四领域双亮点展示"
+      "search_label": "四领域双亮点展示",
+      "matching_policy": "structural",
+      "structure_type": "ordered-steps",
+      "matching_activation": "classified_pending_trial",
+      "visual_invariant": "横向箭头把四列亮点组织为推进过程；上下两个说明槽均需真实材料，不能补造"
     },
     {
       "id": "content-blue-181",
@@ -8048,7 +8310,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-181/ready-blue.png",
         "red": "layouts/content-blue-181/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "framework",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-182",
@@ -8105,7 +8370,11 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-182/ready-blue.png",
         "red": "layouts/content-blue-182/ready-red.png"
-      }
+      },
+      "matching_policy": "semantic_strict",
+      "structure_type": "framework",
+      "semantic_invariant": "四象限的方法定义不可任意置换",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-183",
@@ -8493,7 +8762,11 @@
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
       "canonical_relation": "data-table",
-      "search_label": "六任务甘特排期"
+      "search_label": "六任务甘特排期",
+      "matching_policy": "data_contract",
+      "structure_type": "data-table",
+      "data_contract_note": "沿用现有图表或指标字段、数据来源、单位和计算约束；未审定前不跨结构扩展。",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-192",
@@ -8844,7 +9117,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-199/ready-blue.png",
         "red": "layouts/content-blue-199/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-200",
@@ -8933,7 +9209,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
-      "search_label": "十年规划时间轴"
+      "search_label": "十年规划时间轴",
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-202",
@@ -8980,7 +9259,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
-      "search_label": "五阶段十年发展路线"
+      "search_label": "五阶段十年发展路线",
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-203",
@@ -9069,7 +9351,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
-      "search_label": "上半年六个月工作时间线"
+      "search_label": "上半年六个月工作时间线",
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-205",
@@ -9210,7 +9495,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-207/ready-blue.png",
         "red": "layouts/content-blue-207/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-208",
@@ -9257,7 +9545,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "schedule",
-      "search_label": "四季度交错工作计划"
+      "search_label": "四季度交错工作计划",
+      "matching_policy": "structural",
+      "structure_type": "schedule",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-209",
@@ -9524,7 +9815,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-214/ready-blue.png",
         "red": "layouts/content-blue-214/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-215",
@@ -10218,7 +10512,10 @@
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
       "canonical_relation": "process",
-      "search_label": "五阶段流程"
+      "search_label": "五阶段流程",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-231",
@@ -10275,7 +10572,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-231/ready-blue.png",
         "red": "layouts/content-blue-231/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-232",
@@ -10458,7 +10758,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-235/ready-blue.png",
         "red": "layouts/content-blue-235/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-236",
@@ -10683,7 +10986,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-240/ready-blue.png",
         "red": "layouts/content-blue-240/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-241",
@@ -10740,7 +11046,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-241/ready-blue.png",
         "red": "layouts/content-blue-241/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-242",
@@ -10871,7 +11180,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "summary",
-      "search_label": "六维阶段总结"
+      "search_label": "六维阶段总结",
+      "matching_policy": "structural",
+      "structure_type": "summary",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-245",
@@ -10960,7 +11272,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "五步项目推进流程"
+      "search_label": "五步项目推进流程",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-247",
@@ -11007,7 +11322,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "comparison",
-      "search_label": "五方向改变与成效"
+      "search_label": "五方向改变与成效",
+      "matching_policy": "structural",
+      "structure_type": "comparison",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-248",
@@ -11096,7 +11414,11 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "四层品牌价值模型"
+      "search_label": "四层品牌价值模型",
+      "matching_policy": "semantic_strict",
+      "structure_type": "framework",
+      "semantic_invariant": "品牌屋的层级和标签需要逐项核对",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-250",
@@ -11227,7 +11549,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "三阶段项目逻辑"
+      "search_label": "三阶段项目逻辑",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-253",
@@ -11274,7 +11599,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "五步品牌推进"
+      "search_label": "五步品牌推进",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-254",
@@ -11331,7 +11659,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-254/ready-blue.png",
         "red": "layouts/content-blue-254/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "comparison",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-255",
@@ -11430,6 +11761,39 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-256/ready-blue.png",
         "red": "layouts/content-blue-256/ready-red.png"
+      },
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "ordered-steps-four",
+        "content_types": [
+          "process"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "process.title_body.v1",
+        "compatible_relations": [
+          "process"
+        ],
+        "generic_drop_shape_ids": [
+          12,
+          13,
+          14,
+          16
+        ],
+        "generic_number_container_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
       }
     },
     {
@@ -11477,7 +11841,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "五阶段工作流程 五个上升阶段固定对应五组说明，STEP 编号锁定。 5项 固定项数"
+      "search_label": "五阶段工作流程 五个上升阶段固定对应五组说明，STEP 编号锁定。 5项 固定项数",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-258",
@@ -11534,6 +11901,41 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-258/ready-blue.png",
         "red": "layouts/content-blue-258/ready-red.png"
+      },
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "ordered-serpentine-four",
+        "content_types": [
+          "process"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "process.title_body.v1",
+        "compatible_relations": [
+          "process"
+        ],
+        "generic_drop_shape_ids": [
+          66,
+          67,
+          68,
+          69
+        ],
+        "generic_number_container_ids": [
+          31,
+          32,
+          33,
+          34
+        ],
+        "generic_number_font_pt": 14,
+        "generic_number_color_role": "neutral.white"
       }
     },
     {
@@ -11581,7 +11983,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "timeline",
-      "search_label": "五阶段活动推进 固定五阶段，日期连续递增；百分比须有材料依据，不得凭空生成。 5项 固定项数"
+      "search_label": "五阶段活动推进 固定五阶段，日期连续递增；百分比须有材料依据，不得凭空生成。 5项 固定项数",
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-260",
@@ -11644,7 +12049,10 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-260/ready-blue.png",
         "red": "layouts/content-blue-260/ready-red.png"
-      }
+      },
+      "matching_policy": "structural",
+      "structure_type": "cycle",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-261",
@@ -11691,7 +12099,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "六步闭环流程 六个环形节点固定对应六组标题与正文。 6项 固定项数"
+      "search_label": "六步闭环流程 六个环形节点固定对应六组标题与正文。 6项 固定项数",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-262",
@@ -11738,7 +12149,17 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "四步规划闭环 固定四步圆环，数字 01—04 锁定；长正文未验收。 4项 固定项数"
+      "search_label": "四步规划闭环 固定四步圆环，数字 01—04 锁定；长正文未验收。 4项 固定项数",
+      "matching_policy": "semantic_strict",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial",
+      "matching_contract": {
+        "policy": "semantic_strict",
+        "required_relation": "four-step-planning-cycle",
+        "exact_binding_relations": [
+          "four-step-planning-cycle"
+        ]
+      }
     },
     {
       "id": "content-blue-263",
@@ -11785,7 +12206,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "framework",
-      "search_label": "六项重点工作环"
+      "search_label": "六项重点工作环",
+      "matching_policy": "structural",
+      "structure_type": "framework",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-264",
@@ -11832,7 +12256,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "六阶段曲折流程 六步折返路径，第四至第六步以视觉顺序为准。 6项 固定项数"
+      "search_label": "六阶段曲折流程 六步折返路径，第四至第六步以视觉顺序为准。 6项 固定项数",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-265",
@@ -11879,7 +12306,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "四阶段环形流程 四步圆环，中心中文标题限四字；英文副标题与 STEP 编号固定。 4项 固定项数"
+      "search_label": "四阶段环形流程 四步圆环，中心中文标题限四字；英文副标题与 STEP 编号固定。 4项 固定项数",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-266",
@@ -11926,7 +12356,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "六阶段方形闭环 六阶段方形闭环，步骤数字固定，按实际流向绑定。 6项 固定项数"
+      "search_label": "六阶段方形闭环 六阶段方形闭环，步骤数字固定，按实际流向绑定。 6项 固定项数",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-267",
@@ -11973,7 +12406,10 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "process",
-      "search_label": "四阶段纵向箭头流程 固定四条纵向箭头；短正文实填，长正文未验收。 4项 固定项数"
+      "search_label": "四阶段纵向箭头流程 固定四条纵向箭头；短正文实填，长正文未验收。 4项 固定项数",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-268",
@@ -12025,7 +12461,11 @@
       "pptx_support": "verified_static",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "data-chart",
-      "search_label": "年度营收成本利润分析"
+      "search_label": "年度营收成本利润分析",
+      "matching_policy": "data_contract",
+      "structure_type": "data-chart",
+      "data_contract_note": "沿用现有图表或指标字段、数据来源、单位和计算约束；未审定前不跨结构扩展。",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-269",
@@ -12118,7 +12558,11 @@
       "semantic_review_status": "verified_blue_red",
       "pptx_support": "verified_static",
       "canonical_relation": "data-chart",
-      "search_label": "双指标趋势"
+      "search_label": "双指标趋势",
+      "matching_policy": "data_contract",
+      "structure_type": "data-chart",
+      "data_contract_note": "沿用现有图表或指标字段、数据来源、单位和计算约束；未审定前不跨结构扩展。",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-271",
@@ -12499,7 +12943,11 @@
       "density": "high",
       "pptx_support": "verified_static",
       "canonical_relation": "data-table",
-      "search_label": "季度明细表"
+      "search_label": "季度明细表",
+      "matching_policy": "data_contract",
+      "structure_type": "data-table",
+      "data_contract_note": "沿用现有图表或指标字段、数据来源、单位和计算约束；未审定前不跨结构扩展。",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-280",
@@ -13050,7 +13498,11 @@
       "batch_status": "fixed_native_count_verified",
       "semantic_review_status": "verified_blue_red",
       "canonical_relation": "data-chart",
-      "search_label": "四季度营收成本分析"
+      "search_label": "四季度营收成本分析",
+      "matching_policy": "data_contract",
+      "structure_type": "data-chart",
+      "data_contract_note": "沿用现有图表或指标字段、数据来源、单位和计算约束；未审定前不跨结构扩展。",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-blue-293",
@@ -15297,7 +15749,10 @@
       "canonical_relation": "hierarchy",
       "search_label": "五方向职业发展环",
       "matching_use": "中心目标、五个发展方向及对应解释齐全",
-      "matching_avoid": "仅有五条平铺要点或缺少中心目标"
+      "matching_avoid": "仅有五条平铺要点或缺少中心目标",
+      "matching_policy": "structural",
+      "structure_type": "hierarchy",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-017",
@@ -15348,7 +15803,11 @@
       "canonical_relation": "metrics",
       "search_label": "中心主题与四项能力指标",
       "matching_use": "中心主题、基础主题和四组指标的名称、标签、数值齐全；固定四项。",
-      "matching_avoid": "仅有四个 KPI 数字、缺中心与基础主题时不适用。"
+      "matching_avoid": "仅有四个 KPI 数字、缺中心与基础主题时不适用。",
+      "matching_policy": "data_contract",
+      "structure_type": "metrics",
+      "data_contract_note": "沿用现有图表或指标字段、数据来源、单位和计算约束；未审定前不跨结构扩展。",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-018",
@@ -15399,7 +15858,10 @@
       "canonical_relation": "hierarchy",
       "search_label": "三层目标落地金字塔",
       "matching_use": "三个有先后层级的实施层及两侧保障条件齐全",
-      "matching_avoid": "仅有三条并列事项或缺两侧保障条件"
+      "matching_avoid": "仅有三条并列事项或缺两侧保障条件",
+      "matching_policy": "structural",
+      "structure_type": "hierarchy",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-019",
@@ -15450,7 +15912,10 @@
       "canonical_relation": "hierarchy",
       "search_label": "品牌心智占位模型",
       "matching_use": "中心定位与五个外围支撑维度均有解释",
-      "matching_avoid": "普通五要点或没有中心品牌定位"
+      "matching_avoid": "普通五要点或没有中心品牌定位",
+      "matching_policy": "structural",
+      "structure_type": "hierarchy",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-020",
@@ -15501,7 +15966,10 @@
       "canonical_relation": "parallel-points",
       "search_label": "中心主题与六项技术方向",
       "matching_use": "围绕一个中心主题展示左右各三项同权方向；固定六项。",
-      "matching_avoid": "少于六项或需要逐项长正文时不适用。"
+      "matching_avoid": "少于六项或需要逐项长正文时不适用。",
+      "matching_policy": "structural",
+      "structure_type": "parallel-points",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-021",
@@ -15552,7 +16020,10 @@
       "canonical_relation": "parallel-points",
       "search_label": "三大工作亮点",
       "matching_use": "三项亮点各有标题、短结论和解释",
-      "matching_avoid": "超过三项、长篇正文或各项缺解释"
+      "matching_avoid": "超过三项、长篇正文或各项缺解释",
+      "matching_policy": "structural",
+      "structure_type": "parallel-points",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-022",
@@ -15603,7 +16074,10 @@
       "canonical_relation": "hierarchy",
       "search_label": "三层团队文化要素",
       "matching_use": "三层文化主题分别有关键词和说明",
-      "matching_avoid": "没有层级关系的普通三项清单"
+      "matching_avoid": "没有层级关系的普通三项清单",
+      "matching_policy": "structural",
+      "structure_type": "hierarchy",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-023",
@@ -15654,7 +16128,10 @@
       "canonical_relation": "parallel-points",
       "search_label": "双工具能力对照",
       "matching_use": "两类工具或方案各有标题和较长说明，并有总括说明。",
-      "matching_avoid": "仅有两个简短标签或没有总括说明时不适用。"
+      "matching_avoid": "仅有两个简短标签或没有总括说明时不适用。",
+      "matching_policy": "structural",
+      "structure_type": "parallel-points",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-024",
@@ -15705,7 +16182,10 @@
       "canonical_relation": "parallel-points",
       "search_label": "三项压力与双工具支撑",
       "matching_use": "上层三项问题及下层两种工具各有标题与说明",
-      "matching_avoid": "只有五项平列内容或缺工具说明"
+      "matching_avoid": "只有五项平列内容或缺工具说明",
+      "matching_policy": "structural",
+      "structure_type": "parallel-points",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-025",
@@ -15799,7 +16279,10 @@
       "canonical_relation": "comparison",
       "search_label": "四类风险问题诊断",
       "matching_use": "四个风险象限均有标题与解释",
-      "matching_avoid": "两组对比或风险项少于四项"
+      "matching_avoid": "两组对比或风险项少于四项",
+      "matching_policy": "structural",
+      "structure_type": "comparison",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-027",
@@ -15893,7 +16376,10 @@
       "canonical_relation": "process",
       "search_label": "双阶段实施路径",
       "matching_use": "两个连续阶段各有名称和左右支撑要素",
-      "matching_avoid": "两个普通并列事项或缺阶段支撑要素"
+      "matching_avoid": "两个普通并列事项或缺阶段支撑要素",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-029",
@@ -15944,7 +16430,10 @@
       "canonical_relation": "comparison",
       "search_label": "两类人群画像对比",
       "matching_use": "两组对象各有标题和说明，另有底部结论与总括说明。",
-      "matching_avoid": "无共同维度、底部结论或总括说明时不适用。"
+      "matching_avoid": "无共同维度、底部结论或总括说明时不适用。",
+      "matching_policy": "structural",
+      "structure_type": "comparison",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-030",
@@ -15995,7 +16484,10 @@
       "canonical_relation": "cycle",
       "search_label": "双环平台生态",
       "matching_use": "两个互促生态环及下方三项成果齐全",
-      "matching_avoid": "简单双项对比或无闭环关系"
+      "matching_avoid": "简单双项对比或无闭环关系",
+      "matching_policy": "structural",
+      "structure_type": "cycle",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-031",
@@ -16046,7 +16538,10 @@
       "canonical_relation": "parallel-points",
       "search_label": "三项机制与上层总结",
       "matching_use": "三项并列机制各有标题、正文，并有上层总结与页面摘要。",
-      "matching_avoid": "仅有三张独立卡片、无上层总结时不适用。"
+      "matching_avoid": "仅有三张独立卡片、无上层总结时不适用。",
+      "matching_policy": "structural",
+      "structure_type": "parallel-points",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-032",
@@ -16097,7 +16592,10 @@
       "canonical_relation": "process",
       "search_label": "四步团队沟通机制",
       "matching_use": "四个有次序的步骤各有标题和较长说明",
-      "matching_avoid": "只有四个短标签或步骤无先后"
+      "matching_avoid": "只有四个短标签或步骤无先后",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-033",
@@ -16148,7 +16646,10 @@
       "canonical_relation": "parallel-points",
       "search_label": "五项适应策略与结论",
       "matching_use": "五项策略各有标题、说明，并有底部结论与摘要。",
-      "matching_avoid": "项数少于五项、缺结论或说明过长时不适用。"
+      "matching_avoid": "项数少于五项、缺结论或说明过长时不适用。",
+      "matching_policy": "structural",
+      "structure_type": "parallel-points",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-034",
@@ -16199,7 +16700,10 @@
       "canonical_relation": "parallel-points",
       "search_label": "五项团队治理机制",
       "matching_use": "五个并列机制均有标题及说明",
-      "matching_avoid": "不足五项或单项说明过长"
+      "matching_avoid": "不足五项或单项说明过长",
+      "matching_policy": "structural",
+      "structure_type": "parallel-points",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-035",
@@ -16336,7 +16840,10 @@
       "canonical_relation": "parallel-points",
       "search_label": "三维精准营销框架",
       "matching_use": "三种并列策略各有标题和短说明",
-      "matching_avoid": "不足三维或没有并列关系"
+      "matching_avoid": "不足三维或没有并列关系",
+      "matching_policy": "structural",
+      "structure_type": "parallel-points",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-038",
@@ -16389,7 +16896,10 @@
       "canonical_relation": "process",
       "search_label": "四步产品目标路径",
       "matching_use": "四个按顺序推进的目标各有标题和解释",
-      "matching_avoid": "四项独立成果或超过四步"
+      "matching_avoid": "四项独立成果或超过四步",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-039",
@@ -16483,7 +16993,10 @@
       "canonical_relation": "comparison",
       "search_label": "双向能力复盘",
       "matching_use": "两类能力各有标题、长说明和两项标签，并有总体摘要。",
-      "matching_avoid": "只有普通左右对比、缺四项标签时不适用。"
+      "matching_avoid": "只有普通左右对比、缺四项标签时不适用。",
+      "matching_policy": "structural",
+      "structure_type": "comparison",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-041",
@@ -16577,7 +17090,10 @@
       "canonical_relation": "cycle",
       "search_label": "四象限品质增长闭环",
       "matching_use": "围绕中心结论的四项循环保障均有说明",
-      "matching_avoid": "普通四格清单或没有中心闭环主题"
+      "matching_avoid": "普通四格清单或没有中心闭环主题",
+      "matching_policy": "structural",
+      "structure_type": "cycle",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-043",
@@ -16628,7 +17144,10 @@
       "canonical_relation": "parallel-points",
       "search_label": "三项资源投入计划",
       "matching_use": "三类资源各有名称、用途和投入说明",
-      "matching_avoid": "仅有三个数字或缺各项说明"
+      "matching_avoid": "仅有三个数字或缺各项说明",
+      "matching_policy": "structural",
+      "structure_type": "parallel-points",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-044",
@@ -16722,7 +17241,10 @@
       "canonical_relation": "process",
       "search_label": "四步 AI 叙事流程",
       "matching_use": "四个连续步骤各有标题、说明和顺序",
-      "matching_avoid": "无先后关系或步骤不足四项"
+      "matching_avoid": "无先后关系或步骤不足四项",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-046",
@@ -16773,7 +17295,10 @@
       "canonical_relation": "cycle",
       "search_label": "三项技术中台应用循环",
       "matching_use": "三项应用围绕同一中台互相支撑",
-      "matching_avoid": "三项无关联的案例清单或无中心中台"
+      "matching_avoid": "三项无关联的案例清单或无中心中台",
+      "matching_policy": "structural",
+      "structure_type": "cycle",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-047",
@@ -16824,7 +17349,10 @@
       "canonical_relation": "process",
       "search_label": "五环节生态能力链",
       "matching_use": "五个环节形成完整链条且有中心生态主题",
-      "matching_avoid": "只有五个孤立标签或缺链条关系"
+      "matching_avoid": "只有五个孤立标签或缺链条关系",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-048",
@@ -16875,7 +17403,10 @@
       "canonical_relation": "parallel-points",
       "search_label": "四项长效经营方法",
       "matching_use": "四种方法各有名称和短解释并汇总至上层目标",
-      "matching_avoid": "不足四项或没有总目标"
+      "matching_avoid": "不足四项或没有总目标",
+      "matching_policy": "structural",
+      "structure_type": "parallel-points",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-049",
@@ -17059,7 +17590,10 @@
       "canonical_relation": "hierarchy",
       "search_label": "六场景能力覆盖层级",
       "matching_use": "六个应用场景和上层能力主张齐全",
-      "matching_avoid": "只有六个普通要点或无层级主张"
+      "matching_avoid": "只有六个普通要点或无层级主张",
+      "matching_policy": "structural",
+      "structure_type": "hierarchy",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-053",
@@ -17110,7 +17644,11 @@
       "canonical_relation": "metrics",
       "search_label": "三指标年度业绩",
       "matching_use": "三项同口径数值、指标名和解释均齐全",
-      "matching_avoid": "缺单位或只提供单个大数字"
+      "matching_avoid": "缺单位或只提供单个大数字",
+      "matching_policy": "data_contract",
+      "structure_type": "metrics",
+      "data_contract_note": "沿用现有图表或指标字段、数据来源、单位和计算约束；未审定前不跨结构扩展。",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-054",
@@ -17161,7 +17699,10 @@
       "canonical_relation": "process",
       "search_label": "四象限远程办公指南",
       "matching_use": "四个方面各有标题和多条说明",
-      "matching_avoid": "仅有四个短标签或文字超过各格容量"
+      "matching_avoid": "仅有四个短标签或文字超过各格容量",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-055",
@@ -17212,7 +17753,10 @@
       "canonical_relation": "single-focus",
       "search_label": "单主题文化宣言",
       "matching_use": "一个核心主张配一段较长解释",
-      "matching_avoid": "多项并列信息或需要数值图表"
+      "matching_avoid": "多项并列信息或需要数值图表",
+      "matching_policy": "structural",
+      "structure_type": "single-focus",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-056",
@@ -17263,7 +17807,10 @@
       "canonical_relation": "process",
       "search_label": "五项职业成长关键",
       "matching_use": "中心成长目标与五项支撑能力均有说明",
-      "matching_avoid": "普通五点清单或缺中心成长目标"
+      "matching_avoid": "普通五点清单或缺中心成长目标",
+      "matching_policy": "structural",
+      "structure_type": "process",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-057",
@@ -17314,7 +17861,10 @@
       "canonical_relation": "hierarchy",
       "search_label": "六个产业生态案例",
       "matching_use": "六个案例各有名称与简短描述并归属一个共同主题",
-      "matching_avoid": "案例不足六项或无共同主题"
+      "matching_avoid": "案例不足六项或无共同主题",
+      "matching_policy": "structural",
+      "structure_type": "hierarchy",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-058",
@@ -17365,7 +17915,10 @@
       "canonical_relation": "cycle",
       "search_label": "六方开放生态合作圈",
       "matching_use": "中心计划与六类合作角色或渠道齐全",
-      "matching_avoid": "普通六项列表或无中心协作关系"
+      "matching_avoid": "普通六项列表或无中心协作关系",
+      "matching_policy": "structural",
+      "structure_type": "cycle",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-059",
@@ -17416,7 +17969,10 @@
       "canonical_relation": "hierarchy",
       "search_label": "五层 AI 能力图谱",
       "matching_use": "一个技术核心与五层能力及解释齐全",
-      "matching_avoid": "仅有五条平铺要点或缺技术核心"
+      "matching_avoid": "仅有五条平铺要点或缺技术核心",
+      "matching_policy": "structural",
+      "structure_type": "hierarchy",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-060",
@@ -17467,7 +18023,10 @@
       "canonical_relation": "hierarchy",
       "search_label": "四维企业战略优势",
       "matching_use": "中心优势与四个维度各有说明",
-      "matching_avoid": "没有中心优势或不足四维"
+      "matching_avoid": "没有中心优势或不足四维",
+      "matching_policy": "structural",
+      "structure_type": "hierarchy",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-061",
@@ -17518,7 +18077,10 @@
       "canonical_relation": "hierarchy",
       "search_label": "三维科技生态建设",
       "matching_use": "中心生态与三类建设举措及说明齐全",
-      "matching_avoid": "普通三条要点或缺中心生态"
+      "matching_avoid": "普通三条要点或缺中心生态",
+      "matching_policy": "structural",
+      "structure_type": "hierarchy",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-062",
@@ -17612,7 +18174,10 @@
       "canonical_relation": "timeline",
       "search_label": "五节点企业成长曲线",
       "matching_use": "五个有时间顺序的里程碑各有日期、事件和说明",
-      "matching_avoid": "日期不完整或事件不能排序"
+      "matching_avoid": "日期不完整或事件不能排序",
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-064",
@@ -17663,7 +18228,10 @@
       "canonical_relation": "timeline",
       "search_label": "五节点技术演进时间线",
       "matching_use": "五个连续时间节点各有标题与说明",
-      "matching_avoid": "无明确时间点或只是普通流程"
+      "matching_avoid": "无明确时间点或只是普通流程",
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-065",
@@ -17714,7 +18282,10 @@
       "canonical_relation": "timeline",
       "search_label": "五节点项目合作时间线",
       "matching_use": "五个日期与合作里程碑一一对应",
-      "matching_avoid": "少于五个有依据的日期或仅有阶段名"
+      "matching_avoid": "少于五个有依据的日期或仅有阶段名",
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-066",
@@ -17765,7 +18336,10 @@
       "canonical_relation": "timeline",
       "search_label": "七节点发展里程碑",
       "matching_use": "七个有序年份与事件简介齐全",
-      "matching_avoid": "年份不足七个或年份内容未经材料证实"
+      "matching_avoid": "年份不足七个或年份内容未经材料证实",
+      "matching_policy": "structural",
+      "structure_type": "timeline",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "data-chart-tech-067",
@@ -17904,7 +18478,10 @@
       "canonical_relation": "schedule",
       "search_label": "六时段活动日程",
       "matching_use": "六个时段均有时间、事项和负责人",
-      "matching_avoid": "缺负责人、时段不足六个或没有活动日程"
+      "matching_avoid": "缺负责人、时段不足六个或没有活动日程",
+      "matching_policy": "structural",
+      "structure_type": "schedule",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "data-chart-tech-070",
@@ -17998,7 +18575,11 @@
       "canonical_relation": "data-chart",
       "search_label": "折扣转化率折线分析",
       "matching_use": "折扣区间及对应转化率有真实数据，并有解释结论",
-      "matching_avoid": "缺原始数列、单位或需沿用模板示例数值"
+      "matching_avoid": "缺原始数列、单位或需沿用模板示例数值",
+      "matching_policy": "data_contract",
+      "structure_type": "data-chart",
+      "data_contract_note": "沿用现有图表或指标字段、数据来源、单位和计算约束；未审定前不跨结构扩展。",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "data-chart-tech-072",
@@ -18178,7 +18759,11 @@
       "canonical_relation": "data-chart",
       "search_label": "目标达成组合图表",
       "matching_use": "逐期目标值与实际值、三项侧边指标均有真实数据",
-      "matching_avoid": "缺逐期数据、单位或只有孤立 KPI"
+      "matching_avoid": "缺逐期数据、单位或只有孤立 KPI",
+      "matching_policy": "data_contract",
+      "structure_type": "data-chart",
+      "data_contract_note": "沿用现有图表或指标字段、数据来源、单位和计算约束；未审定前不跨结构扩展。",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "data-chart-tech-076",
@@ -18272,7 +18857,10 @@
       "canonical_relation": "hierarchy",
       "search_label": "四层用户画像金字塔",
       "matching_use": "四层人群各有名称、占比和特征",
-      "matching_avoid": "人群不足四层、占比未核实或无法自洽"
+      "matching_avoid": "人群不足四层、占比未核实或无法自洽",
+      "matching_policy": "structural",
+      "structure_type": "hierarchy",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "content-tech-078",
@@ -18452,7 +19040,10 @@
       "canonical_relation": "cycle",
       "search_label": "三阶段服务增长闭环",
       "matching_use": "三阶段增长动作各有标题与说明并构成循环",
-      "matching_avoid": "三项无因果关系的独立举措"
+      "matching_avoid": "三项无因果关系的独立举措",
+      "matching_policy": "structural",
+      "structure_type": "cycle",
+      "matching_activation": "classified_pending_trial"
     },
     {
       "id": "closing-tech-082",

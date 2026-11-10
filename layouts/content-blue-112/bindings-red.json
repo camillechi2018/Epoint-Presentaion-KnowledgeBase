@@ -73,7 +73,7 @@
       "shape_id": 23,
       "shape_name": "文本框 22",
       "type": "text",
-      "max_chars": 4,
+      "max_chars": 8,
       "source_sample_chars": 5,
       "source_text": "项目与质量",
       "bounds_pt": [
@@ -85,14 +85,14 @@
       "semantic_role": "label",
       "semantic_path": "items[0].heading",
       "max_lines": 1,
-      "max_width_units": 8
+      "max_width_units": 16
     },
     {
       "field": "text_25",
       "shape_id": 25,
       "shape_name": "文本框 24",
       "type": "text",
-      "max_chars": 4,
+      "max_chars": 8,
       "source_sample_chars": 5,
       "source_text": "创新与技术",
       "bounds_pt": [
@@ -104,14 +104,14 @@
       "semantic_role": "label",
       "semantic_path": "items[1].heading",
       "max_lines": 1,
-      "max_width_units": 8
+      "max_width_units": 16
     },
     {
       "field": "text_26",
       "shape_id": 26,
       "shape_name": "文本框 25",
       "type": "text",
-      "max_chars": 4,
+      "max_chars": 8,
       "source_sample_chars": 5,
       "source_text": "团队与文化",
       "bounds_pt": [
@@ -123,7 +123,7 @@
       "semantic_role": "label",
       "semantic_path": "items[2].heading",
       "max_lines": 1,
-      "max_width_units": 8
+      "max_width_units": 16
     },
     {
       "field": "text_30",
@@ -203,7 +203,7 @@
       "shape_id": 19,
       "shape_name": "文本框 18",
       "type": "text",
-      "max_chars": 4,
+      "max_chars": 8,
       "source_sample_chars": 5,
       "source_text": "客户与市场",
       "bounds_pt": [
@@ -215,7 +215,7 @@
       "semantic_role": "label",
       "semantic_path": "items[3].heading",
       "max_lines": 1,
-      "max_width_units": 8
+      "max_width_units": 16
     },
     {
       "field": "text_29",
