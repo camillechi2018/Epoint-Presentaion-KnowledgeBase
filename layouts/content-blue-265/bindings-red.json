@@ -127,7 +127,7 @@
       "shape_id": 7,
       "shape_name": "文本框 6",
       "type": "text",
-      "max_chars": 23,
+      "max_chars": 55,
       "source_sample_chars": 55,
       "source_text": "与相关方沟通确认项目的核心目标、预期成果和成功衡量标准，形成正式的项目章程文档，确保所有参与方对目标理解一致。",
       "bounds_pt": [
@@ -138,8 +138,8 @@
       ],
       "semantic_role": "body",
       "semantic_path": "stages[0].body",
-      "max_lines": 2,
-      "max_width_units": 24
+      "max_lines": 1,
+      "max_width_units": 110
     },
     {
       "field": "text_8",
@@ -165,7 +165,7 @@
       "shape_id": 9,
       "shape_name": "文本框 8",
       "type": "text",
-      "max_chars": 23,
+      "max_chars": 55,
       "source_sample_chars": 55,
       "source_text": "设计详细的技术方案或业务方案，明确实现路径、核心方法和关键举措，组织相关部门进行方案评审，收集意见并优化完善。",
       "bounds_pt": [
@@ -176,8 +176,8 @@
       ],
       "semantic_role": "body",
       "semantic_path": "stages[1].body",
-      "max_lines": 2,
-      "max_width_units": 24
+      "max_lines": 1,
+      "max_width_units": 110
     },
     {
       "field": "text_10",
@@ -203,7 +203,7 @@
       "shape_id": 11,
       "shape_name": "文本框 10",
       "type": "text",
-      "max_chars": 21,
+      "max_chars": 50,
       "source_sample_chars": 50,
       "source_text": "根据制定的时间表有序开展各项工作，建立日/周例会机制，及时跟进任务完成情况，确保各项工作按节点推进。",
       "bounds_pt": [
@@ -214,8 +214,8 @@
       ],
       "semantic_role": "body",
       "semantic_path": "stages[2].body",
-      "max_lines": 2,
-      "max_width_units": 24
+      "max_lines": 1,
+      "max_width_units": 99
     },
     {
       "field": "text_12",
@@ -241,7 +241,7 @@
       "shape_id": 13,
       "shape_name": "文本框 12",
       "type": "text",
-      "max_chars": 21,
+      "max_chars": 53,
       "source_sample_chars": 53,
       "source_text": "对照项目目标和交付标准逐项进行验收工作成果，收集各相关方反馈的意见和建议，确保各项交付物质量符合预期要求。",
       "bounds_pt": [
@@ -252,8 +252,8 @@
       ],
       "semantic_role": "body",
       "semantic_path": "stages[3].body",
-      "max_lines": 2,
-      "max_width_units": 22
+      "max_lines": 1,
+      "max_width_units": 106
     },
     {
       "field": "text_14",

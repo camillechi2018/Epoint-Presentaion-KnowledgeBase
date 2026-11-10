@@ -63,7 +63,7 @@
       "shape_id": 146,
       "shape_name": "文本框 145",
       "type": "text",
-      "max_chars": 23,
+      "max_chars": 82,
       "source_sample_chars": 82,
       "source_text": "主题设计： 确定活动的核心主题和宗旨，确保主题能够吸引目标参与者并与品牌或组织形象一致。\n目标设定： 明确活动的具体目标，如提升品牌知名度、增加销售、促进客户互动。",
       "bounds_pt": [
@@ -75,7 +75,7 @@
       "semantic_role": "body",
       "semantic_path": "stages[0].body",
       "max_lines": 2,
-      "max_width_units": 24
+      "max_width_units": 87
     },
     {
       "field": "text_137",
@@ -120,7 +120,7 @@
       "shape_id": 147,
       "shape_name": "文本框 146",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 79,
       "source_sample_chars": 79,
       "source_text": "预算制定： 确定活动预算，包括场地租赁、设备租用、食品饮料、人员费用、宣传和推广等各项费用。\n财务管理： 管理和监控活动预算的执行，确保在预算范围内有效运作。",
       "bounds_pt": [
@@ -132,7 +132,7 @@
       "semantic_role": "body",
       "semantic_path": "stages[1].body",
       "max_lines": 2,
-      "max_width_units": 26
+      "max_width_units": 91
     },
     {
       "field": "text_139",
@@ -177,7 +177,7 @@
       "shape_id": 148,
       "shape_name": "文本框 147",
       "type": "text",
-      "max_chars": 21,
+      "max_chars": 86,
       "source_sample_chars": 86,
       "source_text": "场地调研和选择： 根据活动规模和主题，选择合适的场地考虑地理位置、设施设备、场地容量和安全因素。\n布置设计： 设计和规划活动现场的布置，包括舞台设置、展示区域、座位安排等。",
       "bounds_pt": [
@@ -189,7 +189,7 @@
       "semantic_role": "body",
       "semantic_path": "stages[2].body",
       "max_lines": 2,
-      "max_width_units": 20
+      "max_width_units": 95
     },
     {
       "field": "text_141",
@@ -234,7 +234,7 @@
       "shape_id": 149,
       "shape_name": "文本框 148",
       "type": "text",
-      "max_chars": 23,
+      "max_chars": 87,
       "source_sample_chars": 87,
       "source_text": "活动流程设计： 制定详细的活动流程图，包括开场致辞、主题演讲、表演节目、互动环节和结束仪式等。\n日程安排： 安排活动的具体时间表，确保各项活动环节有序进行，保持参与者的兴趣。",
       "bounds_pt": [
@@ -246,7 +246,7 @@
       "semantic_role": "body",
       "semantic_path": "stages[3].body",
       "max_lines": 2,
-      "max_width_units": 24
+      "max_width_units": 93
     },
     {
       "field": "text_143",
@@ -291,7 +291,7 @@
       "shape_id": 150,
       "shape_name": "文本框 149",
       "type": "text",
-      "max_chars": 23,
+      "max_chars": 84,
       "source_sample_chars": 84,
       "source_text": "宣传推广策略： 制定多渠道的宣传推广策略，包括社交媒体营销、电子邮件营销、传统媒体报道和口碑营销等。\n参与者管理： 确定参与者招募方式和注册流程，建立有效的沟通和管理。",
       "bounds_pt": [
@@ -303,7 +303,7 @@
       "semantic_role": "body",
       "semantic_path": "stages[4].body",
       "max_lines": 2,
-      "max_width_units": 24
+      "max_width_units": 99
     },
     {
       "field": "text_2",

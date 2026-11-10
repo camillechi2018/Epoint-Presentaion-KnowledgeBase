@@ -9,5 +9,16 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四步圆环，中心中文标题限四字；英文副标题与 STEP 编号固定。"
+  "count_evidence": "四步圆环，中心中文标题限四字；英文副标题与 STEP 编号固定。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  },
+  "long_copy_validation": {
+    "status": "source_length_rephrased_blue_red_verified",
+    "scope": "body_fields_only",
+    "max_lines": "per_binding"
+  }
 }

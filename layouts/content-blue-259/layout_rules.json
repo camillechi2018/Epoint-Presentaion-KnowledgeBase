@@ -9,5 +9,16 @@
     5
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "固定五阶段，日期连续递增；百分比须有材料依据，不得凭空生成。"
+  "count_evidence": "固定五阶段，日期连续递增；百分比须有材料依据，不得凭空生成。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  },
+  "long_copy_validation": {
+    "status": "source_length_rephrased_blue_red_verified",
+    "scope": "body_fields_only",
+    "max_lines": "per_binding"
+  }
 }

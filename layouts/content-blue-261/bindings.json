@@ -25,7 +25,7 @@
       "shape_id": 29,
       "shape_name": "TextBox 47",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 33,
       "source_sample_chars": 33,
       "source_text": "通过访谈、问卷等方式收集用户需求，形成需求文档并界定项目范围边界。",
       "bounds_pt": [
@@ -36,8 +36,8 @@
       ],
       "semantic_role": "body",
       "semantic_path": "steps[1].body",
-      "max_lines": 2,
-      "max_width_units": 24
+      "max_lines": 1,
+      "max_width_units": 66
     },
     {
       "field": "text_30",
@@ -95,7 +95,7 @@
       "shape_id": 40,
       "shape_name": "TextBox 47",
       "type": "text",
-      "max_chars": 25,
+      "max_chars": 31,
       "source_sample_chars": 31,
       "source_text": "制定详细实施方案，明确实现路径和方法，组织方案评审确保可行性。",
       "bounds_pt": [
@@ -106,8 +106,8 @@
       ],
       "semantic_role": "body",
       "semantic_path": "steps[2].body",
-      "max_lines": 2,
-      "max_width_units": 24
+      "max_lines": 1,
+      "max_width_units": 62
     },
     {
       "field": "text_41",
@@ -149,7 +149,7 @@
       "shape_id": 13,
       "shape_name": "TextBox 47",
       "type": "text",
-      "max_chars": 23,
+      "max_chars": 31,
       "source_sample_chars": 31,
       "source_text": "按照计划有序推进各项工作，及时识别解决问题，确保进度不受影响。",
       "bounds_pt": [
@@ -160,8 +160,8 @@
       ],
       "semantic_role": "body",
       "semantic_path": "steps[4].body",
-      "max_lines": 2,
-      "max_width_units": 26
+      "max_lines": 1,
+      "max_width_units": 62
     },
     {
       "field": "text_15",
@@ -219,7 +219,7 @@
       "shape_id": 18,
       "shape_name": "TextBox 47",
       "type": "text",
-      "max_chars": 21,
+      "max_chars": 31,
       "source_sample_chars": 31,
       "source_text": "对照目标验收成果，组织复盘会议总结经验，完成资料归档沉淀知识。",
       "bounds_pt": [
@@ -230,8 +230,8 @@
       ],
       "semantic_role": "body",
       "semantic_path": "steps[5].body",
-      "max_lines": 2,
-      "max_width_units": 20
+      "max_lines": 1,
+      "max_width_units": 62
     },
     {
       "field": "text_20",
@@ -292,7 +292,7 @@
       "shape_id": 107,
       "shape_name": "TextBox 47",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 36,
       "source_sample_chars": 36,
       "source_text": "明确项目核心目标和关键成果，组建项目团队并召开启动会，确保全员目标对齐。",
       "bounds_pt": [
@@ -303,8 +303,8 @@
       ],
       "semantic_role": "body",
       "semantic_path": "steps[0].body",
-      "max_lines": 2,
-      "max_width_units": 24
+      "max_lines": 1,
+      "max_width_units": 72
     },
     {
       "field": "text_108",
@@ -330,7 +330,7 @@
       "shape_id": 117,
       "shape_name": "TextBox 47",
       "type": "text",
-      "max_chars": 21,
+      "max_chars": 33,
       "source_sample_chars": 33,
       "source_text": "测算项目所需资金和物资，完成预算审批和资源调配，确保执行条件具备。",
       "bounds_pt": [
@@ -341,8 +341,8 @@
       ],
       "semantic_role": "body",
       "semantic_path": "steps[3].body",
-      "max_lines": 2,
-      "max_width_units": 20
+      "max_lines": 1,
+      "max_width_units": 66
     },
     {
       "field": "text_118",

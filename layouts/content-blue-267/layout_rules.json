@@ -9,5 +9,16 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "固定四条纵向箭头；短正文实填，长正文未验收。"
+  "count_evidence": "固定四条纵向箭头；短正文实填，长正文未验收。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  },
+  "long_copy_validation": {
+    "status": "source_length_rephrased_blue_red_verified",
+    "scope": "body_fields_only",
+    "max_lines": "per_binding"
+  }
 }

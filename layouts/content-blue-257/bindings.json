@@ -200,7 +200,7 @@
       "shape_id": 23,
       "shape_name": "文本框 22",
       "type": "text",
-      "max_chars": 28,
+      "max_chars": 92,
       "source_sample_chars": 92,
       "source_text": "收集信息：通过访谈、问卷等方式全面收集相关方需求和期望，确保信息完整准确，为后续工作提供输入依据。\n明确目标：梳理核心诉求，确定工作要解决的关键问题和预期成果，与相关方达成共识并确认。",
       "bounds_pt": [
@@ -212,14 +212,14 @@
       "semantic_role": "body",
       "semantic_path": "stages[0].body",
       "max_lines": 2,
-      "max_width_units": 30
+      "max_width_units": 98
     },
     {
       "field": "text_26",
       "shape_id": 26,
       "shape_name": "文本框 25",
       "type": "text",
-      "max_chars": 21,
+      "max_chars": 52,
       "source_sample_chars": 52,
       "source_text": "评估所需：盘点完成各项任务需要的资源，列出资源清单。\n调配到位：协调相关部门，确保所需资源按时准备就绪。",
       "bounds_pt": [
@@ -231,14 +231,14 @@
       "semantic_role": "body",
       "semantic_path": "stages[2].body",
       "max_lines": 2,
-      "max_width_units": 22
+      "max_width_units": 52
     },
     {
       "field": "text_32",
       "shape_id": 32,
       "shape_name": "文本框 31",
       "type": "text",
-      "max_chars": 23,
+      "max_chars": 88,
       "source_sample_chars": 88,
       "source_text": "过程跟进：建立定期沟通和进度跟踪机制，密切监控各项任务推进情况，及时发现并预警进度偏差。\n协调解决：快速响应执行中出现的卡点和障碍，积极协调内外部资源，确保工作顺畅推进不受阻。",
       "bounds_pt": [
@@ -250,14 +250,14 @@
       "semantic_role": "body",
       "semantic_path": "stages[3].body",
       "max_lines": 2,
-      "max_width_units": 26
+      "max_width_units": 88
     },
     {
       "field": "text_41",
       "shape_id": 41,
       "shape_name": "文本框 40",
       "type": "text",
-      "max_chars": 23,
+      "max_chars": 132,
       "source_sample_chars": 132,
       "source_text": "效果评估：对照初始目标全面评估工作成效，深入分析亮点与不足，形成客观的评估结论报告。\n经验固化：系统提炼可复用的成功方法和经验教训，形成知识资产留存，为后续类似工作提供参考借鉴。\n后续规划：基于复盘结果明确改进方向和下一步行动计划，推动工作成果持续优化和迭代升级。",
       "bounds_pt": [
@@ -268,15 +268,15 @@
       ],
       "semantic_role": "body",
       "semantic_path": "stages[4].body",
-      "max_lines": 2,
-      "max_width_units": 24
+      "max_lines": 3,
+      "max_width_units": 92
     },
     {
       "field": "text_43",
       "shape_id": 43,
       "shape_name": "文本框 42",
       "type": "text",
-      "max_chars": 18,
+      "max_chars": 26,
       "source_sample_chars": 26,
       "source_text": "分解事项：将工作拆解为若干个可独立执行的具体任务项。",
       "bounds_pt": [
@@ -288,7 +288,7 @@
       "semantic_role": "body",
       "semantic_path": "stages[1].body",
       "max_lines": 1,
-      "max_width_units": 36
+      "max_width_units": 52
     },
     {
       "field": "text_46",

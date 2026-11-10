@@ -9,5 +9,16 @@
     6
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "六步折返路径，第四至第六步以视觉顺序为准。"
+  "count_evidence": "六步折返路径，第四至第六步以视觉顺序为准。",
+  "normal_body_weight": {
+    "weight": "regular",
+    "semantic_roles": [
+      "body"
+    ]
+  },
+  "long_copy_validation": {
+    "status": "source_length_rephrased_blue_red_verified",
+    "scope": "body_fields_only",
+    "max_lines": "per_binding"
+  }
 }
