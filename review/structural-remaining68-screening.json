@@ -148,8 +148,8 @@
       "id": "content-blue-204",
       "first_pass": "text_fill_and_powerpoint_render",
       "reason_category": null,
-      "auto_matching_activated": false,
-      "next_gate": "semantic_and_visual_review"
+      "auto_matching_activated": true,
+      "next_gate": "pilot_verified"
     },
     {
       "id": "content-blue-207",
@@ -197,8 +197,8 @@
       "id": "content-blue-240",
       "first_pass": "text_fill_and_powerpoint_render",
       "reason_category": null,
-      "auto_matching_activated": false,
-      "next_gate": "semantic_and_visual_review"
+      "auto_matching_activated": true,
+      "next_gate": "pilot_verified"
     },
     {
       "id": "content-blue-241",

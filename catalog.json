@@ -9449,7 +9449,28 @@
       "search_label": "上半年六个月工作时间线",
       "matching_policy": "structural",
       "structure_type": "timeline",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "timeline",
+        "content_types": [
+          "monthly_timeline"
+        ],
+        "verified_counts": [
+          6
+        ],
+        "item_fields": [
+          "month",
+          "title",
+          "body"
+        ],
+        "input_schema": "monthly_timeline.v1",
+        "compatible_relations": [
+          "timeline"
+        ],
+        "required_order": "chronological",
+        "calendar_sequence": "six_months_1_to_6"
+      }
     },
     {
       "id": "content-blue-205",
@@ -11084,7 +11105,30 @@
       },
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "content_types": [
+          "serpentine_process"
+        ],
+        "verified_counts": [
+          6
+        ],
+        "item_fields": [
+          "title",
+          "goal",
+          "body"
+        ],
+        "input_schema": "serpentine_process.v1",
+        "compatible_relations": [
+          "process"
+        ],
+        "required_order": "serpentine",
+        "required_content_fields": [
+          "center_title"
+        ]
+      }
     },
     {
       "id": "content-blue-241",

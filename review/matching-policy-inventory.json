@@ -5589,8 +5589,8 @@
       "structure_type": "timeline",
       "source_relation": "six-month-work-timeline",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "非源稿业务内容蓝红试填与 PowerPoint 渲染复核；限固定项数、真实日历或步骤顺序；长文案仍逐次容量校验。",
       "required_semantic_paths": [
         "months[0].heading",
         "months[4].heading",
@@ -5680,7 +5680,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": "layouts/content-blue-204/bindings-red.json",
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch16-round2-2026-11-10.md"
+      ]
     },
     {
       "id": "content-blue-207",
@@ -6513,8 +6515,8 @@
       "structure_type": "process",
       "source_relation": "six-step-issue-handling-loop",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "非源稿业务内容蓝红试填与 PowerPoint 渲染复核；限固定项数、真实日历或步骤顺序；长文案仍逐次容量校验。",
       "required_semantic_paths": [
         "center.title",
         "steps[0].heading",
@@ -6647,7 +6649,7 @@
       "long_copy_review_status": null,
       "red_bindings": "layouts/content-blue-240/bindings-red.json",
       "visual_evidence": [
-        "layouts/content-blue-240/ready-blue.png"
+        "review/structural-batch16-round2-2026-11-10.md"
       ]
     },
     {
