@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "status": "verified_capacity_advisory",
+  "capacity_source": "review/body-longcopy-capacity.json",
+  "hard_limits_source": "layouts/*/bindings.json",
+  "near_hard_limit_ratio": 0.85,
+  "near_recommended_limit_ratio": 0.9,
+  "recommended_cjk_limit_policy": "advisory_for_single_paragraph_auto_wrap",
+  "manual_line_break_policy": "binding_limits_then_visual_review",
+  "selection_policy": "prefer_complete_fields_then_no_hard_overflow_then_capacity_margin",
+  "source_facts_policy": "do_not_drop_extra_material_fields"
+}
