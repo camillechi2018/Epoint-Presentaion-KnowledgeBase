@@ -1,0 +1,484 @@
+{
+  "scope": "68 structural candidates remaining after 16 pilot verifications",
+  "note": "Mechanical fill and rendering are screening only; no component is activated by this record.",
+  "filled_and_rendered": 51,
+  "rejected": 17,
+  "rows": [
+    {
+      "id": "content-blue-025",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-070",
+      "first_pass": "rejected",
+      "reason_category": "requires_task_array",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-071",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-089",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-092",
+      "first_pass": "rejected",
+      "reason_category": "short_text_over_capacity",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-102",
+      "first_pass": "rejected",
+      "reason_category": "short_text_over_capacity",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-122",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-129",
+      "first_pass": "rejected",
+      "reason_category": "short_text_over_capacity",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-133",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-142",
+      "first_pass": "rejected",
+      "reason_category": "short_text_over_capacity",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-143",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-146",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-147",
+      "first_pass": "rejected",
+      "reason_category": "fixed_label_or_geometry_mismatch",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-149",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-157",
+      "first_pass": "rejected",
+      "reason_category": "requires_date_format",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-160",
+      "first_pass": "rejected",
+      "reason_category": "short_text_over_capacity",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-161",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-180",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-201",
+      "first_pass": "rejected",
+      "reason_category": "requires_year_format",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-202",
+      "first_pass": "rejected",
+      "reason_category": "requires_year_range_format",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-204",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-207",
+      "first_pass": "rejected",
+      "reason_category": "requires_quarter_format",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-208",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-214",
+      "first_pass": "rejected",
+      "reason_category": "requires_month_format",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-230",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-231",
+      "first_pass": "rejected",
+      "reason_category": "short_text_over_capacity",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-235",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-240",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-241",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-244",
+      "first_pass": "rejected",
+      "reason_category": "short_text_over_capacity",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-246",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-247",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-252",
+      "first_pass": "rejected",
+      "reason_category": "short_text_over_capacity",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-253",
+      "first_pass": "rejected",
+      "reason_category": "fixed_label_or_geometry_mismatch",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-257",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-259",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-261",
+      "first_pass": "rejected",
+      "reason_category": "short_text_over_capacity",
+      "auto_matching_activated": false,
+      "next_gate": "fix_or_reclassify"
+    },
+    {
+      "id": "content-blue-263",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-264",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-265",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-blue-266",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-016",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-018",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-019",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-021",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-022",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-023",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-024",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-028",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-030",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-031",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-032",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-042",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-045",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-046",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-047",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-052",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-055",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-056",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-057",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-058",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-059",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-060",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-061",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-066",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "schedule-tech-069",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-077",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    },
+    {
+      "id": "content-tech-081",
+      "first_pass": "text_fill_and_powerpoint_render",
+      "reason_category": null,
+      "auto_matching_activated": false,
+      "next_gate": "semantic_and_visual_review"
+    }
+  ]
+}
