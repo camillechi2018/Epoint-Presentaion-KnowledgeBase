@@ -4,6 +4,8 @@
 
 正常调用复核（2026-11-10）：按参考字数试填全部 189 个风格版本，153 个通过现有填充器；其中 151 个 PowerPoint 文字边界无溢出，2 个仍有原测试页已存在的标题溢出。按组件计，96 个已通过填充和边界检查，19 个因图表、排期或字段输入要求未通过，2 个有已有溢出。逐组件状态与失败原因已写入同一容量清单的 `normal_fill_longcopy_status` 和 `normal_fill_cases`；96 个仍待人工视觉签收，尚未标记为长文案全部验收通过。
 
+补充复核（2026-11-10）：补齐图表、排期、指标一致性所需的测试输入后，正常填充达到 180/189 个版本；其中 178 个 PowerPoint 文字边界无溢出。按组件计，110 个通过正常填充和边界检查、待逐页视觉复核；5 个填充失败，2 个有标题溢出。具体状态以 `review/body-longcopy-capacity.json` 的最新记录为准。原稿字段限制与来源 Logo 校验的失败项未改成“通过”。
+
 普通正文专项修整（2026-11-09）：已验收蓝红组件中 35 个来源页的 `body`、`step_body` 或 `item_detail` 字段带显式粗体，现已在各组件 `layout_rules.json.normal_body_weight` 登记普通字重，并为每个组件提供蓝红 `ready_source_by_theme` 可编辑单页与 `ready_preview_by_theme` 效果图。**生成或直接复用时读取 ready 资产；`source`／`red_source` 只作原稿追溯。**P112 右侧另去掉自动序号；P106 蓝版另固化白色画布与五块浅蓝衬底。字号尚未批量放大：P106、P112 分别已验收 15、16 pt，其余 33 个组件的调整优先级见本地字号排查报告，须逐项实填和渲染后再开放。普通正文组件清单见 `review/normal-body-component-ids.json`。
 
 `relation-taxonomy.json` 是已验收版式的信息关系索引：158 条 `classification_status=verified` 记录写入 `canonical_relation`，保留原 `information_relation` 作为具体结构名。检索可用统一类型或中英文同义词；具体结构名仍精确匹配。未验收记录不因建立索引而升级。封面、目录、章节和封底保持角色独立，正文跨角色匹配只在明确关系且已验收时使用；主题、项数、容量等门槛不变。
