@@ -18,7 +18,7 @@
     "brand/logo/logo-white.svg": "8a88f37c17458a889c9acb62c224e148f62e1a164256be9e71a7611c1b3e7570",
     "brand/logo/logo.png": "fc7c0355681062dc1736d071660d71cfe83a7abbfc5542e52d9688f9425789ad",
     "brand/logo/logo.svg": "4245bf98e06c00ef7351e0d24018b5edfd363a455a11af2040bcd439d7f611e2",
-    "catalog.json": "6d084d038eb5a262e9f4449b5396b6ef866b21d75adfabe0ee3ce733dacd5347",
+    "catalog.json": "8cab2b2943cfe05af74d922d8b2eb09bfc06e0192464917104fa15c7c939136e",
     "closing-assets/tech/P082-composition.json": "7b1bb4212b67108ce98ca340cdc40f1040561f15498bbb6ec97da984d0f381d0",
     "closing-assets/tech/P083-composition.json": "b5c83820dc324411eaafa54423ccab4227bb6298e24b253c216f0375875a2e83",
     "closing-assets/tech/P084-composition.json": "946ea654f01b40f6d9f67f7a370ba398dc6bfed52f067d3894d36aa0c5fdcd53",
@@ -1077,10 +1077,10 @@
     "layouts/content-blue-181/bindings.json": "d0ce4a06608222da741790712fc9e74076f6bdde4eb606c6d91dc6f41336ede0",
     "layouts/content-blue-181/layout_rules.json": "48209c5f01336324bd5ac1248be1839325518191eaa81f382ea352a0543b40de",
     "layouts/content-blue-181/motion.json": "300fb58d7ef05c539d184d5a97533d3daf68a17ede1422b1d3272d94f10b6502",
-    "layouts/content-blue-181/ready-blue.png": "47ef55c78c55e0df7d49117270af0cb8b5727cf12053b5f538c01bcc6fbe92e7",
-    "layouts/content-blue-181/ready-blue.pptx": "1109e9d66eefe75ff1fd984de8c58777fd1fd69609dec4a3e04ae15240894950",
-    "layouts/content-blue-181/ready-red.png": "93770d57dc5b605a84040f53481cb632716241470874d6d592a7a8abe803d45d",
-    "layouts/content-blue-181/ready-red.pptx": "94a140ec2e343608420a192778a2bbff73431fc6529b4542cbb575c158876616",
+    "layouts/content-blue-181/ready-blue.png": "6cae461d184c0fef283a0274fef25e7aa016f95eb06373e19fadf0ee55fd9188",
+    "layouts/content-blue-181/ready-blue.pptx": "50a87b0c62cb1fe96a6d4dc60e94ea1cfb7693b7f9996f75c5fd9081792b723a",
+    "layouts/content-blue-181/ready-red.png": "8eb39022764e81ceef07471ee1924884eb4dfaa8e6f1561f38efe7d87b741b22",
+    "layouts/content-blue-181/ready-red.pptx": "1408cecb9498202d49637a15d146b8983297ec556725bdfd095f4bf48f3881ab",
     "layouts/content-blue-181/spec.md": "c80332844340bcc1a45526309778ab35c4db1efe1e305d39adebd9779646e9da",
     "layouts/content-blue-182/bindings-red.json": "b225142520e84477cfc11d49f14fa0cdc05bae2fe839e1aa1430419512c1b9be",
     "layouts/content-blue-182/bindings.json": "3f0a69faa5376c633ab9fbe9a0888a8236120de35ca0949f3ec3e9a41356b26a",
@@ -3428,6 +3428,6 @@
     "review/style-galleries/red-cover.png": "b7fd23f7973900b7d5b7e6a9c869939c50166076f3ff2f5624877f546d766e27",
     "review/style-galleries/tech-cover.png": "a5f3184e972066eb2040828c4f972da7c56993adff02b5125768b1be377defba",
     "LICENSE": "e71dcf33890b124e6ed084ee65053d4b01c60b72955e210a6ba43f2f57665d2d",
-    "review/matching-policy-inventory.json": "8bffd14b713e3dd2cdd1fa2af3c29750c71ace038b4a20cb1055d8bffdcd5d4d"
+    "review/matching-policy-inventory.json": "22a834e45c1f31f06af23cd20ce06566a79a28c4dee781a2a09415566bc23316"
   }
 }

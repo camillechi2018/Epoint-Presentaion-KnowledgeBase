@@ -5833,9 +5833,14 @@
         "blue": "layouts/content-blue-128/ready-blue.png",
         "red": "layouts/content-blue-128/ready-red.png"
       },
-      "matching_policy": "structural",
+      "matching_policy": "semantic_strict",
       "structure_type": "framework",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "classified_pending_trial",
+      "matching_contract": {
+        "policy": "semantic_strict",
+        "required_relation": "four-improvement-practices",
+        "invariant": "图形表达两组成对先后关系，不能接四个独立事实"
+      }
     },
     {
       "id": "content-blue-129",
@@ -8313,7 +8318,31 @@
       },
       "matching_policy": "structural",
       "structure_type": "framework",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "nested-four-layers",
+        "content_types": [
+          "hierarchy"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "required_order": "inner_to_outer",
+        "input_schema": "hierarchy.inner_to_outer.v1",
+        "compatible_relations": [
+          "framework"
+        ],
+        "scenario_tags": [
+          "层级",
+          "架构",
+          "能力"
+        ]
+      }
     },
     {
       "id": "content-blue-182",
@@ -9120,7 +9149,32 @@
       },
       "matching_policy": "structural",
       "structure_type": "timeline",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "five-year-timeline",
+        "content_types": [
+          "milestone_timeline"
+        ],
+        "verified_counts": [
+          5
+        ],
+        "item_fields": [
+          "label",
+          "title",
+          "body"
+        ],
+        "label_sequence": "ascending_years",
+        "input_schema": "timeline.five_years.v1",
+        "compatible_relations": [
+          "timeline"
+        ],
+        "scenario_tags": [
+          "路线图",
+          "里程碑",
+          "时间线"
+        ]
+      }
     },
     {
       "id": "content-blue-200",
@@ -11660,9 +11714,14 @@
         "blue": "layouts/content-blue-254/ready-blue.png",
         "red": "layouts/content-blue-254/ready-red.png"
       },
-      "matching_policy": "structural",
+      "matching_policy": "semantic_strict",
       "structure_type": "comparison",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "classified_pending_trial",
+      "matching_contract": {
+        "policy": "semantic_strict",
+        "required_relation": "four-issue-solution-columns",
+        "invariant": "四组问题与解决方案逐项对应，不能接四个独立条目"
+      }
     },
     {
       "id": "content-blue-255",
@@ -12050,9 +12109,14 @@
         "blue": "layouts/content-blue-260/ready-blue.png",
         "red": "layouts/content-blue-260/ready-red.png"
       },
-      "matching_policy": "structural",
+      "matching_policy": "semantic_strict",
       "structure_type": "cycle",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "classified_pending_trial",
+      "matching_contract": {
+        "policy": "semantic_strict",
+        "required_relation": "cyclical-process",
+        "invariant": "四步闭环图形要求真实循环关系，不能接普通线性流程"
+      }
     },
     {
       "id": "content-blue-261",

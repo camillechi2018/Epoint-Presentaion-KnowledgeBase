@@ -3,8 +3,8 @@
   "scope": "verified_body_only",
   "policy_counts": {
     "data_contract": 12,
-    "structural": 93,
-    "semantic_strict": 12
+    "structural": 90,
+    "semantic_strict": 15
   },
   "boundary": "matching_policy 是全量分类；只有 matching_activation=pilot_verified 且通用视觉适配与 matching_contract 完整的组件可自动放宽原稿业务标签。",
   "rows": [
@@ -849,7 +849,7 @@
       "source_relation": "ordered-steps",
       "invariant": null,
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：四步目标、说明、结果和页级目标均为实填必需；试填适配待做；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "steps[0].number",
         "steps[1].number",
@@ -971,7 +971,12 @@
       "red_bindings": "layouts/content-blue-060/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-060/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "四步目标、说明、结果和页级目标均为实填必需；试填适配待做"
+      }
     },
     {
       "id": "content-blue-070",
@@ -1223,7 +1228,7 @@
       "source_relation": "three-phase-six-task-plan",
       "invariant": null,
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：三个阶段各含两项任务；须提供真实父子关系并移除来源图标；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "page.title",
         "phases[0].heading",
@@ -1333,7 +1338,12 @@
       "red_bindings": "layouts/content-blue-071/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-071/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "三个阶段各含两项任务；须提供真实父子关系并移除来源图标"
+      }
     },
     {
       "id": "content-blue-076",
@@ -1604,7 +1614,7 @@
       "source_relation": "four-career-development-directions",
       "invariant": null,
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：四列各有标题、摘要、双说明和双标签；须完整提供，不拆造文案；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "items[0].heading",
         "items[1].heading",
@@ -1768,7 +1778,12 @@
       "red_bindings": "layouts/content-blue-089/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-089/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "四列各有标题、摘要、双说明和双标签；须完整提供，不拆造文案"
+      }
     },
     {
       "id": "content-blue-092",
@@ -1777,7 +1792,7 @@
       "source_relation": "four-work-goals",
       "invariant": null,
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：四目标围绕真实中心主题；短标签和来源图标尚待通用化；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "center.title",
         "goals[0].body",
@@ -1875,7 +1890,12 @@
       "red_bindings": "layouts/content-blue-092/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-092/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "四目标围绕真实中心主题；短标签和来源图标尚待通用化"
+      }
     },
     {
       "id": "content-blue-102",
@@ -2310,7 +2330,7 @@
       "source_relation": "four-work-execution-methods",
       "invariant": null,
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：四象限围绕中心主题；须实填每象限两段说明并去来源图标；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "methods[2].heading",
         "methods[1].heading",
@@ -2408,7 +2428,12 @@
       "red_bindings": "layouts/content-blue-122/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-122/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "四象限围绕中心主题；须实填每象限两段说明并去来源图标"
+      }
     },
     {
       "id": "content-blue-123",
@@ -2658,12 +2683,12 @@
     },
     {
       "id": "content-blue-128",
-      "policy": "structural",
+      "policy": "semantic_strict",
       "structure_type": "framework",
       "source_relation": "four-improvement-practices",
-      "invariant": null,
+      "invariant": "图形表达两组成对先后关系，不能接四个独立事实",
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：图形表达两组成对先后关系，不能接四个独立事实；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "practices[0].heading",
         "practices[1].heading",
@@ -2779,7 +2804,12 @@
       "red_bindings": "layouts/content-blue-128/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-128/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "图形表达两组成对先后关系，不能接四个独立事实"
+      }
     },
     {
       "id": "content-blue-129",
@@ -2788,7 +2818,7 @@
       "source_relation": "four-innovation-methods",
       "invariant": null,
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：四项加总论的布局；四个来源图标与固定竖排标签须通用化；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "methods[0].body_a",
         "methods[0].heading",
@@ -2916,7 +2946,12 @@
       "red_bindings": "layouts/content-blue-129/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-129/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "四项加总论的布局；四个来源图标与固定竖排标签须通用化"
+      }
     },
     {
       "id": "content-blue-133",
@@ -3465,7 +3500,7 @@
       "source_relation": "four-management-abilities",
       "invariant": null,
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：四级阶梯须真实递进；来源图标待替换为中性序号；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "abilities[0].heading",
         "abilities[1].heading",
@@ -3533,7 +3568,12 @@
       "red_bindings": "layouts/content-blue-143/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-143/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "四级阶梯须真实递进；来源图标待替换为中性序号"
+      }
     },
     {
       "id": "content-blue-146",
@@ -3780,7 +3820,7 @@
       "source_relation": "five-capability-development-columns",
       "invariant": null,
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：五列递增图形须真实递进；另需页级总述、尾注与图标中性化；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "abilities[0].heading",
         "abilities[1].heading",
@@ -3872,7 +3912,12 @@
       "red_bindings": "layouts/content-blue-149/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-149/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "五列递增图形须真实递进；另需页级总述、尾注与图标中性化"
+      }
     },
     {
       "id": "content-blue-150",
@@ -4099,7 +4144,7 @@
       "source_relation": "four-task-quarter-plan",
       "invariant": null,
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：四任务必须有真实周期、目标和措施；不可用普通四卡代替；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "page.title",
         "tasks[0].period",
@@ -4251,7 +4296,12 @@
       "red_bindings": "layouts/content-blue-157/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-157/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "四任务必须有真实周期、目标和措施；不可用普通四卡代替"
+      }
     },
     {
       "id": "content-blue-160",
@@ -4401,7 +4451,7 @@
       "source_relation": "five-direction-outlook",
       "invariant": null,
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：五列各含两段说明与双标签；来源图标须中性化；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "items[0].heading",
         "items[1].heading",
@@ -4571,7 +4621,12 @@
       "red_bindings": "layouts/content-blue-161/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-161/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "五列各含两段说明与双标签；来源图标须中性化"
+      }
     },
     {
       "id": "content-blue-180",
@@ -4750,8 +4805,8 @@
       "structure_type": "framework",
       "source_relation": "four-layer-capability-growth",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "蓝红短、常规、近容量三档实填并经 PowerPoint 渲染复核；只按已登记结构关系调用",
       "required_semantic_paths": [
         "page.title",
         "layers[0].body",
@@ -4818,8 +4873,15 @@
       "long_copy_review_status": null,
       "red_bindings": "layouts/content-blue-181/bindings-red.json",
       "visual_evidence": [
-        "layouts/content-blue-181/ready-blue.png"
-      ]
+        "layouts/content-blue-181/ready-blue.png",
+        "layouts/content-blue-181/ready-red.png"
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "四层从内到外层级，四项标题和说明均有实填槽位",
+        "blue_red_fill_and_visual": "passed"
+      }
     },
     {
       "id": "content-blue-182",
@@ -5045,8 +5107,8 @@
       "structure_type": "timeline",
       "source_relation": "five-year-roadmap",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "蓝红短、常规、近容量三档实填并经 PowerPoint 渲染复核；只按已登记结构关系调用",
       "required_semantic_paths": [
         "years[3].label",
         "years[4].label",
@@ -5155,8 +5217,15 @@
       "long_copy_review_status": null,
       "red_bindings": "layouts/content-blue-199/bindings-red.json",
       "visual_evidence": [
-        "layouts/content-blue-199/ready-blue.png"
-      ]
+        "layouts/content-blue-199/ready-blue.png",
+        "layouts/content-blue-199/ready-red.png"
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "五个严格递增的真实年份，各有标题和说明",
+        "blue_red_fill_and_visual": "passed"
+      }
     },
     {
       "id": "content-blue-201",
@@ -6337,7 +6406,7 @@
       "source_relation": "four-project-milestones",
       "invariant": "Arrow and uneven third stage require real order plus extra bottom labels and notes; no generic adapter yet.",
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：四阶段顺序、正文与阶段备注均必填；固定图标待中性化；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "stages[0].heading",
         "stages[1].heading",
@@ -6429,7 +6498,12 @@
       "red_bindings": "layouts/content-blue-235/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-235/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "四阶段顺序、正文与阶段备注均必填；固定图标待中性化"
+      }
     },
     {
       "id": "content-blue-240",
@@ -7331,12 +7405,12 @@
     },
     {
       "id": "content-blue-254",
-      "policy": "structural",
+      "policy": "semantic_strict",
       "structure_type": "comparison",
       "source_relation": "four-issue-solution-columns",
-      "invariant": null,
+      "invariant": "四组问题与解决方案逐项对应，不能接四个独立条目",
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：四组问题与解决方案逐项对应，不能接四个独立条目；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "pairs[0].issue.heading",
         "pairs[0].issue.body",
@@ -7428,7 +7502,12 @@
       "red_bindings": "layouts/content-blue-254/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-254/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "四组问题与解决方案逐项对应，不能接四个独立条目"
+      }
     },
     {
       "id": "content-blue-256",
@@ -7814,12 +7893,12 @@
     },
     {
       "id": "content-blue-260",
-      "policy": "structural",
+      "policy": "semantic_strict",
       "structure_type": "cycle",
       "source_relation": "cyclical-process",
-      "invariant": null,
+      "invariant": "四步闭环图形要求真实循环关系，不能接普通线性流程",
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "review_scope": "第二批逐页检查蓝版预览与字段：四步闭环图形要求真实循环关系，不能接普通线性流程；蓝红实填与视觉验收以 activation 为准",
       "required_semantic_paths": [
         "steps[0].body",
         "steps[0].title",
@@ -7909,7 +7988,12 @@
       "red_bindings": "layouts/content-blue-260/bindings-red.json",
       "visual_evidence": [
         "layouts/content-blue-260/ready-blue.png"
-      ]
+      ],
+      "batch_review": {
+        "batch": "2026-11-10-next16",
+        "blue_visual_review": true,
+        "decision": "四步闭环图形要求真实循环关系，不能接普通线性流程"
+      }
     },
     {
       "id": "content-blue-261",
