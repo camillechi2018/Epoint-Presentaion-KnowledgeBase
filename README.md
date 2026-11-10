@@ -68,4 +68,4 @@
 | [`review/`](review/) | 容量、静态 PPTX 和专项修整的验收证据。 |
 | [`knowledge-manifest.json`](knowledge-manifest.json) | 供技能校验下载内容的文件哈希清单。 |
 
-知识库模板和品牌素材仍处于 `draft_pending_review`。授权说明见[技能仓库的 LICENSE](https://github.com/camillechi2018/Epoint-Presentaion/blob/main/LICENSE)；本仓库公开可读不表示获得再分发或商用授权。
+知识库模板和品牌素材仍处于 `draft_pending_review`。本仓库的授权范围见 [LICENSE](LICENSE)；公开可读不表示获得再分发或商用授权。配套技能另见[技能仓库的 LICENSE](https://github.com/camillechi2018/Epoint-Presentaion/blob/main/LICENSE)。
