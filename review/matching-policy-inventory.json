@@ -5690,8 +5690,8 @@
       "structure_type": "timeline",
       "source_relation": "four-quarter-plan",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "非源稿业务内容蓝红试填、实际 PowerPoint 渲染；季度或连续月份与事实一一对应。长文案仍逐字段检查。",
       "required_semantic_paths": [
         "quarters[0].label",
         "quarters[1].label",
@@ -5788,7 +5788,7 @@
       "long_copy_review_status": null,
       "red_bindings": "layouts/content-blue-207/bindings-red.json",
       "visual_evidence": [
-        "layouts/content-blue-207/ready-blue.png"
+        "review/structural-batch16-round3-2026-11-10.md"
       ]
     },
     {
@@ -5896,8 +5896,8 @@
       "structure_type": "timeline",
       "source_relation": "six-month-project-roadmap",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "非源稿业务内容蓝红试填、实际 PowerPoint 渲染；季度或连续月份与事实一一对应。长文案仍逐字段检查。",
       "required_semantic_paths": [
         "months[0].heading",
         "months[2].heading",
@@ -6024,7 +6024,7 @@
       "long_copy_review_status": null,
       "red_bindings": "layouts/content-blue-214/bindings-red.json",
       "visual_evidence": [
-        "layouts/content-blue-214/ready-blue.png"
+        "review/structural-batch16-round3-2026-11-10.md"
       ]
     },
     {

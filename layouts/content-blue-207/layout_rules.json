@@ -17,7 +17,8 @@
       "quarters[1].label",
       "quarters[2].label",
       "quarters[3].label"
-    ]
+    ],
+    "mode": "generic_quarters"
   },
   "normal_body_weight": {
     "weight": "regular",

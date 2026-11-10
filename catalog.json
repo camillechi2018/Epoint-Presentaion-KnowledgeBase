@@ -9614,7 +9614,32 @@
       },
       "matching_policy": "structural",
       "structure_type": "timeline",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "timeline",
+        "content_types": [
+          "quarter_cycle"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "quarter",
+          "title",
+          "body"
+        ],
+        "input_schema": "quarter_cycle.v1",
+        "compatible_relations": [
+          "timeline"
+        ],
+        "required_order": "clockwise",
+        "required_content_fields": [
+          "center_title"
+        ],
+        "quarter_sequence": "first_to_fourth",
+        "decorative_icons": "Do not infer item semantics from fixed corner icons."
+      }
     },
     {
       "id": "content-blue-208",
@@ -9934,7 +9959,28 @@
       },
       "matching_policy": "structural",
       "structure_type": "timeline",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "timeline",
+        "content_types": [
+          "monthly_roadmap"
+        ],
+        "verified_counts": [
+          6
+        ],
+        "item_fields": [
+          "date",
+          "title",
+          "body"
+        ],
+        "input_schema": "monthly_roadmap.v1",
+        "compatible_relations": [
+          "timeline"
+        ],
+        "required_order": "chronological",
+        "calendar_sequence": "six_consecutive_months_within_jan_sep"
+      }
     },
     {
       "id": "content-blue-215",
