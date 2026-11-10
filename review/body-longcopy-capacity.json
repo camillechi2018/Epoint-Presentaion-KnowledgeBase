@@ -288,7 +288,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-015-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-015-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-025",
@@ -982,7 +1002,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-025-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-025-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-036",
@@ -1839,7 +1879,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-050-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-050-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-060",
@@ -2082,7 +2142,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-060-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-060-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-070",
@@ -2161,7 +2241,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-070-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-070-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-071",
@@ -2445,7 +2545,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-071-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-071-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-076",
@@ -2647,7 +2767,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-076-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-076-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-081",
@@ -2808,7 +2948,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-081-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-081-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-089",
@@ -3338,7 +3498,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-089-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-089-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-092",
@@ -3540,7 +3720,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-092-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-092-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-102",
@@ -3783,7 +3983,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-102-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-102-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-106",
@@ -4026,7 +4246,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-106-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-106-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-112",
@@ -4228,7 +4468,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-112-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-112-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-119",
@@ -4512,7 +4772,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-119-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-119-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-122",
@@ -4878,7 +5158,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-122-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-122-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-123",
@@ -5162,7 +5462,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-123-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-123-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-125",
@@ -6061,7 +6381,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-125-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-125-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-128",
@@ -6263,7 +6603,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-128-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-128-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-129",
@@ -6670,7 +7030,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-129-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-129-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-133",
@@ -6954,7 +7334,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-133-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-133-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-135",
@@ -7156,7 +7556,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-135-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-135-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-138",
@@ -7358,7 +7778,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-138-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-138-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-142",
@@ -7560,7 +8000,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-142-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-142-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-143",
@@ -7762,7 +8222,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-143-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-143-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-146",
@@ -7964,7 +8444,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-146-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-146-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-147",
@@ -8412,7 +8912,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-147-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-147-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-149",
@@ -8696,7 +9216,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-149-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-149-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-150",
@@ -9390,7 +9930,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-150-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-150-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-152",
@@ -9551,7 +10111,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-152-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-152-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-157",
@@ -9997,7 +10577,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-160-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-160-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-161",
@@ -10445,7 +11045,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-161-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-161-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-180",
@@ -10811,7 +11431,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-180-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-180-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-181",
@@ -11013,7 +11653,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-181-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-181-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-182",
@@ -11215,7 +11875,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-182-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-182-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-191",
@@ -11744,7 +12424,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-199-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-199-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-201",
@@ -12192,7 +12892,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-201-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-201-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-202",
@@ -12435,7 +13155,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-202-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-202-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-204",
@@ -12719,7 +13459,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-204-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-204-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-207",
@@ -12921,7 +13681,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-207-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-207-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-208",
@@ -13123,7 +13903,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-208-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-208-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-214",
@@ -13407,7 +14207,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-214-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-214-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-230",
@@ -14060,7 +14880,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-230-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-230-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-231",
@@ -14262,7 +15102,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-231-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-231-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-235",
@@ -14628,7 +15488,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-235-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-235-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-240",
@@ -15158,7 +16038,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-240-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-240-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-241",
@@ -15319,7 +16219,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-241-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-241-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-244",
@@ -15603,7 +16523,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-244-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-244-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-246",
@@ -15846,7 +16786,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-246-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-246-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-247",
@@ -15966,7 +16926,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-247-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-247-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-249",
@@ -16250,7 +17230,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-249-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-249-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-252",
@@ -16411,7 +17411,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-252-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-252-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-253",
@@ -16654,7 +17674,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-253-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-253-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-254",
@@ -16856,7 +17896,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-254-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-254-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-256",
@@ -17058,7 +18118,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-256-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-256-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-257",
@@ -17301,7 +18381,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-257-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-257-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-258",
@@ -17503,7 +18603,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-258-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-258-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-259",
@@ -17787,7 +18907,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-259-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-259-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-260",
@@ -17989,7 +19129,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-260-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-260-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-261",
@@ -18273,7 +19433,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-261-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-261-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-262",
@@ -18475,7 +19655,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-262-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-262-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-263",
@@ -18800,7 +20000,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-263-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-263-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-264",
@@ -19084,7 +20304,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-264-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-264-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-265",
@@ -19286,7 +20526,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-265-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-265-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-266",
@@ -19570,7 +20830,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-266-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-266-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-267",
@@ -19772,7 +21052,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-267-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-267-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-268",
@@ -20178,7 +21478,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-270-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-270-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-279",
@@ -20298,7 +21618,27 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-279-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-blue-279-red.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-blue-292",
@@ -20597,7 +21937,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-016-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-017",
@@ -20923,7 +22277,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-017-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-018",
@@ -21033,7 +22401,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-018-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-019",
@@ -21577,7 +22959,22 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-020-deep-blue-tech.png"
+          }
+        ],
+        "issue": "六个说明块接近密排，长文案的演示阅读性不足"
+      },
+      "long_copy_review_status": "视觉复核未通过"
     },
     {
       "layout_id": "content-tech-021",
@@ -21822,7 +23219,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-021-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-022",
@@ -22121,7 +23532,22 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-022-deep-blue-tech.png"
+          }
+        ],
+        "issue": "左侧三层文字压在三角图形上，行间互相拥挤"
+      },
+      "long_copy_review_status": "视觉复核未通过"
     },
     {
       "layout_id": "content-tech-023",
@@ -22231,7 +23657,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-023-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-024",
@@ -22557,7 +23997,22 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-024-deep-blue-tech.png"
+          }
+        ],
+        "issue": "上方三组及下方两组文字密集，说明文字与装饰线交叠"
+      },
+      "long_copy_review_status": "视觉复核未通过"
     },
     {
       "layout_id": "content-tech-026",
@@ -22721,7 +24176,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-026-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-028",
@@ -23047,7 +24516,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-028-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-029",
@@ -23184,7 +24667,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-029-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-030",
@@ -23456,7 +24953,22 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-030-deep-blue-tech.png"
+          }
+        ],
+        "issue": "双环内的长文案与中心图标及环内说明叠压"
+      },
+      "long_copy_review_status": "视觉复核未通过"
     },
     {
       "layout_id": "content-tech-031",
@@ -23593,7 +25105,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-031-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-032",
@@ -23973,7 +25499,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-032-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-033",
@@ -24299,7 +25839,22 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-033-deep-blue-tech.png"
+          }
+        ],
+        "issue": "五列卡片的正文接近极限，投影阅读性不足"
+      },
+      "long_copy_review_status": "视觉复核未通过"
     },
     {
       "layout_id": "content-tech-034",
@@ -24625,7 +26180,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-034-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-037",
@@ -24843,7 +26412,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-037-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-038",
@@ -25007,7 +26590,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-038-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-040",
@@ -25225,7 +26822,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-040-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-042",
@@ -25362,7 +26973,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-042-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-043",
@@ -25553,7 +27178,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-043-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-045",
@@ -25717,7 +27356,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-045-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-046",
@@ -25854,7 +27507,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-046-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-047",
@@ -26072,7 +27739,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-047-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-048",
@@ -26344,7 +28025,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-048-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-052",
@@ -26670,7 +28365,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-052-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-053",
@@ -26780,7 +28489,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-053-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-054",
@@ -27000,7 +28723,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-055-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-056",
@@ -27326,7 +29063,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-056-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-057",
@@ -27679,7 +29430,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-057-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-058",
@@ -27897,7 +29662,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-058-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-059",
@@ -28223,7 +30002,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-059-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-060",
@@ -28495,7 +30288,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-060-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-061",
@@ -28740,7 +30547,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-061-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-063",
@@ -29066,7 +30887,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-063-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-064",
@@ -29365,7 +31200,22 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-064-deep-blue-tech.png"
+          }
+        ],
+        "issue": "五列长文案过密，部分栏位难以在演示距离阅读"
+      },
+      "long_copy_review_status": "视觉复核未通过"
     },
     {
       "layout_id": "content-tech-065",
@@ -29664,7 +31514,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-065-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-066",
@@ -29882,7 +31746,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-066-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-077",
@@ -30262,7 +32140,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-077-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-081",
@@ -30372,7 +32264,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/content-tech-081-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "data-chart-tech-071",
@@ -30428,7 +32334,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/data-chart-tech-071-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "data-chart-tech-075",
@@ -30592,7 +32512,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/data-chart-tech-075-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "schedule-tech-069",
@@ -31026,7 +32960,21 @@
           },
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
+        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "complete-visual-previews/schedule-tech-069-deep-blue-tech.png"
+          }
+        ]
+      },
+      "long_copy_review_status": "长文案已验收"
     }
   ],
   "recommended_limit_rule": "floor(0.85 * physical maximum); blue/red use the lower common limit",
@@ -31078,5 +33026,21 @@
       "text_overflow_pending_repair": 2
     },
     "preview_contact_sheets_local": "D:\\codex_test\\AI实践案例\\AI培训课程\\企业PPT-Skills-精选\\_验证输出\\正文长文案快速验收\\normal-fill-contact-sheets"
+  },
+  "visual_review_summary": {
+    "review_date": "2026-11-10",
+    "scope_layouts": 110,
+    "accepted_layouts": 104,
+    "held_layouts": 6,
+    "other_pending_layouts": 7,
+    "held_ids": {
+      "content-tech-020": "六个说明块接近密排，长文案的演示阅读性不足",
+      "content-tech-022": "左侧三层文字压在三角图形上，行间互相拥挤",
+      "content-tech-024": "上方三组及下方两组文字密集，说明文字与装饰线交叠",
+      "content-tech-030": "双环内的长文案与中心图标及环内说明叠压",
+      "content-tech-033": "五列卡片的正文接近极限，投影阅读性不足",
+      "content-tech-064": "五列长文案过密，部分栏位难以在演示距离阅读"
+    },
+    "evidence_folder": "正文长文案快速验收/complete-visual-contact-sheets"
   }
 }
