@@ -6,13 +6,13 @@
 
 ## 三种风格预览
 
-下表复用[技能仓库的组件预览](https://github.com/camillechi2018/Epoint-Presentaion#正文组件预览)，每张拼图展示 16 个已验收正文组件。蓝红两组展示对应色系，科技风为独立组件族。图片中的文字、数字均为模板示例，不作为出稿事实。
+蓝色、红色、科技风格各展示 16 个正文组件。图片中的文字和数字是版式示例，实际出稿以用户材料替换。
 
 | 蓝色系 · 蓝白简约 | 红色系 · 红白简约 | 科技风格 · 深蓝科技 |
 | --- | --- | --- |
-| ![蓝色系 16 个正文组件](https://raw.githubusercontent.com/camillechi2018/Epoint-Presentaion/main/assets/style-previews/component-gallery-blue-16.png) | ![红色系 16 个正文组件](https://raw.githubusercontent.com/camillechi2018/Epoint-Presentaion/main/assets/style-previews/component-gallery-red-16.png) | ![科技风格 16 个正文组件](https://raw.githubusercontent.com/camillechi2018/Epoint-Presentaion/main/assets/style-previews/component-gallery-tech-16.png) |
+| ![蓝色系 16 个正文组件](review/style-galleries/blue-16.png) | ![红色系 16 个正文组件](review/style-galleries/red-16.png) | ![科技风格 16 个正文组件](review/style-galleries/tech-16.png) |
 
-[拼图组件 ID 与来源](https://github.com/camillechi2018/Epoint-Presentaion/blob/main/assets/style-previews/component-gallery-sources.json) · [蓝红封面及内容视觉索引](review/视觉索引.html) · [科技风 85 页索引](review/深蓝科技风85页索引.html)
+[蓝红封面及内容视觉索引](review/视觉索引.html) · [科技风 85 页索引](review/深蓝科技风85页索引.html)
 
 蓝红组件按 `style_family=legacy-blue-red` 处理，以 `theme=blue/red` 区分色系；科技风使用独立的 `style_family=deep-blue-tech`。绿色实验主题不进入常规选择。
 
