@@ -372,22 +372,22 @@
       "id": "content-tech-042",
       "first_pass": "text_fill_and_powerpoint_render",
       "reason_category": null,
-      "auto_matching_activated": false,
-      "next_gate": "semantic_and_visual_review"
+      "auto_matching_activated": true,
+      "next_gate": "pilot_verified"
     },
     {
       "id": "content-tech-045",
       "first_pass": "text_fill_and_powerpoint_render",
       "reason_category": null,
-      "auto_matching_activated": false,
-      "next_gate": "semantic_and_visual_review"
+      "auto_matching_activated": true,
+      "next_gate": "pilot_verified"
     },
     {
       "id": "content-tech-046",
       "first_pass": "text_fill_and_powerpoint_render",
       "reason_category": null,
       "auto_matching_activated": false,
-      "next_gate": "semantic_and_visual_review"
+      "next_gate": "visual_title_fix"
     },
     {
       "id": "content-tech-047",
@@ -457,7 +457,7 @@
       "first_pass": "text_fill_and_powerpoint_render",
       "reason_category": null,
       "auto_matching_activated": false,
-      "next_gate": "semantic_and_visual_review"
+      "next_gate": "visual_title_fix"
     },
     {
       "id": "schedule-tech-069",
@@ -477,8 +477,8 @@
       "id": "content-tech-081",
       "first_pass": "text_fill_and_powerpoint_render",
       "reason_category": null,
-      "auto_matching_activated": false,
-      "next_gate": "semantic_and_visual_review"
+      "auto_matching_activated": true,
+      "next_gate": "pilot_verified"
     }
   ]
 }

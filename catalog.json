@@ -17373,7 +17373,28 @@
       "matching_avoid": "普通四格清单或没有中心闭环主题",
       "matching_policy": "structural",
       "structure_type": "cycle",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "cycle",
+        "content_types": [
+          "cycle"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "cycle.title_body.v1",
+        "compatible_relations": [
+          "cycle"
+        ],
+        "required_content_fields": [
+          "conclusion"
+        ]
+      }
     },
     {
       "id": "content-tech-043",
@@ -17545,7 +17566,25 @@
       "matching_avoid": "无先后关系或步骤不足四项",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "content_types": [
+          "process"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "process.title_body.v1",
+        "compatible_relations": [
+          "process"
+        ]
+      }
     },
     {
       "id": "content-tech-046",
@@ -19470,7 +19509,26 @@
       "matching_avoid": "三项无因果关系的独立举措",
       "matching_policy": "structural",
       "structure_type": "cycle",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "cycle",
+        "content_types": [
+          "hierarchy"
+        ],
+        "verified_counts": [
+          3
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "hierarchy.title_body.v1",
+        "compatible_relations": [
+          "hierarchy"
+        ],
+        "required_order": "top_to_bottom"
+      }
     },
     {
       "id": "closing-tech-082",

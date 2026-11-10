@@ -10890,8 +10890,8 @@
       "structure_type": "cycle",
       "source_relation": "cycle",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "通用短文案真实 PowerPoint 渲染与阅读顺序复核；更长文案仍受逐次容量校验。",
       "required_semantic_paths": [
         "heading",
         "item_4.title",
@@ -10961,7 +10961,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining68-second.md"
+      ]
     },
     {
       "id": "content-tech-043",
@@ -11040,8 +11042,8 @@
       "structure_type": "process",
       "source_relation": "process",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "通用短文案真实 PowerPoint 渲染与阅读顺序复核；更长文案仍受逐次容量校验。",
       "required_semantic_paths": [
         "item_2.body",
         "item_1.body",
@@ -11135,7 +11137,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining68-second.md"
+      ]
     },
     {
       "id": "content-tech-046",
@@ -11144,7 +11148,6 @@
       "source_relation": "cycle",
       "invariant": null,
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
       "required_semantic_paths": [
         "heading",
         "item_1.body",
@@ -11209,8 +11212,7 @@
       "fixed_count": 3,
       "media_status": "unreviewed",
       "long_copy_review_status": null,
-      "red_bindings": null,
-      "visual_evidence": []
+      "red_bindings": null
     },
     {
       "id": "content-tech-047",
@@ -12572,7 +12574,6 @@
       "source_relation": "timeline",
       "invariant": null,
       "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
       "required_semantic_paths": [
         "heading",
         "milestone_1",
@@ -12631,8 +12632,7 @@
       "fixed_count": 7,
       "media_status": "unreviewed",
       "long_copy_review_status": null,
-      "red_bindings": null,
-      "visual_evidence": []
+      "red_bindings": null
     },
     {
       "id": "schedule-tech-069",
@@ -13048,8 +13048,8 @@
       "structure_type": "cycle",
       "source_relation": "cycle",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "通用短文案真实 PowerPoint 渲染与阅读顺序复核；更长文案仍受逐次容量校验。",
       "required_semantic_paths": [
         "heading",
         "stage_1.title",
@@ -13101,7 +13101,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining68-second.md"
+      ]
     }
   ]
 }
