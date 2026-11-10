@@ -15,7 +15,9 @@
         190.7,
         24.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "subtitle",
+      "semantic_path": "cover.subtitle",
+      "max_lines": 1
     },
     {
       "field": "text_3",
@@ -31,7 +33,9 @@
         440.8,
         46.0
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "title",
+      "semantic_path": "cover.title",
+      "max_lines": 2
     },
     {
       "field": "text_5",
@@ -47,7 +51,9 @@
         242.5,
         24.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english_title",
+      "semantic_path": "cover.english_title",
+      "max_lines": 1
     },
     {
       "field": "text_16",
@@ -63,7 +69,9 @@
         440.7,
         24.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "english_subtitle",
+      "semantic_path": "cover.english_subtitle",
+      "max_lines": 2
     },
     {
       "field": "text_21",
@@ -79,7 +87,9 @@
         190.7,
         24.1
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "presenter",
+      "semantic_path": "cover.presenter",
+      "max_lines": 1
     },
     {
       "field": "text_6",
@@ -111,7 +121,8 @@
           0.0,
           960.0,
           540.0
-        ]
+        ],
+        "semantic_role": "cover_visual_layer"
       },
       {
         "shape_id": 2,
@@ -122,9 +133,10 @@
           0.0,
           0.1,
           0.0
-        ]
+        ],
+        "semantic_role": "source_decorative_locked"
       }
     ]
   },
-  "review": "field semantics provisional; template data not project facts"
+  "review": "P001 image, editable fields and short-copy PowerPoint render reviewed; source examples are not project facts"
 }
