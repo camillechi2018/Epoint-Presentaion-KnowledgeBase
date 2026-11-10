@@ -6,7 +6,7 @@
       "shape_id": 28,
       "shape_name": "TextBox 161",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 5,
       "source_text": "工作\n流程",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         199.6,
         95.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "center.title",
+      "max_lines": 2,
+      "max_width_units": 4
     },
     {
       "field": "text_29",
       "shape_id": 29,
       "shape_name": "TextBox 47",
       "type": "text",
-      "max_chars": 66,
+      "max_chars": 24,
       "source_sample_chars": 33,
       "source_text": "通过访谈、问卷等方式收集用户需求，形成需求文档并界定项目范围边界。",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         255.0,
         45.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[1].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_30",
       "shape_id": 30,
       "shape_name": "TextBox 48",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 8,
       "source_text": "第二步：需求分析",
       "bounds_pt": [
@@ -47,7 +53,10 @@
         214.2,
         25.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[1].heading",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_32",
@@ -63,7 +72,7 @@
         286.1,
         29.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_33",
@@ -79,14 +88,14 @@
         286.1,
         29.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_40",
       "shape_id": 40,
       "shape_name": "TextBox 47",
       "type": "text",
-      "max_chars": 62,
+      "max_chars": 25,
       "source_sample_chars": 31,
       "source_text": "制定详细实施方案，明确实现路径和方法，组织方案评审确保可行性。",
       "bounds_pt": [
@@ -95,14 +104,17 @@
         255.0,
         45.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[2].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_41",
       "shape_id": 41,
       "shape_name": "TextBox 48",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 8,
       "source_text": "第三步：方案设计",
       "bounds_pt": [
@@ -111,7 +123,10 @@
         214.2,
         25.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[2].heading",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_7",
@@ -127,14 +142,14 @@
         286.1,
         29.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_13",
       "shape_id": 13,
       "shape_name": "TextBox 47",
       "type": "text",
-      "max_chars": 62,
+      "max_chars": 23,
       "source_sample_chars": 31,
       "source_text": "按照计划有序推进各项工作，及时识别解决问题，确保进度不受影响。",
       "bounds_pt": [
@@ -143,14 +158,17 @@
         255.0,
         45.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[4].body",
+      "max_lines": 2,
+      "max_width_units": 26
     },
     {
       "field": "text_15",
       "shape_id": 15,
       "shape_name": "TextBox 48",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 8,
       "source_text": "第五步：执行推进",
       "bounds_pt": [
@@ -159,7 +177,10 @@
         215.9,
         25.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[4].heading",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_16",
@@ -175,7 +196,7 @@
         286.1,
         29.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_17",
@@ -191,14 +212,14 @@
         286.1,
         29.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_18",
       "shape_id": 18,
       "shape_name": "TextBox 47",
       "type": "text",
-      "max_chars": 62,
+      "max_chars": 21,
       "source_sample_chars": 31,
       "source_text": "对照目标验收成果，组织复盘会议总结经验，完成资料归档沉淀知识。",
       "bounds_pt": [
@@ -207,14 +228,17 @@
         255.0,
         45.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[5].body",
+      "max_lines": 2,
+      "max_width_units": 20
     },
     {
       "field": "text_20",
       "shape_id": 20,
       "shape_name": "TextBox 48",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 8,
       "source_text": "第六步：验收总结",
       "bounds_pt": [
@@ -223,7 +247,10 @@
         214.2,
         25.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[5].heading",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_103",
@@ -239,14 +266,14 @@
         286.9,
         29.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "decoration_locked"
     },
     {
       "field": "text_104",
       "shape_id": 104,
       "shape_name": "文本框 103",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 11,
       "source_sample_chars": 8,
       "source_text": "流程图｜工作规划",
       "bounds_pt": [
@@ -255,14 +282,17 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 22
     },
     {
       "field": "text_107",
       "shape_id": 107,
       "shape_name": "TextBox 47",
       "type": "text",
-      "max_chars": 72,
+      "max_chars": 24,
       "source_sample_chars": 36,
       "source_text": "明确项目核心目标和关键成果，组建项目团队并召开启动会，确保全员目标对齐。",
       "bounds_pt": [
@@ -271,14 +301,17 @@
         255.0,
         45.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[0].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_108",
       "shape_id": 108,
       "shape_name": "TextBox 48",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 8,
       "source_text": "第一步：启动规划",
       "bounds_pt": [
@@ -287,14 +320,17 @@
         215.6,
         25.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[0].heading",
+      "max_lines": 1,
+      "max_width_units": 16
     },
     {
       "field": "text_117",
       "shape_id": 117,
       "shape_name": "TextBox 47",
       "type": "text",
-      "max_chars": 66,
+      "max_chars": 21,
       "source_sample_chars": 33,
       "source_text": "测算项目所需资金和物资，完成预算审批和资源调配，确保执行条件具备。",
       "bounds_pt": [
@@ -303,14 +339,17 @@
         255.0,
         45.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "steps[3].body",
+      "max_lines": 2,
+      "max_width_units": 20
     },
     {
       "field": "text_118",
       "shape_id": 118,
       "shape_name": "TextBox 48",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 8,
       "source_sample_chars": 8,
       "source_text": "第四步：资源准备",
       "bounds_pt": [
@@ -319,7 +358,10 @@
         215.6,
         25.5
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "steps[3].heading",
+      "max_lines": 1,
+      "max_width_units": 16
     }
   ],
   "objects": {

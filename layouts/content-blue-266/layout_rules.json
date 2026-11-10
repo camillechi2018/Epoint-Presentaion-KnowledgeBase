@@ -1,6 +1,13 @@
 {
-  "cardinality_mode": "fixed_until_validated",
-  "supported_counts": [],
-  "source_count": null,
-  "reflow_status": "not_implemented"
+  "cardinality_mode": "fixed",
+  "supported_counts": [
+    6
+  ],
+  "source_count": 6,
+  "reflow_status": "not_implemented",
+  "verified_counts": [
+    6
+  ],
+  "validation_status": "verified_fixed_count",
+  "count_evidence": "六阶段方形闭环，步骤数字固定，按实际流向绑定。"
 }

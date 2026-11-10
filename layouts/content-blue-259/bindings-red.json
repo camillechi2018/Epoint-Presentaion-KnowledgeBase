@@ -6,7 +6,7 @@
       "shape_id": 145,
       "shape_name": "TextBox 161",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 9,
       "source_sample_chars": 9,
       "source_text": "活动策划\n推进流程",
       "bounds_pt": [
@@ -15,14 +15,17 @@
         162.3,
         84.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "section.title",
+      "max_lines": 2,
+      "max_width_units": 8
     },
     {
       "field": "text_53",
       "shape_id": 53,
       "shape_name": "Rounded Rectangle",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 10,
       "source_text": "活动主题和目标确定：",
       "bounds_pt": [
@@ -31,14 +34,17 @@
         165.5,
         38.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[0].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_136",
       "shape_id": 136,
       "shape_name": "Rounded Rectangle",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2024年2月",
       "bounds_pt": [
@@ -47,14 +53,17 @@
         165.5,
         29.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[0].date",
+      "max_lines": 1,
+      "max_width_units": 9
     },
     {
       "field": "text_146",
       "shape_id": 146,
       "shape_name": "文本框 145",
       "type": "text",
-      "max_chars": 164,
+      "max_chars": 23,
       "source_sample_chars": 82,
       "source_text": "主题设计： 确定活动的核心主题和宗旨，确保主题能够吸引目标参与者并与品牌或组织形象一致。\n目标设定： 明确活动的具体目标，如提升品牌知名度、增加销售、促进客户互动。",
       "bounds_pt": [
@@ -63,14 +72,17 @@
         152.6,
         137.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[0].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_137",
       "shape_id": 137,
       "shape_name": "Rounded Rectangle",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 10,
       "source_text": "预算规划和财务管理：",
       "bounds_pt": [
@@ -79,14 +91,17 @@
         165.5,
         38.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[1].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_138",
       "shape_id": 138,
       "shape_name": "Rounded Rectangle",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2024年6月",
       "bounds_pt": [
@@ -95,14 +110,17 @@
         165.5,
         29.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[1].date",
+      "max_lines": 1,
+      "max_width_units": 9
     },
     {
       "field": "text_147",
       "shape_id": 147,
       "shape_name": "文本框 146",
       "type": "text",
-      "max_chars": 158,
+      "max_chars": 24,
       "source_sample_chars": 79,
       "source_text": "预算制定： 确定活动预算，包括场地租赁、设备租用、食品饮料、人员费用、宣传和推广等各项费用。\n财务管理： 管理和监控活动预算的执行，确保在预算范围内有效运作。",
       "bounds_pt": [
@@ -111,14 +129,17 @@
         152.6,
         137.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[1].body",
+      "max_lines": 2,
+      "max_width_units": 26
     },
     {
       "field": "text_139",
       "shape_id": 139,
       "shape_name": "Rounded Rectangle",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 10,
       "source_text": "场地选择和布置设计：",
       "bounds_pt": [
@@ -127,14 +148,17 @@
         165.5,
         38.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[2].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_140",
       "shape_id": 140,
       "shape_name": "Rounded Rectangle",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 7,
       "source_text": "2024年8月",
       "bounds_pt": [
@@ -143,14 +167,17 @@
         165.5,
         29.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[2].date",
+      "max_lines": 1,
+      "max_width_units": 9
     },
     {
       "field": "text_148",
       "shape_id": 148,
       "shape_name": "文本框 147",
       "type": "text",
-      "max_chars": 172,
+      "max_chars": 21,
       "source_sample_chars": 86,
       "source_text": "场地调研和选择： 根据活动规模和主题，选择合适的场地考虑地理位置、设施设备、场地容量和安全因素。\n布置设计： 设计和规划活动现场的布置，包括舞台设置、展示区域、座位安排等。",
       "bounds_pt": [
@@ -159,14 +186,17 @@
         152.6,
         137.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[2].body",
+      "max_lines": 2,
+      "max_width_units": 20
     },
     {
       "field": "text_141",
       "shape_id": 141,
       "shape_name": "Rounded Rectangle",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 6,
       "source_sample_chars": 10,
       "source_text": "活动流程和日程安排：",
       "bounds_pt": [
@@ -175,14 +205,17 @@
         165.5,
         38.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[3].heading",
+      "max_lines": 1,
+      "max_width_units": 12
     },
     {
       "field": "text_142",
       "shape_id": 142,
       "shape_name": "Rounded Rectangle",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 8,
       "source_text": "2024年10月",
       "bounds_pt": [
@@ -191,14 +224,17 @@
         165.5,
         29.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[3].date",
+      "max_lines": 1,
+      "max_width_units": 9
     },
     {
       "field": "text_149",
       "shape_id": 149,
       "shape_name": "文本框 148",
       "type": "text",
-      "max_chars": 174,
+      "max_chars": 23,
       "source_sample_chars": 87,
       "source_text": "活动流程设计： 制定详细的活动流程图，包括开场致辞、主题演讲、表演节目、互动环节和结束仪式等。\n日程安排： 安排活动的具体时间表，确保各项活动环节有序进行，保持参与者的兴趣。",
       "bounds_pt": [
@@ -207,14 +243,17 @@
         152.6,
         137.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[3].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_143",
       "shape_id": 143,
       "shape_name": "Rounded Rectangle",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 11,
       "source_text": "宣传推广和参与者管理：",
       "bounds_pt": [
@@ -223,14 +262,17 @@
         165.5,
         38.3
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[4].heading",
+      "max_lines": 1,
+      "max_width_units": 14
     },
     {
       "field": "text_144",
       "shape_id": 144,
       "shape_name": "Rounded Rectangle",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 7,
       "source_sample_chars": 8,
       "source_text": "2024年12月",
       "bounds_pt": [
@@ -239,14 +281,17 @@
         165.5,
         29.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "stages[4].date",
+      "max_lines": 1,
+      "max_width_units": 9
     },
     {
       "field": "text_150",
       "shape_id": 150,
       "shape_name": "文本框 149",
       "type": "text",
-      "max_chars": 168,
+      "max_chars": 23,
       "source_sample_chars": 84,
       "source_text": "宣传推广策略： 制定多渠道的宣传推广策略，包括社交媒体营销、电子邮件营销、传统媒体报道和口碑营销等。\n参与者管理： 确定参与者招募方式和注册流程，建立有效的沟通和管理。",
       "bounds_pt": [
@@ -255,14 +300,17 @@
         152.6,
         137.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "body",
+      "semantic_path": "stages[4].body",
+      "max_lines": 2,
+      "max_width_units": 24
     },
     {
       "field": "text_2",
       "shape_id": 2,
       "shape_name": "文本框 1",
       "type": "text",
-      "max_chars": 90,
+      "max_chars": 27,
       "source_sample_chars": 45,
       "source_text": "通过这些工作重点，可以有效地规划和执行活动策划项目，确保活动顺利举行并达到预期的目标效果。",
       "bounds_pt": [
@@ -271,14 +319,17 @@
         293.1,
         91.8
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "footer.summary",
+      "max_lines": 1,
+      "max_width_units": 54
     },
     {
       "field": "text_7",
       "shape_id": 7,
       "shape_name": "文本框 6",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 3,
       "source_sample_chars": 3,
       "source_text": "85%",
       "bounds_pt": [
@@ -287,14 +338,17 @@
         185.6,
         104.2
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "metrics.progress.value",
+      "max_lines": 1,
+      "max_width_units": 3
     },
     {
       "field": "text_3",
       "shape_id": 3,
       "shape_name": "文本框 2",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 12,
       "source_sample_chars": 12,
       "source_text": "流程图｜活动策划推进流程",
       "bounds_pt": [
@@ -303,7 +357,10 @@
         823.9,
         36.4
       ],
-      "semantic_role": "provisional"
+      "semantic_role": "label",
+      "semantic_path": "page.title",
+      "max_lines": 1,
+      "max_width_units": 24
     }
   ],
   "objects": {
