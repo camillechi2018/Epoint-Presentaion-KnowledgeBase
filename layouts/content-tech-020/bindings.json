@@ -34,7 +34,7 @@
       ],
       "source_text": "以人工智能为中心呈现大模型、半导体、机器人、量子与元宇宙等技术方向",
       "source_sample_chars": 33,
-      "max_chars": 49,
+      "max_chars": 35,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -57,7 +57,7 @@
       ],
       "source_text": "中心化计算架构",
       "source_sample_chars": 7,
-      "max_chars": 24,
+      "max_chars": 9,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -80,7 +80,7 @@
       ],
       "source_text": "大模型技术",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 9,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -103,7 +103,7 @@
       ],
       "source_text": "应用专用半导体",
       "source_sample_chars": 7,
-      "max_chars": 24,
+      "max_chars": 9,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -126,7 +126,7 @@
       ],
       "source_text": "机器人产业",
       "source_sample_chars": 5,
-      "max_chars": 24,
+      "max_chars": 9,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -149,7 +149,7 @@
       ],
       "source_text": "量子计算",
       "source_sample_chars": 4,
-      "max_chars": 24,
+      "max_chars": 9,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -172,7 +172,7 @@
       ],
       "source_text": "元宇宙",
       "source_sample_chars": 3,
-      "max_chars": 24,
+      "max_chars": 9,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [

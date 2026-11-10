@@ -7037,7 +7037,8 @@
       "ready_preview_by_theme": {
         "blue": "layouts/content-blue-157/ready-blue.png",
         "red": "layouts/content-blue-157/ready-red.png"
-      }
+      },
+      "replace_source_logo": true
     },
     {
       "id": "content-blue-158",

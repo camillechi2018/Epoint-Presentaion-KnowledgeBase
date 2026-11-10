@@ -30,7 +30,7 @@
       "group_path": [],
       "source_text": "数智商业\n应用基础设施",
       "source_sample_chars": 11,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -49,7 +49,7 @@
       "group_path": [],
       "source_text": "服务企业数智化\n让商业创新如此便捷",
       "source_sample_chars": 17,
-      "max_chars": 25,
+      "max_chars": 10,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -68,7 +68,7 @@
       "group_path": [],
       "source_text": "企业服务产业\n共创平台",
       "source_sample_chars": 11,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -87,7 +87,7 @@
       "group_path": [],
       "source_text": "赋能产业\n生态共创、共生、共荣",
       "source_sample_chars": 15,
-      "max_chars": 24,
+      "max_chars": 10,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -106,7 +106,7 @@
       "group_path": [],
       "source_text": "目标：构建和运营全球领先的商业创新平台",
       "source_sample_chars": 19,
-      "max_chars": 28,
+      "max_chars": 16,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -182,7 +182,7 @@
       "group_path": [],
       "source_text": "以数智商业、产业共创、生态伙伴和社群规模展示平台生态价值",
       "source_sample_chars": 28,
-      "max_chars": 42,
+      "max_chars": 28,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [

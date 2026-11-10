@@ -30,7 +30,7 @@
       "group_path": [],
       "source_text": "沟通",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -50,7 +50,7 @@
       "group_path": [],
       "source_text": "发展",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -70,7 +70,7 @@
       "group_path": [],
       "source_text": "创造",
       "source_sample_chars": 2,
-      "max_chars": 24,
+      "max_chars": 4,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -134,7 +134,7 @@
       "group_path": [],
       "source_text": "从0到1的突破，从1到N的迭代，每一次向前一步，都源自于我们敢于质疑、敢于试错的决心。",
       "source_sample_chars": 43,
-      "max_chars": 64,
+      "max_chars": 24,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -154,7 +154,7 @@
       "group_path": [],
       "source_text": "在一次次真诚的对谈中，消除壁垒，达成共识，\n让个体的微光汇聚成团队的烈焰。",
       "source_sample_chars": 37,
-      "max_chars": 55,
+      "max_chars": 24,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -174,7 +174,7 @@
       "group_path": [],
       "source_text": "在一次次真诚的对谈中，消除壁垒，达成共识，\n让个体的微光汇聚成团队的烈焰。",
       "source_sample_chars": 37,
-      "max_chars": 55,
+      "max_chars": 24,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -282,7 +282,7 @@
       "group_path": [],
       "source_text": "从创造、发展与沟通三个关键词表达团队和企业文化内核",
       "source_sample_chars": 25,
-      "max_chars": 37,
+      "max_chars": 28,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [

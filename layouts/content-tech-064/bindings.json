@@ -51,7 +51,7 @@
       "group_path": [],
       "source_text": "2018年 - V0.1实验版本\n开源社区发布首个测试网实现，支持跨CPU/GPU资源池化，但仅限实验室环境\n\n缺陷\n高延迟、缺乏\n容错机制",
       "source_sample_chars": 70,
-      "max_chars": 105,
+      "max_chars": 32,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -89,7 +89,7 @@
       "group_path": [],
       "source_text": "加入区块链技术实现\n资源溯源，被云计算\n厂商用于边缘计算场景\n\n首次大规模应用\n欧洲某电信公司利用AORO协议优化5G",
       "source_sample_chars": 59,
-      "max_chars": 88,
+      "max_chars": 32,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -127,7 +127,7 @@
       "group_path": [],
       "source_text": "引入抗量子加密算法，成为首个通过NIST后\n量子安全认证的\n编排协议\n\n争议\n中心化治理委员会被批评违背开源精神。",
       "source_sample_chars": 57,
-      "max_chars": 85,
+      "max_chars": 32,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -165,7 +165,7 @@
       "group_path": [],
       "source_text": "支持脑机接口设备\n与AI算力动态匹配，\n医疗/元宇宙领域\n采用率激增\n\n标志性事件\nXpace星云网络\n部署AORO协议\n管理卫星资源",
       "source_sample_chars": 67,
-      "max_chars": 100,
+      "max_chars": 32,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -203,7 +203,7 @@
       "group_path": [],
       "source_text": "AI仲裁器上线\n协议内嵌动态修改逻辑的AI核心，可基于实时负载与攻击数据重写\n自身规则，引发“协议是否具备法律人格”的\n全球辩论",
       "source_sample_chars": 64,
-      "max_chars": 96,
+      "max_chars": 32,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [

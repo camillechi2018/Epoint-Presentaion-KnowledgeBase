@@ -28,7 +28,7 @@
       "group_path": [],
       "source_text": "了解数字化转型的最新趋势和前沿技术，如人工智能、大数据、云计算等。\n分析数字化转型对职场的影响，如工作方式的变革、技能需求的转变等。",
       "source_sample_chars": 66,
-      "max_chars": 99,
+      "max_chars": 30,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -47,7 +47,7 @@
       "group_path": [],
       "source_text": "根据数字化转型的需求，提升自己的数字技能，如数据分析、编程等。\n制定个人职业发展计划，规划技能提升路径，实现职业转型。",
       "source_sample_chars": 59,
-      "max_chars": 88,
+      "max_chars": 30,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -66,7 +66,7 @@
       "group_path": [],
       "source_text": "培养创新思维，将不同领域的知识和技术相融合，创造新的价值。\n参与数字化转型项目，积累实践经验，提升创新能力。",
       "source_sample_chars": 54,
-      "max_chars": 81,
+      "max_chars": 30,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -85,7 +85,7 @@
       "group_path": [],
       "source_text": "将数字化转型的理念和技能应用到实际工作中，如优化工作流程、提升工作效率等。\n分享数字化转型的成功案例，与团队成员共同学习和成长。",
       "source_sample_chars": 64,
-      "max_chars": 96,
+      "max_chars": 30,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -104,7 +104,7 @@
       "group_path": [],
       "source_text": "保持对数字化转型的关注和热情，不断学习新知识、新技能。\n定期评估自己的数字化转型能力和成果，制定改进计划，实现自我迭代。",
       "source_sample_chars": 60,
-      "max_chars": 90,
+      "max_chars": 30,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -243,7 +243,7 @@
       ],
       "source_text": "面向数字化转型趋势，拆解员工能力升级与工作方式适应策略",
       "source_sample_chars": 27,
-      "max_chars": 40,
+      "max_chars": 30,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [

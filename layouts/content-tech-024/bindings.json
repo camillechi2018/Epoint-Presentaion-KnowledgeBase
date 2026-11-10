@@ -9,7 +9,7 @@
       "group_path": [],
       "source_text": "使用Trello、Jira等工具，清晰跟踪任务进度。这些工具可以帮助团队\n更好地分配任务、设置截止日期，并实时监控项目进展。\n项目管理工具和文档协作工具的结合，可以让团队工作更加透明化",
       "source_sample_chars": 92,
-      "max_chars": 138,
+      "max_chars": 56,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -28,7 +28,7 @@
       "group_path": [],
       "source_text": "通过Notion、飞书等工具，实现团队高效协作。多人同时编辑、\n评论和分享文档，减少沟通成本，提升工作效率。\n选择适合的工具，能够帮助员工更好地管理任务、沟通协作",
       "source_sample_chars": 81,
-      "max_chars": 121,
+      "max_chars": 56,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -66,7 +66,7 @@
       "group_path": [],
       "source_text": "分析工作中的压力来源，\n通过自我反思和记录",
       "source_sample_chars": 21,
-      "max_chars": 31,
+      "max_chars": 20,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -104,7 +104,7 @@
       "group_path": [],
       "source_text": "深呼吸与冥想：通过深呼吸和冥想练习，\n缓解紧张情绪，恢复心理平衡。",
       "source_sample_chars": 33,
-      "max_chars": 49,
+      "max_chars": 20,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -142,7 +142,7 @@
       "group_path": [],
       "source_text": "适当的压力缓解技巧能够\n帮助员工恢复精力，提升工作效率",
       "source_sample_chars": 27,
-      "max_chars": 40,
+      "max_chars": 20,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -163,7 +163,7 @@
       ],
       "source_text": "文档协作工具",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -207,7 +207,7 @@
       ],
       "source_text": "整合任务工具、文档协作、压力管理与情绪调节提升团队运行效率",
       "source_sample_chars": 29,
-      "max_chars": 43,
+      "max_chars": 30,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [
@@ -228,7 +228,7 @@
       ],
       "source_text": "项目管理工具",
       "source_sample_chars": 6,
-      "max_chars": 24,
+      "max_chars": 6,
       "typography_role": "chinese_body",
       "semantic_role": "reviewed_text",
       "bounds_emu_local": [

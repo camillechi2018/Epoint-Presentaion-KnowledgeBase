@@ -204,7 +204,7 @@
       "shape_id": 99,
       "shape_name": "矩形: 圆角 329",
       "type": "text",
-      "max_chars": 28,
+      "max_chars": 9,
       "source_sample_chars": 15,
       "source_text": "公司今年【访客量】呈现上升趋势",
       "bounds_pt": [
@@ -222,7 +222,7 @@
       "shape_id": 100,
       "shape_name": "矩形: 圆角 330",
       "type": "text",
-      "max_chars": 28,
+      "max_chars": 9,
       "source_sample_chars": 15,
       "source_text": "公司今年【成交量】呈现上升趋势",
       "bounds_pt": [
@@ -240,7 +240,7 @@
       "shape_id": 101,
       "shape_name": "矩形: 圆角 331",
       "type": "text",
-      "max_chars": 28,
+      "max_chars": 9,
       "source_sample_chars": 15,
       "source_text": "公司今年【成交额】呈现上升趋势",
       "bounds_pt": [
@@ -258,7 +258,7 @@
       "shape_id": 102,
       "shape_name": "矩形: 圆角 332",
       "type": "text",
-      "max_chars": 28,
+      "max_chars": 9,
       "source_sample_chars": 15,
       "source_text": "公司今年【销售额】呈现上升趋势",
       "bounds_pt": [
@@ -276,7 +276,7 @@
       "shape_id": 103,
       "shape_name": "矩形: 圆角 333",
       "type": "text",
-      "max_chars": 28,
+      "max_chars": 9,
       "source_sample_chars": 15,
       "source_text": "公司今年【净利润】呈现上升趋势",
       "bounds_pt": [
@@ -294,7 +294,7 @@
       "shape_id": 7,
       "shape_name": "文本框 6",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 10,
       "source_text": "产品A\n1月达到峰值",
       "bounds_pt": [
@@ -312,7 +312,7 @@
       "shape_id": 13,
       "shape_name": "文本框 12",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 10,
       "source_text": "产品B\n4月达到峰值",
       "bounds_pt": [
@@ -330,7 +330,7 @@
       "shape_id": 105,
       "shape_name": "文本框 104",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 10,
       "source_text": "产品C\n5月达到峰值",
       "bounds_pt": [
@@ -348,7 +348,7 @@
       "shape_id": 108,
       "shape_name": "文本框 107",
       "type": "text",
-      "max_chars": 24,
+      "max_chars": 5,
       "source_sample_chars": 9,
       "source_text": "产品D\n6达到峰值",
       "bounds_pt": [

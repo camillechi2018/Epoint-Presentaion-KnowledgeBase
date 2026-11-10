@@ -1048,7 +1048,7 @@
               "semantic_role": "callouts[0]",
               "is_narrative": true,
               "physical_max_cjk_chars": 18,
-              "registered_max_chars": 24,
+              "registered_max_chars": 5,
               "source_chars": 10,
               "box_width_pt": 69.8,
               "box_height_pt": 26.7,
@@ -1061,7 +1061,7 @@
               "semantic_role": "callouts[0]",
               "is_narrative": true,
               "physical_max_cjk_chars": 18,
-              "registered_max_chars": 24,
+              "registered_max_chars": 5,
               "source_chars": 10,
               "box_width_pt": 69.8,
               "box_height_pt": 26.7,
@@ -1070,9 +1070,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 15,
-          "normal_fill_tested_chars": null
+          "registered_min_max_chars": 5,
+          "use_for_planning_cjk_chars": 5,
+          "normal_fill_tested_chars": 5,
+          "visual_safe_max_cjk_chars": 5
         },
         {
           "semantic_path": "chart.callouts[1]",
@@ -1087,7 +1088,7 @@
               "semantic_role": "callouts[1]",
               "is_narrative": true,
               "physical_max_cjk_chars": 18,
-              "registered_max_chars": 24,
+              "registered_max_chars": 5,
               "source_chars": 10,
               "box_width_pt": 69.8,
               "box_height_pt": 26.7,
@@ -1100,7 +1101,7 @@
               "semantic_role": "callouts[1]",
               "is_narrative": true,
               "physical_max_cjk_chars": 18,
-              "registered_max_chars": 24,
+              "registered_max_chars": 5,
               "source_chars": 10,
               "box_width_pt": 69.8,
               "box_height_pt": 26.7,
@@ -1109,9 +1110,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 15,
-          "normal_fill_tested_chars": null
+          "registered_min_max_chars": 5,
+          "use_for_planning_cjk_chars": 5,
+          "normal_fill_tested_chars": 5,
+          "visual_safe_max_cjk_chars": 5
         },
         {
           "semantic_path": "chart.callouts[2]",
@@ -1126,7 +1128,7 @@
               "semantic_role": "callouts[2]",
               "is_narrative": true,
               "physical_max_cjk_chars": 18,
-              "registered_max_chars": 24,
+              "registered_max_chars": 5,
               "source_chars": 10,
               "box_width_pt": 69.8,
               "box_height_pt": 26.7,
@@ -1139,7 +1141,7 @@
               "semantic_role": "callouts[2]",
               "is_narrative": true,
               "physical_max_cjk_chars": 18,
-              "registered_max_chars": 24,
+              "registered_max_chars": 5,
               "source_chars": 10,
               "box_width_pt": 69.8,
               "box_height_pt": 26.7,
@@ -1148,9 +1150,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 15,
-          "normal_fill_tested_chars": null
+          "registered_min_max_chars": 5,
+          "use_for_planning_cjk_chars": 5,
+          "normal_fill_tested_chars": 5,
+          "visual_safe_max_cjk_chars": 5
         },
         {
           "semantic_path": "chart.callouts[3]",
@@ -1165,7 +1168,7 @@
               "semantic_role": "callouts[3]",
               "is_narrative": true,
               "physical_max_cjk_chars": 18,
-              "registered_max_chars": 24,
+              "registered_max_chars": 5,
               "source_chars": 9,
               "box_width_pt": 69.8,
               "box_height_pt": 26.7,
@@ -1178,7 +1181,7 @@
               "semantic_role": "callouts[3]",
               "is_narrative": true,
               "physical_max_cjk_chars": 18,
-              "registered_max_chars": 24,
+              "registered_max_chars": 5,
               "source_chars": 9,
               "box_width_pt": 69.8,
               "box_height_pt": 26.7,
@@ -1187,9 +1190,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 15,
-          "normal_fill_tested_chars": null
+          "registered_min_max_chars": 5,
+          "use_for_planning_cjk_chars": 5,
+          "normal_fill_tested_chars": 5,
+          "visual_safe_max_cjk_chars": 5
         },
         {
           "semantic_path": "metrics.balance.note",
@@ -1204,7 +1208,7 @@
               "semantic_role": "note",
               "is_narrative": true,
               "physical_max_cjk_chars": 38,
-              "registered_max_chars": 28,
+              "registered_max_chars": 9,
               "source_chars": 15,
               "box_width_pt": 167.9,
               "box_height_pt": 17.0,
@@ -1217,7 +1221,7 @@
               "semantic_role": "note",
               "is_narrative": true,
               "physical_max_cjk_chars": 38,
-              "registered_max_chars": 28,
+              "registered_max_chars": 9,
               "source_chars": 15,
               "box_width_pt": 167.9,
               "box_height_pt": 17.0,
@@ -1226,9 +1230,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 28,
-          "use_for_planning_cjk_chars": 28,
-          "normal_fill_tested_chars": null
+          "registered_min_max_chars": 9,
+          "use_for_planning_cjk_chars": 9,
+          "normal_fill_tested_chars": 9,
+          "visual_safe_max_cjk_chars": 9
         },
         {
           "semantic_path": "metrics.cost.note",
@@ -1243,7 +1248,7 @@
               "semantic_role": "note",
               "is_narrative": true,
               "physical_max_cjk_chars": 38,
-              "registered_max_chars": 28,
+              "registered_max_chars": 9,
               "source_chars": 15,
               "box_width_pt": 167.9,
               "box_height_pt": 17.0,
@@ -1256,7 +1261,7 @@
               "semantic_role": "note",
               "is_narrative": true,
               "physical_max_cjk_chars": 38,
-              "registered_max_chars": 28,
+              "registered_max_chars": 9,
               "source_chars": 15,
               "box_width_pt": 167.9,
               "box_height_pt": 17.0,
@@ -1265,9 +1270,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 28,
-          "use_for_planning_cjk_chars": 28,
-          "normal_fill_tested_chars": null
+          "registered_min_max_chars": 9,
+          "use_for_planning_cjk_chars": 9,
+          "normal_fill_tested_chars": 9,
+          "visual_safe_max_cjk_chars": 9
         },
         {
           "semantic_path": "metrics.deals.note",
@@ -1282,7 +1288,7 @@
               "semantic_role": "note",
               "is_narrative": true,
               "physical_max_cjk_chars": 38,
-              "registered_max_chars": 28,
+              "registered_max_chars": 9,
               "source_chars": 15,
               "box_width_pt": 167.9,
               "box_height_pt": 17.0,
@@ -1295,7 +1301,7 @@
               "semantic_role": "note",
               "is_narrative": true,
               "physical_max_cjk_chars": 38,
-              "registered_max_chars": 28,
+              "registered_max_chars": 9,
               "source_chars": 15,
               "box_width_pt": 167.9,
               "box_height_pt": 17.0,
@@ -1304,9 +1310,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 28,
-          "use_for_planning_cjk_chars": 28,
-          "normal_fill_tested_chars": null
+          "registered_min_max_chars": 9,
+          "use_for_planning_cjk_chars": 9,
+          "normal_fill_tested_chars": 9,
+          "visual_safe_max_cjk_chars": 9
         },
         {
           "semantic_path": "metrics.revenue.note",
@@ -1321,7 +1328,7 @@
               "semantic_role": "note",
               "is_narrative": true,
               "physical_max_cjk_chars": 38,
-              "registered_max_chars": 28,
+              "registered_max_chars": 9,
               "source_chars": 15,
               "box_width_pt": 167.9,
               "box_height_pt": 17.0,
@@ -1334,7 +1341,7 @@
               "semantic_role": "note",
               "is_narrative": true,
               "physical_max_cjk_chars": 38,
-              "registered_max_chars": 28,
+              "registered_max_chars": 9,
               "source_chars": 15,
               "box_width_pt": 167.9,
               "box_height_pt": 17.0,
@@ -1343,9 +1350,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 28,
-          "use_for_planning_cjk_chars": 28,
-          "normal_fill_tested_chars": null
+          "registered_min_max_chars": 9,
+          "use_for_planning_cjk_chars": 9,
+          "normal_fill_tested_chars": 9,
+          "visual_safe_max_cjk_chars": 9
         },
         {
           "semantic_path": "metrics.visitors.note",
@@ -1360,7 +1368,7 @@
               "semantic_role": "note",
               "is_narrative": true,
               "physical_max_cjk_chars": 38,
-              "registered_max_chars": 28,
+              "registered_max_chars": 9,
               "source_chars": 15,
               "box_width_pt": 167.9,
               "box_height_pt": 17.0,
@@ -1373,7 +1381,7 @@
               "semantic_role": "note",
               "is_narrative": true,
               "physical_max_cjk_chars": 38,
-              "registered_max_chars": 28,
+              "registered_max_chars": 9,
               "source_chars": 15,
               "box_width_pt": 167.9,
               "box_height_pt": 17.0,
@@ -1382,9 +1390,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 28,
-          "use_for_planning_cjk_chars": 28,
-          "normal_fill_tested_chars": null
+          "registered_min_max_chars": 9,
+          "use_for_planning_cjk_chars": 9,
+          "normal_fill_tested_chars": 9,
+          "visual_safe_max_cjk_chars": 9
         }
       ],
       "source_page": 36,
@@ -1393,45 +1402,104 @@
         "source_fallback"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_failed",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-blue-036",
           "theme": "blue",
-          "status": "fill_failed",
+          "status": "filled",
           "actual_chars": {
-            "metrics.visitors.note": 28,
-            "metrics.deals.note": 28,
-            "metrics.revenue.note": 28,
-            "metrics.cost.note": 28,
-            "metrics.balance.note": 28,
-            "chart.callouts[0]": 15,
-            "chart.callouts[1]": 15,
-            "chart.callouts[2]": 15,
-            "chart.callouts[3]": 15
+            "page.title": 22,
+            "metrics.visitors.label": 8,
+            "metrics.visitors.value": 8,
+            "metrics.deals.label": 8,
+            "metrics.deals.value": 8,
+            "metrics.revenue.label": 9,
+            "metrics.revenue.value": 4,
+            "metrics.cost.label": 9,
+            "metrics.cost.value": 3,
+            "metrics.balance.label": 9,
+            "metrics.balance.value": 3,
+            "metrics.visitors.note": 9,
+            "metrics.deals.note": 9,
+            "metrics.revenue.note": 9,
+            "metrics.cost.note": 9,
+            "metrics.balance.note": 9,
+            "chart.callouts[0]": 5,
+            "chart.callouts[1]": 5,
+            "chart.callouts[2]": 5,
+            "chart.callouts[3]": 5,
+            "shares[0].value": 3,
+            "shares[0].label": 7,
+            "shares[0].english": 26,
+            "shares[1].value": 3,
+            "shares[1].label": 7,
+            "shares[1].english": 26,
+            "shares[2].value": 3,
+            "shares[2].english": 26,
+            "shares[2].label": 7
           },
-          "error": "年度明细表须为表头加四行、十二个月",
-          "powerpoint_overflow_count": null
+          "powerpoint_overflow_count": 0
         },
         {
           "layout_id": "content-blue-036",
           "theme": "red",
-          "status": "fill_failed",
+          "status": "filled",
           "actual_chars": {
-            "metrics.visitors.note": 28,
-            "metrics.deals.note": 28,
-            "metrics.revenue.note": 28,
-            "metrics.cost.note": 28,
-            "metrics.balance.note": 28,
-            "chart.callouts[0]": 15,
-            "chart.callouts[1]": 15,
-            "chart.callouts[2]": 15,
-            "chart.callouts[3]": 15
+            "page.title": 22,
+            "metrics.visitors.label": 8,
+            "metrics.visitors.value": 8,
+            "metrics.deals.label": 8,
+            "metrics.deals.value": 8,
+            "metrics.revenue.label": 9,
+            "metrics.revenue.value": 4,
+            "metrics.cost.label": 9,
+            "metrics.cost.value": 3,
+            "metrics.balance.label": 9,
+            "metrics.balance.value": 3,
+            "metrics.visitors.note": 9,
+            "metrics.deals.note": 9,
+            "metrics.revenue.note": 9,
+            "metrics.cost.note": 9,
+            "metrics.balance.note": 9,
+            "chart.callouts[0]": 5,
+            "chart.callouts[1]": 5,
+            "chart.callouts[2]": 5,
+            "chart.callouts[3]": 5,
+            "shares[0].value": 3,
+            "shares[0].label": 7,
+            "shares[0].english": 26,
+            "shares[1].value": 3,
+            "shares[1].label": 7,
+            "shares[1].english": 26,
+            "shares[2].value": 3,
+            "shares[2].english": 26,
+            "shares[2].label": 7
           },
-          "error": "年度明细表须为表头加四行、十二个月",
-          "powerpoint_overflow_count": null
+          "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "long_copy_review_status": "长文案已验收",
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "repair-13-previews/content-blue-036-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "repair-13-previews/content-blue-036-red.png"
+          }
+        ],
+        "result": "passed_at_registered_visual_safe_limits"
+      }
     },
     {
       "layout_id": "content-blue-050",
@@ -10463,20 +10531,35 @@
         "source_fallback"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_failed",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-blue-157",
           "theme": "blue",
           "status": "filled",
           "actual_chars": {
+            "page.title": 13,
+            "tasks[0].period": 10,
+            "tasks[3].period": 12,
+            "tasks[0].label": 5,
+            "tasks[1].label": 5,
+            "tasks[2].label": 5,
+            "tasks[3].label": 5,
+            "tasks[1].period": 10,
+            "tasks[2].period": 12,
+            "quarters[0].heading": 8,
+            "quarters[1].heading": 8,
             "tasks[0].goal": 19,
+            "tasks[0].heading": 6,
             "tasks[0].method": 21,
             "tasks[1].goal": 17,
+            "tasks[1].heading": 6,
             "tasks[1].method": 20,
             "tasks[2].goal": 17,
+            "tasks[2].heading": 6,
             "tasks[2].method": 18,
             "tasks[3].goal": 17,
+            "tasks[3].heading": 6,
             "tasks[3].method": 18
           },
           "powerpoint_overflow_count": 0
@@ -10484,21 +10567,56 @@
         {
           "layout_id": "content-blue-157",
           "theme": "red",
-          "status": "fill_failed",
+          "status": "filled",
           "actual_chars": {
+            "page.title": 13,
+            "tasks[0].period": 10,
+            "tasks[3].period": 12,
+            "tasks[0].label": 5,
+            "tasks[1].label": 5,
+            "tasks[2].label": 5,
+            "tasks[3].label": 5,
+            "tasks[1].period": 10,
+            "tasks[2].period": 12,
+            "quarters[0].heading": 8,
+            "quarters[1].heading": 8,
             "tasks[0].goal": 19,
+            "tasks[0].heading": 6,
             "tasks[0].method": 21,
             "tasks[1].goal": 17,
+            "tasks[1].heading": 6,
             "tasks[1].method": 20,
             "tasks[2].goal": 17,
+            "tasks[2].heading": 6,
             "tasks[2].method": 18,
             "tasks[3].goal": 17,
+            "tasks[3].heading": 6,
             "tasks[3].method": 18
           },
-          "error": "红色风格 Logo 必须是黑白灰单色：[{'slide': 1, 'code': 'red_logo_not_monochrome', 'shape': 'brand:logo:source', 'media': 'ppt/media/image2.png'}]",
           "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "long_copy_review_status": "长文案已验收",
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "repair-13-previews/content-blue-157-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "repair-13-previews/content-blue-157-red.png"
+          }
+        ],
+        "result": "passed_at_registered_visual_safe_limits"
+      }
     },
     {
       "layout_id": "content-blue-160",
@@ -12149,13 +12267,20 @@
         "source_fallback"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_failed",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-blue-191",
           "theme": "blue",
-          "status": "fill_failed",
+          "status": "filled",
           "actual_chars": {
+            "summary[0].label": 4,
+            "summary[0].rate": 3,
+            "summary[1].label": 4,
+            "summary[1].rate": 3,
+            "summary[2].label": 4,
+            "summary[2].rate": 3,
+            "page.title": 10,
             "tasks[0].note": 11,
             "tasks[1].note": 13,
             "tasks[2].note": 18,
@@ -12163,14 +12288,20 @@
             "tasks[4].note": 21,
             "tasks[5].note": 20
           },
-          "error": "甘特备注与图标没有安全空间",
-          "powerpoint_overflow_count": null
+          "powerpoint_overflow_count": 0
         },
         {
           "layout_id": "content-blue-191",
           "theme": "red",
-          "status": "fill_failed",
+          "status": "filled",
           "actual_chars": {
+            "summary[0].label": 4,
+            "summary[0].rate": 3,
+            "summary[1].label": 4,
+            "summary[1].rate": 3,
+            "summary[2].label": 4,
+            "summary[2].rate": 3,
+            "page.title": 10,
             "tasks[0].note": 11,
             "tasks[1].note": 13,
             "tasks[2].note": 18,
@@ -12178,10 +12309,31 @@
             "tasks[4].note": 21,
             "tasks[5].note": 20
           },
-          "error": "甘特备注与图标没有安全空间",
-          "powerpoint_overflow_count": null
+          "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "long_copy_review_status": "长文案已验收",
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "repair-13-previews/content-blue-191-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "repair-13-previews/content-blue-191-red.png"
+          }
+        ],
+        "result": "passed_at_registered_visual_safe_limits",
+        "long_note_render": "repair-13-previews/content-blue-191-{theme}-longnotes.png"
+      }
     },
     {
       "layout_id": "content-blue-199",
@@ -21326,39 +21478,80 @@
         "source_fallback"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_failed",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-blue-268",
           "theme": "blue",
-          "status": "fill_failed",
+          "status": "filled",
           "actual_chars": {
-            "chart.callouts[0]": 5,
-            "chart.callouts[1]": 5,
-            "chart.callouts[2]": 5,
-            "chart.callouts[3]": 5,
+            "page.title": 10,
+            "chart.callouts[0]": 4,
+            "chart.callouts[1]": 4,
+            "chart.callouts[2]": 4,
+            "chart.callouts[3]": 4,
+            "metrics.revenue.label": 6,
+            "metrics.revenue.value": 5,
+            "metrics.revenue.english": 20,
+            "metrics.cost.label": 6,
+            "metrics.cost.value": 4,
+            "metrics.cost.english": 23,
+            "metrics.profit.label": 6,
+            "metrics.profit.value": 5,
+            "metrics.profit.english": 19,
+            "analysis.title": 6,
             "analysis.paragraphs[0]": 65,
             "analysis.paragraphs[1]": 65
           },
-          "error": "年度财务页月度数据超出该图已验证的 0–450 范围",
-          "powerpoint_overflow_count": null
+          "powerpoint_overflow_count": 0
         },
         {
           "layout_id": "content-blue-268",
           "theme": "red",
-          "status": "fill_failed",
+          "status": "filled",
           "actual_chars": {
-            "chart.callouts[0]": 5,
-            "chart.callouts[1]": 5,
-            "chart.callouts[2]": 5,
-            "chart.callouts[3]": 5,
+            "page.title": 10,
+            "chart.callouts[0]": 4,
+            "chart.callouts[1]": 4,
+            "chart.callouts[2]": 4,
+            "chart.callouts[3]": 4,
+            "metrics.revenue.label": 6,
+            "metrics.revenue.value": 5,
+            "metrics.revenue.english": 20,
+            "metrics.cost.label": 6,
+            "metrics.cost.value": 4,
+            "metrics.cost.english": 23,
+            "metrics.profit.label": 6,
+            "metrics.profit.value": 5,
+            "metrics.profit.english": 19,
+            "analysis.title": 6,
             "analysis.paragraphs[0]": 65,
             "analysis.paragraphs[1]": 65
           },
-          "error": "年度财务页月度数据超出该图已验证的 0–450 范围",
-          "powerpoint_overflow_count": null
+          "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "long_copy_review_status": "长文案已验收",
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "repair-13-previews/content-blue-268-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "repair-13-previews/content-blue-268-red.png"
+          }
+        ],
+        "result": "passed_at_registered_visual_safe_limits"
+      }
     },
     {
       "layout_id": "content-blue-270",
@@ -21697,29 +21890,72 @@
         "source_fallback"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_failed",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-blue-292",
           "theme": "blue",
-          "status": "fill_failed",
+          "status": "filled",
           "actual_chars": {
-            "analysis.summary": 30
+            "page.title": 12,
+            "analysis.heading": 9,
+            "metrics.revenue.value": 4,
+            "metrics.cost.value": 3,
+            "metrics.growth.value": 3,
+            "metrics.growth.label": 4,
+            "chart.heading": 9,
+            "chart.legend_revenue": 2,
+            "chart.legend_cost": 2,
+            "metrics.revenue.label": 6,
+            "metrics.cost.label": 6,
+            "analysis.summary": 27,
+            "analysis.outlook": 24
           },
-          "error": "超出容量，请拆页或精简：text_25",
-          "powerpoint_overflow_count": null
+          "powerpoint_overflow_count": 0
         },
         {
           "layout_id": "content-blue-292",
           "theme": "red",
-          "status": "fill_failed",
+          "status": "filled",
           "actual_chars": {
-            "analysis.summary": 30
+            "page.title": 12,
+            "analysis.heading": 9,
+            "metrics.revenue.value": 4,
+            "metrics.cost.value": 3,
+            "metrics.growth.value": 3,
+            "metrics.growth.label": 4,
+            "chart.heading": 9,
+            "chart.legend_revenue": 2,
+            "chart.legend_cost": 2,
+            "metrics.revenue.label": 6,
+            "metrics.cost.label": 6,
+            "analysis.summary": 27,
+            "analysis.outlook": 24
           },
-          "error": "超出容量，请拆页或精简：text_25",
-          "powerpoint_overflow_count": null
+          "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "long_copy_review_status": "长文案已验收",
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
+        "variants": [
+          {
+            "theme": "blue",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "repair-13-previews/content-blue-292-blue.png"
+          },
+          {
+            "theme": "red",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "repair-13-previews/content-blue-292-red.png"
+          }
+        ],
+        "result": "passed_at_registered_visual_safe_limits"
+      }
     },
     {
       "layout_id": "content-tech-016",
@@ -22720,13 +22956,14 @@
         "fill_layout"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "text_overflow_pending_repair",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-tech-019",
           "theme": "deep-blue-tech",
           "status": "filled",
           "actual_chars": {
+            "center.topic": 8,
             "center.body": 58,
             "item_1.title": 7,
             "item_2.body": 35,
@@ -22737,11 +22974,27 @@
             "item_5.body": 45,
             "item_5.title": 5,
             "item_4.title": 5,
+            "heading": 8,
             "summary": 40
           },
-          "powerpoint_overflow_count": 1
+          "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "long_copy_review_status": "长文案已验收",
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "repair-13-previews/content-tech-019-deep-blue-tech.png"
+          }
+        ],
+        "result": "passed_at_registered_visual_safe_limits"
+      }
     },
     {
       "layout_id": "content-tech-020",
@@ -22766,7 +23019,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": false,
               "physical_max_cjk_chars": 28,
-              "registered_max_chars": 24,
+              "registered_max_chars": 9,
               "source_chars": 7,
               "box_width_pt": 154.65,
               "box_height_pt": 85.49,
@@ -22775,9 +23028,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 23,
-          "normal_fill_tested_chars": 23
+          "registered_min_max_chars": 9,
+          "use_for_planning_cjk_chars": 9,
+          "normal_fill_tested_chars": 9,
+          "visual_safe_max_cjk_chars": 9
         },
         {
           "semantic_path": "left_2.title",
@@ -22792,7 +23046,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": false,
               "physical_max_cjk_chars": 28,
-              "registered_max_chars": 24,
+              "registered_max_chars": 9,
               "source_chars": 5,
               "box_width_pt": 154.65,
               "box_height_pt": 85.49,
@@ -22801,9 +23055,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 23,
-          "normal_fill_tested_chars": 23
+          "registered_min_max_chars": 9,
+          "use_for_planning_cjk_chars": 9,
+          "normal_fill_tested_chars": 9,
+          "visual_safe_max_cjk_chars": 9
         },
         {
           "semantic_path": "left_3.title",
@@ -22818,7 +23073,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": false,
               "physical_max_cjk_chars": 28,
-              "registered_max_chars": 24,
+              "registered_max_chars": 9,
               "source_chars": 7,
               "box_width_pt": 154.65,
               "box_height_pt": 85.49,
@@ -22827,9 +23082,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 23,
-          "normal_fill_tested_chars": 23
+          "registered_min_max_chars": 9,
+          "use_for_planning_cjk_chars": 9,
+          "normal_fill_tested_chars": 9,
+          "visual_safe_max_cjk_chars": 9
         },
         {
           "semantic_path": "right_1.title",
@@ -22844,7 +23100,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": false,
               "physical_max_cjk_chars": 28,
-              "registered_max_chars": 24,
+              "registered_max_chars": 9,
               "source_chars": 5,
               "box_width_pt": 154.65,
               "box_height_pt": 85.49,
@@ -22853,9 +23109,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 23,
-          "normal_fill_tested_chars": 23
+          "registered_min_max_chars": 9,
+          "use_for_planning_cjk_chars": 9,
+          "normal_fill_tested_chars": 9,
+          "visual_safe_max_cjk_chars": 9
         },
         {
           "semantic_path": "right_2.title",
@@ -22870,7 +23127,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": false,
               "physical_max_cjk_chars": 28,
-              "registered_max_chars": 24,
+              "registered_max_chars": 9,
               "source_chars": 4,
               "box_width_pt": 154.65,
               "box_height_pt": 85.49,
@@ -22879,9 +23136,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 23,
-          "normal_fill_tested_chars": 23
+          "registered_min_max_chars": 9,
+          "use_for_planning_cjk_chars": 9,
+          "normal_fill_tested_chars": 9,
+          "visual_safe_max_cjk_chars": 9
         },
         {
           "semantic_path": "right_3.title",
@@ -22896,7 +23154,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": false,
               "physical_max_cjk_chars": 28,
-              "registered_max_chars": 24,
+              "registered_max_chars": 9,
               "source_chars": 3,
               "box_width_pt": 154.65,
               "box_height_pt": 85.49,
@@ -22905,9 +23163,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 23,
-          "normal_fill_tested_chars": 23
+          "registered_min_max_chars": 9,
+          "use_for_planning_cjk_chars": 9,
+          "normal_fill_tested_chars": 9,
+          "visual_safe_max_cjk_chars": 9
         },
         {
           "semantic_path": "summary",
@@ -22922,7 +23181,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 54,
-              "registered_max_chars": 49,
+              "registered_max_chars": 35,
               "source_chars": 33,
               "box_width_pt": 757.5,
               "box_height_pt": 23.7,
@@ -22931,9 +23190,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 49,
-          "use_for_planning_cjk_chars": 45,
-          "normal_fill_tested_chars": 45
+          "registered_min_max_chars": 35,
+          "use_for_planning_cjk_chars": 35,
+          "normal_fill_tested_chars": 35,
+          "visual_safe_max_cjk_chars": 35
         }
       ],
       "source_page": 20,
@@ -22942,39 +23202,41 @@
         "fill_layout"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed_pending_visual_review",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-tech-020",
           "theme": "deep-blue-tech",
           "status": "filled",
           "actual_chars": {
-            "summary": 45,
-            "left_1.title": 23,
-            "left_2.title": 23,
-            "left_3.title": 23,
-            "right_1.title": 23,
-            "right_2.title": 23,
-            "right_3.title": 23
+            "heading": 8,
+            "summary": 35,
+            "left_1.title": 9,
+            "left_2.title": 9,
+            "left_3.title": 9,
+            "right_1.title": 9,
+            "right_2.title": 9,
+            "right_3.title": 9,
+            "center.topic": 16
           },
           "powerpoint_overflow_count": 0
         }
       ],
       "visual_longcopy_review": {
         "review_date": "2026-11-10",
-        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
-        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
         "variants": [
           {
             "theme": "deep-blue-tech",
             "complete_fill": true,
             "powerpoint_overflow_count": 0,
-            "visual_render": "complete-visual-previews/content-tech-020-deep-blue-tech.png"
+            "visual_render": "repair-13-previews/content-tech-020-deep-blue-tech.png"
           }
         ],
-        "issue": "六个说明块接近密排，长文案的演示阅读性不足"
+        "result": "passed_at_registered_visual_safe_limits"
       },
-      "long_copy_review_status": "视觉复核未通过"
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-021",
@@ -23284,7 +23546,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 44,
-              "registered_max_chars": 64,
+              "registered_max_chars": 24,
               "source_chars": 43,
               "box_width_pt": 316.13,
               "box_height_pt": 39.72,
@@ -23293,9 +23555,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 64,
-          "use_for_planning_cjk_chars": 37,
-          "normal_fill_tested_chars": 37
+          "registered_min_max_chars": 24,
+          "use_for_planning_cjk_chars": 24,
+          "normal_fill_tested_chars": 24,
+          "visual_safe_max_cjk_chars": 24
         },
         {
           "semantic_path": "layer_1.pyramid",
@@ -23310,7 +23573,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 20,
-              "registered_max_chars": 24,
+              "registered_max_chars": 4,
               "source_chars": 2,
               "box_width_pt": 110.45,
               "box_height_pt": 104.69,
@@ -23319,9 +23582,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 17,
-          "normal_fill_tested_chars": 17
+          "registered_min_max_chars": 4,
+          "use_for_planning_cjk_chars": 4,
+          "normal_fill_tested_chars": 4,
+          "visual_safe_max_cjk_chars": 4
         },
         {
           "semantic_path": "layer_2.badge",
@@ -23362,7 +23626,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 44,
-              "registered_max_chars": 55,
+              "registered_max_chars": 24,
               "source_chars": 37,
               "box_width_pt": 316.13,
               "box_height_pt": 39.72,
@@ -23371,9 +23635,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 55,
-          "use_for_planning_cjk_chars": 37,
-          "normal_fill_tested_chars": 37
+          "registered_min_max_chars": 24,
+          "use_for_planning_cjk_chars": 24,
+          "normal_fill_tested_chars": 24,
+          "visual_safe_max_cjk_chars": 24
         },
         {
           "semantic_path": "layer_2.pyramid",
@@ -23388,7 +23653,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 20,
-              "registered_max_chars": 24,
+              "registered_max_chars": 4,
               "source_chars": 2,
               "box_width_pt": 110.45,
               "box_height_pt": 103.84,
@@ -23397,9 +23662,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 17,
-          "normal_fill_tested_chars": 17
+          "registered_min_max_chars": 4,
+          "use_for_planning_cjk_chars": 4,
+          "normal_fill_tested_chars": 4,
+          "visual_safe_max_cjk_chars": 4
         },
         {
           "semantic_path": "layer_3.badge",
@@ -23440,7 +23706,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 44,
-              "registered_max_chars": 55,
+              "registered_max_chars": 24,
               "source_chars": 37,
               "box_width_pt": 316.13,
               "box_height_pt": 39.72,
@@ -23449,9 +23715,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 55,
-          "use_for_planning_cjk_chars": 37,
-          "normal_fill_tested_chars": 37
+          "registered_min_max_chars": 24,
+          "use_for_planning_cjk_chars": 24,
+          "normal_fill_tested_chars": 24,
+          "visual_safe_max_cjk_chars": 24
         },
         {
           "semantic_path": "layer_3.pyramid",
@@ -23466,7 +23733,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 20,
-              "registered_max_chars": 24,
+              "registered_max_chars": 4,
               "source_chars": 2,
               "box_width_pt": 110.45,
               "box_height_pt": 107.38,
@@ -23475,9 +23742,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 17,
-          "normal_fill_tested_chars": 17
+          "registered_min_max_chars": 4,
+          "use_for_planning_cjk_chars": 4,
+          "normal_fill_tested_chars": 4,
+          "visual_safe_max_cjk_chars": 4
         },
         {
           "semantic_path": "summary",
@@ -23492,7 +23760,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 54,
-              "registered_max_chars": 37,
+              "registered_max_chars": 28,
               "source_chars": 25,
               "box_width_pt": 757.5,
               "box_height_pt": 23.7,
@@ -23501,9 +23769,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 37,
-          "use_for_planning_cjk_chars": 37,
-          "normal_fill_tested_chars": 37
+          "registered_min_max_chars": 28,
+          "use_for_planning_cjk_chars": 28,
+          "normal_fill_tested_chars": 28,
+          "visual_safe_max_cjk_chars": 28
         }
       ],
       "source_page": 22,
@@ -23512,42 +23781,43 @@
         "fill_layout"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed_pending_visual_review",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-tech-022",
           "theme": "deep-blue-tech",
           "status": "filled",
           "actual_chars": {
-            "layer_3.pyramid": 17,
-            "layer_2.pyramid": 17,
-            "layer_1.pyramid": 17,
+            "heading": 8,
+            "layer_3.pyramid": 4,
+            "layer_2.pyramid": 4,
+            "layer_1.pyramid": 4,
             "layer_3.badge": 1,
-            "layer_1.description": 37,
-            "layer_2.description": 37,
-            "layer_3.description": 37,
+            "layer_1.description": 24,
+            "layer_2.description": 24,
+            "layer_3.description": 24,
             "layer_2.badge": 1,
             "layer_1.badge": 1,
-            "summary": 37
+            "summary": 28
           },
           "powerpoint_overflow_count": 0
         }
       ],
       "visual_longcopy_review": {
         "review_date": "2026-11-10",
-        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
-        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
         "variants": [
           {
             "theme": "deep-blue-tech",
             "complete_fill": true,
             "powerpoint_overflow_count": 0,
-            "visual_render": "complete-visual-previews/content-tech-022-deep-blue-tech.png"
+            "visual_render": "repair-13-previews/content-tech-022-deep-blue-tech.png"
           }
         ],
-        "issue": "左侧三层文字压在三角图形上，行间互相拥挤"
+        "result": "passed_at_registered_visual_safe_limits"
       },
-      "long_copy_review_status": "视觉复核未通过"
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-023",
@@ -23696,7 +23966,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 40,
-              "registered_max_chars": 31,
+              "registered_max_chars": 20,
               "source_chars": 21,
               "box_width_pt": 240.58,
               "box_height_pt": 34.99,
@@ -23705,9 +23975,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 31,
-          "use_for_planning_cjk_chars": 31,
-          "normal_fill_tested_chars": 31
+          "registered_min_max_chars": 20,
+          "use_for_planning_cjk_chars": 20,
+          "normal_fill_tested_chars": 20,
+          "visual_safe_max_cjk_chars": 20
         },
         {
           "semantic_path": "step_1.title",
@@ -23748,7 +24019,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 40,
-              "registered_max_chars": 49,
+              "registered_max_chars": 20,
               "source_chars": 33,
               "box_width_pt": 240.58,
               "box_height_pt": 34.99,
@@ -23757,9 +24028,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 49,
-          "use_for_planning_cjk_chars": 34,
-          "normal_fill_tested_chars": 34
+          "registered_min_max_chars": 20,
+          "use_for_planning_cjk_chars": 20,
+          "normal_fill_tested_chars": 20,
+          "visual_safe_max_cjk_chars": 20
         },
         {
           "semantic_path": "step_2.title",
@@ -23800,7 +24072,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 40,
-              "registered_max_chars": 40,
+              "registered_max_chars": 20,
               "source_chars": 27,
               "box_width_pt": 240.58,
               "box_height_pt": 34.99,
@@ -23809,9 +24081,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 40,
-          "use_for_planning_cjk_chars": 34,
-          "normal_fill_tested_chars": 34
+          "registered_min_max_chars": 20,
+          "use_for_planning_cjk_chars": 20,
+          "normal_fill_tested_chars": 20,
+          "visual_safe_max_cjk_chars": 20
         },
         {
           "semantic_path": "step_3.title",
@@ -23852,7 +24125,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 48,
-              "registered_max_chars": 43,
+              "registered_max_chars": 30,
               "source_chars": 29,
               "box_width_pt": 674.1,
               "box_height_pt": 23.7,
@@ -23861,9 +24134,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 43,
-          "use_for_planning_cjk_chars": 40,
-          "normal_fill_tested_chars": 40
+          "registered_min_max_chars": 30,
+          "use_for_planning_cjk_chars": 30,
+          "normal_fill_tested_chars": 30,
+          "visual_safe_max_cjk_chars": 30
         },
         {
           "semantic_path": "tool_1.body",
@@ -23878,7 +24152,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 186,
-              "registered_max_chars": 138,
+              "registered_max_chars": 56,
               "source_chars": 92,
               "box_width_pt": 406.47,
               "box_height_pt": 136.16,
@@ -23887,9 +24161,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 138,
-          "use_for_planning_cjk_chars": 138,
-          "normal_fill_tested_chars": 138
+          "registered_min_max_chars": 56,
+          "use_for_planning_cjk_chars": 56,
+          "normal_fill_tested_chars": 56,
+          "visual_safe_max_cjk_chars": 56
         },
         {
           "semantic_path": "tool_1.title",
@@ -23904,7 +24179,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": false,
               "physical_max_cjk_chars": 13,
-              "registered_max_chars": 24,
+              "registered_max_chars": 6,
               "source_chars": 6,
               "box_width_pt": 274.33,
               "box_height_pt": 21.81,
@@ -23913,9 +24188,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 11,
-          "normal_fill_tested_chars": 11
+          "registered_min_max_chars": 6,
+          "use_for_planning_cjk_chars": 6,
+          "normal_fill_tested_chars": 6,
+          "visual_safe_max_cjk_chars": 6
         },
         {
           "semantic_path": "tool_2.body",
@@ -23930,7 +24206,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 186,
-              "registered_max_chars": 121,
+              "registered_max_chars": 56,
               "source_chars": 81,
               "box_width_pt": 406.47,
               "box_height_pt": 136.16,
@@ -23939,9 +24215,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 121,
-          "use_for_planning_cjk_chars": 121,
-          "normal_fill_tested_chars": 121
+          "registered_min_max_chars": 56,
+          "use_for_planning_cjk_chars": 56,
+          "normal_fill_tested_chars": 56,
+          "visual_safe_max_cjk_chars": 56
         },
         {
           "semantic_path": "tool_2.title",
@@ -23956,7 +24233,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": false,
               "physical_max_cjk_chars": 13,
-              "registered_max_chars": 24,
+              "registered_max_chars": 6,
               "source_chars": 6,
               "box_width_pt": 274.33,
               "box_height_pt": 21.81,
@@ -23965,9 +24242,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 11,
-          "normal_fill_tested_chars": 11
+          "registered_min_max_chars": 6,
+          "use_for_planning_cjk_chars": 6,
+          "normal_fill_tested_chars": 6,
+          "visual_safe_max_cjk_chars": 6
         }
       ],
       "source_page": 24,
@@ -23976,43 +24254,44 @@
         "fill_layout"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed_pending_visual_review",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-tech-024",
           "theme": "deep-blue-tech",
           "status": "filled",
           "actual_chars": {
-            "tool_1.body": 138,
-            "tool_2.body": 121,
+            "tool_1.body": 56,
+            "tool_2.body": 56,
             "step_1.title": 5,
-            "step_1.body": 31,
+            "step_1.body": 20,
             "step_2.title": 5,
-            "step_2.body": 34,
+            "step_2.body": 20,
             "step_3.title": 5,
-            "step_3.body": 34,
-            "tool_2.title": 11,
-            "summary": 40,
-            "tool_1.title": 11
+            "step_3.body": 20,
+            "tool_2.title": 6,
+            "heading": 8,
+            "summary": 30,
+            "tool_1.title": 6
           },
           "powerpoint_overflow_count": 0
         }
       ],
       "visual_longcopy_review": {
         "review_date": "2026-11-10",
-        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
-        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
         "variants": [
           {
             "theme": "deep-blue-tech",
             "complete_fill": true,
             "powerpoint_overflow_count": 0,
-            "visual_render": "complete-visual-previews/content-tech-024-deep-blue-tech.png"
+            "visual_render": "repair-13-previews/content-tech-024-deep-blue-tech.png"
           }
         ],
-        "issue": "上方三组及下方两组文字密集，说明文字与装饰线交叠"
+        "result": "passed_at_registered_visual_safe_limits"
       },
-      "long_copy_review_status": "视觉复核未通过"
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-026",
@@ -24706,7 +24985,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 29,
-              "registered_max_chars": 28,
+              "registered_max_chars": 16,
               "source_chars": 19,
               "box_width_pt": 607.22,
               "box_height_pt": 31.5,
@@ -24715,9 +24994,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 28,
-          "use_for_planning_cjk_chars": 24,
-          "normal_fill_tested_chars": 24
+          "registered_min_max_chars": 16,
+          "use_for_planning_cjk_chars": 16,
+          "normal_fill_tested_chars": 16,
+          "visual_safe_max_cjk_chars": 16
         },
         {
           "semantic_path": "left.body",
@@ -24732,7 +25012,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 38,
-              "registered_max_chars": 25,
+              "registered_max_chars": 10,
               "source_chars": 17,
               "box_width_pt": 245.35,
               "box_height_pt": 36.35,
@@ -24741,9 +25021,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 25,
-          "use_for_planning_cjk_chars": 25,
-          "normal_fill_tested_chars": 25
+          "registered_min_max_chars": 10,
+          "use_for_planning_cjk_chars": 10,
+          "normal_fill_tested_chars": 10,
+          "visual_safe_max_cjk_chars": 10
         },
         {
           "semantic_path": "left.title",
@@ -24758,7 +25039,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": false,
               "physical_max_cjk_chars": 18,
-              "registered_max_chars": 24,
+              "registered_max_chars": 6,
               "source_chars": 11,
               "box_width_pt": 211.44,
               "box_height_pt": 63.03,
@@ -24767,9 +25048,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 15,
-          "normal_fill_tested_chars": 15
+          "registered_min_max_chars": 6,
+          "use_for_planning_cjk_chars": 6,
+          "normal_fill_tested_chars": 6,
+          "visual_safe_max_cjk_chars": 6
         },
         {
           "semantic_path": "metric_1",
@@ -24862,7 +25144,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 26,
-              "registered_max_chars": 24,
+              "registered_max_chars": 10,
               "source_chars": 15,
               "box_width_pt": 175.15,
               "box_height_pt": 36.35,
@@ -24871,9 +25153,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 22,
-          "normal_fill_tested_chars": 22
+          "registered_min_max_chars": 10,
+          "use_for_planning_cjk_chars": 10,
+          "normal_fill_tested_chars": 10,
+          "visual_safe_max_cjk_chars": 10
         },
         {
           "semantic_path": "right.title",
@@ -24888,7 +25171,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": false,
               "physical_max_cjk_chars": 18,
-              "registered_max_chars": 24,
+              "registered_max_chars": 6,
               "source_chars": 11,
               "box_width_pt": 198.06,
               "box_height_pt": 63.03,
@@ -24897,9 +25180,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 24,
-          "use_for_planning_cjk_chars": 15,
-          "normal_fill_tested_chars": 15
+          "registered_min_max_chars": 6,
+          "use_for_planning_cjk_chars": 6,
+          "normal_fill_tested_chars": 6,
+          "visual_safe_max_cjk_chars": 6
         },
         {
           "semantic_path": "summary",
@@ -24914,7 +25198,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 54,
-              "registered_max_chars": 42,
+              "registered_max_chars": 28,
               "source_chars": 28,
               "box_width_pt": 757.5,
               "box_height_pt": 23.7,
@@ -24923,9 +25207,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 42,
-          "use_for_planning_cjk_chars": 42,
-          "normal_fill_tested_chars": 42
+          "registered_min_max_chars": 28,
+          "use_for_planning_cjk_chars": 28,
+          "normal_fill_tested_chars": 28,
+          "visual_safe_max_cjk_chars": 28
         }
       ],
       "source_page": 30,
@@ -24934,41 +25219,42 @@
         "fill_layout"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed_pending_visual_review",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-tech-030",
           "theme": "deep-blue-tech",
           "status": "filled",
           "actual_chars": {
-            "left.title": 15,
-            "left.body": 25,
-            "right.title": 15,
-            "right.body": 22,
-            "goal": 24,
+            "heading": 8,
+            "left.title": 6,
+            "left.body": 10,
+            "right.title": 6,
+            "right.body": 10,
+            "goal": 16,
             "metric_3": 8,
             "metric_2": 8,
             "metric_1": 8,
-            "summary": 42
+            "summary": 28
           },
           "powerpoint_overflow_count": 0
         }
       ],
       "visual_longcopy_review": {
         "review_date": "2026-11-10",
-        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
-        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
         "variants": [
           {
             "theme": "deep-blue-tech",
             "complete_fill": true,
             "powerpoint_overflow_count": 0,
-            "visual_render": "complete-visual-previews/content-tech-030-deep-blue-tech.png"
+            "visual_render": "repair-13-previews/content-tech-030-deep-blue-tech.png"
           }
         ],
-        "issue": "双环内的长文案与中心图标及环内说明叠压"
+        "result": "passed_at_registered_visual_safe_limits"
       },
-      "long_copy_review_status": "视觉复核未通过"
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-031",
@@ -25538,7 +25824,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 72,
-              "registered_max_chars": 99,
+              "registered_max_chars": 30,
               "source_chars": 66,
               "box_width_pt": 118.0,
               "box_height_pt": 144.79,
@@ -25547,9 +25833,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 99,
-          "use_for_planning_cjk_chars": 61,
-          "normal_fill_tested_chars": 61
+          "registered_min_max_chars": 30,
+          "use_for_planning_cjk_chars": 30,
+          "normal_fill_tested_chars": 30,
+          "visual_safe_max_cjk_chars": 30
         },
         {
           "semantic_path": "item_1.title",
@@ -25590,7 +25877,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 63,
-              "registered_max_chars": 88,
+              "registered_max_chars": 30,
               "source_chars": 59,
               "box_width_pt": 118.0,
               "box_height_pt": 127.46,
@@ -25599,9 +25886,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 88,
-          "use_for_planning_cjk_chars": 53,
-          "normal_fill_tested_chars": 53
+          "registered_min_max_chars": 30,
+          "use_for_planning_cjk_chars": 30,
+          "normal_fill_tested_chars": 30,
+          "visual_safe_max_cjk_chars": 30
         },
         {
           "semantic_path": "item_2.title",
@@ -25642,7 +25930,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 60,
-              "registered_max_chars": 81,
+              "registered_max_chars": 30,
               "source_chars": 54,
               "box_width_pt": 127.44,
               "box_height_pt": 110.13,
@@ -25651,9 +25939,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 81,
-          "use_for_planning_cjk_chars": 51,
-          "normal_fill_tested_chars": 51
+          "registered_min_max_chars": 30,
+          "use_for_planning_cjk_chars": 30,
+          "normal_fill_tested_chars": 30,
+          "visual_safe_max_cjk_chars": 30
         },
         {
           "semantic_path": "item_3.title",
@@ -25694,7 +25983,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 63,
-              "registered_max_chars": 96,
+              "registered_max_chars": 30,
               "source_chars": 64,
               "box_width_pt": 118.0,
               "box_height_pt": 127.46,
@@ -25703,9 +25992,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 96,
-          "use_for_planning_cjk_chars": 53,
-          "normal_fill_tested_chars": 53
+          "registered_min_max_chars": 30,
+          "use_for_planning_cjk_chars": 30,
+          "normal_fill_tested_chars": 30,
+          "visual_safe_max_cjk_chars": 30
         },
         {
           "semantic_path": "item_4.title",
@@ -25746,7 +26036,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 63,
-              "registered_max_chars": 90,
+              "registered_max_chars": 30,
               "source_chars": 60,
               "box_width_pt": 118.0,
               "box_height_pt": 127.46,
@@ -25755,9 +26045,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 90,
-          "use_for_planning_cjk_chars": 53,
-          "normal_fill_tested_chars": 53
+          "registered_min_max_chars": 30,
+          "use_for_planning_cjk_chars": 30,
+          "normal_fill_tested_chars": 30,
+          "visual_safe_max_cjk_chars": 30
         },
         {
           "semantic_path": "item_5.title",
@@ -25798,7 +26089,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 48,
-              "registered_max_chars": 40,
+              "registered_max_chars": 30,
               "source_chars": 27,
               "box_width_pt": 674.1,
               "box_height_pt": 23.7,
@@ -25807,9 +26098,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 40,
-          "use_for_planning_cjk_chars": 40,
-          "normal_fill_tested_chars": 40
+          "registered_min_max_chars": 30,
+          "use_for_planning_cjk_chars": 30,
+          "normal_fill_tested_chars": 30,
+          "visual_safe_max_cjk_chars": 30
         }
       ],
       "source_page": 33,
@@ -25818,43 +26110,45 @@
         "fill_layout"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed_pending_visual_review",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-tech-033",
           "theme": "deep-blue-tech",
           "status": "filled",
           "actual_chars": {
-            "item_1.body": 61,
-            "item_2.body": 53,
-            "item_3.body": 51,
-            "item_4.body": 53,
-            "item_5.body": 53,
+            "heading": 10,
+            "item_1.body": 30,
+            "item_2.body": 30,
+            "item_3.body": 30,
+            "item_4.body": 30,
+            "item_5.body": 30,
             "item_1.title": 4,
             "item_2.title": 4,
             "item_3.title": 4,
             "item_4.title": 4,
             "item_5.title": 4,
-            "summary": 40
+            "bottom_conclusion": 7,
+            "summary": 30
           },
           "powerpoint_overflow_count": 0
         }
       ],
       "visual_longcopy_review": {
         "review_date": "2026-11-10",
-        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
-        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
         "variants": [
           {
             "theme": "deep-blue-tech",
             "complete_fill": true,
             "powerpoint_overflow_count": 0,
-            "visual_render": "complete-visual-previews/content-tech-033-deep-blue-tech.png"
+            "visual_render": "repair-13-previews/content-tech-033-deep-blue-tech.png"
           }
         ],
-        "issue": "五列卡片的正文接近极限，投影阅读性不足"
+        "result": "passed_at_registered_visual_safe_limits"
       },
-      "long_copy_review_status": "视觉复核未通过"
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-034",
@@ -28626,21 +28920,46 @@
         "fill_layout"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "text_overflow_pending_repair",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-tech-054",
           "theme": "deep-blue-tech",
           "status": "filled",
           "actual_chars": {
+            "item_1.title": 6,
             "item_1.body": 71,
+            "item_1.number": 2,
+            "item_4.title": 7,
             "item_4.body": 47,
+            "item_4.number": 2,
+            "item_2.title": 8,
             "item_2.body": 71,
-            "item_3.body": 73
+            "item_2.number": 2,
+            "item_3.title": 8,
+            "item_3.body": 73,
+            "item_3.number": 2,
+            "heading": 8,
+            "summary": 24
           },
-          "powerpoint_overflow_count": 1
+          "powerpoint_overflow_count": 0
         }
-      ]
+      ],
+      "long_copy_review_status": "长文案已验收",
+      "visual_longcopy_review": {
+        "review_date": "2026-11-10",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
+        "variants": [
+          {
+            "theme": "deep-blue-tech",
+            "complete_fill": true,
+            "powerpoint_overflow_count": 0,
+            "visual_render": "repair-13-previews/content-tech-054-deep-blue-tech.png"
+          }
+        ],
+        "result": "passed_at_registered_visual_safe_limits"
+      }
     },
     {
       "layout_id": "content-tech-055",
@@ -30926,7 +31245,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 90,
-              "registered_max_chars": 105,
+              "registered_max_chars": 32,
               "source_chars": 70,
               "box_width_pt": 157.55,
               "box_height_pt": 210.64,
@@ -30935,9 +31254,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 105,
-          "use_for_planning_cjk_chars": 76,
-          "normal_fill_tested_chars": 76
+          "registered_min_max_chars": 32,
+          "use_for_planning_cjk_chars": 32,
+          "normal_fill_tested_chars": 32,
+          "visual_safe_max_cjk_chars": 32
         },
         {
           "semantic_path": "item_1.year",
@@ -30978,7 +31298,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 70,
-              "registered_max_chars": 88,
+              "registered_max_chars": 32,
               "source_chars": 59,
               "box_width_pt": 154.69,
               "box_height_pt": 166.53,
@@ -30987,9 +31307,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 88,
-          "use_for_planning_cjk_chars": 59,
-          "normal_fill_tested_chars": 59
+          "registered_min_max_chars": 32,
+          "use_for_planning_cjk_chars": 32,
+          "normal_fill_tested_chars": 32,
+          "visual_safe_max_cjk_chars": 32
         },
         {
           "semantic_path": "item_2.year",
@@ -31030,7 +31351,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 80,
-              "registered_max_chars": 85,
+              "registered_max_chars": 32,
               "source_chars": 57,
               "box_width_pt": 157.55,
               "box_height_pt": 188.58,
@@ -31039,9 +31360,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 85,
-          "use_for_planning_cjk_chars": 68,
-          "normal_fill_tested_chars": 68
+          "registered_min_max_chars": 32,
+          "use_for_planning_cjk_chars": 32,
+          "normal_fill_tested_chars": 32,
+          "visual_safe_max_cjk_chars": 32
         },
         {
           "semantic_path": "item_3.year",
@@ -31082,7 +31404,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 90,
-              "registered_max_chars": 100,
+              "registered_max_chars": 32,
               "source_chars": 67,
               "box_width_pt": 157.12,
               "box_height_pt": 210.64,
@@ -31091,9 +31413,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 100,
-          "use_for_planning_cjk_chars": 76,
-          "normal_fill_tested_chars": 76
+          "registered_min_max_chars": 32,
+          "use_for_planning_cjk_chars": 32,
+          "normal_fill_tested_chars": 32,
+          "visual_safe_max_cjk_chars": 32
         },
         {
           "semantic_path": "item_4.year",
@@ -31134,7 +31457,7 @@
               "semantic_role": "reviewed_text",
               "is_narrative": true,
               "physical_max_cjk_chars": 42,
-              "registered_max_chars": 96,
+              "registered_max_chars": 32,
               "source_chars": 64,
               "box_width_pt": 154.56,
               "box_height_pt": 166.53,
@@ -31143,9 +31466,10 @@
           ],
           "manual_line_breaks": "not_tested",
           "copy_form": "single_paragraph_cjk_auto_wrap",
-          "registered_min_max_chars": 96,
-          "use_for_planning_cjk_chars": 35,
-          "normal_fill_tested_chars": 35
+          "registered_min_max_chars": 32,
+          "use_for_planning_cjk_chars": 32,
+          "normal_fill_tested_chars": 32,
+          "visual_safe_max_cjk_chars": 32
         },
         {
           "semantic_path": "item_5.year",
@@ -31180,22 +31504,24 @@
         "fill_layout"
       ],
       "operational_note": "按每个正文槽分别控制；组件最小值不能替代其他字段的上限",
-      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed_pending_visual_review",
+      "normal_fill_longcopy_status": "normal_fill_and_text_fit_passed",
       "normal_fill_cases": [
         {
           "layout_id": "content-tech-064",
           "theme": "deep-blue-tech",
           "status": "filled",
           "actual_chars": {
-            "item_1.event": 76,
+            "heading": 8,
+            "summary": 22,
+            "item_1.event": 32,
             "item_1.year": 4,
-            "item_2.event": 59,
+            "item_2.event": 32,
             "item_2.year": 4,
-            "item_3.event": 68,
+            "item_3.event": 32,
             "item_3.year": 4,
-            "item_4.event": 76,
+            "item_4.event": 32,
             "item_4.year": 4,
-            "item_5.event": 35,
+            "item_5.event": 32,
             "item_5.year": 6
           },
           "powerpoint_overflow_count": 0
@@ -31203,19 +31529,19 @@
       ],
       "visual_longcopy_review": {
         "review_date": "2026-11-10",
-        "fixture": "原正常调用长文案 + 缺失可编辑字段按绑定源文案补齐",
-        "method": "完整填充、PowerPoint 导出、逐页接触表和疑点原尺寸视觉复核",
+        "fixture": "完整可编辑槽位试填，并对拥挤字段施加视觉安全字数",
+        "method": "真实 PowerPoint 填充、文字边界检查和整页渲染复核",
         "variants": [
           {
             "theme": "deep-blue-tech",
             "complete_fill": true,
             "powerpoint_overflow_count": 0,
-            "visual_render": "complete-visual-previews/content-tech-064-deep-blue-tech.png"
+            "visual_render": "repair-13-previews/content-tech-064-deep-blue-tech.png"
           }
         ],
-        "issue": "五列长文案过密，部分栏位难以在演示距离阅读"
+        "result": "passed_at_registered_visual_safe_limits"
       },
-      "long_copy_review_status": "视觉复核未通过"
+      "long_copy_review_status": "长文案已验收"
     },
     {
       "layout_id": "content-tech-065",
@@ -33029,18 +33355,11 @@
   },
   "visual_review_summary": {
     "review_date": "2026-11-10",
-    "scope_layouts": 110,
-    "accepted_layouts": 104,
-    "held_layouts": 6,
-    "other_pending_layouts": 7,
-    "held_ids": {
-      "content-tech-020": "六个说明块接近密排，长文案的演示阅读性不足",
-      "content-tech-022": "左侧三层文字压在三角图形上，行间互相拥挤",
-      "content-tech-024": "上方三组及下方两组文字密集，说明文字与装饰线交叠",
-      "content-tech-030": "双环内的长文案与中心图标及环内说明叠压",
-      "content-tech-033": "五列卡片的正文接近极限，投影阅读性不足",
-      "content-tech-064": "五列长文案过密，部分栏位难以在演示距离阅读"
-    },
-    "evidence_folder": "正文长文案快速验收/complete-visual-contact-sheets"
+    "scope_layouts": 117,
+    "accepted_layouts": 117,
+    "held_layouts": 0,
+    "other_pending_layouts": 0,
+    "held_ids": {},
+    "evidence_folder": "_验证输出/正文长文案快速验收/repair-13-previews"
   }
 }
