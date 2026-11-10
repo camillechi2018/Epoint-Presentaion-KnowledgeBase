@@ -16073,7 +16073,28 @@
       "matching_avoid": "少于六项或需要逐项长正文时不适用。",
       "matching_policy": "structural",
       "structure_type": "parallel-points",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "content_types": [
+          "cards"
+        ],
+        "verified_counts": [
+          6
+        ],
+        "item_fields": [
+          "title"
+        ],
+        "input_schema": "cards.title_body.v1",
+        "compatible_relations": [
+          "parallel-points"
+        ],
+        "required_content_fields": [
+          "summary",
+          "center.topic"
+        ]
+      }
     },
     {
       "id": "content-tech-021",

@@ -9464,8 +9464,8 @@
       "structure_type": "parallel-points",
       "source_relation": "parallel-points",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "heading",
         "summary",
@@ -9531,7 +9531,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-021",
