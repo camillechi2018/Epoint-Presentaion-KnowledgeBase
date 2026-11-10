@@ -6,11 +6,12 @@
 
 ## 三种风格预览
 
-蓝色、红色、科技风格各展示 16 个正文组件。图片中的文字和数字是版式示例，实际出稿以用户材料替换。
+蓝色、红色、科技风格各展示一张封面和 16 个正文组件。图片中的文字和数字是版式示例，实际出稿以用户材料替换。
 
-| 蓝色系 · 蓝白简约 | 红色系 · 红白简约 | 科技风格 · 深蓝科技 |
-| --- | --- | --- |
-| ![蓝色系 16 个正文组件](review/style-galleries/blue-16.png) | ![红色系 16 个正文组件](review/style-galleries/red-16.png) | ![科技风格 16 个正文组件](review/style-galleries/tech-16.png) |
+| 页面 | 蓝色系 · 蓝白简约 | 红色系 · 红白简约 | 科技风格 · 深蓝科技 |
+| --- | --- | --- | --- |
+| 封面 | ![蓝色系封面](review/style-galleries/blue-cover.png) | ![红色系封面](review/style-galleries/red-cover.png) | ![科技风格封面](review/style-galleries/tech-cover.png) |
+| 正文组件 | ![蓝色系 16 个正文组件](review/style-galleries/blue-16.png) | ![红色系 16 个正文组件](review/style-galleries/red-16.png) | ![科技风格 16 个正文组件](review/style-galleries/tech-16.png) |
 
 [蓝红封面及内容视觉索引](review/视觉索引.html) · [科技风 85 页索引](review/深蓝科技风85页索引.html)
 

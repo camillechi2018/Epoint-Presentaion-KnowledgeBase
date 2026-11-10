@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "version": "1.0.0-draft",
   "status": "draft_pending_review",
-  "file_count": 3420,
+  "file_count": 3423,
   "files": {
     ".gitignore": "01f797f0f3bba220a65d704559a3adb2beaecf1ab31b60cdd61b163b5c3a02f1",
     "BRANCH.md": "c6a9c3024650822dee9266a9b4f306873f0bf191b534581809e48b868f0e84b9",
@@ -2475,7 +2475,7 @@
     "layouts/supp-section-red-18/layout_rules.json": "cc4e676daa504a659085fb840274f3a16333f69dc20af5eededdb4994bb3341b",
     "layouts/supp-section-red-18/motion.json": "608ce124fd464e9c093b999a303052e7d66196cf7ce3a82f32ae970ae0eeb37c",
     "layouts/supp-section-red-18/spec.md": "0f79e615c7a3ddffc02c03160de69b358117f4eaf0a3cc3b1fc9468caccb6578",
-    "README.md": "484b5269cb5f872df5cceb0991b7ae7cf4b37eb33558f43b4261676d6072d794",
+    "README.md": "a833d38a77ecd6b77a6fc9fb65d3cfe79a5e5b9fb41c8ac35f6ff4d865292115",
     "relation-taxonomy.json": "5047884aad5225c1fa62f7153c9c1d8f18bb5830044e6adcaee6ff836e83f217",
     "review/batch3-content-blue-025-blue.png": "24953c1bfa5fb0dfe66a4a95bd7d3b42c5dd1e43a531db9ca6fa84efd06fffe9",
     "review/batch3-content-blue-025-red.png": "91b3fdbf3258a6086cabe75aa59e748f37e6c1a8dd0f72f74d80010849c088ee",
@@ -3423,6 +3423,9 @@
     "typography/deep-blue-tech.json": "57fb15a3fa8b09257e4cb1a7fce4af4c6697ad4e7adc55d0ed87d5896d3c4cff",
     "review/style-galleries/blue-16.png": "efff637c0ba028a363d66fb01eb51adacc69c13a60a0e2b1eab4143c6246e9f2",
     "review/style-galleries/red-16.png": "51d699983c90922671ac9ee25b034472166a9a2897d65083dcd899e4db2633b1",
-    "review/style-galleries/tech-16.png": "7ca5f63d4a50f6764f7362ef905a952b6da49c8e600cce33a2260632f654912b"
+    "review/style-galleries/tech-16.png": "7ca5f63d4a50f6764f7362ef905a952b6da49c8e600cce33a2260632f654912b",
+    "review/style-galleries/blue-cover.png": "f3300e97a125374403e087ff22343d4137601571dd21519d333e524479ca9464",
+    "review/style-galleries/red-cover.png": "b7fd23f7973900b7d5b7e6a9c869939c50166076f3ff2f5624877f546d766e27",
+    "review/style-galleries/tech-cover.png": "a5f3184e972066eb2040828c4f972da7c56993adff02b5125768b1be377defba"
   }
 }
