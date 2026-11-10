@@ -8006,7 +8006,7 @@
       "source_relation": "six-step-closed-loop",
       "invariant": null,
       "activation": "pilot_verified",
-      "review_scope": "通用非源业务内容，蓝红或科技版实际 PowerPoint 渲染；仅固定项数短文案。",
+      "review_scope": "新增非来源业务结构映射采用短文案单页试填；既有逐字段长文案已验收继续有效；真实整稿视觉仍待独立复核。",
       "required_semantic_paths": [
         "center.title",
         "steps[1].body",
@@ -8104,7 +8104,8 @@
       "red_bindings": "layouts/content-blue-261/bindings-red.json",
       "visual_evidence": [
         "review/structural-remaining59-first-2026-11-10.md"
-      ]
+      ],
+      "long_copy_evidence": "review/body-longcopy-capacity.json"
     },
     {
       "id": "content-blue-262",
@@ -8533,7 +8534,7 @@
       "source_relation": "six-stage-square-loop",
       "invariant": null,
       "activation": "pilot_verified",
-      "review_scope": "通用非源业务内容，蓝红或科技版实际 PowerPoint 渲染；仅固定项数短文案。",
+      "review_scope": "新增非来源业务结构映射采用短文案单页试填；既有逐字段长文案已验收继续有效；真实整稿视觉仍待独立复核。",
       "required_semantic_paths": [
         "page.title",
         "steps[0].heading",
@@ -8625,7 +8626,8 @@
       "red_bindings": "layouts/content-blue-266/bindings-red.json",
       "visual_evidence": [
         "review/structural-remaining59-first-2026-11-10.md"
-      ]
+      ],
+      "long_copy_evidence": "review/body-longcopy-capacity.json"
     },
     {
       "id": "content-blue-267",
@@ -9091,7 +9093,7 @@
       "source_relation": "hierarchy",
       "invariant": null,
       "activation": "pilot_verified",
-      "review_scope": "非原稿业务试填；固定项数、短文案、实际 PowerPoint 渲染。",
+      "review_scope": "新增非来源业务结构映射采用短文案单页试填；既有逐字段长文案已验收继续有效；真实整稿视觉仍待独立复核。",
       "required_semantic_paths": [
         "item_3.label",
         "item_4.label",
@@ -9187,7 +9189,8 @@
       "red_bindings": null,
       "visual_evidence": [
         "review/structural-remaining59-second-2026-11-10.md"
-      ]
+      ],
+      "long_copy_evidence": "review/body-longcopy-capacity.json"
     },
     {
       "id": "content-tech-017",
@@ -9313,7 +9316,7 @@
       "source_relation": "hierarchy",
       "invariant": null,
       "activation": "pilot_verified",
-      "review_scope": "通用非源业务内容，蓝红或科技版实际 PowerPoint 渲染；仅固定项数短文案。",
+      "review_scope": "新增非来源业务结构映射采用短文案单页试填；既有逐字段长文案已验收继续有效；真实整稿视觉仍待独立复核。",
       "required_semantic_paths": [
         "tier_1.body",
         "tier_2.body",
@@ -9369,7 +9372,8 @@
       "red_bindings": null,
       "visual_evidence": [
         "review/structural-remaining59-first-2026-11-10.md"
-      ]
+      ],
+      "long_copy_evidence": "review/body-longcopy-capacity.json"
     },
     {
       "id": "content-tech-019",
@@ -9554,7 +9558,7 @@
       "source_relation": "key-points",
       "invariant": null,
       "activation": "pilot_verified",
-      "review_scope": "三项真实工作保障，非源业务内容，科技版实际 PowerPoint 渲染；短文案。",
+      "review_scope": "新增非来源业务结构映射采用短文案单页试填；既有逐字段长文案已验收继续有效；真实整稿视觉仍待独立复核。",
       "required_semantic_paths": [
         "heading",
         "summary",
@@ -9646,7 +9650,8 @@
       "red_bindings": null,
       "visual_evidence": [
         "review/structural-remaining59-third-2026-11-10.md"
-      ]
+      ],
+      "long_copy_evidence": "review/body-longcopy-capacity.json"
     },
     {
       "id": "content-tech-022",
@@ -12657,7 +12662,7 @@
       "source_relation": "schedule",
       "invariant": null,
       "activation": "pilot_verified",
-      "review_scope": "非原稿业务试填；固定项数、短文案、实际 PowerPoint 渲染。",
+      "review_scope": "新增非来源业务结构映射采用短文案单页试填；既有逐字段长文案已验收继续有效；真实整稿视觉仍待独立复核。",
       "required_semantic_paths": [
         "table.time_heading",
         "table.activity_heading",
@@ -12809,7 +12814,8 @@
       "red_bindings": null,
       "visual_evidence": [
         "review/structural-remaining59-second-2026-11-10.md"
-      ]
+      ],
+      "long_copy_evidence": "review/body-longcopy-capacity.json"
     },
     {
       "id": "data-chart-tech-071",
