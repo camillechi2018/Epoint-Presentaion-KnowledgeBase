@@ -315,9 +315,9 @@
     {
       "id": "content-tech-021",
       "first_pass": "text_fill_and_powerpoint_render",
-      "reason_category": "field_mapping_and_capacity",
-      "auto_matching_activated": false,
-      "next_gate": "field_mapping_and_capacity"
+      "reason_category": null,
+      "auto_matching_activated": true,
+      "next_gate": "pilot_verified_after_targeted_adapter"
     },
     {
       "id": "content-tech-022",

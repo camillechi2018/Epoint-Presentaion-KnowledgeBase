@@ -16343,7 +16343,30 @@
       "matching_avoid": "超过三项、长篇正文或各项缺解释",
       "matching_policy": "structural",
       "structure_type": "parallel-points",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "content_types": [
+          "framework"
+        ],
+        "verified_counts": [
+          3
+        ],
+        "item_fields": [
+          "title",
+          "subtitle",
+          "body"
+        ],
+        "input_schema": "framework.v1",
+        "compatible_relations": [
+          "framework"
+        ],
+        "required_content_fields": [
+          "summary",
+          "unit"
+        ]
+      }
     },
     {
       "id": "content-tech-022",
