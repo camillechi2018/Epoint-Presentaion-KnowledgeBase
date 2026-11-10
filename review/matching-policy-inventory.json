@@ -848,8 +848,8 @@
       "structure_type": "process",
       "source_relation": "ordered-steps",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "第二批逐页检查蓝版预览与字段：四步目标、说明、结果和页级目标均为实填必需；试填适配待做；蓝红实填与视觉验收以 activation 为准",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "steps[0].number",
         "steps[1].number",
@@ -970,7 +970,7 @@
       "long_copy_review_status": null,
       "red_bindings": "layouts/content-blue-060/bindings-red.json",
       "visual_evidence": [
-        "layouts/content-blue-060/ready-blue.png"
+        "review/structural-batch-remaining84-first.md"
       ],
       "batch_review": {
         "batch": "2026-11-10-next16",
@@ -8625,8 +8625,8 @@
       "structure_type": "process",
       "source_relation": "four-stage-vertical-arrow",
       "invariant": "Four downward stages require real order and several distinct body fields per stage; no generic adapter yet.",
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "page.title",
         "steps[0].heading",
@@ -8692,7 +8692,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": "layouts/content-blue-267/bindings-red.json",
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-blue-268",
@@ -9871,8 +9873,8 @@
       "structure_type": "comparison",
       "source_relation": "comparison",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "heading",
         "summary",
@@ -9966,7 +9968,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-028",
@@ -10079,8 +10083,8 @@
       "structure_type": "comparison",
       "source_relation": "comparison",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "right.title",
         "left.title",
@@ -10134,7 +10138,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-030",
@@ -10425,8 +10431,8 @@
       "structure_type": "parallel-points",
       "source_relation": "parallel-points",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "heading",
         "item_1.body",
@@ -10516,7 +10522,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-034",
@@ -10524,8 +10532,8 @@
       "structure_type": "parallel-points",
       "source_relation": "parallel-points",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "item_1.body",
         "item_1.title",
@@ -10609,7 +10617,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-037",
@@ -10617,8 +10627,8 @@
       "structure_type": "parallel-points",
       "source_relation": "parallel-points",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "item_1.body",
         "item_1.title",
@@ -10678,7 +10688,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-038",
@@ -10686,8 +10698,8 @@
       "structure_type": "process",
       "source_relation": "process",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "heading",
         "summary",
@@ -10783,7 +10795,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-040",
@@ -10791,8 +10805,8 @@
       "structure_type": "comparison",
       "source_relation": "comparison",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "heading",
         "left.title",
@@ -10864,7 +10878,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-042",
@@ -10951,8 +10967,8 @@
       "structure_type": "parallel-points",
       "source_relation": "parallel-points",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "heading",
         "item_1.body",
@@ -11012,7 +11028,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-045",
@@ -11303,8 +11321,8 @@
       "structure_type": "parallel-points",
       "source_relation": "parallel-points",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "heading",
         "summary",
@@ -11382,7 +11400,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-052",
@@ -11568,8 +11588,8 @@
       "structure_type": "process",
       "source_relation": "process",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "item_1.title",
         "item_1.body",
@@ -11665,7 +11685,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-055",
@@ -12264,8 +12286,8 @@
       "structure_type": "timeline",
       "source_relation": "timeline",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "heading",
         "summary",
@@ -12349,7 +12371,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-064",
@@ -12357,8 +12381,8 @@
       "structure_type": "timeline",
       "source_relation": "timeline",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "heading",
         "summary",
@@ -12440,7 +12464,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-065",
@@ -12448,8 +12474,8 @@
       "structure_type": "timeline",
       "source_relation": "timeline",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "短文案和正常文案已做真实 PowerPoint 渲染复核；自动调用仍受字段、项数、容量及样式约束。",
       "required_semantic_paths": [
         "heading",
         "summary",
@@ -12533,7 +12559,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-batch-remaining84-first.md"
+      ]
     },
     {
       "id": "content-tech-066",

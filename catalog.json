@@ -2661,7 +2661,29 @@
       },
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "content_types": [
+          "process"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body",
+          "outcome"
+        ],
+        "input_schema": "process.title_body.v1",
+        "compatible_relations": [
+          "process"
+        ],
+        "required_content_fields": [
+          "goal"
+        ]
+      }
     },
     {
       "id": "content-blue-061",
@@ -12473,7 +12495,25 @@
       "search_label": "四阶段纵向箭头流程 固定四条纵向箭头；短正文实填，长正文未验收。 4项 固定项数",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "content_types": [
+          "process"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "process.title_body.v1",
+        "compatible_relations": [
+          "process"
+        ]
+      }
     },
     {
       "id": "content-blue-268",
@@ -16346,7 +16386,28 @@
       "matching_avoid": "两组对比或风险项少于四项",
       "matching_policy": "structural",
       "structure_type": "comparison",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "comparison",
+        "content_types": [
+          "comparison"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "comparison.title_body.v1",
+        "compatible_relations": [
+          "comparison"
+        ],
+        "required_content_fields": [
+          "summary"
+        ]
+      }
     },
     {
       "id": "content-tech-027",
@@ -16497,7 +16558,29 @@
       "matching_avoid": "无共同维度、底部结论或总括说明时不适用。",
       "matching_policy": "structural",
       "structure_type": "comparison",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "comparison",
+        "content_types": [
+          "comparison"
+        ],
+        "verified_counts": [
+          2
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "comparison.title_body.v1",
+        "compatible_relations": [
+          "comparison"
+        ],
+        "required_content_fields": [
+          "summary",
+          "conclusion"
+        ]
+      }
     },
     {
       "id": "content-tech-030",
@@ -16713,7 +16796,33 @@
       "matching_avoid": "项数少于五项、缺结论或说明过长时不适用。",
       "matching_policy": "structural",
       "structure_type": "parallel-points",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "content_types": [
+          "cards"
+        ],
+        "verified_counts": [
+          5
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "cards.title_body.v1",
+        "compatible_relations": [
+          "parallel-points"
+        ],
+        "required_content_fields": [
+          "summary",
+          "conclusion"
+        ],
+        "source_field_swap": {
+          "page_title": "bottom_conclusion",
+          "conclusion": "heading"
+        }
+      }
     },
     {
       "id": "content-tech-034",
@@ -16767,7 +16876,28 @@
       "matching_avoid": "不足五项或单项说明过长",
       "matching_policy": "structural",
       "structure_type": "parallel-points",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "content_types": [
+          "cards"
+        ],
+        "verified_counts": [
+          5
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "cards.title_body.v1",
+        "compatible_relations": [
+          "parallel-points"
+        ],
+        "required_content_fields": [
+          "summary"
+        ]
+      }
     },
     {
       "id": "content-tech-035",
@@ -16907,7 +17037,28 @@
       "matching_avoid": "不足三维或没有并列关系",
       "matching_policy": "structural",
       "structure_type": "parallel-points",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "content_types": [
+          "cards"
+        ],
+        "verified_counts": [
+          3
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "cards.title_body.v1",
+        "compatible_relations": [
+          "parallel-points"
+        ],
+        "required_content_fields": [
+          "summary"
+        ]
+      }
     },
     {
       "id": "content-tech-038",
@@ -16963,7 +17114,28 @@
       "matching_avoid": "四项独立成果或超过四步",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "content_types": [
+          "process"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "process.title_body.v1",
+        "compatible_relations": [
+          "process"
+        ],
+        "required_content_fields": [
+          "summary"
+        ]
+      }
     },
     {
       "id": "content-tech-039",
@@ -17060,7 +17232,30 @@
       "matching_avoid": "只有普通左右对比、缺四项标签时不适用。",
       "matching_policy": "structural",
       "structure_type": "comparison",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "comparison",
+        "content_types": [
+          "comparison"
+        ],
+        "verified_counts": [
+          2
+        ],
+        "item_fields": [
+          "title",
+          "body",
+          "tags"
+        ],
+        "input_schema": "comparison.title_body.v1",
+        "compatible_relations": [
+          "comparison"
+        ],
+        "required_content_fields": [
+          "summary"
+        ],
+        "item_tag_count": 2
+      }
     },
     {
       "id": "content-tech-041",
@@ -17211,7 +17406,28 @@
       "matching_avoid": "仅有三个数字或缺各项说明",
       "matching_policy": "structural",
       "structure_type": "parallel-points",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "content_types": [
+          "cards"
+        ],
+        "verified_counts": [
+          3
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "cards.title_body.v1",
+        "compatible_relations": [
+          "parallel-points"
+        ],
+        "required_content_fields": [
+          "summary"
+        ]
+      }
     },
     {
       "id": "content-tech-044",
@@ -17470,7 +17686,43 @@
       "matching_avoid": "不足四项或没有总目标",
       "matching_policy": "structural",
       "structure_type": "parallel-points",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "parallel-points",
+        "content_types": [
+          "cards"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "cards.title_body.v1",
+        "compatible_relations": [
+          "parallel-points"
+        ],
+        "required_content_fields": [
+          "summary",
+          "conclusion"
+        ],
+        "visual_order_to_binding": {
+          "title": [
+            3,
+            4,
+            2,
+            1
+          ],
+          "body": [
+            2,
+            1,
+            3,
+            4
+          ]
+        }
+      }
     },
     {
       "id": "content-tech-049",
@@ -17766,7 +18018,28 @@
       "matching_avoid": "仅有四个短标签或文字超过各格容量",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "content_types": [
+          "process"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "process.title_body.v1",
+        "compatible_relations": [
+          "process"
+        ],
+        "required_content_fields": [
+          "summary"
+        ]
+      }
     },
     {
       "id": "content-tech-055",
@@ -18241,7 +18514,30 @@
       "matching_avoid": "日期不完整或事件不能排序",
       "matching_policy": "structural",
       "structure_type": "timeline",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "timeline",
+        "content_types": [
+          "milestone_timeline"
+        ],
+        "verified_counts": [
+          5
+        ],
+        "item_fields": [
+          "label",
+          "body"
+        ],
+        "input_schema": "milestone_timeline.title_body.v1",
+        "compatible_relations": [
+          "timeline"
+        ],
+        "required_content_fields": [
+          "summary"
+        ],
+        "required_order": "chronological",
+        "label_sequence": "ascending_years"
+      }
     },
     {
       "id": "content-tech-064",
@@ -18295,7 +18591,30 @@
       "matching_avoid": "无明确时间点或只是普通流程",
       "matching_policy": "structural",
       "structure_type": "timeline",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "timeline",
+        "content_types": [
+          "milestone_timeline"
+        ],
+        "verified_counts": [
+          5
+        ],
+        "item_fields": [
+          "label",
+          "title"
+        ],
+        "input_schema": "milestone_timeline.title_body.v1",
+        "compatible_relations": [
+          "timeline"
+        ],
+        "required_content_fields": [
+          "summary"
+        ],
+        "required_order": "chronological",
+        "label_sequence": "ascending_years"
+      }
     },
     {
       "id": "content-tech-065",
@@ -18349,7 +18668,30 @@
       "matching_avoid": "少于五个有依据的日期或仅有阶段名",
       "matching_policy": "structural",
       "structure_type": "timeline",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "timeline",
+        "content_types": [
+          "milestone_timeline"
+        ],
+        "verified_counts": [
+          5
+        ],
+        "item_fields": [
+          "label",
+          "body"
+        ],
+        "input_schema": "milestone_timeline.title_body.v1",
+        "compatible_relations": [
+          "timeline"
+        ],
+        "required_content_fields": [
+          "summary"
+        ],
+        "required_order": "chronological",
+        "label_sequence": "ascending_dates"
+      }
     },
     {
       "id": "content-tech-066",
