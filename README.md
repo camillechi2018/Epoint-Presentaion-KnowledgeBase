@@ -1,33 +1,70 @@
-# 新模板独立知识库
+# Epoint Presentation 知识库
 
-正文长文案容量（2026-11-10）：[逐组件、逐字段参考值](review/body-longcopy-capacity.json)覆盖 117 个已验收正文组件、189 个蓝红科技版本、776 个字段。`physical_max_cjk_chars` 是 PowerPoint 单框实测极限，`recommended_max_cjk_chars` 是其 85% 参考值；实际调用优先采用更严格的 `use_for_planning_cjk_chars`，视觉拥挤字段另有 `visual_safe_max_cjk_chars`。参考值适用于单段中文自动换行，组稿时仍须遵守字段行宽、行数及结构约束。
+这是供 [Epoint Presentation 技能](https://github.com/camillechi2018/Epoint-Presentaion)调用的结构化 PPT 模板知识库。仓库保存可编辑来源页、组件字段与容量规则、主题资料和验收记录。技能按内容关系筛选组件，再试填、渲染；是否进入自动选稿，以当前记录的主题、页面职责、验收状态、项数及字段容量共同判断。
 
-长文案签收（2026-11-10）：117 个已验收正文组件均已按登记的可调用字数完成填充、PowerPoint 文字边界与视觉复核。最后 13 个组件收紧了拥挤字段的视觉安全字数，或补齐表格、排期、图表及 Logo 输入；18 个蓝红科技版本复测均为 0 处文字溢出。自动选稿仍须遵守逐字段上限和结构约束，真实材料整稿仍需渲染复核。详情见 [视觉复核记录](review/body-longcopy-visual-review.md)。
+> 资产状态：`draft_pending_review`。使用草稿组件须显式允许并进行人工审阅；预览图不代表该组件的所有能力均已验收。
 
-普通正文专项修整（2026-11-09）：已验收蓝红组件中 35 个来源页的 `body`、`step_body` 或 `item_detail` 字段带显式粗体，现已在各组件 `layout_rules.json.normal_body_weight` 登记普通字重，并为每个组件提供蓝红 `ready_source_by_theme` 可编辑单页与 `ready_preview_by_theme` 效果图。**生成或直接复用时读取 ready 资产；`source`／`red_source` 只作原稿追溯。**P112 右侧另去掉自动序号；P106 蓝版另固化白色画布与五块浅蓝衬底。字号尚未批量放大：P106、P112 分别已验收 15、16 pt，其余 33 个组件的调整优先级见本地字号排查报告，须逐项实填和渲染后再开放。普通正文组件清单见 `review/normal-body-component-ids.json`。
+## 三种风格预览
 
-`relation-taxonomy.json` 是已验收版式的信息关系索引：158 条 `classification_status=verified` 记录写入 `canonical_relation`，保留原 `information_relation` 作为具体结构名。检索可用统一类型或中英文同义词；具体结构名仍精确匹配。未验收记录不因建立索引而升级。封面、目录、章节和封底保持角色独立，正文跨角色匹配只在明确关系且已验收时使用；主题、项数、容量等门槛不变。
+下表复用[技能仓库的组件预览](https://github.com/camillechi2018/Epoint-Presentaion#正文组件预览)，每张拼图展示 16 个已验收正文组件。蓝红两组展示对应色系，科技风为独立组件族。图片中的文字、数字均为模板示例，不作为出稿事实。
 
-已验收版式中有 64 条根据组件说明登记 `search_label`，用于候选排序，不作为放宽准入的证据。科技风 P021 对照已验收语义记录修正为“三项重点”关系；固定项数缺 `verified_counts` 的旧组件由 Skill 依据原生固定数量或静态验收记录判断，未验证数量不参与自动选版。
+| 蓝色系 · 蓝白简约 | 红色系 · 红白简约 | 科技风格 · 深蓝科技 |
+| --- | --- | --- |
+| ![蓝色系 16 个正文组件](https://raw.githubusercontent.com/camillechi2018/Epoint-Presentaion/main/assets/style-previews/component-gallery-blue-16.png) | ![红色系 16 个正文组件](https://raw.githubusercontent.com/camillechi2018/Epoint-Presentaion/main/assets/style-previews/component-gallery-red-16.png) | ![科技风格 16 个正文组件](https://raw.githubusercontent.com/camillechi2018/Epoint-Presentaion/main/assets/style-previews/component-gallery-tech-16.png) |
 
-科技风现有 54 个中间页和 5 封面、4 封底，共 63 页完成固定项数短文静态 PPTX 草稿验收。63 个虚构内容样张经 PowerPoint 渲染、文字边界、单 Logo、媒体回退检查；封面封底做了 27 档标题压力测试，超限文案会被拒绝。P038 只验收原生 4 步，P069 只验收原生 6 行；变项数、动效、HTML 与换色仍按各自原型或未实现状态处理。详情见 `review/tech-static-pptx-pool.json`，[第六批视觉总览](review/tech-8-static-pptx-batch6.jpg)。
+[拼图组件 ID 与来源](https://github.com/camillechi2018/Epoint-Presentaion/blob/main/assets/style-previews/component-gallery-sources.json) · [蓝红封面及内容视觉索引](review/视觉索引.html) · [科技风 85 页索引](review/深蓝科技风85页索引.html)
 
-来源为 01蓝色系、02红色系、20页封面（比例16-9）、03深蓝-科技风及提供的 Logo。现以 `main` 为主分支，原 `new-template-v1` 保留为迁移前参考；当前状态 `draft_pending_review`。
+蓝红组件按 `style_family=legacy-blue-red` 处理，以 `theme=blue/red` 区分色系；科技风使用独立的 `style_family=deep-blue-tech`。绿色实验主题不进入常规选择。
 
-主题 JSON 已补黑、白、浅灰、中灰、深灰等 `neutral_tokens`。`sources/` 继续保存未经改写的可编辑原稿；新版 Skill 提取单页后把页面、版式、母版及原生图表使用的主题色引用固化为组件对象的具体颜色，避免合并或跨软件保存时误挂封面母版。PPTX 格式仍保留主题部件供兼容，但成稿可见组件不从母版颜色槽取色。原生图表样式 `phClr` 占位符另列目视复核；此规则不宣称模板已经支持任意跨色系改色。蓝色内容页来源主题的 `lt2=F6F9FF`，新增内容的中灰变量取蓝色补充模板已有的 `8BA1C4`；封面来源出现的 `E7E6E6` 只属该封面，不可作为蓝色内容页的通用灰底。Skill 固化单页颜色前须核对来源的全部 12 个主题色槽。新绘页面仅能使用 Skill 的配色锁中与本主题对应的颜色，原稿主题槽中的其他颜色不自动开放给新绘页面。
+## 资产规模与统计口径
 
-三套正式可选风格在各自的主题 JSON 中登记 `free_composition_roles`，并与 Skill 本地 `brand-palette-lock.json` 一致。蓝红取自对应 PPTX 的主题或可编辑对象，科技风深底三色取自来源封面预览的实际像素。绿色实验主题不在常规可选风格中。`audit_brand_palette_source.py` 核对本地锁、知识库角色和来源色；`audit_new_drawn_palette.py` 拒绝新绘页面的锁外 RGB。复用原稿页时保留该页的原生显式色和图片，不把它们开放为自由绘制颜色。
+以下数字按本次整理时 `main` 分支文件统计。**来源页位、候选记录、已验证记录与主题版本不能相加，也不等于可直接调用的版式数量。** 运行时应以当前提交的目录与组件记录为准。
 
-`source-pages.json` 保留 611 个物理页位；`catalog.json` 是首轮候选组件，蓝红配对仅按顶层形状签名，需复核媒体与嵌套对象。`sources/` 保留三份可编辑原稿；调用时从选中的来源页按需生成空版，避免重复存储整套母版。`review/视觉索引.html` 展示 20 个封面和 14 个首批人工观察的内容页。P060 的 2／3／4 步重排及动效、P01 和 P060 的 HTML 均为内部原型；未审核的字段语义、换色、HTML 和动效不得宣称已全面支持。
+| 口径 | 数量 | 来源与含义 |
+| --- | ---: | --- |
+| 来源页位 | 734 | `source-pages.json`；早期 611 页位是扩充前口径。 |
+| 可编辑来源稿 | 6 份 | `sources/` 中的蓝、红、封面、科技风和蓝红补充稿。 |
+| 候选组件 | 437 条 | `catalog.json`，包含尚未验收的候选。 |
+| 分类已验证 | 168 条 | `classification_status=verified`；仍需检查具体输出能力。 |
+| 其中正文组件 | 117 条 | 上述记录中排除封面、目录、章节页和封底。 |
 
-新增 03 深蓝科技风 85 页，使用同一知识库内独立 `style_family=deep-blue-tech`；5 封面与 4 封底独立索引。除上述 63 个静态 PPTX 草稿组件外，其余 22 页仅完成来源和结构初拆；变项数、动效和换色仍待逐页验收。P001 封面另有离线 HTML 内部原型，尚未完成跨格式验收，其余 84 页未实现 HTML。来源基线见 `review/tech-source-audit.json`；`color-inventory-tech.json` 已盘点 85 页颜色对象，但所有可换色角色仍待审核。
+组件可按需从来源页提取；登记了 `ready_source_by_theme` 的组件应优先使用已修整的可编辑单页。`source`、`red_source` 用于原稿追溯。来源页的显式色与图片不自动成为自由绘制时可用的颜色素材。
 
-P09 六宫格目录、P49 六项清单、P69 形状排期已各有 2–6 项可编辑 PPTX 与逐项淡入内部原型；15 档均未完成真实放映和正式验收，不进入常规选择。
+## 内容如何匹配组件
 
-P51 六立柱页已补 2–6 项可编辑 PPTX 与逐项淡入内部原型，中心数字按实际项数生成；真实放映和长文压力仍待验收。
+1. 先选整套风格与页面职责。封面、目录、章节页、封底严格按角色匹配；正文按已验收的信息关系检索。
+2. 从 [`catalog.json`](catalog.json)、[`relation-taxonomy.json`](relation-taxonomy.json) 和组件规则检查主题、分类、PPTX 支持、媒体、原生项数与 `verified_counts`。`search_label` 只用于排序。
+3. 按 `bindings.json` 检查语义字段、字数、行数、行宽并试填。不能删空固定项数，也不能借模板示例内容补业务事实。
+4. 在 PowerPoint 中检查文字边界、图片、Logo、颜色及整稿节奏。候选命中和程序试填成功仍需最终视觉复核。
 
-## 蓝红补充稿（2026-11-06）
+正文无合适组件时，由[技能](https://github.com/camillechi2018/Epoint-Presentaion)按同一风格使用内置排版规则或受约束的自由编排，并单独记录页面来源。
 
-跨色系变量换色与长文案压力验收见 `review/supplement-color-longcopy-qa.json`。结果均未达到开放门槛：版式和母版仍含未映射的显式色／渐变，38 份加长压力样例均有文字溢出。当前只开放原生蓝红配色和已验证的短文案容量。
+## 长文案与变项数
 
-在原蓝红简约版上增补蓝色 14 页、红色 24 页，逐页索引 38/38，整理出 28 条版式记录（含蓝红配对与红色视觉变体）。新增目录、章节、红色简约封面和封底，全部为固定项数短文案静态可编辑 PPTX 草稿。逐项字段、来源页、主题与容量见 `catalog.json`、`layouts/supp-*/`；验收证据见 `review/supplement-blue-red.json`。使用仍须 `allow_draft` 和人工审阅。蓝红源稿颜色属于原生配色，尚未声称跨色系变量换色；动效和 HTML 未验收。
+[正文长文案容量表](review/body-longcopy-capacity.json)覆盖 117 个正文组件、189 个蓝红科技主题版本。`physical_max_cjk_chars` 是单框实测极限，`recommended_max_cjk_chars` 是参考值；组稿优先使用更严格的 `use_for_planning_cjk_chars`，拥挤字段还须遵守 `visual_safe_max_cjk_chars`。117 个正文组件已按登记的可调用字数完成签收，见[视觉复核记录](review/body-longcopy-visual-review.md)。真实文案仍须通过行宽、行数和整页渲染。
+
+变项数只按**具体组件**的 `verified_counts` 开放。蓝红目录、科技目录各有自己的已验收范围；其他流程或清单的变项数原型，不因目录可变而自动开放。固定项数组件只接受已登记的原生数量。
+
+## 能力边界
+
+| 能力 | 当前规则 |
+| --- | --- |
+| 静态可编辑 PPTX | 主题、字段、项数与 PPTX 验收状态均适配后使用；草稿还须人工审阅。 |
+| 长文案 | 按逐字段安全容量试填；超容量压力样例失败，不代表所有长文案均不可用。 |
+| 跨色系变量换色 | 蓝红双版本不等于任意来源页都能换色；按组件专项状态判断。 |
+| 动效与 HTML | 有内部原型；静态 PPTX 验收不代表这些能力已验收。 |
+| 目录及其他变项数 | 按该组件的 `verified_counts` 使用，不作整库统一承诺。 |
+
+## 文件导航
+
+| 路径 | 内容 |
+| --- | --- |
+| [`source-pages.json`](source-pages.json)、[`sources/`](sources/) | 来源页索引与可编辑原稿。 |
+| [`catalog.json`](catalog.json)、[`layouts/`](layouts/) | 候选组件、绑定、规则与 ready 单页。 |
+| [`relation-taxonomy.json`](relation-taxonomy.json) | 信息关系及同义词索引。 |
+| [`themes/`](themes/)、[`brand/`](brand/) | 主题变量与品牌素材。 |
+| [`source-previews/`](source-previews/)、[`cover-images/`](cover-images/) | 来源页预览与封面图库。 |
+| [`review/`](review/) | 容量、静态 PPTX 和专项修整的验收证据。 |
+| [`knowledge-manifest.json`](knowledge-manifest.json) | 供技能校验下载内容的文件哈希清单。 |
+
+知识库模板和品牌素材仍处于 `draft_pending_review`。授权说明见[技能仓库的 LICENSE](https://github.com/camillechi2018/Epoint-Presentaion/blob/main/LICENSE)；本仓库公开可读不表示获得再分发或商用授权。
