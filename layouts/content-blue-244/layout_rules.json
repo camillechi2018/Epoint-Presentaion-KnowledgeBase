@@ -9,5 +9,15 @@
     6
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "中心标题与六个周边领域构成固定六维信息图。"
+  "count_evidence": "中心标题与六个周边领域构成固定六维信息图。",
+  "quick_long_copy_audit": {
+    "status": "expanded_copy_overflow",
+    "review": "review/body-longcopy-fast-qa.json",
+    "scope": "editable_narrative_fields_or_explanatory_label_only",
+    "registered_capacity_fit": true,
+    "expanded_copy_fit": false,
+    "integrated_fill": true,
+    "visual_signoff": false,
+    "binding_limits_changed": false
+  }
 }

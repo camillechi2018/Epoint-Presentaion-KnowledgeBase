@@ -17,5 +17,15 @@
     "growth_field": "metrics.growth.value",
     "previous_year_key": "previous_year_revenue",
     "unit": "万元"
+  },
+  "quick_long_copy_audit": {
+    "status": "expanded_copy_overflow",
+    "review": "review/body-longcopy-fast-qa.json",
+    "scope": "editable_narrative_fields_or_explanatory_label_only",
+    "registered_capacity_fit": true,
+    "expanded_copy_fit": false,
+    "integrated_fill": false,
+    "visual_signoff": false,
+    "binding_limits_changed": false
   }
 }

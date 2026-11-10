@@ -9,5 +9,15 @@
     3
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "顶部三目标与下方三列说明绑定，固定三阶段；底部总结对应各阶段。"
+  "count_evidence": "顶部三目标与下方三列说明绑定，固定三阶段；底部总结对应各阶段。",
+  "quick_long_copy_audit": {
+    "status": "expanded_copy_overflow",
+    "review": "review/body-longcopy-fast-qa.json",
+    "scope": "editable_narrative_fields_or_explanatory_label_only",
+    "registered_capacity_fit": true,
+    "expanded_copy_fit": false,
+    "integrated_fill": true,
+    "visual_signoff": false,
+    "binding_limits_changed": false
+  }
 }

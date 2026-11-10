@@ -9,5 +9,15 @@
     6
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "月份标签固定一月至六月；上下交错的六组内容对应六个月。"
+  "count_evidence": "月份标签固定一月至六月；上下交错的六组内容对应六个月。",
+  "quick_long_copy_audit": {
+    "status": "expanded_copy_overflow",
+    "review": "review/body-longcopy-fast-qa.json",
+    "scope": "editable_narrative_fields_or_explanatory_label_only",
+    "registered_capacity_fit": true,
+    "expanded_copy_fit": false,
+    "integrated_fill": true,
+    "visual_signoff": false,
+    "binding_limits_changed": false
+  }
 }

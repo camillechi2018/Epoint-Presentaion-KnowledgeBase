@@ -9,5 +9,15 @@
     4
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "四列主题，每列上下两个亮点卡；固定四领域、每领域两例。"
+  "count_evidence": "四列主题，每列上下两个亮点卡；固定四领域、每领域两例。",
+  "quick_long_copy_audit": {
+    "status": "pressure_pass_pending_visual",
+    "review": "review/body-longcopy-fast-qa.json",
+    "scope": "editable_narrative_fields_or_explanatory_label_only",
+    "registered_capacity_fit": true,
+    "expanded_copy_fit": true,
+    "integrated_fill": true,
+    "visual_signoff": false,
+    "binding_limits_changed": false
+  }
 }

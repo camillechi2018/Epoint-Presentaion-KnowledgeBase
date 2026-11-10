@@ -9,5 +9,15 @@
     5
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "五列上方主题与上下两行改变、成效对应，固定五方向。"
+  "count_evidence": "五列上方主题与上下两行改变、成效对应，固定五方向。",
+  "quick_long_copy_audit": {
+    "status": "expanded_copy_overflow",
+    "review": "review/body-longcopy-fast-qa.json",
+    "scope": "editable_narrative_fields_or_explanatory_label_only",
+    "registered_capacity_fit": true,
+    "expanded_copy_fit": false,
+    "integrated_fill": true,
+    "visual_signoff": false,
+    "binding_limits_changed": false
+  }
 }

@@ -15,5 +15,15 @@
     "semantic_roles": [
       "body"
     ]
+  },
+  "quick_long_copy_audit": {
+    "status": "pressure_pass_pending_visual",
+    "review": "review/body-longcopy-fast-qa.json",
+    "scope": "editable_narrative_fields_or_explanatory_label_only",
+    "registered_capacity_fit": true,
+    "expanded_copy_fit": true,
+    "integrated_fill": true,
+    "visual_signoff": false,
+    "binding_limits_changed": false
   }
 }

@@ -23,5 +23,15 @@
         "107": "202020"
       }
     }
+  },
+  "quick_long_copy_audit": {
+    "status": "registered_limit_overflow",
+    "review": "review/body-longcopy-fast-qa.json",
+    "scope": "editable_narrative_fields_or_explanatory_label_only",
+    "registered_capacity_fit": false,
+    "expanded_copy_fit": false,
+    "integrated_fill": true,
+    "visual_signoff": false,
+    "binding_limits_changed": false
   }
 }

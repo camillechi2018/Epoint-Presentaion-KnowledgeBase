@@ -9,5 +9,15 @@
     6
   ],
   "validation_status": "verified_fixed_count",
-  "count_evidence": "环形六个数字与左右六组说明固定对应。"
+  "count_evidence": "环形六个数字与左右六组说明固定对应。",
+  "quick_long_copy_audit": {
+    "status": "expanded_copy_overflow",
+    "review": "review/body-longcopy-fast-qa.json",
+    "scope": "editable_narrative_fields_or_explanatory_label_only",
+    "registered_capacity_fit": true,
+    "expanded_copy_fit": false,
+    "integrated_fill": true,
+    "visual_signoff": false,
+    "binding_limits_changed": false
+  }
 }
