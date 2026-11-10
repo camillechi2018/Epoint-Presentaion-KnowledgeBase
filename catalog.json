@@ -8279,8 +8279,27 @@
       "search_label": "四领域双亮点展示",
       "matching_policy": "structural",
       "structure_type": "ordered-steps",
-      "matching_activation": "classified_pending_trial",
-      "visual_invariant": "横向箭头把四列亮点组织为推进过程；上下两个说明槽均需真实材料，不能补造"
+      "matching_activation": "pilot_verified",
+      "visual_invariant": "横向箭头把四列亮点组织为推进过程；上下两个说明槽均需真实材料，不能补造",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "ordered-steps",
+        "content_types": [
+          "stage_matrix"
+        ],
+        "verified_counts": [
+          4
+        ],
+        "item_fields": [
+          "title",
+          "label"
+        ],
+        "input_schema": "stage_matrix.v1",
+        "compatible_relations": [
+          "process"
+        ],
+        "required_order": "left_to_right"
+      }
     },
     {
       "id": "content-blue-181",
@@ -16525,7 +16544,28 @@
       "matching_avoid": "两个普通并列事项或缺阶段支撑要素",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "content_types": [
+          "two_phase_plan"
+        ],
+        "verified_counts": [
+          2
+        ],
+        "item_fields": [
+          "title"
+        ],
+        "input_schema": "two_phase_plan.v1",
+        "compatible_relations": [
+          "process"
+        ],
+        "required_order": "left_to_right",
+        "required_content_fields": [
+          "summary"
+        ]
+      }
     },
     {
       "id": "content-tech-029",
