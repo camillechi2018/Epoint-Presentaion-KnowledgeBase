@@ -12297,7 +12297,29 @@
       "search_label": "六步闭环流程 六个环形节点固定对应六组标题与正文。 6项 固定项数",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "content_types": [
+          "cycle"
+        ],
+        "verified_counts": [
+          6
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "cycle.v1",
+        "compatible_relations": [
+          "cycle"
+        ],
+        "required_order": "clockwise",
+        "required_content_fields": [
+          "center_title"
+        ]
+      }
     },
     {
       "id": "content-blue-262",
@@ -12554,7 +12576,26 @@
       "search_label": "六阶段方形闭环 六阶段方形闭环，步骤数字固定，按实际流向绑定。 6项 固定项数",
       "matching_policy": "structural",
       "structure_type": "process",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "process",
+        "content_types": [
+          "process"
+        ],
+        "verified_counts": [
+          6
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "process.v1",
+        "compatible_relations": [
+          "process"
+        ],
+        "required_order": "serpentine"
+      }
     },
     {
       "id": "content-blue-267",
@@ -15965,7 +16006,29 @@
       "matching_avoid": "仅有五条平铺要点或缺少中心目标",
       "matching_policy": "structural",
       "structure_type": "hierarchy",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "content_types": [
+          "framework"
+        ],
+        "verified_counts": [
+          5
+        ],
+        "item_fields": [
+          "title",
+          "body"
+        ],
+        "input_schema": "framework.v1",
+        "compatible_relations": [
+          "framework"
+        ],
+        "required_content_fields": [
+          "summary",
+          "unit"
+        ]
+      }
     },
     {
       "id": "content-tech-017",
@@ -16074,7 +16137,30 @@
       "matching_avoid": "仅有三条并列事项或缺两侧保障条件",
       "matching_policy": "structural",
       "structure_type": "hierarchy",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "hierarchy",
+        "content_types": [
+          "hierarchy"
+        ],
+        "verified_counts": [
+          3
+        ],
+        "item_fields": [
+          "body"
+        ],
+        "input_schema": "hierarchy.v1",
+        "compatible_relations": [
+          "framework"
+        ],
+        "required_order": "bottom_to_top",
+        "required_content_fields": [
+          "summary",
+          "left_support",
+          "right_support"
+        ]
+      }
     },
     {
       "id": "content-tech-019",
@@ -19077,7 +19163,33 @@
       "matching_avoid": "缺负责人、时段不足六个或没有活动日程",
       "matching_policy": "structural",
       "structure_type": "schedule",
-      "matching_activation": "classified_pending_trial"
+      "matching_activation": "pilot_verified",
+      "matching_contract": {
+        "policy": "structural",
+        "structure_type": "schedule",
+        "content_types": [
+          "schedule"
+        ],
+        "verified_counts": [
+          6
+        ],
+        "item_fields": [
+          "time",
+          "activity",
+          "owner"
+        ],
+        "input_schema": "schedule.v1",
+        "compatible_relations": [
+          "timeline"
+        ],
+        "required_content_fields": [
+          "summary",
+          "column_labels.time",
+          "column_labels.activity",
+          "column_labels.owner"
+        ],
+        "required_order": "chronological"
+      }
     },
     {
       "id": "data-chart-tech-070",

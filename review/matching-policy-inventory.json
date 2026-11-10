@@ -8005,8 +8005,8 @@
       "structure_type": "process",
       "source_relation": "six-step-closed-loop",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "通用非源业务内容，蓝红或科技版实际 PowerPoint 渲染；仅固定项数短文案。",
       "required_semantic_paths": [
         "center.title",
         "steps[1].body",
@@ -8102,7 +8102,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": "layouts/content-blue-261/bindings-red.json",
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-remaining59-first-2026-11-10.md"
+      ]
     },
     {
       "id": "content-blue-262",
@@ -8530,8 +8532,8 @@
       "structure_type": "process",
       "source_relation": "six-stage-square-loop",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "通用非源业务内容，蓝红或科技版实际 PowerPoint 渲染；仅固定项数短文案。",
       "required_semantic_paths": [
         "page.title",
         "steps[0].heading",
@@ -8621,7 +8623,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": "layouts/content-blue-266/bindings-red.json",
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-remaining59-first-2026-11-10.md"
+      ]
     },
     {
       "id": "content-blue-267",
@@ -9086,8 +9090,8 @@
       "structure_type": "hierarchy",
       "source_relation": "hierarchy",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "非原稿业务试填；固定项数、短文案、实际 PowerPoint 渲染。",
       "required_semantic_paths": [
         "item_3.label",
         "item_4.label",
@@ -9181,7 +9185,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-remaining59-second-2026-11-10.md"
+      ]
     },
     {
       "id": "content-tech-017",
@@ -9306,8 +9312,8 @@
       "structure_type": "hierarchy",
       "source_relation": "hierarchy",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "通用非源业务内容，蓝红或科技版实际 PowerPoint 渲染；仅固定项数短文案。",
       "required_semantic_paths": [
         "tier_1.body",
         "tier_2.body",
@@ -9361,7 +9367,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-remaining59-first-2026-11-10.md"
+      ]
     },
     {
       "id": "content-tech-019",
@@ -12646,8 +12654,8 @@
       "structure_type": "schedule",
       "source_relation": "schedule",
       "invariant": null,
-      "activation": "classified_pending_trial",
-      "review_scope": "基于现有目录、字段和来源标签完成初步分类；图形不变量、通用输入试填及人工视觉复核待完成",
+      "activation": "pilot_verified",
+      "review_scope": "非原稿业务试填；固定项数、短文案、实际 PowerPoint 渲染。",
       "required_semantic_paths": [
         "table.time_heading",
         "table.activity_heading",
@@ -12797,7 +12805,9 @@
       "media_status": "unreviewed",
       "long_copy_review_status": null,
       "red_bindings": null,
-      "visual_evidence": []
+      "visual_evidence": [
+        "review/structural-remaining59-second-2026-11-10.md"
+      ]
     },
     {
       "id": "data-chart-tech-071",
