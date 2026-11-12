@@ -1,6 +1,8 @@
 # Epoint Presentation 知识库
 
-这是供 [Epoint Presentation 技能](https://github.com/camillechi2018/Epoint-Presentaion)调用的结构化 PPT 模板知识库。仓库保存可编辑来源页、组件字段与容量规则、主题资料和验收记录。技能按内容关系筛选组件，再试填、渲染；是否进入自动选稿，以当前记录的主题、页面职责、验收状态、项数及字段容量共同判断。
+这是供 [Epoint Presentation 技能](https://github.com/camillechi2018/Epoint-Presentation)调用的结构化 PPT 模板知识库。仓库保存可编辑来源页、组件字段与容量规则、主题资料和验收记录。普通正文组件优先按结构、字段与容量匹配；专用组件保留严格语义或数据契约检查。是否进入自动选稿，以当前记录的主题、页面职责、验收状态、项数及字段容量共同判断。
+
+**当前知识库发布版本：v1.0.2。** [查看本次发布](https://github.com/camillechi2018/Epoint-Presentation-KnowledgeBase/releases/tag/v1.0.2) · [查看配套技能 v1.0.31](https://github.com/camillechi2018/Epoint-Presentation/releases/tag/v1.0.31)。发布标签是仓库快照，不改变下述组件验收状态或清单内部版本。
 
 > 资产状态：`draft_pending_review`。使用草稿组件须显式允许并进行人工审阅；预览图不代表该组件的所有能力均已验收。
 
@@ -39,12 +41,12 @@
 
 ## 内容如何匹配组件
 
-1. 先选整套风格与页面职责。封面、目录、章节页、封底严格按角色匹配；正文按已验收的信息关系检索。
+1. 先选整套风格与页面职责。封面、目录、章节页、封底严格按角色匹配；普通正文按已验收的结构与信息关系检索，不以原稿的业务名称锁定用途。
 2. 从 [`catalog.json`](catalog.json)、[`relation-taxonomy.json`](relation-taxonomy.json) 和组件规则检查主题、分类、PPTX 支持、媒体、原生项数与 `verified_counts`。`search_label` 只用于排序。
-3. 按 `bindings.json` 检查语义字段、字数、行数、行宽并试填。不能删空固定项数，也不能借模板示例内容补业务事实。
+3. 按 `bindings.json` 检查字段路径、字数、行数、行宽并试填；严格语义和数据组件另检查专用契约。不能删空固定项数，也不能借模板示例内容补业务事实。
 4. 在 PowerPoint 中检查文字边界、图片、Logo、颜色及整稿节奏。候选命中和程序试填成功仍需最终视觉复核。
 
-正文无合适组件时，由[技能](https://github.com/camillechi2018/Epoint-Presentaion)按同一风格使用内置排版规则或受约束的自由编排，并单独记录页面来源。
+正文无合适组件时，由[技能](https://github.com/camillechi2018/Epoint-Presentation)按同一风格使用内置排版规则或受约束的自由编排，并单独记录页面来源。
 
 ## 长文案与变项数
 
@@ -74,4 +76,4 @@
 | [`review/`](review/) | 容量、静态 PPTX 和专项修整的验收证据。 |
 | [`knowledge-manifest.json`](knowledge-manifest.json) | 供技能校验下载内容的文件哈希清单。 |
 
-知识库模板和品牌素材仍处于 `draft_pending_review`。本仓库的授权范围见 [LICENSE](LICENSE)；公开可读不表示获得再分发或商用授权。配套技能另见[技能仓库的 LICENSE](https://github.com/camillechi2018/Epoint-Presentaion/blob/main/LICENSE)。
+知识库模板和品牌素材仍处于 `draft_pending_review`。本仓库的授权范围见 [LICENSE](LICENSE)；公开可读不表示获得再分发或商用授权。配套技能另见[技能仓库的 LICENSE](https://github.com/camillechi2018/Epoint-Presentation/blob/main/LICENSE)。
