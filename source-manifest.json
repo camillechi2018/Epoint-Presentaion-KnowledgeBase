@@ -13,7 +13,9 @@
     },
     "cover": {
       "filename": "20页封面（比例16-9）.pptx",
-      "sha256": "598b334f9c13fd70ab9b2a202c4251ed67d326808460b468ea713f40c581bc7f",
+      "sha256": "779be280fb6a2150c2d8c20d8dac43b4fa2b1f3605b863de8c8c7adb89fc9671",
+      "original_sha256": "598b334f9c13fd70ab9b2a202c4251ed67d326808460b468ea713f40c581bc7f",
+      "normalization": "removed_embedded_font_payloads",
       "page_count": 20
     },
     "tech": {
