@@ -33,8 +33,8 @@
   "gradients_svg_charts": "per-object mapping pending",
   "free_composition_status": "source_derived_draft",
   "free_composition_roles": {
-    "canvas": "05193A",
-    "surface": "031634",
+    "canvas": "031634",
+    "surface": "05193A",
     "text": "FFFFFF",
     "muted": "D4DBE4",
     "primary": "0F96FF",
