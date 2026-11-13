@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "version": "1.0.0-draft",
   "status": "draft_pending_review",
-  "file_count": 3443,
+  "file_count": 3446,
   "files": {
     ".gitattributes": "56fad65da29e1b7d7ccee0f3f6cadfe2955c8218ce04a1c9f67a0efd2b9d4be1",
     ".gitignore": "01f797f0f3bba220a65d704559a3adb2beaecf1ab31b60cdd61b163b5c3a02f1",
@@ -680,8 +680,8 @@
     "layouts/content-blue-111/layout_rules.json": "d273fe9c342dc5e5a941acd888f1589a939ddf4c4a7c2ca6b848d85b93dbb3c4",
     "layouts/content-blue-111/motion.json": "80fc50656a56a57712bcb8431b1b714f126980e0362c33b1fd5421727516dee8",
     "layouts/content-blue-111/spec.md": "69abc446ff616115fc038f6bc4600cf0e5b78f8a9ece18b564d393e6ca91c391",
-    "layouts/content-blue-112/bindings-red.json": "f25f0ea9062e4c095644ebd6bed9acf390837941e4402df0eef3452c16b890ce",
-    "layouts/content-blue-112/bindings.json": "3e330a938c79e82504a1d344d5cbf694f8691a73feed6e38359b57da4c2a5b38",
+    "layouts/content-blue-112/bindings-red.json": "70145b764a0efbf60cf219eeb43447b0576ea98b5324c5aec5e6b85f2ef82911",
+    "layouts/content-blue-112/bindings.json": "c6a98400685e733ea5e640faec28867237aeb76d59043a2f0706726cc8afebc4",
     "layouts/content-blue-112/layout_rules.json": "207e7328ca89c96f27fdcda391850d554fd906a5ff6690bd93ae1fe54183bfef",
     "layouts/content-blue-112/motion.json": "80fc50656a56a57712bcb8431b1b714f126980e0362c33b1fd5421727516dee8",
     "layouts/content-blue-112/ready-blue.png": "30947ce0424ee95d45cd9f646f209b1157bef11d718a697075f70b2a6ab216d8",
@@ -3446,6 +3446,9 @@
     "themes/new-template-deep-blue-tech.json": "94b0a8278f1c017f6ac95ca7e1221850013347895303ba860e5ac6db5d1d6555",
     "themes/new-template-green-experimental.json": "293e981c0b58e023f8a4a6c25143e7ade05734e74217db11c3fe03cb568537f3",
     "themes/new-template-red.json": "9f800dcb65abb31eeeee5b05eaf2a21181823301bac0544e339ee4f763f5e138",
-    "typography/deep-blue-tech.json": "90906e79f624a623fd9293abafa1595de004388d3a6f222bf0dc178c4c8cb799"
+    "typography/deep-blue-tech.json": "90906e79f624a623fd9293abafa1595de004388d3a6f222bf0dc178c4c8cb799",
+    "review/content-blue-112-capacity-pilot-2026-11-13.json": "694bdbcab151a67f12c3c822b8769a99c6aabe56ac2e6aefae1a5642268a91d2",
+    "review/content-blue-112-capacity-pilot-blue.png": "66b172dd75b7167fcca6cb722cad557cbb7e822bd37678162c03b2f8ab2f6717",
+    "review/content-blue-112-capacity-pilot-red.png": "c19a37a87aa974b10195f3b68a5ddcdf2ee8d72a84843c721a76621c295dcba8"
   }
 }

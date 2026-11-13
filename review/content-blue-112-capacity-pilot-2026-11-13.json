@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "layout_id": "content-blue-112",
+  "date": "2026-11-13",
+  "status": "single_real_page_visual_pass",
+  "scope": "one four-card company overview page, blue and red native variants",
+  "source_item_lengths": [40, 27, 38, 42],
+  "registered_body_max_chars": [41, 31, 39, 43],
+  "reason_for_one_extra_character": "The two-line capacity preflight inserts one newline into items 0, 2 and 3 before filling.",
+  "max_width_units_changed": false,
+  "source_copy_preserved": true,
+  "checks": [
+    "single-page fill passed for blue and red",
+    "PowerPoint exported both variants to PNG at 1600x900",
+    "PowerPoint text bound heights stayed inside text shape heights",
+    "visual review found no overflow, overlap or missing logo"
+  ],
+  "previews": [
+    "review/content-blue-112-capacity-pilot-blue.png",
+    "review/content-blue-112-capacity-pilot-red.png"
+  ],
+  "limitations": [
+    "This evidence covers only the tested page and the recorded text lengths.",
+    "Other content still requires the normal per-field capacity check and final deck review."
+  ]
+}
